@@ -1,0 +1,16 @@
+**ECON 110B**: Short Run Macroeconomics (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at TM102 1 by staff
+- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at TM102 1 by staff
+- **A01** (Discussion) at 12:00 pm–12:50 pm on Wednesday at SOLIS 110 by staff
+- **B00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at TM102 1 by staff
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Tuesday at TM102 1 by staff
+- **B01** (Discussion) at 1:00 pm–1:50 pm on Wednesday at SOLIS 110 by staff
+- **C00** (Lecture) at 12:00 pm–12:50 pm on Monday, Wednesday, Friday at CENTR 212 by Candido, Maria Teresa (A00877412)
+- **C00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at CENTR 212 by Candido, Maria Teresa (A00877412)
+- **C00** (Midterm) at 6:30 pm–7:50 pm on Wednesday at MOS 0113 by Candido, Maria Teresa (A00877412)
+- **C00** (Midterm) at 6:30 pm–7:50 pm on Wednesday at MOS 0113 by Candido, Maria Teresa (A00877412)
+- **C01** (Discussion) at 3:00 pm–3:50 pm on Monday at PETER 104 by Candido, Maria Teresa (A00877412)
+- **C02** (Discussion) at 4:00 pm–4:50 pm on Monday at PETER 104 by Candido, Maria Teresa (A00877412)
+
+[Enrollment numbers over time](./ECON110B.tsv)

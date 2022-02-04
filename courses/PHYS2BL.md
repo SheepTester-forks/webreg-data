@@ -1,0 +1,17 @@
+**PHYS 2BL**: Physics Laboratory-Mechanics (2 units)
+
+- **A00** (Lecture) at 12:00 pm–12:50 pm on Monday at CTL 0125 by Butov, Leonid (A05749484)
+- **A01** (Lab) at 8:00 am–10:50 am on Tuesday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A02** (Lab) at 11:00 am–1:50 pm on Tuesday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A03** (Lab) at 2:00 pm–4:50 pm on Tuesday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A04** (Lab) at 10:00 am–12:50 pm on Wednesday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A05** (Lab) at 1:00 pm–3:50 pm on Wednesday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A06** (Lab) at 4:00 pm–6:50 pm on Wednesday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A07** (Lab) at 8:00 am–10:50 am on Thursday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A08** (Lab) at 11:00 am–1:50 pm on Thursday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A09** (Lab) at 2:00 pm–4:50 pm on Thursday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A10** (Lab) at 10:00 am–12:50 pm on Friday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A11** (Lab) at 1:00 pm–3:50 pm on Friday at MYR-A 2722 by Butov, Leonid (A05749484)
+- **A12** (Lab) at 4:00 pm–6:50 pm on Friday at MYR-A 2722 by Butov, Leonid (A05749484)
+
+[Enrollment numbers over time](./PHYS2BL.tsv)

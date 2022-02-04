@@ -1,0 +1,5 @@
+**ETHN 137**: Latina Issues & Cultural Prod. (4 units)
+
+- **A00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at RCLAS R66 by Gavin, Camila Andrea (A10295809)
+
+[Enrollment numbers over time](./ETHN137.tsv)

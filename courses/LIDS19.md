@@ -1,0 +1,16 @@
+**LIDS 19**: Directed Study-Language (2–4 units, by 2)
+
+- **001** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **002** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **003** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **004** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **005** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **006** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **007** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **008** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **009** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **010** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **011** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+- **012** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by Goodall, Grant Todd (A01546486)
+
+[Enrollment numbers over time](./LIDS19.tsv)

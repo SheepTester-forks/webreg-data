@@ -1,0 +1,16 @@
+**ECON 1**: Principles of Microeconomics (4 units)
+
+- **A00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday, Friday at CSB 001 by Candido, Maria Teresa (A00877412)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at SOLIS 107 by Candido, Maria Teresa (A00877412)
+- **A00** (Midterm) at 6:30 pm–7:50 pm on Thursday at MOS 0113 by Candido, Maria Teresa (A00877412)
+- **A00** (Midterm) at 6:30 pm–7:50 pm on Thursday at MOS 0113 by Candido, Maria Teresa (A00877412)
+- **A01** (Discussion) at 12:00 pm–12:50 pm on Wednesday at MOS 0204 by Candido, Maria Teresa (A00877412)
+- **A02** (Discussion) at 2:00 pm–2:50 pm on Wednesday at SOLIS 110 by Candido, Maria Teresa (A00877412)
+- **B00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at CSB 001 by Candido, Maria Teresa (A00877412)
+- **B00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at SOLIS 104 by Candido, Maria Teresa (A00877412)
+- **B00** (Midterm) at 6:30 pm–7:50 pm on Thursday at MOS 0114 by Candido, Maria Teresa (A00877412)
+- **B00** (Midterm) at 6:30 pm–7:50 pm on Thursday at MOS 0114 by Candido, Maria Teresa (A00877412)
+- **B01** (Discussion) at 1:00 pm–1:50 pm on Wednesday at MOS 0204 by Candido, Maria Teresa (A00877412)
+- **B02** (Discussion) at 3:00 pm–3:50 pm on Wednesday at SOLIS 110 by Candido, Maria Teresa (A00877412)
+
+[Enrollment numbers over time](./ECON1.tsv)

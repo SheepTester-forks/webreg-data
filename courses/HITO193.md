@@ -1,0 +1,5 @@
+**HITO 193**: Research Seminar/Washington DC (4 units)
+
+- **A00** (Seminar) at 12:00 am–12:00 am on Sunday (location TBA) by Hill, Seth J (A11073643)
+
+[Enrollment numbers over time](./HITO193.tsv)

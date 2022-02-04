@@ -1,0 +1,8 @@
+**GLBH 111**: Health Frontiers in Tijuana (4 units)
+
+- **A00** (Seminar) at 1:00 pm–2:50 pm on Monday at   by Burgos, Jose L. (A11103403)
+- **A01** (Fieldwork) at 12:00 am–12:00 am on Sunday (location TBA) by Burgos, Jose L. (A11103403)
+- **B00** (Seminar) at 9:00 am–10:50 am on Friday at   by Burgos, Jose L. (A11103403)
+- **B01** (Fieldwork) at 12:00 am–12:00 am on Sunday (location TBA) by Burgos, Jose L. (A11103403)
+
+[Enrollment numbers over time](./GLBH111.tsv)

@@ -1,0 +1,16 @@
+**MAE 156B**: Fund. Prin/Mechanical Desgn II (4 units)
+
+- **A00** (Lecture) at 3:00 pm–4:50 pm on Tuesday, Thursday at EBU2 479 by Delson, Nathan Joseph (A01305024)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at   by Delson, Nathan Joseph (A01305024)
+- **A01** (Lab) at 5:00 pm–5:50 pm on Tuesday, Thursday at EBU2 479 by Delson, Nathan Joseph (A01305024)
+- **B00** (Lecture) at 4:00 pm–5:50 pm on Tuesday, Thursday at EBU2 584 by staff
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at   by staff
+- **B01** (Lab) at 6:00 pm–6:50 pm on Tuesday, Thursday at EBU2 584 by staff
+- **C00** (Lecture) at 3:00 pm–4:50 pm on Monday, Wednesday at EBU2 584 by Tustaniwskyj, Jerry I (A00953906)
+- **C00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at   by Tustaniwskyj, Jerry I (A00953906)
+- **C01** (Lab) at 5:00 pm–5:50 pm on Monday, Wednesday at EBU2 584 by Tustaniwskyj, Jerry I (A00953906)
+- **D00** (Lecture) at 3:00 pm–4:50 pm on Tuesday, Thursday at EBU2 105 by Ghazinejad, Maziar (A15756228)
+- **D00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at   by Ghazinejad, Maziar (A15756228)
+- **D01** (Lab) at 5:00 pm–5:50 pm on Tuesday, Thursday at EBU2 105 by Ghazinejad, Maziar (A15756228)
+
+[Enrollment numbers over time](./MAE156B.tsv)

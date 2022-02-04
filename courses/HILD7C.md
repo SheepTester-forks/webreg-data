@@ -1,0 +1,18 @@
+**HILD 7C**: Race & Ethnicity/United States (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at JEANN AUD by Alvarez, Luis A (A00457224)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at JEANN AUD by Alvarez, Luis A (A00457224)
+- **A01** (Discussion) at 8:00 am–8:50 am on Monday at CENTR 217B by Alvarez, Luis A (A00457224)
+- **A02** (Discussion) at 9:00 am–9:50 am on Monday at CENTR 217B by Alvarez, Luis A (A00457224)
+- **A03** (Discussion) at 10:00 am–10:50 am on Monday at CENTR 217A by Alvarez, Luis A (A00457224)
+- **A04** (Discussion) at 11:00 am–11:50 am on Monday at CENTR 217A by Alvarez, Luis A (A00457224)
+- **A05** (Discussion) at 12:00 pm–12:50 pm on Wednesday at APM 2301 by Alvarez, Luis A (A00457224)
+- **A06** (Discussion) at 1:00 pm–1:50 pm on Wednesday at APM 2301 by Alvarez, Luis A (A00457224)
+- **A07** (Discussion) at 2:00 pm–2:50 pm on Wednesday at APM 2301 by Alvarez, Luis A (A00457224)
+- **A08** (Discussion) at 3:00 pm–3:50 pm on Wednesday at APM 2301 by Alvarez, Luis A (A00457224)
+- **A09** (Discussion) at 9:00 am–9:50 am on Friday at HSS 1128A by Alvarez, Luis A (A00457224)
+- **A10** (Discussion) at 10:00 am–10:50 am on Friday at HSS 1128A by Alvarez, Luis A (A00457224)
+- **A11** (Discussion) at 5:00 pm–5:50 pm on Friday at SOLIS 109 by Alvarez, Luis A (A00457224)
+- **A12** (Discussion) at 6:00 pm–6:50 pm on Friday at SOLIS 109 by Alvarez, Luis A (A00457224)
+
+[Enrollment numbers over time](./HILD7C.tsv)

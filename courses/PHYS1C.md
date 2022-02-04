@@ -1,0 +1,10 @@
+**PHYS 1C**: Waves, Optics & Modern Physics (3 units)
+
+- **A00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at GH 242 by Koslover, Elena F (A14294894)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Friday at GH 242 by Koslover, Elena F (A14294894)
+- **B00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday, Friday at YORK 2722 by Tytler, David Robert (A01603233)
+- **B00** (Final Exam) at 8:00 am–10:59 am on Monday at YORK 2722 by Tytler, David Robert (A01603233)
+- **C00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at YORK 2722 by Coil, Alison (A09126639)
+- **C00** (Final Exam) at 11:30 am–2:29 pm on Thursday at YORK 2722 by Coil, Alison (A09126639)
+
+[Enrollment numbers over time](./PHYS1C.tsv)
