@@ -6,5 +6,6 @@
 - **004** (Independent Study) (time and location TBA) by staff
 - **005** (Independent Study) (time and location TBA) by Goldman, Harvey Stern (A01804042)
 - **006** (Independent Study) (time and location TBA) by Pitt, Richard Norris (A16637576)
+- **007** (Independent Study) (time and location TBA) by Ng, Kwai (A06322556)
 
 [Enrollment numbers over time](./SOCG500.tsv)

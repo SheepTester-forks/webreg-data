@@ -37,5 +37,12 @@
 - **035** (Independent Study) (time and location TBA) by Gorman, Michael R. (A02752636)
 - **036** (Independent Study) (time and location TBA) by Powell, Lindsey Jane (A16183397)
 - **037** (Independent Study) (time and location TBA) by Willis, Jarryd Thomas (A13252861)
+- **038** (Independent Study) (time and location TBA) by Colvonen, Peter (A15357231)
+- **039** (Independent Study) (time and location TBA) by Smith, Pamela Karen (A09683270)
+- **040** (Independent Study) (time and location TBA) by Lang, Ariel (A03949171)
+- **041** (Independent Study) (time and location TBA) by Gremel, Christina M (A13230790)
+- **042** (Independent Study) (time and location TBA) by Gollan, Tamar (A05089588)
+- **043** (Independent Study) (time and location TBA) by Tapert, Susan Frances (A01104294)
+- **044** (Independent Study) (time and location TBA) by Carver, Leslie J. (A04508259)
 
 [Enrollment numbers over time](./PSYC199.tsv)

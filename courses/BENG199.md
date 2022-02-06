@@ -28,5 +28,6 @@
 - **026** (Independent Study) (time and location TBA) by Valdez-Jasso, Daniela (A15367887)
 - **027** (Independent Study) (time and location TBA) by Jung, Tzyy-Ping (A10405523)
 - **028** (Independent Study) (time and location TBA) by Ren, Bing (A05088628)
+- **029** (Independent Study) (time and location TBA) by Alexandrov, Ludmil B (A15367164)
 
 [Enrollment numbers over time](./BENG199.tsv)

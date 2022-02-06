@@ -29,11 +29,11 @@
 - **C01** (Discussion) at 7:00 pm–7:50 pm on Tuesday at WLH 2206 by Molinski, Tadeusz (A06908737)
 - **C02** (Discussion) at 8:00 pm–8:50 pm on Tuesday at WLH 2206 by Molinski, Tadeusz (A06908737)
 - **C03** (Discussion) at 7:00 pm–7:50 pm on Wednesday at WLH 2206 by Molinski, Tadeusz (A06908737)
-- **C04** (Discussion) at 8:00 pm–8:50 pm on Wednesday at WLH 2206 by Molinski, Tadeusz (A06908737)
+- **C04** (Discussion) (time and location TBA) by staff
 - **C05** (Discussion) at 3:00 pm–3:50 pm on Friday at WLH 2115 by Molinski, Tadeusz (A06908737)
 - **C06** (Discussion) at 4:00 pm–4:50 pm on Friday at WLH 2115 by Molinski, Tadeusz (A06908737)
 - **C07** (Discussion) at 5:00 pm–5:50 pm on Friday at WLH 2115 by Molinski, Tadeusz (A06908737)
-- **C08** (Discussion) at 6:00 pm–6:50 pm on Friday at WLH 2115 by Molinski, Tadeusz (A06908737)
-- **C09** (Discussion) at 7:00 pm–7:50 pm on Friday at WLH 2115 by Molinski, Tadeusz (A06908737)
+- **C08** (Discussion) (time and location TBA) by staff
+- **C09** (Discussion) (time and location TBA) by staff
 
 [Enrollment numbers over time](./CHEM40B.tsv)

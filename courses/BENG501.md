@@ -10,5 +10,6 @@
 - **008** (Lecture) (time and location TBA) by Schmid-Schoenbein, Geert W (A01726530)
 - **009** (Lecture) (time and location TBA) by Engler, Adam J. (A08630863)
 - **010** (Lecture) (time and location TBA) by Mc Culloch, Andrew Douglas (A01947411)
+- **011** (Lecture) (time and location TBA) by Wang, Yingxiao (A00379914)
 
 [Enrollment numbers over time](./BENG501.tsv)

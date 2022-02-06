@@ -1,7 +1,7 @@
 **ECE 35**: Introduction to Analog Design (4 units)
 
-- **A00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at PCYNH 109 by Schurgers, Curt (A05740011)
-- **A00** (Final Exam) at 11:30 am–2:29 pm on Friday at PCYNH 109 by Schurgers, Curt (A05740011)
+- **A00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at MOS 0114 by Schurgers, Curt (A05740011)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Friday at MOS 0114 by Schurgers, Curt (A05740011)
 - **A01** (Discussion) at 4:00 pm–4:50 pm on Wednesday at CENTR 214 by Schurgers, Curt (A05740011)
 - **A02** (Discussion) at 12:00 pm–12:50 pm on Friday at CENTR 214 by Schurgers, Curt (A05740011)
 - **A50** (Lab) at 12:00 pm–3:00 pm on Tuesday at WLH 2211 by Schurgers, Curt (A05740011)
@@ -10,5 +10,6 @@
 - **A53** (Lab) at 8:30 am–11:30 am on Wednesday at WLH 2211 by Schurgers, Curt (A05740011)
 - **A54** (Lab) at 7:00 pm–10:00 pm on Wednesday at WLH 2211 by Schurgers, Curt (A05740011)
 - **A55** (Lab) at 7:00 pm–10:00 pm on Wednesday at WLH 2215 by Schurgers, Curt (A05740011)
+- **A56** (Lab) at 8:30 am–11:30 am on Tuesday at WLH 2211 by Schurgers, Curt (A05740011)
 
 [Enrollment numbers over time](./ECE35.tsv)

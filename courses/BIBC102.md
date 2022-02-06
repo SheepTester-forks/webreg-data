@@ -14,7 +14,7 @@
 - **B00** (Final Exam) at 8:00 am–10:59 am on Wednesday at CTL 0125 by Feng, Gen-Sheng (A05739124)
 - **B01** (Discussion) at 12:00 pm–12:50 pm on Monday at HSS 1128A by Feng, Gen-Sheng (A05739124)
 - **B02** (Discussion) at 1:00 pm–1:50 pm on Monday at HSS 1128A by Feng, Gen-Sheng (A05739124)
-- **B03** (Discussion) at 8:00 pm–8:50 pm on Monday at WLH 2114 by Feng, Gen-Sheng (A05739124)
+- **B03** (Discussion) (time and location TBA) by staff
 - **B04** (Discussion) at 10:00 am–10:50 am on Monday at U301 122 by Feng, Gen-Sheng (A05739124)
 - **B05** (Discussion) at 4:00 pm–4:50 pm on Wednesday at WLH 2114 by Feng, Gen-Sheng (A05739124)
 - **B06** (Discussion) at 12:00 pm–12:50 pm on Wednesday at U301 122 by Feng, Gen-Sheng (A05739124)

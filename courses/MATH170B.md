@@ -1,7 +1,7 @@
 **MATH 170B**: Intro/Numerical Analy/Approxim (4 units)
 
-- **A00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at CSB 001 by Brust, Johannes Joachim (A95500705)
-- **A00** (Final Exam) at 8:00 am–10:59 am on Wednesday at CSB 001 by Brust, Johannes Joachim (A95500705)
+- **A00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at APM B412 by Brust, Johannes Joachim (A95500705)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Wednesday at APM B412 by Brust, Johannes Joachim (A95500705)
 - **A01** (Discussion) at 7:00 pm–7:50 pm on Tuesday at PCYNH 240 by Brust, Johannes Joachim (A95500705)
 - **A02** (Discussion) (time and location TBA) by staff
 - **A03** (Discussion) (time and location TBA) by staff

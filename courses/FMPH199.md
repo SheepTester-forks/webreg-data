@@ -5,5 +5,8 @@
 - **003** (Independent Study) (time and location TBA) by Rabin, Adrienn Borsika (A13288745)
 - **004** (Independent Study) (time and location TBA) by Larsen, Britta Ann (A06756233)
 - **005** (Independent Study) (time and location TBA) by Groessl, Erik Joseph (A00965950)
+- **006** (Independent Study) (time and location TBA) by Ojeda, Victoria D. (A08621680)
+- **007** (Independent Study) (time and location TBA) by Anderson, Cheryl (A11088374)
+- **008** (Independent Study) (time and location TBA) by Guma, Monica (A11781487)
 
 [Enrollment numbers over time](./FMPH199.tsv)

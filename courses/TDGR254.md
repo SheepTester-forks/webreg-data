@@ -1,6 +1,6 @@
 **TDGR 254**: Television Writing (4 units)
 
 - **A00** (Seminar) (time and location TBA) by staff
-- **B00** (Seminar) at 5:00 pm–7:50 pm on Monday at GH 254 by Finch, Michael S (A11063303)
+- **B00** (Seminar) at 5:00 pm–7:50 pm on Monday at GH 254 by Ciannavei, Andrea (A17258161)
 
 [Enrollment numbers over time](./TDGR254.tsv)

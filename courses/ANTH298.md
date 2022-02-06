@@ -14,5 +14,6 @@
 - **012** (Tutorial) (time and location TBA) by Varma, Saiba (A13242490)
 - **013** (Tutorial) (time and location TBA) by Semendeferi, Ekaterini (A02346892)
 - **014** (Tutorial) (time and location TBA) by Marchetto, Maria Carolina (A15757992)
+- **015** (Tutorial) (time and location TBA) by Yeh, Rihan Wen Xin (A16181841)
 
 [Enrollment numbers over time](./ANTH298.tsv)

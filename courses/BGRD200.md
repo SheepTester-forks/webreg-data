@@ -290,5 +290,6 @@
 - **288** (Seminar) (time and location TBA) by Zanetti, Maurizio (A01205259)
 - **289** (Seminar) (time and location TBA) by Zeidan, Fadel (A15764272)
 - **290** (Seminar) (time and location TBA) by Zengler, Karsten B (A14277367)
+- **291** (Seminar) (time and location TBA) by Boss, Gerard R. (A01359807)
 
 [Enrollment numbers over time](./BGRD200.tsv)

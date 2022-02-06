@@ -36,5 +36,6 @@
 - **034** (Independent Study) (time and location TBA) by Luo, Jian (A11204700)
 - **035** (Independent Study) (time and location TBA) by Kummel, Andrew C (A01139090)
 - **036** (Independent Study) (time and location TBA) by Shah, Nisarg (A15746657)
+- **037** (Independent Study) (time and location TBA) by Graeve, Olivia A (A01074134)
 
 [Enrollment numbers over time](./NANO299.tsv)

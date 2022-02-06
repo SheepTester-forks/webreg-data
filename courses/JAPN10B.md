@@ -6,7 +6,7 @@
 - **A02** (Tutorial) at 9:00 am–9:50 am on Monday, Wednesday, Friday at U301 135 by Sato, Kyoko (A09747969)
 - **B00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at WLH 2206 by Sato, Kyoko (A09747969)
 - **B00** (Final Exam) at 8:00 am–10:59 am on Tuesday at WLH 2206 by Sato, Kyoko (A09747969)
-- **B01** (Tutorial) at 8:00 am–8:50 am on Monday, Wednesday, Friday at MANDE B-146 by Sato, Kyoko (A09747969)
+- **B01** (Tutorial) (time and location TBA) by staff
 - **B02** (Tutorial) at 9:00 am–9:50 am on Monday, Wednesday, Friday at MANDE B-146 by Sato, Kyoko (A09747969)
 - **C00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at HSS 2150 by Maruyama, Rie (A15366990)
 - **C00** (Final Exam) at 8:00 am–10:59 am on Tuesday at HSS 2150 by Maruyama, Rie (A15366990)

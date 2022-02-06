@@ -19,5 +19,6 @@
 - **017** (Independent Study) (time and location TBA) by Vogl, Tom Saul (A16181588)
 - **018** (Independent Study) (time and location TBA) by Jacobsen, Mark (A08083623)
 - **019** (Independent Study) (time and location TBA) by Rondina, Giacomo (A08093855)
+- **020** (Independent Study) (time and location TBA) by Andreoni, James (A07470657)
 
 [Enrollment numbers over time](./ECON299.tsv)

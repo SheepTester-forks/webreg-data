@@ -2,5 +2,6 @@
 
 - **001** (Independent Study) (time and location TBA) by Andrews, Abigail Leslie (A09746224)
 - **002** (Independent Study) (time and location TBA) by Blair-Loy, Mary (A05739906)
+- **003** (Independent Study) (time and location TBA) by Estefan, Michel (A16637568)
 
 [Enrollment numbers over time](./SOCI199.tsv)

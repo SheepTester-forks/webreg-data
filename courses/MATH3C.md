@@ -17,7 +17,7 @@
 - **B00** (Midterm) at 7:00 pm–8:50 pm on Wednesday at   by Hammock, Frances H (A15758938)
 - **B01** (Discussion) at 7:00 pm–7:50 pm on Monday at HSS 2154 by Hammock, Frances H (A15758938)
 - **B02** (Discussion) at 8:00 pm–8:50 pm on Monday at HSS 2154 by Hammock, Frances H (A15758938)
-- **B03** (Discussion) at 9:00 pm–9:50 pm on Monday at HSS 2154 by Hammock, Frances H (A15758938)
+- **B03** (Discussion) (time and location TBA) by staff
 - **B50** (Tutorial) at 11:00 am–11:50 am on Tuesday at   by Hammock, Frances H (A15758938)
 - **B51** (Tutorial) at 12:30 pm–1:20 pm on Tuesday at   by Hammock, Frances H (A15758938)
 - **B52** (Tutorial) at 2:00 pm–2:50 pm on Tuesday at   by Hammock, Frances H (A15758938)

@@ -1,7 +1,7 @@
 **MATH 11**: Calculus-Based Prob & Stats (5 units)
 
-- **A00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at WLH 2005 by Rava, Denise (A53222503)
-- **A00** (Final Exam) at 11:30 am–2:29 pm on Monday at WLH 2005 by Rava, Denise (A53222503)
+- **A00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at MOS 0113 by Rava, Denise (A53222503)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Monday at MOS 0113 by Rava, Denise (A53222503)
 - **A01** (Discussion) at 8:00 am–8:50 am on Tuesday at APM B412 by Rava, Denise (A53222503)
 - **A02** (Discussion) at 9:00 am–9:50 am on Tuesday at APM B412 by Rava, Denise (A53222503)
 - **A03** (Discussion) at 7:00 pm–7:50 pm on Tuesday at HSS 2150 by Rava, Denise (A53222503)

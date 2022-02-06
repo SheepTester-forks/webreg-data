@@ -1,5 +1,5 @@
 **TDGR 211A**: Speech for the Actor (2–4 units, by 1)
 
-- **A00** (Studio) at 10:00 am–11:50 am on Monday, Wednesday at GH 15 by staff
+- **A00** (Studio) at 10:00 am–11:50 am on Monday, Wednesday at GH 15 by Vazquez, Claudia (A17258191)
 
 [Enrollment numbers over time](./TDGR211A.tsv)
