@@ -13,7 +13,7 @@
 - **C01** (Lab) at 9:00 am–9:50 am on Friday at SEQUO 142 by Zhao, Jiannan (A53241031)
 - **D00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday at CENTR 201 by Jamel Edim Falabella, Leonardo (A53243081)
 - **D00** (Final Exam) at 8:00 am–10:59 am on Friday at CENTR 201 by Jamel Edim Falabella, Leonardo (A53243081)
-- **D01** (Lab) (time and location TBA) by Jamel Edim Falabella, Leonardo (A53243081)
-- **D02** (Lab) at 10:00 am–10:50 am on Friday at SEQUO 142 by staff
+- **D01** (Lab) (time and location TBA) by staff
+- **D02** (Lab) at 10:00 am–10:50 am on Friday at SEQUO 142 by Jamel Edim Falabella, Leonardo (A53243081)
 
 [Enrollment numbers over time](./ECON5.tsv)

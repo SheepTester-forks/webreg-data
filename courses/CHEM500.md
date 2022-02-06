@@ -31,5 +31,7 @@
 - **029** (Independent Study) (time and location TBA) by Weizman, Haim (A03200705)
 - **030** (Independent Study) (time and location TBA) by Young, Mark (A14281642)
 - **031** (Independent Study) (time and location TBA) by Yang, Jerry (A05743012)
+- **032** (Independent Study) (time and location TBA) by Nesbit, Mark Allen (A17258157)
+- **033** (Independent Study) (time and location TBA) by Tor, Yitzhak (A01269106)
 
 [Enrollment numbers over time](./CHEM500.tsv)

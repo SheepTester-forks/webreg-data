@@ -4,5 +4,6 @@
 - **002** (Independent Study) (time and location TBA) by Jahed Motlagh, Zeinab (A16714326)
 - **003** (Independent Study) (time and location TBA) by Arefiev, Alexey (A15366670)
 - **004** (Independent Study) (time and location TBA) by Graeve, Olivia A (A01074134)
+- **005** (Independent Study) (time and location TBA) by Kubiak, Clifford Paul (A02773016)
 
 [Enrollment numbers over time](./CENG199.tsv)

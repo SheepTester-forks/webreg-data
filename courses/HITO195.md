@@ -4,5 +4,6 @@
 - **002** (Independent Study) (time and location TBA) by Watts, Edward J. (A11077005)
 - **003** (Independent Study) (time and location TBA) by Lu, Weijing (A05745009)
 - **004** (Independent Study) (time and location TBA) by Plant, Rebecca Jo (A05103903)
+- **005** (Independent Study) (time and location TBA) by Devereux, Andrew W (A15756049)
 
 [Enrollment numbers over time](./HITO195.tsv)

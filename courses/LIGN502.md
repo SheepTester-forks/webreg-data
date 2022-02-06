@@ -11,5 +11,7 @@
 - **009** (Practicum) (time and location TBA) by McIntosh, Justin Daniel (A15373690)
 - **010** (Practicum) (time and location TBA) by Garellek, Marc (A11781746)
 - **011** (Practicum) (time and location TBA) by Bergen, Leon (A15366725)
+- **012** (Practicum) (time and location TBA) by Drake, Emily C (A16182155)
+- **013** (Practicum) (time and location TBA) by Goodall, Grant Todd (A01546486)
 
 [Enrollment numbers over time](./LIGN502.tsv)

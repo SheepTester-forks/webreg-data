@@ -2,5 +2,6 @@
 
 - **001** (Internship) (time and location TBA) by Fleischer, Jason G (A14295669)
 - **002** (Internship) (time and location TBA) by Chiba, Andrea (A02380783)
+- **003** (Internship) (time and location TBA) by Kiyonaga, Anastasia (A16188599)
 
 [Enrollment numbers over time](./COGS197.tsv)

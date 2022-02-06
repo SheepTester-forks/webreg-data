@@ -15,5 +15,6 @@
 - **013** (Independent Study) (time and location TBA) by Xu, Sheng (A13240393)
 - **014** (Independent Study) (time and location TBA) by Yang, Kesong (A11790599)
 - **015** (Independent Study) (time and location TBA) by Zhang, Liangfang (A08611976)
+- **016** (Independent Study) (time and location TBA) by Shah, Nisarg (A15746657)
 
 [Enrollment numbers over time](./CENG299.tsv)

@@ -7,5 +7,7 @@
 - **005** (Independent Study) (time and location TBA) by Fleischer, Jason G (A14295669)
 - **006** (Independent Study) (time and location TBA) by Johnson, Christine M. (A00670451)
 - **007** (Independent Study) (time and location TBA) by Mattar, Marcelo G (A16688714)
+- **008** (Independent Study) (time and location TBA) by Coulson, Seana M (A01915525)
+- **009** (Independent Study) (time and location TBA) by Ellis, Shannon Elizabeth (A15761113)
 
 [Enrollment numbers over time](./COGS199.tsv)

@@ -121,5 +121,6 @@
 - **119** (Independent Study) (time and location TBA) by Fang, Xi (A16710602)
 - **120** (Independent Study) (time and location TBA) by Schlaepfer, David (A08872512)
 - **121** (Independent Study) (time and location TBA) by Wahlin, Karl Jonas (A13311609)
+- **122** (Independent Study) (time and location TBA) by Neal, Sonya E (A05180715)
 
 [Enrollment numbers over time](./BGGN271.tsv)

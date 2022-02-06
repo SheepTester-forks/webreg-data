@@ -47,5 +47,6 @@
 - **045** (Independent Study) (time and location TBA) by Gilja, Vikash (A11788064)
 - **046** (Independent Study) (time and location TBA) by Jernigan, Terry Lynne (A01211284)
 - **047** (Independent Study) (time and location TBA) by Coufal, Nicole Gabriele (A05087039)
+- **048** (Independent Study) (time and location TBA) by Pa, Judy (A17257094)
 
 [Enrollment numbers over time](./NEUG299.tsv)

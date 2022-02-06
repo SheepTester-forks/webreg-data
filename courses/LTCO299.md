@@ -4,5 +4,6 @@
 - **002** (Independent Study) (time and location TBA) by Zhiri, Oumelbanine (A00473620)
 - **003** (Independent Study) (time and location TBA) by Liao, Ping H (A00562354)
 - **004** (Independent Study) (time and location TBA) by staff
+- **005** (Independent Study) (time and location TBA) by Wesling, Megan E. (A06337740)
 
 [Enrollment numbers over time](./LTCO299.tsv)

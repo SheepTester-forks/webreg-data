@@ -18,5 +18,6 @@
 - **016** (Tutorial) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at MCGIL 2322 by Munoz Sanchez, Alicia (A01395510)
 - **017** (Tutorial) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at MCGIL 2330 by Munoz Sanchez, Alicia (A01395510)
 - **018** (Tutorial) at 10:00 am–10:50 am on Monday, Wednesday, Friday at MCGIL 2322 by Munoz Sanchez, Alicia (A01395510)
+- **019** (Tutorial) at 9:00 am–9:50 am on Monday, Wednesday, Friday at MCGIL 2322 by Munoz Sanchez, Alicia (A01395510)
 
 [Enrollment numbers over time](./LISP1C.tsv)

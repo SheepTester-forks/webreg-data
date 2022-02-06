@@ -9,5 +9,13 @@
 - **007** (Independent Study) (time and location TBA) by Fadlon, Yizhak (A14295205)
 - **008** (Independent Study) (time and location TBA) by Rondina, Giacomo (A08093855)
 - **009** (Independent Study) (time and location TBA) by Clemens, Jeffrey (A11071888)
+- **010** (Independent Study) (time and location TBA) by Ma, Xinwei (A16154006)
+- **011** (Independent Study) (time and location TBA) by Vogl, Tom Saul (A16181588)
+- **012** (Independent Study) (time and location TBA) by Andreoni, James (A07470657)
+- **013** (Independent Study) (time and location TBA) by Herreno Lopera, Juan (A17245512)
+- **014** (Independent Study) (time and location TBA) by Galperti, Simone (A11779613)
+- **015** (Independent Study) (time and location TBA) by Trottner, Fabian Gunter We (A16710251)
+- **016** (Independent Study) (time and location TBA) by Alon, Titan Michael (A16182143)
+- **017** (Independent Study) (time and location TBA) by Samek, Anya (A16710848)
 
 [Enrollment numbers over time](./ECON297.tsv)

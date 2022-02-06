@@ -15,5 +15,9 @@
 - **013** (Independent Study) (time and location TBA) by Trevino, Isabel (A12509732)
 - **014** (Independent Study) (time and location TBA) by Muralidharan, Karthik (A08617409)
 - **015** (Independent Study) (time and location TBA) by Bowen, T. Renee (A15366604)
+- **016** (Independent Study) (time and location TBA) by Toda, Alexis Akira (A11779718)
+- **017** (Independent Study) (time and location TBA) by Vogl, Tom Saul (A16181588)
+- **018** (Independent Study) (time and location TBA) by Jacobsen, Mark (A08083623)
+- **019** (Independent Study) (time and location TBA) by Rondina, Giacomo (A08093855)
 
 [Enrollment numbers over time](./ECON299.tsv)

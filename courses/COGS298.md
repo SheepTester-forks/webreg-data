@@ -9,5 +9,6 @@
 - **007** (Independent Study) (time and location TBA) by De Sa, Virginia (A04511993)
 - **008** (Independent Study) (time and location TBA) by Tu, Zhuowen (A11797290)
 - **009** (Independent Study) (time and location TBA) by Deak, Gedeon O. (A03223123)
+- **010** (Independent Study) (time and location TBA) by Rossano, Federico (A14273503)
 
 [Enrollment numbers over time](./COGS298.tsv)

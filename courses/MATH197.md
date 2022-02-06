@@ -2,5 +2,6 @@
 
 - **001** (Internship) (time and location TBA) by Xiao, Ming (A15367098)
 - **002** (Internship) (time and location TBA) by Rampure, Suraj (A17248679)
+- **003** (Internship) (time and location TBA) by Zhou, Wenxin (A15362254)
 
 [Enrollment numbers over time](./MATH197.tsv)

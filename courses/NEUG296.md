@@ -11,5 +11,6 @@
 - **009** (Independent Study) (time and location TBA) by Leutgeb, Stefan (A09132440)
 - **010** (Independent Study) (time and location TBA) by Pierce, Karen Lynn (A00774996)
 - **011** (Independent Study) (time and location TBA) by Mukamel, Eran A (A12510573)
+- **012** (Independent Study) (time and location TBA) by Gage, Fred H (A01362394)
 
 [Enrollment numbers over time](./NEUG296.tsv)

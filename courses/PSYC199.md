@@ -34,5 +34,8 @@
 - **032** (Independent Study) (time and location TBA) by Risbrough, Victoria Blythe (A01094926)
 - **033** (Independent Study) (time and location TBA) by Oveis, Christopher S (A10405576)
 - **034** (Independent Study) (time and location TBA) by Eyler, Lisa T. (A06320484)
+- **035** (Independent Study) (time and location TBA) by Gorman, Michael R. (A02752636)
+- **036** (Independent Study) (time and location TBA) by Powell, Lindsey Jane (A16183397)
+- **037** (Independent Study) (time and location TBA) by Willis, Jarryd Thomas (A13252861)
 
 [Enrollment numbers over time](./PSYC199.tsv)
