@@ -99,5 +99,6 @@
 - **097** (Independent Study) (time and location TBA) by Shtrahman, Matthew (A14312106)
 - **098** (Independent Study) (time and location TBA) by Rifkin, Scott (A09745999)
 - **099** (Independent Study) (time and location TBA) by Grover, Tarun (A14280115)
+- **100** (Independent Study) (time and location TBA) by Cloninger, Alexander (A15365429)
 
 [Enrollment numbers over time](./PHYS298.tsv)

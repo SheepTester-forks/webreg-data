@@ -69,5 +69,8 @@
 - **067** (Independent Study) (time and location TBA) by Bui, Jack D (A00824591)
 - **068** (Independent Study) (time and location TBA) by Smarr, Benjamin (A06333744)
 - **069** (Independent Study) (time and location TBA) by Petersen, Lonnie Grove (A14377595)
+- **070** (Independent Study) (time and location TBA) by Chi, Neil C. (A09151947)
+- **071** (Independent Study) (time and location TBA) by Du, Jiang (A08076931)
+- **072** (Independent Study) (time and location TBA) by Chen, Yuan (A16189034)
 
 [Enrollment numbers over time](./BENG299.tsv)

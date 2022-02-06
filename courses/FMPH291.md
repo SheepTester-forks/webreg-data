@@ -6,5 +6,6 @@
 - **D00** (Seminar) at 5:00 pm–9:00 pm on Tuesday at RCLAS R104 by Skaathun, Britt Paige (A16190017)
 - **E00** (Seminar) at 3:00 pm–4:50 pm on Wednesday at BRF2 5A03 by Shadyab, Aladdin Hassan (A53039194)
 - **F00** (Seminar) at 10:00 am–12:00 pm on Friday at MET 204 by Shadyab, Aladdin Hassan (A53039194)
+- **G00** (Seminar) (time and location TBA) by Vaida, Florin (A09683050)
 
 [Enrollment numbers over time](./FMPH291.tsv)

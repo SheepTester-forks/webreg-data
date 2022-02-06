@@ -5,5 +5,8 @@
 - **003** (Independent Study) (time and location TBA) by Coil, Alison (A09126639)
 - **004** (Independent Study) (time and location TBA) by Jun, Suckjoon (A11131221)
 - **005** (Independent Study) (time and location TBA) by Yang, Liang (A16183435)
+- **006** (Independent Study) (time and location TBA) by Duarte, Javier Mauricio (A16182001)
+- **007** (Independent Study) (time and location TBA) by Burgasser, Adam Jonathan (A01873969)
+- **008** (Independent Study) (time and location TBA) by You, Yizhuang (A15674684)
 
 [Enrollment numbers over time](./PHYS199.tsv)

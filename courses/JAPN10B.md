@@ -27,7 +27,7 @@
 - **G00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at SOLIS 110 by Ross, Kayoko F (A13241771)
 - **G00** (Final Exam) at 8:00 am–10:59 am on Thursday at SOLIS 110 by Ross, Kayoko F (A13241771)
 - **G01** (Tutorial) at 12:00 pm–12:50 pm on Monday, Wednesday, Friday at U301 135 by Ross, Kayoko F (A13241771)
-- **G02** (Tutorial) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at U301 135 by Ross, Kayoko F (A13241771)
+- **G02** (Tutorial) (time and location TBA) by staff
 - **H00** (Lecture) at 12:30 pm–1:50 pm on Tuesday, Thursday at WLH 2206 by Iwamoto, Naoki (A15366981)
 - **H00** (Final Exam) at 11:30 am–2:29 pm on Tuesday at WLH 2206 by Iwamoto, Naoki (A15366981)
 - **H01** (Tutorial) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at HSS 1106B by Iwamoto, Naoki (A15366981)

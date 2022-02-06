@@ -71,5 +71,6 @@
 - **069** (Independent Study) (time and location TBA) by Frazier, Michael (A15369208)
 - **070** (Independent Study) (time and location TBA) by Zhang, Kun (A08086231)
 - **071** (Independent Study) (time and location TBA) by Talke, Frank E (A00902340)
+- **082** (Independent Study) (time and location TBA) by Li, Shaowei (A16714291)
 
 [Enrollment numbers over time](./MATS299.tsv)

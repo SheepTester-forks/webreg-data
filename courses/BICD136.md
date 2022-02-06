@@ -2,6 +2,7 @@
 
 - **A00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at GH 242 by Gustafson-Brown, Cindy (A00711693)
 - **A00** (Final Exam) at 3:00 pm–5:59 pm on Monday at GH 242 by Gustafson-Brown, Cindy (A00711693)
+- **A00** (Review Sessions) at 7:00 pm–8:50 pm on Monday at GH 242 by Gustafson-Brown, Cindy (A00711693)
 - **A01** (Discussion) at 11:00 am–11:50 am on Tuesday at CENTR 207 by Gustafson-Brown, Cindy (A00711693)
 - **A02** (Discussion) at 4:00 pm–4:50 pm on Tuesday at CENTR 207 by Gustafson-Brown, Cindy (A00711693)
 - **A03** (Discussion) at 7:00 pm–7:50 pm on Tuesday at CENTR 207 by Gustafson-Brown, Cindy (A00711693)

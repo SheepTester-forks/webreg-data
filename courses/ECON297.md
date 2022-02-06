@@ -17,5 +17,8 @@
 - **015** (Independent Study) (time and location TBA) by Trottner, Fabian Gunter We (A16710251)
 - **016** (Independent Study) (time and location TBA) by Alon, Titan Michael (A16182143)
 - **017** (Independent Study) (time and location TBA) by Samek, Anya (A16710848)
+- **018** (Independent Study) (time and location TBA) by Dahl, Gordon B. (A08069359)
+- **019** (Independent Study) (time and location TBA) by Engelberg, Joseph Edward (A02704903)
+- **020** (Independent Study) (time and location TBA) by Zhu, Ying (A16179453)
 
 [Enrollment numbers over time](./ECON297.tsv)

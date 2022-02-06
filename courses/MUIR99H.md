@@ -2,5 +2,6 @@
 
 - **001** (Independent Study) (time and location TBA) by Chi, Neil C. (A09151947)
 - **002** (Independent Study) (time and location TBA) by Cherqui, Stephanie (A11134684)
+- **003** (Independent Study) (time and location TBA) by Ohno-Machado, Lucila (A09153561)
 
 [Enrollment numbers over time](./MUIR99H.tsv)

@@ -164,5 +164,6 @@
 - **162** (Independent Study) (time and location TBA) by Crotty Alexander, Laura E (A10613080)
 - **163** (Independent Study) (time and location TBA) by Schoeneberg, Johannes (A16685392)
 - **164** (Independent Study) (time and location TBA) by Li, Willis Xiaowei (A10390283)
+- **165** (Independent Study) (time and location TBA) by Daneman, Richard (A12506025)
 
 [Enrollment numbers over time](./BISP199.tsv)

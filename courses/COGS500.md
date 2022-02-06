@@ -10,18 +10,18 @@
 - **008** (Independent Study) (time and location TBA) by Davis, Joshua Daniel (A09093449)
 - **009** (Independent Study) (time and location TBA) by De Sa, Virginia (A04511993)
 - **010** (Independent Study) (time and location TBA) by Deak, Gedeon O. (A03223123)
-- **011** (Independent Study) (time and location TBA) by staff
+- **011** (Independent Study) (time and location TBA) by Leonardis, Eric Jeffrey (A53065040)
 - **012** (Independent Study) (time and location TBA) by Ellis, Shannon Elizabeth (A15761113)
 - **013** (Independent Study) (time and location TBA) by Fleischer, Jason G (A14295669)
 - **014** (Independent Study) (time and location TBA) by Nunez, Rafael E (A05090443)
 - **015** (Independent Study) (time and location TBA) by Johnson, Christine M. (A00670451)
 - **016** (Independent Study) (time and location TBA) by Kirsh, David Joel (A01436691)
-- **017** (Independent Study) (time and location TBA) by staff
+- **017** (Independent Study) (time and location TBA) by Cooperrider, Kensy A (A06782352)
 - **018** (Independent Study) (time and location TBA) by Klemmer, Scott R (A11768628)
-- **019** (Independent Study) (time and location TBA) by staff
+- **019** (Independent Study) (time and location TBA) by Kross, Sean (A53235545)
 - **020** (Independent Study) (time and location TBA) by Mattar, Marcelo G (A16688714)
 - **021** (Independent Study) (time and location TBA) by Meyer, Michael Wayne (A00910925)
-- **022** (Independent Study) (time and location TBA) by staff
+- **022** (Independent Study) (time and location TBA) by Akhavan, Niloofar (A53228084)
 - **023** (Independent Study) (time and location TBA) by Rossano, Federico (A14273503)
 - **024** (Independent Study) (time and location TBA) by Scott, Taylor Jackson (A09049179)
 - **025** (Independent Study) (time and location TBA) by Voytek, Bradley Thomas (A12501924)

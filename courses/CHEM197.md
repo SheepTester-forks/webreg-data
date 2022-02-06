@@ -2,5 +2,6 @@
 
 - **001** (Internship) (time and location TBA) by Komives, Elizabeth A (A01024305)
 - **002** (Internship) (time and location TBA) by Ghosh, Gourisankar (A01516292)
+- **003** (Internship) (time and location TBA) by Godula, Kamil (A11781264)
 
 [Enrollment numbers over time](./CHEM197.tsv)

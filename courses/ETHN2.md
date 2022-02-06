@@ -1,7 +1,7 @@
 **ETHN 2**: Intro:CirculationsofDifference (4 units)
 
 - **A00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at RCLAS R10 by Sasaki, Christen T (A16181904)
-- **A00** (Final Exam) at 3:00 pm–5:59 pm on Monday at PETER 108 by Sasaki, Christen T (A16181904)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Monday at RCLAS R06 by Sasaki, Christen T (A16181904)
 - **A01** (Discussion) at 9:00 am–9:50 am on Monday at RCLAS R10 by Sasaki, Christen T (A16181904)
 - **A02** (Discussion) at 10:00 am–10:50 am on Monday at RCLAS R03 by Sasaki, Christen T (A16181904)
 - **A03** (Discussion) at 11:00 am–11:50 am on Monday at HSS 2152 by Sasaki, Christen T (A16181904)

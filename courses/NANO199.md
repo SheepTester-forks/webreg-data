@@ -8,5 +8,6 @@
 - **006** (Independent Study) (time and location TBA) by Lipomi, Darren John (A11077780)
 - **007** (Independent Study) (time and location TBA) by Zhang, Liangfang (A08611976)
 - **008** (Independent Study) (time and location TBA) by Fullerton, Eric E (A00631939)
+- **009** (Independent Study) (time and location TBA) by Vazquez Mena, Oscar (A13389700)
 
 [Enrollment numbers over time](./NANO199.tsv)

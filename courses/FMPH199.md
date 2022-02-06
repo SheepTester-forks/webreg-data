@@ -8,5 +8,8 @@
 - **006** (Independent Study) (time and location TBA) by Ojeda, Victoria D. (A08621680)
 - **007** (Independent Study) (time and location TBA) by Anderson, Cheryl (A11088374)
 - **008** (Independent Study) (time and location TBA) by Guma, Monica (A11781487)
+- **009** (Independent Study) (time and location TBA) by Hartman, Sheri R (A10428289)
+- **010** (Independent Study) (time and location TBA) by Godino, Job Gideon (A13231835)
+- **011** (Independent Study) (time and location TBA) by Seifert, Marva Lynn (A50064892)
 
 [Enrollment numbers over time](./FMPH199.tsv)

@@ -8,5 +8,6 @@
 - **006** (Independent Study) (time and location TBA) by Betts, Julian (A01232843)
 - **007** (Independent Study) (time and location TBA) by Hamilton, James D. (A00365092)
 - **008** (Independent Study) (time and location TBA) by Ramey, Valerie A (A01664976)
+- **009** (Independent Study) (time and location TBA) by Elliott, Graham (A00868443)
 
 [Enrollment numbers over time](./ECON291.tsv)
