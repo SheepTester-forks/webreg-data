@@ -6,5 +6,6 @@
 - **004** (Independent Study) (time and location TBA) by Kedlaya, Kiran S. (A09557220)
 - **005** (Independent Study) (time and location TBA) by Dumitriu, Ioana (A16182389)
 - **006** (Independent Study) (time and location TBA) by Helton, John W. (A00515156)
+- **007** (Independent Study) (time and location TBA) by Mohammadi, Amir (A14294844)
 
 [Enrollment numbers over time](./MATH199H.tsv)

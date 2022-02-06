@@ -10,5 +10,6 @@
 - **008** (Independent Study) (time and location TBA) by Ganzberger, Geoffrey Michael (A08099717)
 - **009** (Independent Study) (time and location TBA) by Cloninger, Alexander (A15365429)
 - **010** (Independent Study) (time and location TBA) by Hodges, Reuven Moses (A17248251)
+- **011** (Independent Study) (time and location TBA) by Jekel, David Andrew (A17249428)
 
 [Enrollment numbers over time](./MATH199.tsv)

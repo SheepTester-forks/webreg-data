@@ -53,5 +53,8 @@
 - **051** (Independent Study) (time and location TBA) by Boutelle, Kerri (A09290293)
 - **052** (Independent Study) (time and location TBA) by Courtney, Kelly Elizabeth (A16188674)
 - **053** (Independent Study) (time and location TBA) by Notestine, A. Christine Fennema (A00810770)
+- **054** (Independent Study) (time and location TBA) by Minassian, Arpi Lynn (A00845824)
+- **055** (Independent Study) (time and location TBA) by Dickenson, Janna Alene (A16711307)
+- **056** (Independent Study) (time and location TBA) by Frank, Guido Klaus (A16182042)
 
 [Enrollment numbers over time](./PSYC199.tsv)

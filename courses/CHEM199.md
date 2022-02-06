@@ -26,5 +26,9 @@
 - **024** (Independent Study) (time and location TBA) by Schimpf, Alina M (A14284489)
 - **025** (Independent Study) (time and location TBA) by Romero, Nathan A (A16627991)
 - **026** (Independent Study) (time and location TBA) by Theodorakis, Emmanuel (A00747717)
+- **027** (Independent Study) (time and location TBA) by Perrin, Charles L. (A00924765)
+- **028** (Independent Study) (time and location TBA) by Budin, Itay (A16139133)
+- **029** (Independent Study) (time and location TBA) by Zarrinpar, Amir (A01030323)
+- **030** (Independent Study) (time and location TBA) by Theodorakis, Emmanuel (A00747717)
 
 [Enrollment numbers over time](./CHEM199.tsv)

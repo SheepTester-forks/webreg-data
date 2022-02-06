@@ -22,7 +22,7 @@
 - **B04** (Discussion) at 9:00 am–9:50 am on Thursday at CENTR 217B by Edie-Michell, Cain (A17248246)
 - **B05** (Discussion) at 2:00 pm–2:50 pm on Thursday at CENTR 207 by Edie-Michell, Cain (A17248246)
 - **B06** (Discussion) at 3:00 pm–3:50 pm on Thursday at CENTR 207 by Edie-Michell, Cain (A17248246)
-- **C00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at WLH 2005 by Chung, Kwun (A53093629)
+- **C00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at RCLAS R14 by Chung, Kwun (A53093629)
 - **C00** (Final Exam) at 8:00 am–10:59 am on Saturday at CENTR 119 by Chung, Kwun (A53093629)
 - **C00** (Midterm) at 8:00 pm–9:20 pm on Tuesday at CENTR 115 by Chung, Kwun (A53093629)
 - **C00** (Midterm) at 8:00 pm–9:20 pm on Tuesday at CENTR 115 by Chung, Kwun (A53093629)

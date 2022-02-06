@@ -8,5 +8,7 @@
 - **006** (Independent Study) (time and location TBA) by Duarte, Javier Mauricio (A16182001)
 - **007** (Independent Study) (time and location TBA) by Burgasser, Adam Jonathan (A01873969)
 - **008** (Independent Study) (time and location TBA) by You, Yizhuang (A15674684)
+- **009** (Independent Study) (time and location TBA) by Popmintchev, Tenio (A14314788)
+- **010** (Independent Study) (time and location TBA) by Abarbanel, Henry Don Isaac (A00885599)
 
 [Enrollment numbers over time](./PHYS199.tsv)

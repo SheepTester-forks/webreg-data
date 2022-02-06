@@ -38,7 +38,7 @@
 - **B22** (Discussion) at 1:00 pm–1:50 pm on Thursday at WLH 2208 by Salehi Golsefidy, Alireza (A10392871)
 - **B23** (Discussion) at 3:00 pm–3:50 pm on Thursday at WLH 2110 by Salehi Golsefidy, Alireza (A10392871)
 - **B24** (Discussion) at 4:00 pm–4:50 pm on Thursday at WLH 2110 by Salehi Golsefidy, Alireza (A10392871)
-- **C00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at CENTR 101 by Jin, Muzhi (A17255443)
+- **C00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at RCLAS R136 by Jin, Muzhi (A17255443)
 - **C00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at CENTR 101 by Jin, Muzhi (A17255443)
 - **C00** (Midterm) at 7:00 pm–8:50 pm on Friday at WLH 2001 by Jin, Muzhi (A17255443)
 - **C00** (Midterm) at 7:00 pm–8:50 pm on Friday at WLH 2001 by Jin, Muzhi (A17255443)

@@ -86,5 +86,6 @@
 - **084** (Independent Study) (time and location TBA) by Wang, Dong (A09754058)
 - **085** (Independent Study) (time and location TBA) by Chen, Yuan (A16189034)
 - **086** (Independent Study) (time and location TBA) by Luo, Jian (A11204700)
+- **087** (Independent Study) (time and location TBA) by Villa Rodriguez, Elizabeth (A12506601)
 
 [Enrollment numbers over time](./CHEM299.tsv)

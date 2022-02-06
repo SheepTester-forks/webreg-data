@@ -82,5 +82,6 @@
 - **080** (Conference) (time and location TBA) by Zhang, Jin (A13265991)
 - **081** (Conference) (time and location TBA) by Zid, Brian M (A13240438)
 - **082** (Conference) at 1:00 pm–1:50 pm on Thursday at NSB 2303 by Brydges, Stacey (A08616776)
+- **083** (Conference) (time and location TBA) by Villa Rodriguez, Elizabeth (A12506601)
 
 [Enrollment numbers over time](./CHEM251.tsv)

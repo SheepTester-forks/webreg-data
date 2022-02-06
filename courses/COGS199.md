@@ -11,5 +11,6 @@
 - **009** (Independent Study) (time and location TBA) by Ellis, Shannon Elizabeth (A15761113)
 - **010** (Independent Study) (time and location TBA) by Xia, Haijun (A16185409)
 - **011** (Independent Study) (time and location TBA) by Scott, Taylor Jackson (A09049179)
+- **012** (Independent Study) (time and location TBA) by Tu, Zhuowen (A11797290)
 
 [Enrollment numbers over time](./COGS199.tsv)

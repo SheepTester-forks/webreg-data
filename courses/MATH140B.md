@@ -1,7 +1,7 @@
 **MATH 140B**: Foundations/Real Analysis II (4 units)
 
-- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at WLH 2205 by Mohammadi, Amir (A14294844)
-- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at WLH 2205 by Mohammadi, Amir (A14294844)
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at RCLAS R129 by Mohammadi, Amir (A14294844)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at RCLAS R108 by Mohammadi, Amir (A14294844)
 - **A01** (Discussion) (time and location TBA) by staff
 - **A02** (Discussion) at 7:00 pm–7:50 pm on Wednesday at SEQUO 148 by Mohammadi, Amir (A14294844)
 - **B00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at WLH 2205 by Spolaor, Luca (A16168467)
