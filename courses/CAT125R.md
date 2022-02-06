@@ -1,6 +1,6 @@
 **CAT 125R**: Pblc Rhetoric Prct Comm Online (4 units)
 
-- **A00** (Lecture) at 12:00 am–12:00 am on Sunday (location TBA) by Bigham, David Joseph (A06790762)
+- **A00** (Lecture) (time and location TBA) by Bigham, David Joseph (A06790762)
 - **A01** (Discussion) at 9:00 am–9:50 am on Monday, Wednesday at RCLAS R11 by Bigham, David Joseph (A06790762)
 - **A02** (Discussion) at 10:00 am–10:50 am on Monday, Wednesday at RCLAS R11 by Bigham, David Joseph (A06790762)
 - **A03** (Discussion) at 11:00 am–11:50 am on Monday, Wednesday at RCLAS R11 by Bigham, David Joseph (A06790762)

@@ -11,6 +11,6 @@
 - **B02** (Lab) at 2:30 pm–5:20 pm on Tuesday at   by Lubarda, Marko (A03701368)
 - **B04** (Lab) at 2:00 pm–4:50 pm on Wednesday at   by Lubarda, Marko (A03701368)
 - **B06** (Lab) at 2:30 pm–5:20 pm on Thursday at   by Lubarda, Marko (A03701368)
-- **B08** (Lab) at 2:00 am–4:50 pm on Friday at   by Lubarda, Marko (A03701368)
+- **B08** (Lab) at 2:00 pm–4:50 pm on Friday at   by Lubarda, Marko (A03701368)
 
 [Enrollment numbers over time](./MAE3.tsv)

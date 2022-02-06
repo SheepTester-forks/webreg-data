@@ -1,8 +1,8 @@
 **PATH 299**: Path/Independent Study Project (1–12 units, by 1)
 
-- **001** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by staff
-- **002** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by staff
-- **003** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by staff
-- **004** (Independent Study) at 12:00 am–12:00 am on Sunday (location TBA) by staff
+- **001** (Independent Study) (time and location TBA) by staff
+- **002** (Independent Study) (time and location TBA) by staff
+- **003** (Independent Study) (time and location TBA) by staff
+- **004** (Independent Study) (time and location TBA) by staff
 
 [Enrollment numbers over time](./PATH299.tsv)

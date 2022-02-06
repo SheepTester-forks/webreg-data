@@ -26,19 +26,19 @@
 - **B07** (Discussion) at 5:00 pm–5:50 pm on Friday at WLH 2115 by Brydges, Stacey (A08616776)
 - **B08** (Discussion) at 5:00 pm–5:50 pm on Friday at WLH 2114 by Brydges, Stacey (A08616776)
 - **B09** (Discussion) at 6:00 pm–6:50 pm on Friday at WLH 2114 by Brydges, Stacey (A08616776)
-- **C00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at YORK 2722 by Leigh, Brian (A10440810)
-- **C00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at WLH 2001 by Leigh, Brian (A10440810)
-- **C00** (Midterm) at 9:00 am–10:50 am on Saturday at WLH 2001 by Leigh, Brian (A10440810)
-- **C00** (Midterm) at 9:00 am–10:50 am on Saturday at WLH 2001 by Leigh, Brian (A10440810)
-- **C01** (Discussion) at 12:00 pm–12:50 pm on Monday at TM102 1 by Leigh, Brian (A10440810)
-- **C02** (Discussion) at 1:00 pm–1:50 pm on Monday at TM102 1 by Leigh, Brian (A10440810)
-- **C03** (Discussion) at 2:00 pm–2:50 pm on Monday at TM102 1 by Leigh, Brian (A10440810)
-- **C04** (Discussion) at 6:00 pm–6:50 pm on Wednesday at TM102 1 by Leigh, Brian (A10440810)
-- **C05** (Discussion) at 7:00 pm–7:50 pm on Wednesday at TM102 1 by Leigh, Brian (A10440810)
-- **C06** (Discussion) at 8:00 pm–8:50 pm on Wednesday at TM102 1 by Leigh, Brian (A10440810)
-- **C07** (Discussion) at 3:00 pm–3:50 pm on Friday at SEQUO 147 by Leigh, Brian (A10440810)
-- **C08** (Discussion) at 4:00 pm–4:50 pm on Friday at SEQUO 147 by Leigh, Brian (A10440810)
-- **C09** (Discussion) at 6:00 pm–6:50 pm on Friday at WLH 2112 by Leigh, Brian (A10440810)
+- **C00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at YORK 2722 by staff
+- **C00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at WLH 2001 by staff
+- **C00** (Midterm) at 9:00 am–10:50 am on Saturday at WLH 2001 by staff
+- **C00** (Midterm) at 9:00 am–10:50 am on Saturday at WLH 2001 by staff
+- **C01** (Discussion) at 12:00 pm–12:50 pm on Monday at TM102 1 by staff
+- **C02** (Discussion) at 1:00 pm–1:50 pm on Monday at TM102 1 by staff
+- **C03** (Discussion) at 2:00 pm–2:50 pm on Monday at TM102 1 by staff
+- **C04** (Discussion) at 6:00 pm–6:50 pm on Wednesday at TM102 1 by staff
+- **C05** (Discussion) at 7:00 pm–7:50 pm on Wednesday at TM102 1 by staff
+- **C06** (Discussion) at 8:00 pm–8:50 pm on Wednesday at TM102 1 by staff
+- **C07** (Discussion) at 3:00 pm–3:50 pm on Friday at SEQUO 147 by staff
+- **C08** (Discussion) at 4:00 pm–4:50 pm on Friday at SEQUO 147 by staff
+- **C09** (Discussion) at 6:00 pm–6:50 pm on Friday at WLH 2112 by staff
 - **D00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at PETER 108 by Stallings, Dontarie M (A16188963)
 - **D00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at PETER 108 by Stallings, Dontarie M (A16188963)
 - **D00** (Midterm) at 9:00 am–10:50 am on Saturday at PETER 108 by Stallings, Dontarie M (A16188963)
@@ -52,18 +52,18 @@
 - **D07** (Discussion) at 1:00 pm–1:50 pm on Wednesday at TM102 1 by Stallings, Dontarie M (A16188963)
 - **D08** (Discussion) at 2:00 pm–2:50 pm on Wednesday at TM102 1 by Stallings, Dontarie M (A16188963)
 - **D09** (Discussion) at 8:00 am–8:50 am on Friday at HSS 1128A by Stallings, Dontarie M (A16188963)
-- **E00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at PETER 108 by Stallings, Dontarie M (A16188963)
-- **E00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at JEANN AUD by Stallings, Dontarie M (A16188963)
-- **E00** (Midterm) at 9:00 am–10:50 am on Saturday at JEANN AUD by Stallings, Dontarie M (A16188963)
-- **E00** (Midterm) at 9:00 am–10:50 am on Saturday at JEANN AUD by Stallings, Dontarie M (A16188963)
-- **E01** (Discussion) at 11:00 am–11:50 am on Monday at WLH 2208 by Stallings, Dontarie M (A16188963)
-- **E02** (Discussion) at 3:00 pm–3:50 pm on Monday at SEQUO 147 by Stallings, Dontarie M (A16188963)
-- **E03** (Discussion) at 4:00 pm–4:50 pm on Monday at SEQUO 147 by Stallings, Dontarie M (A16188963)
-- **E04** (Discussion) at 5:00 pm–5:50 pm on Monday at SEQUO 147 by Stallings, Dontarie M (A16188963)
-- **E05** (Discussion) at 6:00 pm–6:50 pm on Monday at SEQUO 147 by Stallings, Dontarie M (A16188963)
-- **E06** (Discussion) at 7:00 pm–7:50 pm on Wednesday at SEQUO 147 by Stallings, Dontarie M (A16188963)
-- **E07** (Discussion) at 8:00 pm–8:50 pm on Wednesday at SEQUO 147 by Stallings, Dontarie M (A16188963)
-- **E08** (Discussion) at 5:00 pm–5:50 pm on Friday at SOLIS 111 by Stallings, Dontarie M (A16188963)
-- **E09** (Discussion) at 6:00 pm–6:50 pm on Friday at SOLIS 111 by Stallings, Dontarie M (A16188963)
+- **E00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at PETER 108 by Leigh, Brian (A10440810)
+- **E00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at JEANN AUD by Leigh, Brian (A10440810)
+- **E00** (Midterm) at 9:00 am–10:50 am on Saturday at JEANN AUD by Leigh, Brian (A10440810)
+- **E00** (Midterm) at 9:00 am–10:50 am on Saturday at JEANN AUD by Leigh, Brian (A10440810)
+- **E01** (Discussion) at 11:00 am–11:50 am on Monday at WLH 2208 by Leigh, Brian (A10440810)
+- **E02** (Discussion) at 3:00 pm–3:50 pm on Monday at SEQUO 147 by Leigh, Brian (A10440810)
+- **E03** (Discussion) at 4:00 pm–4:50 pm on Monday at SEQUO 147 by Leigh, Brian (A10440810)
+- **E04** (Discussion) at 5:00 pm–5:50 pm on Monday at SEQUO 147 by Leigh, Brian (A10440810)
+- **E05** (Discussion) at 6:00 pm–6:50 pm on Monday at SEQUO 147 by Leigh, Brian (A10440810)
+- **E06** (Discussion) at 7:00 pm–7:50 pm on Wednesday at SEQUO 147 by Leigh, Brian (A10440810)
+- **E07** (Discussion) at 8:00 pm–8:50 pm on Wednesday at SEQUO 147 by Leigh, Brian (A10440810)
+- **E08** (Discussion) at 5:00 pm–5:50 pm on Friday at SOLIS 111 by Leigh, Brian (A10440810)
+- **E09** (Discussion) at 6:00 pm–6:50 pm on Friday at SOLIS 111 by Leigh, Brian (A10440810)
 
 [Enrollment numbers over time](./CHEM6C.tsv)

@@ -1,6 +1,6 @@
 **PHYS 2BL**: Physics Laboratory-Mechanics (2 units)
 
-- **A00** (Lecture) at 12:00 pm–12:50 pm on Monday at CTL 0125 by Butov, Leonid (A05749484)
+- **A00** (Lecture) at 3:00 pm–3:50 pm on Monday at PETER 110 by Butov, Leonid (A05749484)
 - **A01** (Lab) at 8:00 am–10:50 am on Tuesday at MYR-A 2722 by Butov, Leonid (A05749484)
 - **A02** (Lab) at 11:00 am–1:50 pm on Tuesday at MYR-A 2722 by Butov, Leonid (A05749484)
 - **A03** (Lab) at 2:00 pm–4:50 pm on Tuesday at MYR-A 2722 by Butov, Leonid (A05749484)

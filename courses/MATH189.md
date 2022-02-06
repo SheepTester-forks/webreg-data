@@ -6,6 +6,6 @@
 - **A02** (Discussion) at 5:00 pm–5:50 pm on Friday at APM 2402 by Zhang, Zhuosong (A17258085)
 - **A03** (Discussion) at 6:00 pm–6:50 pm on Friday at APM 2402 by Zhang, Zhuosong (A17258085)
 - **A04** (Discussion) at 7:00 pm–7:50 pm on Friday at APM 2402 by Zhang, Zhuosong (A17258085)
-- **A50** (Lab) at 12:00 am–12:00 am on Sunday (location TBA) by staff
+- **A50** (Lab) (time and location TBA) by staff
 
 [Enrollment numbers over time](./MATH189.tsv)

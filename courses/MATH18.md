@@ -1,7 +1,7 @@
 **MATH 18**: Linear Algebra (4 units)
 
 - **A00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at RCLAS R07 by Anzaldo, Leesa B (A15757131)
-- **A00** (Final Exam) at 11:30 am–2:29 pm on Friday at WLH 2005 by Anzaldo, Leesa B (A15757131)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Friday at RCLAS R07 by Anzaldo, Leesa B (A15757131)
 - **A00** (Midterm) at 6:00 pm–7:50 pm on Friday at RCLAS R01 by Anzaldo, Leesa B (A15757131)
 - **A00** (Midterm) at 6:00 pm–7:50 pm on Friday at RCLAS R01 by Anzaldo, Leesa B (A15757131)
 - **A00** (Midterm) at 6:00 pm–7:50 pm on Friday at RCLAS R01 by Anzaldo, Leesa B (A15757131)
@@ -11,7 +11,7 @@
 - **A02** (Discussion) at 3:00 pm–3:50 pm on Thursday at APM B412 by Anzaldo, Leesa B (A15757131)
 - **A03** (Discussion) at 4:00 pm–4:50 pm on Thursday at APM B412 by Anzaldo, Leesa B (A15757131)
 - **A04** (Discussion) at 5:00 pm–5:50 pm on Thursday at APM B412 by Anzaldo, Leesa B (A15757131)
-- **A50** (Lab) at 12:00 am–12:00 am on Sunday (location TBA) by Anzaldo, Leesa B (A15757131)
+- **A50** (Lab) (time and location TBA) by Anzaldo, Leesa B (A15757131)
 - **B00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at JEANN AUD by Dumitriu, Ioana (A16182389)
 - **B00** (Final Exam) at 3:00 pm–5:59 pm on Friday at JEANN AUD by Dumitriu, Ioana (A16182389)
 - **B00** (Midterm) at 7:30 pm–9:20 pm on Thursday at PETER 108 by Dumitriu, Ioana (A16182389)
@@ -39,6 +39,6 @@
 - **B22** (Discussion) at 4:00 pm–4:50 pm on Thursday at WLH 2110 by Dumitriu, Ioana (A16182389)
 - **B23** (Discussion) at 5:00 pm–5:50 pm on Thursday at WLH 2110 by Dumitriu, Ioana (A16182389)
 - **B24** (Discussion) at 6:00 pm–6:50 pm on Thursday at WLH 2110 by Dumitriu, Ioana (A16182389)
-- **B50** (Lab) at 12:00 am–12:00 am on Sunday (location TBA) by Dumitriu, Ioana (A16182389)
+- **B50** (Lab) (time and location TBA) by Dumitriu, Ioana (A16182389)
 
 [Enrollment numbers over time](./MATH18.tsv)

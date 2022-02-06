@@ -5,7 +5,7 @@
 - **A01** (Discussion) at 8:00 am–8:50 am on Thursday at U301 122 by Eggers, John Dietrich (A00980083)
 - **A02** (Discussion) at 9:00 am–9:50 am on Thursday at U301 122 by Eggers, John Dietrich (A00980083)
 - **B00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at RCLAS R08 by Kolesnik, Brett T (A17248269)
-- **B00** (Final Exam) at 11:30 am–2:29 pm on Friday at PETER 103 by Kolesnik, Brett T (A17248269)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Friday at RCLAS R08 by Kolesnik, Brett T (A17248269)
 - **B01** (Discussion) at 12:00 pm–12:50 pm on Thursday at APM 2301 by Kolesnik, Brett T (A17248269)
 - **B02** (Discussion) at 1:00 pm–1:50 pm on Thursday at APM 2301 by Kolesnik, Brett T (A17248269)
 - **C00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at PETER 102 by Chung, Kwun (A53093629)
