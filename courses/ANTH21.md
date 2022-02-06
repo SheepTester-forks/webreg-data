@@ -9,5 +9,6 @@
 - **B01** (Discussion) at 2:00 pm–2:50 pm on Friday at CENTR 217A by Kurian, Amrita Achamma (A53015074),Berman, Michael David (A53005643)
 - **B02** (Discussion) at 10:00 am–10:50 am on Monday at APM 2301 by Kurian, Amrita Achamma (A53015074),Berman, Michael David (A53005643)
 - **B03** (Discussion) at 12:00 pm–12:50 pm on Monday at APM 2301 by Kurian, Amrita Achamma (A53015074),Berman, Michael David (A53005643)
+- **B04** (Discussion) at 2:00 pm–2:50 pm on Wednesday at CENTR 217A by Kurian, Amrita Achamma (A53015074),Berman, Michael David (A53005643)
 
 [Enrollment numbers over time](./ANTH21.tsv)

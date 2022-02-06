@@ -1,8 +1,8 @@
 **PHYS 2B**: Phys-Electricity and Magnetism (4 units)
 
-- **A00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at YORK 2722 by Meyertholen, Andrew D. (A06261092)
-- **A00** (Lecture) at 5:00 pm–5:50 pm on Monday at YORK 2722 by Meyertholen, Andrew D. (A06261092)
-- **A00** (Final Exam) at 3:00 pm–5:59 pm on Thursday at YORK 2722 by Meyertholen, Andrew D. (A06261092)
+- **A00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at WLH 2001 by Meyertholen, Andrew D. (A06261092)
+- **A00** (Lecture) at 5:00 pm–5:50 pm on Monday at WLH 2001 by Meyertholen, Andrew D. (A06261092)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Thursday at WLH 2001 by Meyertholen, Andrew D. (A06261092)
 - **A01** (Discussion) at 9:00 am–9:50 am on Friday at HSS 1305 by Meyertholen, Andrew D. (A06261092)
 - **A02** (Discussion) at 10:00 am–10:50 am on Friday at WLH 2206 by Meyertholen, Andrew D. (A06261092)
 - **A03** (Discussion) at 10:00 am–10:50 am on Friday at SOLIS 110 by Meyertholen, Andrew D. (A06261092)

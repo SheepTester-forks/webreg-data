@@ -4,8 +4,8 @@
 - **002** (Seminar) at 12:30 pm–1:50 pm on Monday, Wednesday at RCLAS R04 by Gagnon, Jeffrey C (A07067328)
 - **003** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at EBU3B 1113 by Gagnon, Jeffrey C (A07067328)
 - **004** (Seminar) at 3:30 pm–4:50 pm on Monday, Wednesday at EBU3B 1113 by Gagnon, Jeffrey C (A07067328)
-- **005** (Seminar) at 5:00 pm–6:20 pm on Monday, Wednesday at CENTR 224B by Gagnon, Jeffrey C (A07067328)
-- **006** (Seminar) at 6:30 pm–7:50 pm on Monday, Wednesday at CENTR 224B by Gagnon, Jeffrey C (A07067328)
+- **005** (Seminar) (time and location TBA) by staff
+- **006** (Seminar) (time and location TBA) by staff
 - **007** (Seminar) at 11:00 am–12:20 pm on Monday, Wednesday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
 - **008** (Seminar) at 12:30 pm–1:50 pm on Monday, Wednesday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
 - **009** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)

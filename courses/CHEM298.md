@@ -1,0 +1,17 @@
+**CHEM 298**: Special Study in Chemistry (1–12 units, by 1)
+
+- **001** (Independent Study) (time and location TBA) by Tauber, Michael (A07482469)
+- **002** (Independent Study) (time and location TBA) by Komives, Elizabeth A (A01024305)
+- **003** (Independent Study) (time and location TBA) by Zid, Brian M (A13240438)
+- **004** (Independent Study) (time and location TBA) by Debelouchina, Galia T (A15364854)
+- **005** (Independent Study) (time and location TBA) by Deshmukh, Lalit (A15370987)
+- **006** (Independent Study) (time and location TBA) by Komor, Alexis C (A15366693)
+- **007** (Independent Study) (time and location TBA) by Tezcan, Faik (A06890580)
+- **008** (Independent Study) (time and location TBA) by Stauber, Julia Megan (A92033511)
+- **009** (Independent Study) (time and location TBA) by Molinski, Tadeusz (A06908737)
+- **010** (Independent Study) (time and location TBA) by Galperin, Michael (A08611063)
+- **011** (Independent Study) (time and location TBA) by Yang, Jerry (A05743012)
+- **012** (Independent Study) (time and location TBA) by Weizman, Haim (A03200705)
+- **013** (Independent Study) (time and location TBA) by Leigh, Brian (A10440810)
+
+[Enrollment numbers over time](./CHEM298.tsv)

@@ -20,8 +20,8 @@
 - **B04** (Discussion) at 11:00 am–11:50 am on Tuesday at ASANT 123B by Chang, Edmond Yi-Teh (A01578017)
 - **B05** (Discussion) at 10:00 am–10:50 am on Tuesday at ASANT 123C by Chang, Edmond Yi-Teh (A01578017)
 - **B06** (Discussion) at 11:00 am–11:50 am on Tuesday at ASANT 123C by Chang, Edmond Yi-Teh (A01578017)
-- **B07** (Discussion) at 8:00 am–8:50 am on Thursday at ASANT 123B by Chang, Edmond Yi-Teh (A01578017)
-- **B08** (Discussion) at 9:00 am–9:50 am on Thursday at ASANT 123B by Chang, Edmond Yi-Teh (A01578017)
+- **B07** (Discussion) (time and location TBA) by staff
+- **B08** (Discussion) (time and location TBA) by staff
 - **B09** (Discussion) at 10:00 am–10:50 am on Thursday at ASANT 123B by Chang, Edmond Yi-Teh (A01578017)
 - **B10** (Discussion) at 11:00 am–11:50 am on Thursday at ASANT 123B by Chang, Edmond Yi-Teh (A01578017)
 - **C00** (Lecture) (time and location TBA) by Herbst, Matthew (A07477678)

@@ -1,0 +1,11 @@
+**COGS 199**: Special Project (2–4 units, by 2)
+
+- **001** (Independent Study) (time and location TBA) by Rossano, Federico (A14273503)
+- **002** (Independent Study) (time and location TBA) by Nitz, Douglas A. (A08872464)
+- **003** (Independent Study) (time and location TBA) by Rangel, Lara M (A04827163)
+- **004** (Independent Study) (time and location TBA) by Kirsh, David Joel (A01436691)
+- **005** (Independent Study) (time and location TBA) by Fleischer, Jason G (A14295669)
+- **006** (Independent Study) (time and location TBA) by Johnson, Christine M. (A00670451)
+- **007** (Independent Study) (time and location TBA) by Mattar, Marcelo G (A16688714)
+
+[Enrollment numbers over time](./COGS199.tsv)

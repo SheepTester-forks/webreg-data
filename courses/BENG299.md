@@ -63,5 +63,8 @@
 - **061** (Independent Study) (time and location TBA) by Zhong, Sheng (A11125413)
 - **062** (Independent Study) (time and location TBA) by Talke, Frank E (A00902340)
 - **063** (Independent Study) (time and location TBA) by Signer, Robert (A14287436)
+- **064** (Independent Study) (time and location TBA) by Evans, Ronald M (A01284389)
+- **065** (Independent Study) (time and location TBA) by Wilkinson, Miles Frome (A09138796)
+- **066** (Independent Study) (time and location TBA) by Delson, Nathan Joseph (A01305024)
 
 [Enrollment numbers over time](./BENG299.tsv)

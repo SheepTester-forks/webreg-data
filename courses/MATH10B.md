@@ -2,8 +2,8 @@
 
 - **A00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at CENTR 101 by Eggers, John Dietrich (A00980083)
 - **A00** (Final Exam) at 8:00 am–10:59 am on Saturday at CENTR 101 by Eggers, John Dietrich (A00980083)
-- **A00** (Midterm) at 8:00 pm–9:20 pm on Tuesday at GA AUD by Eggers, John Dietrich (A00980083)
-- **A00** (Midterm) at 8:00 pm–9:20 pm on Tuesday at GA AUD by Eggers, John Dietrich (A00980083)
+- **A00** (Midterm) at 8:00 pm–9:20 pm on Tuesday at JEANN AUD by Eggers, John Dietrich (A00980083)
+- **A00** (Midterm) at 8:00 pm–9:20 pm on Tuesday at JEANN AUD by Eggers, John Dietrich (A00980083)
 - **A01** (Discussion) at 10:00 am–10:50 am on Thursday at HSS 1128A by Eggers, John Dietrich (A00980083)
 - **A02** (Discussion) at 11:00 am–11:50 am on Thursday at HSS 1128A by Eggers, John Dietrich (A00980083)
 - **A03** (Discussion) at 12:00 pm–12:50 pm on Thursday at HSS 1128A by Eggers, John Dietrich (A00980083)

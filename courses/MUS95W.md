@@ -2,5 +2,6 @@
 
 - **A00** (Studio) at 5:00 pm–7:50 pm on Wednesday at CPMC 265 by Seshadri, Kartik (A02011851)
 - **B00** (Studio) at 5:00 pm–7:50 pm on Wednesday at CPMC 264 by Seshadri, Kartik (A02011851)
+- **C00** (Studio) (time and location TBA) by staff
 
 [Enrollment numbers over time](./MUS95W.tsv)

@@ -18,11 +18,11 @@
 - **B01** (Discussion) at 8:00 am–8:50 am on Monday at WLH 2114 by Albizati, Kim F. (A01228841)
 - **B02** (Discussion) at 3:00 pm–3:50 pm on Monday at WLH 2114 by Albizati, Kim F. (A01228841)
 - **B03** (Discussion) at 4:00 pm–4:50 pm on Monday at WLH 2114 by Albizati, Kim F. (A01228841)
-- **B04** (Discussion) at 6:00 pm–6:50 pm on Monday at WLH 2114 by Albizati, Kim F. (A01228841)
-- **B05** (Discussion) at 8:00 am–8:50 am on Friday at WLH 2206 by Albizati, Kim F. (A01228841)
-- **B06** (Discussion) at 3:00 pm–3:50 pm on Friday at WLH 2206 by Albizati, Kim F. (A01228841)
-- **B07** (Discussion) at 4:00 pm–4:50 pm on Friday at WLH 2206 by Albizati, Kim F. (A01228841)
-- **B08** (Discussion) at 5:00 pm–5:50 pm on Friday at WLH 2206 by Albizati, Kim F. (A01228841)
-- **B09** (Discussion) at 6:00 pm–6:50 pm on Friday at WLH 2206 by Albizati, Kim F. (A01228841)
+- **B04** (Discussion) (time and location TBA) by staff
+- **B05** (Discussion) (time and location TBA) by staff
+- **B06** (Discussion) (time and location TBA) by staff
+- **B07** (Discussion) (time and location TBA) by staff
+- **B08** (Discussion) (time and location TBA) by staff
+- **B09** (Discussion) (time and location TBA) by staff
 
 [Enrollment numbers over time](./CHEM40C.tsv)

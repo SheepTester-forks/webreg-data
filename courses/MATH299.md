@@ -61,5 +61,6 @@
 - **059** (Independent Study) (time and location TBA) by Zlatos, Andrej (A14284995)
 - **060** (Independent Study) (time and location TBA) by Garsia, Adriano M. (A01933411)
 - **061** (Independent Study) (time and location TBA) by Graham, Fan Chung (A02769212)
+- **062** (Independent Study) (time and location TBA) by Warnke, Lutz Peter (A17255088)
 
 [Enrollment numbers over time](./MATH299.tsv)

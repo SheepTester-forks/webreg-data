@@ -27,34 +27,36 @@
 - **B12** (Discussion) at 12:00 pm–12:50 pm on Wednesday, Friday at CENTR 206 by Markman, Kristina (A05227817)
 - **B13** (Discussion) at 12:00 pm–12:50 pm on Wednesday, Friday at CENTR 204 by Markman, Kristina (A05227817)
 - **B14** (Discussion) at 1:00 pm–1:50 pm on Wednesday, Friday at CENTR 204 by Markman, Kristina (A05227817)
-- **B15** (Discussion) at 1:00 pm–1:50 pm on Wednesday, Friday at   by Markman, Kristina (A05227817)
-- **B16** (Discussion) at 2:00 pm–2:50 pm on Wednesday, Friday at   by Markman, Kristina (A05227817)
+- **B15** (Discussion) (time and location TBA) by staff
+- **B16** (Discussion) (time and location TBA) by staff
 - **B17** (Discussion) at 2:00 pm–2:50 pm on Wednesday, Friday at CENTR 204 by Markman, Kristina (A05227817)
 - **B18** (Discussion) at 3:00 pm–3:50 pm on Wednesday, Friday at CENTR 204 by Markman, Kristina (A05227817)
 - **B19** (Discussion) at 4:00 pm–4:50 pm on Wednesday, Friday at CENTR 204 by Markman, Kristina (A05227817)
 - **B20** (Discussion) at 5:00 pm–5:50 pm on Wednesday, Friday at CENTR 204 by Markman, Kristina (A05227817)
 - **B21** (Discussion) at 4:00 pm–4:50 pm on Wednesday, Friday at HSS 1106B by Markman, Kristina (A05227817)
 - **B22** (Discussion) at 5:00 pm–5:50 pm on Wednesday, Friday at HSS 1106B by Markman, Kristina (A05227817)
-- **C00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at WLH 2001 by staff
-- **C00** (Final Exam) at 3:00 pm–5:59 pm on Monday at WLH 2001 by staff
-- **C03** (Discussion) at 10:00 am–10:50 am on Wednesday, Friday at CENTR 204 by staff
-- **C04** (Discussion) at 11:00 am–11:50 am on Wednesday, Friday at CENTR 204 by staff
-- **C05** (Discussion) at 11:00 am–11:50 am on Wednesday, Friday at U301 119 by staff
-- **C06** (Discussion) at 12:00 pm–12:50 pm on Wednesday, Friday at U301 119 by staff
-- **C07** (Discussion) at 3:00 pm–3:50 pm on Wednesday, Friday at CENTR 206 by staff
-- **C08** (Discussion) at 4:00 pm–4:50 pm on Wednesday, Friday at CENTR 206 by staff
-- **C11** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at   by staff
-- **C12** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at   by staff
-- **C13** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at U201 263 by staff
-- **C14** (Discussion) at 12:00 pm–12:50 pm on Tuesday, Thursday at U201 263 by staff
-- **C15** (Discussion) at 12:00 pm–12:50 pm on Tuesday, Thursday at CENTR 204 by staff
-- **C16** (Discussion) at 1:00 pm–1:50 pm on Tuesday, Thursday at CENTR 204 by staff
-- **C17** (Discussion) at 1:00 pm–1:50 pm on Tuesday, Thursday at U201 263 by staff
-- **C18** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at U201 263 by staff
-- **C21** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at CENTR 206 by staff
-- **C22** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at CENTR 206 by staff
-- **C23** (Discussion) at 4:00 pm–4:50 pm on Tuesday, Thursday at CENTR 206 by staff
-- **C24** (Discussion) at 5:00 pm–5:50 pm on Tuesday, Thursday at CENTR 206 by staff
+- **B23** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at U301 135 by Markman, Kristina (A05227817)
+- **B24** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at U301 135 by Markman, Kristina (A05227817)
+- **C00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at WLH 2001 by Caldwell, Michael Alan (A11103731)
+- **C00** (Final Exam) at 3:00 pm–5:59 pm on Monday at WLH 2001 by Caldwell, Michael Alan (A11103731)
+- **C03** (Discussion) at 10:00 am–10:50 am on Wednesday, Friday at CENTR 204 by Caldwell, Michael Alan (A11103731)
+- **C04** (Discussion) at 11:00 am–11:50 am on Wednesday, Friday at CENTR 204 by Caldwell, Michael Alan (A11103731)
+- **C05** (Discussion) at 11:00 am–11:50 am on Wednesday, Friday at U301 119 by Caldwell, Michael Alan (A11103731)
+- **C06** (Discussion) at 12:00 pm–12:50 pm on Wednesday, Friday at U301 119 by Caldwell, Michael Alan (A11103731)
+- **C07** (Discussion) at 3:00 pm–3:50 pm on Wednesday, Friday at CENTR 206 by Caldwell, Michael Alan (A11103731)
+- **C08** (Discussion) at 4:00 pm–4:50 pm on Wednesday, Friday at CENTR 206 by Caldwell, Michael Alan (A11103731)
+- **C11** (Discussion) at 3:00 pm–3:50 pm on Wednesday, Friday at GH 174 by Caldwell, Michael Alan (A11103731)
+- **C12** (Discussion) at 4:00 pm–4:50 pm on Wednesday, Friday at GH 174 by Caldwell, Michael Alan (A11103731)
+- **C13** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at U201 263 by Caldwell, Michael Alan (A11103731)
+- **C14** (Discussion) at 12:00 pm–12:50 pm on Tuesday, Thursday at U201 263 by Caldwell, Michael Alan (A11103731)
+- **C15** (Discussion) at 12:00 pm–12:50 pm on Tuesday, Thursday at CENTR 204 by Caldwell, Michael Alan (A11103731)
+- **C16** (Discussion) at 1:00 pm–1:50 pm on Tuesday, Thursday at CENTR 204 by Caldwell, Michael Alan (A11103731)
+- **C17** (Discussion) at 1:00 pm–1:50 pm on Tuesday, Thursday at U201 263 by Caldwell, Michael Alan (A11103731)
+- **C18** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at U201 263 by Caldwell, Michael Alan (A11103731)
+- **C21** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at CENTR 206 by Caldwell, Michael Alan (A11103731)
+- **C22** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at CENTR 206 by Caldwell, Michael Alan (A11103731)
+- **C23** (Discussion) (time and location TBA) by staff
+- **C24** (Discussion) (time and location TBA) by staff
 - **D00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at GH 242 by Lyon, Antony J. (A05020724)
 - **D00** (Final Exam) at 11:30 am–2:29 pm on Monday at GH 242 by Lyon, Antony J. (A05020724)
 - **D01** (Discussion) at 8:00 am–8:50 am on Wednesday, Friday at CENTR 206 by Lyon, Antony J. (A05020724)
@@ -68,8 +70,8 @@
 - **D10** (Discussion) at 3:00 pm–3:50 pm on Wednesday, Friday at MANDE B-152 by Lyon, Antony J. (A05020724)
 - **D11** (Discussion) at 4:00 pm–4:50 pm on Wednesday, Friday at MANDE B-152 by Lyon, Antony J. (A05020724)
 - **D12** (Discussion) at 5:00 pm–5:50 pm on Wednesday, Friday at MANDE B-152 by Lyon, Antony J. (A05020724)
-- **D13** (Discussion) at 9:00 am–9:50 am on Tuesday, Thursday at GH 174 by Lyon, Antony J. (A05020724)
-- **D14** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at GH 174 by Lyon, Antony J. (A05020724)
+- **D13** (Discussion) at 9:00 am–9:50 am on Tuesday, Thursday at RCLAS R106 by Lyon, Antony J. (A05020724)
+- **D14** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at RCLAS R108 by Lyon, Antony J. (A05020724)
 - **D15** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at CENTR 206 by Lyon, Antony J. (A05020724)
 - **D16** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at CENTR 206 by Lyon, Antony J. (A05020724)
 - **D17** (Discussion) at 12:00 pm–12:50 pm on Tuesday, Thursday at CENTR 206 by Lyon, Antony J. (A05020724)
@@ -78,8 +80,8 @@
 - **D20** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at GH 174 by Lyon, Antony J. (A05020724)
 - **D21** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at HSS 2305A by Lyon, Antony J. (A05020724)
 - **D22** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at HSS 2305A by Lyon, Antony J. (A05020724)
-- **D23** (Discussion) at 4:00 pm–4:50 pm on Tuesday, Thursday at   by Lyon, Antony J. (A05020724)
-- **D24** (Discussion) at 5:00 pm–5:50 pm on Tuesday, Thursday at   by Lyon, Antony J. (A05020724)
+- **D23** (Discussion) at 12:00 pm–12:50 pm on Wednesday, Friday at GH 174 by Lyon, Antony J. (A05020724)
+- **D24** (Discussion) (time and location TBA) by staff
 - **D25** (Discussion) at 8:00 am–8:50 am on Wednesday, Friday at GH 174 by Lyon, Antony J. (A05020724)
 - **D26** (Discussion) at 9:00 am–9:50 am on Wednesday, Friday at GH 174 by Lyon, Antony J. (A05020724)
 

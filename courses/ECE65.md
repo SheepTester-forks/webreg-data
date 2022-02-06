@@ -9,6 +9,14 @@
 - **A52** (Lab) at 7:00 pm–10:00 pm on Tuesday at WLH 2213A by Baghdadchi, Saharnaz (A53000219)
 - **A53** (Lab) at 7:00 pm–10:00 pm on Tuesday at WLH 2215 by Baghdadchi, Saharnaz (A53000219)
 - **A54** (Lab) at 3:30 pm–6:30 pm on Wednesday at WLH 2213A by Baghdadchi, Saharnaz (A53000219)
-- **A55** (Lab) at 3:30 pm–5:30 pm on Wednesday at WLH 2215 by Baghdadchi, Saharnaz (A53000219)
+- **A55** (Lab) (time and location TBA) by staff
+- **A56** (Lab) at 7:00 pm–10:00 pm on Wednesday at WLH 2213A by Baghdadchi, Saharnaz (A53000219)
+- **A57** (Lab) at 7:00 pm–10:00 pm on Wednesday at WLH 2214 by Baghdadchi, Saharnaz (A53000219)
+- **A58** (Lab) at 3:30 pm–6:30 pm on Thursday at WLH 2213A by Baghdadchi, Saharnaz (A53000219)
+- **A59** (Lab) at 3:30 pm–6:30 pm on Thursday at WLH 2215 by Baghdadchi, Saharnaz (A53000219)
+- **A60** (Lab) (time and location TBA) by staff
+- **A61** (Lab) (time and location TBA) by staff
+- **A62** (Lab) at 3:30 pm–6:30 pm on Wednesday at WLH 2215 by Baghdadchi, Saharnaz (A53000219)
+- **A63** (Lab) at 3:30 pm–6:30 pm on Tuesday at WLH 2214 by Baghdadchi, Saharnaz (A53000219)
 
 [Enrollment numbers over time](./ECE65.tsv)

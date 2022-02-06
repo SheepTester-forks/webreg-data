@@ -8,5 +8,7 @@
 - **006** (Independent Study) (time and location TBA) by Perez, Roy (A16187030)
 - **007** (Independent Study) (time and location TBA) by Streeby, Shelley (A00703777)
 - **008** (Independent Study) (time and location TBA) by Yang, K. Wayne (A07493124)
+- **009** (Independent Study) (time and location TBA) by Middleton, Kianna (A16709937)
+- **010** (Independent Study) (time and location TBA) by Patel, Shaista (A15755379)
 
 [Enrollment numbers over time](./ETHN298.tsv)

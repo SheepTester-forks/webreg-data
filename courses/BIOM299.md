@@ -74,5 +74,8 @@
 - **072** (Independent Study) (time and location TBA) by Zarrinpar, Amir (A01030323)
 - **073** (Independent Study) (time and location TBA) by Zengler, Karsten B (A14277367)
 - **074** (Independent Study) (time and location TBA) by Zhang, Jin (A13265991)
+- **075** (Independent Study) (time and location TBA) by Schoenberger, Stephen P. (A09750132)
+- **076** (Independent Study) (time and location TBA) by Mischel, Paul S (A11122935)
+- **077** (Independent Study) (time and location TBA) by Zage, Peter (A14282787)
 
 [Enrollment numbers over time](./BIOM299.tsv)

@@ -1,9 +1,9 @@
 **CHEM 43A**: Organic Chemistry Laboratory (4 units)
 
-- **A00** (Lecture) at 5:00 pm–5:50 pm on Monday at GA AUD by Ternansky, Robert J. (A05721445)
-- **A00** (Final Exam) at 7:00 pm–9:59 pm on Monday at GA AUD by Ternansky, Robert J. (A05721445)
-- **A00** (Midterm) at 10:00 am–10:50 am on Saturday at GA AUD by Ternansky, Robert J. (A05721445)
-- **A00** (Midterm) at 10:00 am–10:50 am on Saturday at GA AUD by Ternansky, Robert J. (A05721445)
+- **A00** (Lecture) at 5:00 pm–5:50 pm on Monday at JEANN AUD by Ternansky, Robert J. (A05721445)
+- **A00** (Final Exam) at 7:00 pm–9:59 pm on Monday at JEANN AUD by Ternansky, Robert J. (A05721445)
+- **A00** (Midterm) at 10:00 am–10:50 am on Saturday at JEANN AUD by Ternansky, Robert J. (A05721445)
+- **A00** (Midterm) at 10:00 am–10:50 am on Saturday at JEANN AUD by Ternansky, Robert J. (A05721445)
 - **A01** (Lab) at 10:00 am–12:50 pm on Monday, Wednesday at YORK 1246 by Ternansky, Robert J. (A05721445)
 - **A02** (Lab) at 10:00 am–12:50 pm on Monday, Wednesday at YORK 3108 by Ternansky, Robert J. (A05721445)
 - **A03** (Lab) at 10:00 am–12:50 pm on Monday, Wednesday at YORK 3208 by Ternansky, Robert J. (A05721445)

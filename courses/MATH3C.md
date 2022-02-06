@@ -2,10 +2,10 @@
 
 - **A00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday, Friday at PCYNH 122 by Hammock, Frances H (A15758938)
 - **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at CENTR 212 by Hammock, Frances H (A15758938)
-- **A00** (Midterm) at 7:00 pm–8:50 pm on Wednesday at GA AUD by Hammock, Frances H (A15758938)
+- **A00** (Midterm) at 7:00 pm–8:50 pm on Wednesday at JEANN AUD by Hammock, Frances H (A15758938)
 - **A01** (Discussion) at 7:00 pm–7:50 pm on Monday at HSS 2150 by Hammock, Frances H (A15758938)
 - **A02** (Discussion) at 8:00 pm–8:50 pm on Monday at HSS 2150 by Hammock, Frances H (A15758938)
-- **A03** (Discussion) at 9:00 pm–9:50 pm on Monday at HSS 2150 by Hammock, Frances H (A15758938)
+- **A03** (Discussion) (time and location TBA) by staff
 - **A50** (Tutorial) at 3:30 pm–4:20 pm on Tuesday at   by Hammock, Frances H (A15758938)
 - **A51** (Tutorial) at 5:00 pm–5:50 pm on Tuesday at   by Hammock, Frances H (A15758938)
 - **A52** (Tutorial) at 6:30 pm–7:20 pm on Tuesday at   by Hammock, Frances H (A15758938)

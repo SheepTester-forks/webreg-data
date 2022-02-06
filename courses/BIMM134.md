@@ -1,7 +1,7 @@
 **BIMM 134**: Biology of Cancer (4 units)
 
-- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at GH 242 by Burg, Michael (A13380811)
-- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at GH 242 by Burg, Michael (A13380811)
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at JEANN AUD by Burg, Michael (A13380811)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at JEANN AUD by Burg, Michael (A13380811)
 - **A01** (Discussion) at 8:00 am–8:50 am on Monday at APM 2301 by Burg, Michael (A13380811)
 - **A02** (Discussion) at 12:00 pm–12:50 pm on Monday at SEQUO 148 by Burg, Michael (A13380811)
 - **A03** (Discussion) at 1:00 pm–1:50 pm on Monday at SEQUO 148 by Burg, Michael (A13380811)
@@ -15,5 +15,8 @@
 - **A11** (Discussion) at 5:00 pm–5:50 pm on Friday at HSS 1128A by Burg, Michael (A13380811)
 - **A12** (Discussion) at 11:00 am–11:50 am on Wednesday at SOLIS 110 by Burg, Michael (A13380811)
 - **A13** (Discussion) at 7:00 pm–7:50 pm on Tuesday at SOLIS 110 by Burg, Michael (A13380811)
+- **A14** (Discussion) at 12:00 pm–12:50 pm on Wednesday at HSS 1315 by Burg, Michael (A13380811)
+- **A15** (Discussion) at 2:00 pm–2:50 pm on Wednesday at SOLIS 109 by Burg, Michael (A13380811)
+- **A16** (Discussion) at 4:00 pm–4:50 pm on Thursday at CENTR 217B by Burg, Michael (A13380811)
 
 [Enrollment numbers over time](./BIMM134.tsv)

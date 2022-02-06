@@ -2,8 +2,8 @@
 
 - **A00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at PETER 108 by Oconnor, Joseph M. (A01401433)
 - **A00** (Final Exam) at 8:00 am–10:59 am on Thursday at PETER 108 by Oconnor, Joseph M. (A01401433)
-- **A00** (Midterm) at 6:00 pm–7:50 pm on Friday at GA AUD by Oconnor, Joseph M. (A01401433)
-- **A00** (Midterm) at 6:00 pm–7:50 pm on Friday at GA AUD by Oconnor, Joseph M. (A01401433)
+- **A00** (Midterm) at 6:00 pm–7:50 pm on Friday at JEANN AUD by Oconnor, Joseph M. (A01401433)
+- **A00** (Midterm) at 6:00 pm–7:50 pm on Friday at JEANN AUD by Oconnor, Joseph M. (A01401433)
 - **A01** (Discussion) at 8:00 am–8:50 am on Monday at TM102 1 by Oconnor, Joseph M. (A01401433)
 - **A02** (Discussion) at 9:00 am–9:50 am on Monday at TM102 1 by Oconnor, Joseph M. (A01401433)
 - **A03** (Discussion) at 10:00 am–10:50 am on Monday at TM102 1 by Oconnor, Joseph M. (A01401433)

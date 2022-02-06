@@ -72,5 +72,6 @@
 - **070** (Independent Study) (time and location TBA) by Zhang, Kun (A08086231)
 - **071** (Independent Study) (time and location TBA) by Zhong, Sheng (A11125413)
 - **072** (Independent Study) (time and location TBA) by Mir Arabbaygi, Siavash (A13241673)
+- **073** (Independent Study) (time and location TBA) by Vijayanand, Pandurangan (A15369456)
 
 [Enrollment numbers over time](./BNFO299.tsv)

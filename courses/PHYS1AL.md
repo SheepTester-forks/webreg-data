@@ -12,5 +12,6 @@
 - **010** (Lab) at 3:00 pm–4:50 pm on Wednesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
 - **011** (Lab) at 5:00 pm–6:50 pm on Wednesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
 - **012** (Lab) at 8:00 am–9:50 am on Thursday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **013** (Lab) at 10:00 am–11:50 am on Thursday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
 
 [Enrollment numbers over time](./PHYS1AL.tsv)

@@ -1,7 +1,7 @@
 **CHEM 100B**: Instrumental Chemistry Lab (5 units)
 
-- **A00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at CENTR 218 by Pomeroy, Robert S. (A00552928)
-- **A00** (Final Exam) at 8:00 am–10:59 am on Monday at CENTR 218 by Pomeroy, Robert S. (A00552928)
+- **A00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at CENTR 216 by Pomeroy, Robert S. (A00552928)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Monday at CENTR 216 by Pomeroy, Robert S. (A00552928)
 - **A00** (Midterm) at 9:00 am–10:50 am on Saturday at CSB 001 by Pomeroy, Robert S. (A00552928)
 - **A00** (Midterm) at 9:00 am–10:50 am on Saturday at CSB 001 by Pomeroy, Robert S. (A00552928)
 - **A01** (Lab) at 9:00 am–11:50 am on Monday, Wednesday at YORK 1146 by Pomeroy, Robert S. (A00552928)

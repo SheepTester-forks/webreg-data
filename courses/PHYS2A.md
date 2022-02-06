@@ -23,13 +23,13 @@
 - **B03** (Discussion) at 3:00 pm–3:50 pm on Monday at SOLIS 111 by Popmintchev, Tenio (A14314788)
 - **B04** (Discussion) at 4:00 pm–4:50 pm on Monday at PCYNH 120 by Popmintchev, Tenio (A14314788)
 - **B05** (Discussion) at 6:00 pm–6:50 pm on Monday at SOLIS 110 by Popmintchev, Tenio (A14314788)
-- **B06** (Discussion) at 7:00 pm–7:50 pm on Monday at SOLIS 110 by Popmintchev, Tenio (A14314788)
-- **B07** (Discussion) at 8:00 am–8:50 am on Tuesday at CENTR 205 by Popmintchev, Tenio (A14314788)
+- **B06** (Discussion) (time and location TBA) by staff
+- **B07** (Discussion) (time and location TBA) by staff
 - **B08** (Discussion) at 2:00 pm–2:50 pm on Tuesday at WLH 2208 by Popmintchev, Tenio (A14314788)
-- **B09** (Discussion) at 8:00 am–8:50 am on Wednesday at CENTR 220 by Popmintchev, Tenio (A14314788)
+- **B09** (Discussion) (time and location TBA) by staff
 - **B10** (Discussion) at 10:00 am–10:50 am on Wednesday at CENTR 220 by Popmintchev, Tenio (A14314788)
-- **B11** (Discussion) at 11:00 am–11:50 am on Wednesday at CENTR 220 by Popmintchev, Tenio (A14314788)
-- **B12** (Discussion) at 11:00 am–11:50 am on Wednesday at CENTR 217B by Popmintchev, Tenio (A14314788)
+- **B11** (Discussion) (time and location TBA) by staff
+- **B12** (Discussion) (time and location TBA) by staff
 - **C00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at YORK 2722 by Popmintchev, Tenio (A14314788)
 - **C00** (Lecture) at 5:00 pm–5:50 pm on Friday at GH 242 by Popmintchev, Tenio (A14314788)
 - **C00** (Final Exam) at 11:30 am–2:29 pm on Friday at YORK 2722 by Popmintchev, Tenio (A14314788)
@@ -39,11 +39,11 @@
 - **C04** (Discussion) at 7:00 pm–7:50 pm on Monday at SOLIS 111 by Popmintchev, Tenio (A14314788)
 - **C05** (Discussion) at 7:00 pm–7:50 pm on Tuesday at CENTR 218 by Popmintchev, Tenio (A14314788)
 - **C06** (Discussion) at 7:00 pm–7:50 pm on Tuesday at WLH 2112 by Popmintchev, Tenio (A14314788)
-- **C07** (Discussion) at 8:00 am–8:50 am on Wednesday at HSS 1305 by Popmintchev, Tenio (A14314788)
+- **C07** (Discussion) (time and location TBA) by staff
 - **C08** (Discussion) at 9:00 am–9:50 am on Wednesday at HSS 1305 by Popmintchev, Tenio (A14314788)
 - **C09** (Discussion) at 11:00 am–11:50 am on Wednesday at HSS 2150 by Popmintchev, Tenio (A14314788)
 - **C10** (Discussion) at 11:00 am–11:50 am on Wednesday at TM102 1 by Popmintchev, Tenio (A14314788)
 - **C11** (Discussion) at 12:00 pm–12:50 pm on Wednesday at HSS 2150 by Popmintchev, Tenio (A14314788)
-- **C12** (Discussion) at 12:00 pm–12:50 pm on Wednesday at TM102 1 by Popmintchev, Tenio (A14314788)
+- **C12** (Discussion) (time and location TBA) by staff
 
 [Enrollment numbers over time](./PHYS2A.tsv)

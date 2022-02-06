@@ -48,10 +48,9 @@
 - **L00** (Final Exam) at 3:00 pm–5:59 pm on Tuesday at WLH 2209 by McKee, Mayumi Mochizuki (A02017799)
 - **L01** (Tutorial) at 3:00 pm–3:50 pm on Monday, Wednesday, Friday at HSS 1106A by McKee, Mayumi Mochizuki (A02017799)
 - **L02** (Tutorial) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at MANDE B-146 by McKee, Mayumi Mochizuki (A02017799)
-- **M00** (Lecture) at 6:30 pm–7:50 pm on Tuesday, Thursday at SOLIS 109 by Kipnis, Yuko (A17254546)
-- **M00** (Final Exam) at 7:00 pm–9:59 pm on Tuesday at SOLIS 109 by Kipnis, Yuko (A17254546)
-- **M01** (Tutorial) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at U301 135 by Kipnis, Yuko (A17254546)
-- **M02** (Tutorial) at 5:00 pm–5:50 pm on Monday, Wednesday, Friday at U301 135 by Kipnis, Yuko (A17254546)
+- **M00** (Lecture) (time and location TBA) by staff
+- **M01** (Tutorial) (time and location TBA) by staff
+- **M02** (Tutorial) (time and location TBA) by staff
 - **N00** (Lecture) at 5:00 pm–6:20 pm on Tuesday, Thursday at WLH 2209 by McKee, Mayumi Mochizuki (A02017799)
 - **N00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at WLH 2209 by McKee, Mayumi Mochizuki (A02017799)
 - **N01** (Tutorial) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at HSS 1106A by McKee, Mayumi Mochizuki (A02017799)
@@ -60,9 +59,8 @@
 - **O00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at HSS 2154 by Tipton, Yuko (A08621411)
 - **O01** (Tutorial) at 5:00 pm–5:50 pm on Monday, Wednesday, Friday at MANDE B-153 by Tipton, Yuko (A08621411)
 - **O02** (Tutorial) at 6:00 pm–6:50 pm on Monday, Wednesday, Friday at MANDE B-153 by Tipton, Yuko (A08621411)
-- **P00** (Lecture) at 5:00 pm–6:20 pm on Tuesday, Thursday at SOLIS 109 by Kipnis, Yuko (A17254546)
-- **P00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at SOLIS 109 by Kipnis, Yuko (A17254546)
-- **P01** (Tutorial) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at RWAC 0623 by Kipnis, Yuko (A17254546)
-- **P02** (Tutorial) at 6:00 pm–6:50 pm on Monday, Wednesday, Friday at RWAC 0623 by Kipnis, Yuko (A17254546)
+- **P00** (Lecture) (time and location TBA) by staff
+- **P01** (Tutorial) (time and location TBA) by staff
+- **P02** (Tutorial) (time and location TBA) by staff
 
 [Enrollment numbers over time](./JAPN10B.tsv)

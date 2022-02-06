@@ -97,5 +97,7 @@
 - **095** (Independent Study) (time and location TBA) by Llewellyn Smith, Stefan G. (A03215393)
 - **096** (Independent Study) (time and location TBA) by Goldenfeld, Nigel (A17253093)
 - **097** (Independent Study) (time and location TBA) by Shtrahman, Matthew (A14312106)
+- **098** (Independent Study) (time and location TBA) by Rifkin, Scott (A09745999)
+- **099** (Independent Study) (time and location TBA) by Grover, Tarun (A14280115)
 
 [Enrollment numbers over time](./PHYS298.tsv)

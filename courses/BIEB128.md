@@ -5,6 +5,6 @@
 - **A01** (Discussion) at 8:00 am–8:50 am on Monday at CENTR 207 by Holway, David A. (A03705253)
 - **A02** (Discussion) at 9:00 am–9:50 am on Monday at CENTR 207 by Holway, David A. (A03705253)
 - **A03** (Discussion) at 5:00 pm–5:50 pm on Wednesday at TM102 1 by Holway, David A. (A03705253)
-- **A04** (Discussion) at 7:00 pm–7:50 pm on Wednesday at CENTR 207 by Holway, David A. (A03705253)
+- **A04** (Discussion) at 7:00 pm–7:50 pm on Wednesday at MANDE B-153 by Holway, David A. (A03705253)
 
 [Enrollment numbers over time](./BIEB128.tsv)

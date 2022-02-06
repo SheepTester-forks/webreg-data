@@ -2,5 +2,7 @@
 
 - **A00** (Lab) at 9:00 am–11:50 am on Friday at GH 170 by Robichaux, Richard Michael (A15367951)
 - **B00** (Lab) (time and location TBA) by staff
+- **C00** (Lab) (time and location TBA) by Meyer, Ursula (A00765508)
+- **D00** (Lab) (time and location TBA) by Porter, Lisa (A06337933)
 
 [Enrollment numbers over time](./TDGR229.tsv)

@@ -1,7 +1,7 @@
 **FMPH 193**: Public Health Capstone I (4 units)
 
-- **A00** (Lecture) at 5:00 pm–7:50 pm on Thursday at U301 122 by staff
-- **A00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at   by staff
+- **A00** (Lecture) at 5:00 pm–7:50 pm on Thursday at U301 122 by Trinidad, Dennis Ryan (A07472019)
+- **A00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at   by Trinidad, Dennis Ryan (A07472019)
 - **B00** (Lecture) at 2:00 pm–4:50 pm on Tuesday at CMME 2047 by Romero, Sally Ann Dominick (A50041195)
 - **B00** (Final Exam) at 3:00 pm–5:59 pm on Thursday at CMME 2047 by Romero, Sally Ann Dominick (A50041195)
 - **C00** (Lecture) at 9:00 am–11:50 am on Friday at CMME 2047 by Marquez, Becky (A09742090)

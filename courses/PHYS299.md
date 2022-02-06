@@ -50,7 +50,7 @@
 - **048** (Independent Study) (time and location TBA) by Mackinnon, Jennifer A. (A06336010)
 - **049** (Independent Study) (time and location TBA) by Malkov, Mikhail Alexandr (A11122903)
 - **050** (Independent Study) (time and location TBA) by Manohar, Aneesh Vasant (A01643142)
-- **051** (Independent Study) (time and location TBA) by staff
+- **051** (Independent Study) (time and location TBA) by Maple, M. Brian (A00889732)
 - **052** (Independent Study) (time and location TBA) by McGreevy, John A. (A11092978)
 - **053** (Independent Study) (time and location TBA) by Mell, Loren K. (A09132370)
 - **054** (Independent Study) (time and location TBA) by Meyer, Justin Raymond (A12510453)
@@ -89,5 +89,6 @@
 - **087** (Independent Study) (time and location TBA) by Yang, Liang (A16183435)
 - **088** (Independent Study) (time and location TBA) by You, Yizhuang (A15674684)
 - **089** (Independent Study) (time and location TBA) by Goldenfeld, Nigel (A17253093)
+- **090** (Independent Study) (time and location TBA) by staff
 
 [Enrollment numbers over time](./PHYS299.tsv)

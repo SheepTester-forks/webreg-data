@@ -1,7 +1,7 @@
 **MATH 20B**: Calculus/Science & Engineering (4 units)
 
-- **A00** (Lecture) at 12:00 pm–12:50 pm on Monday, Wednesday, Friday at GA AUD by Stevens, Laura Jeanne (A07488721)
-- **A00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at GA AUD by Stevens, Laura Jeanne (A07488721)
+- **A00** (Lecture) at 12:00 pm–12:50 pm on Monday, Wednesday, Friday at JEANN AUD by Stevens, Laura Jeanne (A07488721)
+- **A00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at JEANN AUD by Stevens, Laura Jeanne (A07488721)
 - **A00** (Midterm) at 8:00 pm–9:50 pm on Tuesday at PETER 108 by Stevens, Laura Jeanne (A07488721)
 - **A01** (Discussion) at 10:00 am–10:50 am on Thursday at APM B412 by Stevens, Laura Jeanne (A07488721)
 - **A02** (Discussion) at 11:00 am–11:50 am on Thursday at APM B412 by Stevens, Laura Jeanne (A07488721)
@@ -17,8 +17,8 @@
 - **A12** (Discussion) at 6:00 pm–6:50 pm on Thursday at CENTR 207 by Stevens, Laura Jeanne (A07488721)
 - **A13** (Discussion) at 6:00 pm–6:50 pm on Thursday at CENTR 220 by Stevens, Laura Jeanne (A07488721)
 - **A14** (Discussion) at 7:00 pm–7:50 pm on Thursday at CENTR 220 by Stevens, Laura Jeanne (A07488721)
-- **A15** (Discussion) at 11:00 am–11:50 am on Thursday at   by Stevens, Laura Jeanne (A07488721)
-- **A16** (Discussion) at 12:00 pm–12:50 pm on Thursday at   by Stevens, Laura Jeanne (A07488721)
+- **A15** (Discussion) at 11:00 am–11:50 am on Thursday at WLH 2208 by Stevens, Laura Jeanne (A07488721)
+- **A16** (Discussion) at 12:00 pm–12:50 pm on Thursday at APM B402A by Stevens, Laura Jeanne (A07488721)
 - **A17** (Discussion) at 5:00 pm–5:50 pm on Thursday at HSS 2150 by Stevens, Laura Jeanne (A07488721)
 - **A18** (Discussion) at 6:00 pm–6:50 pm on Thursday at HSS 2150 by Stevens, Laura Jeanne (A07488721)
 - **A19** (Discussion) at 1:00 pm–1:50 pm on Thursday at APM B402A by Stevens, Laura Jeanne (A07488721)
@@ -33,7 +33,7 @@
 - **B01** (Discussion) at 5:00 pm–5:50 pm on Thursday at PCYNH 240 by Lahiri, Aranya (A17248277)
 - **B02** (Discussion) at 6:00 pm–6:50 pm on Thursday at PCYNH 240 by Lahiri, Aranya (A17248277)
 - **B03** (Discussion) at 7:00 pm–7:50 pm on Thursday at PCYNH 240 by Lahiri, Aranya (A17248277)
-- **B04** (Discussion) at 8:00 pm–8:50 pm on Thursday at PCYNH 240 by Lahiri, Aranya (A17248277)
+- **B04** (Discussion) (time and location TBA) by staff
 - **B05** (Discussion) at 11:00 am–11:50 am on Thursday at APM B402A by Lahiri, Aranya (A17248277)
 - **B06** (Discussion) at 4:00 pm–4:50 pm on Thursday at APM B402A by Lahiri, Aranya (A17248277)
 

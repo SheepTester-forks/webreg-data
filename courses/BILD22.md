@@ -5,7 +5,7 @@
 - **A01** (Discussion) at 8:00 am–8:50 am on Monday at HSS 2321 by Strause, Linda G. (A00971149)
 - **A02** (Discussion) at 10:00 am–10:50 am on Monday at HSS 2321 by Strause, Linda G. (A00971149)
 - **A03** (Discussion) at 12:00 pm–12:50 pm on Monday at HSS 2321 by Strause, Linda G. (A00971149)
-- **A04** (Discussion) at 8:00 pm–8:50 pm on Monday at CENTR 217B by Strause, Linda G. (A00971149)
+- **A04** (Discussion) at 8:00 pm–8:50 pm on Monday at CENTR 217A by Strause, Linda G. (A00971149)
 - **A05** (Discussion) at 7:00 pm–7:50 pm on Monday at CENTR 207 by Strause, Linda G. (A00971149)
 - **A06** (Discussion) at 7:00 pm–7:50 pm on Wednesday at HSS 2321 by Strause, Linda G. (A00971149)
 - **A07** (Discussion) at 8:00 pm–8:50 pm on Wednesday at HSS 2321 by Strause, Linda G. (A00971149)

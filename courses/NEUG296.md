@@ -1,5 +1,15 @@
 **NEUG 296**: Neurosciences ResearchRotation (1–12 units, by 1)
 
 - **001** (Independent Study) (time and location TBA) by Bloodgood, Brenda Laurie (A02379111)
+- **002** (Independent Study) (time and location TBA) by Coufal, Nicole Gabriele (A05087039)
+- **003** (Independent Study) (time and location TBA) by Daneman, Richard (A12506025)
+- **004** (Independent Study) (time and location TBA) by De Sa, Virginia (A04511993)
+- **005** (Independent Study) (time and location TBA) by Tye, Kay M (A16183016)
+- **006** (Independent Study) (time and location TBA) by Banghart, Matthew Ryan (A14295025)
+- **007** (Independent Study) (time and location TBA) by Gremel, Christina M (A13230790)
+- **008** (Independent Study) (time and location TBA) by Halgren, Eric (A04444397)
+- **009** (Independent Study) (time and location TBA) by Leutgeb, Stefan (A09132440)
+- **010** (Independent Study) (time and location TBA) by Pierce, Karen Lynn (A00774996)
+- **011** (Independent Study) (time and location TBA) by Mukamel, Eran A (A12510573)
 
 [Enrollment numbers over time](./NEUG296.tsv)

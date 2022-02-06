@@ -6,5 +6,7 @@
 - **004** (Independent Study) (time and location TBA) by Meyer, Ursula (A00765508)
 - **005** (Independent Study) (time and location TBA) by Kuhl, Christopher August (A16710999)
 - **006** (Independent Study) (time and location TBA) by Chang, Jennifer M. (A05675893)
+- **007** (Independent Study) (time and location TBA) by Porter, Lisa (A06337933)
+- **008** (Independent Study) (time and location TBA) by Snaith, Yolande (A05701082)
 
 [Enrollment numbers over time](./TDGR299.tsv)

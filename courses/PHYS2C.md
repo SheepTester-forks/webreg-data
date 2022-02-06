@@ -1,10 +1,10 @@
 **PHYS 2C**: Physics-Flu,Wav,Thrmdyn,Optics (4 units)
 
-- **A00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at WLH 2001 by Yang, Liang (A16183435)
+- **A00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at YORK 2722 by Yang, Liang (A16183435)
 - **A00** (Lecture) at 4:00 pm–4:50 pm on Wednesday at PETER 108 by Yang, Liang (A16183435)
-- **A00** (Final Exam) at 3:00 pm–5:59 pm on Thursday at WLH 2001 by Yang, Liang (A16183435)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Thursday at YORK 2722 by Yang, Liang (A16183435)
 - **A01** (Discussion) at 8:00 am–8:50 am on Friday at SOLIS 110 by Yang, Liang (A16183435)
-- **A02** (Discussion) at 8:00 am–8:50 am on Friday at SOLIS 111 by Yang, Liang (A16183435)
+- **A02** (Discussion) (time and location TBA) by staff
 - **A03** (Discussion) at 9:00 am–9:50 am on Friday at SOLIS 111 by Yang, Liang (A16183435)
 - **A04** (Discussion) at 10:00 am–10:50 am on Friday at SOLIS 111 by Yang, Liang (A16183435)
 - **A05** (Discussion) at 11:00 am–11:50 am on Friday at SOLIS 111 by Yang, Liang (A16183435)
@@ -13,7 +13,7 @@
 - **A08** (Discussion) at 2:00 pm–2:50 pm on Friday at SOLIS 111 by Yang, Liang (A16183435)
 - **A09** (Discussion) at 3:00 pm–3:50 pm on Friday at SOLIS 111 by Yang, Liang (A16183435)
 - **A10** (Discussion) at 4:00 pm–4:50 pm on Friday at SOLIS 111 by Yang, Liang (A16183435)
-- **A11** (Discussion) at 5:00 pm–5:50 pm on Friday at SOLIS 111 by Yang, Liang (A16183435)
-- **A12** (Discussion) at 6:00 pm–6:50 pm on Friday at SOLIS 111 by Yang, Liang (A16183435)
+- **A11** (Discussion) (time and location TBA) by staff
+- **A12** (Discussion) (time and location TBA) by staff
 
 [Enrollment numbers over time](./PHYS2C.tsv)

@@ -12,14 +12,15 @@
 - **B00** (Final Exam) at 11:30 am–2:29 pm on Friday at CTL 0125 by Watkins, Eric (A04458667)
 - **B01** (Discussion) at 10:00 am–10:50 am on Wednesday at GH 174 by Watkins, Eric (A04458667)
 - **B02** (Discussion) at 11:00 am–11:50 am on Wednesday at GH 174 by Watkins, Eric (A04458667)
-- **B03** (Discussion) at 2:00 pm–2:50 pm on Tuesday at CENTR 207 by Watkins, Eric (A04458667)
-- **B04** (Discussion) at 3:00 pm–3:50 pm on Tuesday at CENTR 207 by Watkins, Eric (A04458667)
+- **B03** (Discussion) (time and location TBA) by staff
+- **B04** (Discussion) (time and location TBA) by staff
 - **B05** (Discussion) at 2:00 pm–2:50 pm on Wednesday at CENTR 203 by Watkins, Eric (A04458667)
 - **B06** (Discussion) at 3:00 pm–3:50 pm on Wednesday at CENTR 203 by Watkins, Eric (A04458667)
 - **B07** (Discussion) at 4:00 pm–4:50 pm on Wednesday at CENTR 205 by Watkins, Eric (A04458667)
-- **B08** (Discussion) at 5:00 pm–5:50 pm on Wednesday at CENTR 205 by Watkins, Eric (A04458667)
+- **B08** (Discussion) at 10:00 am–10:50 am on Friday at GH 174 by Watkins, Eric (A04458667)
 - **B09** (Discussion) at 11:00 am–11:50 am on Friday at CENTR 207 by Watkins, Eric (A04458667)
 - **B10** (Discussion) at 12:00 pm–12:50 pm on Friday at CENTR 207 by Watkins, Eric (A04458667)
+- **B11** (Discussion) at 11:00 am–11:50 am on Friday at GH 174 by Watkins, Eric (A04458667)
 - **C00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at CENTR 101 by West, Geoffrey Scott (A53026654)
 - **C00** (Final Exam) at 8:00 am–10:59 am on Tuesday at CENTR 101 by West, Geoffrey Scott (A53026654)
 - **C01** (Discussion) at 12:00 pm–12:50 pm on Tuesday at APM 2301 by West, Geoffrey Scott (A53026654)
@@ -28,5 +29,7 @@
 - **C04** (Discussion) at 12:00 pm–12:50 pm on Wednesday at CENTR 203 by West, Geoffrey Scott (A53026654)
 - **C05** (Discussion) at 3:00 pm–3:50 pm on Tuesday at RCLAS R102 by West, Geoffrey Scott (A53026654)
 - **C06** (Discussion) at 4:00 pm–4:50 pm on Tuesday at RCLAS R02 by West, Geoffrey Scott (A53026654)
+- **C07** (Discussion) at 2:00 pm–2:50 pm on Tuesday at CENTR 207 by West, Geoffrey Scott (A53026654)
+- **C08** (Discussion) at 3:00 pm–3:50 pm on Tuesday at CENTR 207 by West, Geoffrey Scott (A53026654)
 
 [Enrollment numbers over time](./HUM4.tsv)

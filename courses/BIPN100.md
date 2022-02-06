@@ -12,6 +12,8 @@
 - **A08** (Discussion) at 11:00 am–11:50 am on Friday at SEQUO 148 by Bloodgood, Brenda Laurie (A02379111)
 - **A09** (Discussion) at 4:00 pm–4:50 pm on Wednesday at SOLIS 110 by Bloodgood, Brenda Laurie (A02379111)
 - **A10** (Discussion) at 8:00 am–8:50 am on Monday at HSS 1128A by Bloodgood, Brenda Laurie (A02379111)
+- **A11** (Discussion) at 12:00 pm–12:50 pm on Friday at CENTR 203 by Bloodgood, Brenda Laurie (A02379111)
+- **A12** (Discussion) at 4:00 pm–4:50 pm on Monday at HSS 1305 by Bloodgood, Brenda Laurie (A02379111)
 - **B00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at PETER 110 by Cooke, James Edward (A13242428)
 - **B00** (Final Exam) at 8:00 am–10:59 am on Wednesday at PETER 110 by Cooke, James Edward (A13242428)
 - **B00** (Midterm) at 8:00 pm–9:50 pm on Wednesday at WLH 2001 by Cooke, James Edward (A13242428)

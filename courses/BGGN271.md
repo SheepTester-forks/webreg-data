@@ -116,5 +116,10 @@
 - **114** (Independent Study) (time and location TBA) by Zhong, Sheng (A11125413)
 - **115** (Independent Study) (time and location TBA) by Zhou, Huilin (A05106836)
 - **116** (Independent Study) (time and location TBA) by Zou, Yimin (A01180136)
+- **117** (Independent Study) (time and location TBA) by Hughes-Austin, Jan Marie (A13804464)
+- **118** (Independent Study) (time and location TBA) by Smith, David M. (A05726120)
+- **119** (Independent Study) (time and location TBA) by Fang, Xi (A16710602)
+- **120** (Independent Study) (time and location TBA) by Schlaepfer, David (A08872512)
+- **121** (Independent Study) (time and location TBA) by Wahlin, Karl Jonas (A13311609)
 
 [Enrollment numbers over time](./BGGN271.tsv)

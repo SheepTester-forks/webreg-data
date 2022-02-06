@@ -4,5 +4,6 @@
 - **B00** (Studio) at 2:00 pm–4:50 pm on Thursday at CPMC 336 by Steiger, Rand (A01009241)
 - **C00** (Studio) at 9:00 am–11:50 am on Wednesday at CPMC 336 by Liang, Lei (A08084663)
 - **D00** (Studio) at 2:00 pm–4:50 pm on Wednesday at CPMC 336 by Da Silva, Marcos Balter Ma (A16711321)
+- **E00** (Studio) (time and location TBA) by Reynolds, Roger L. (A01367872)
 
 [Enrollment numbers over time](./MUS203D.tsv)

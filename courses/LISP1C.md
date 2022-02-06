@@ -14,7 +14,7 @@
 - **012** (Tutorial) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at MCGIL 2330 by Munoz Sanchez, Alicia (A01395510)
 - **013** (Tutorial) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at MCGIL 2334 by Munoz Sanchez, Alicia (A01395510)
 - **014** (Tutorial) at 3:00 pm–3:50 pm on Monday, Wednesday, Friday at MCGIL 2342 by Munoz Sanchez, Alicia (A01395510)
-- **015** (Tutorial) at 3:00 pm–3:50 pm on Monday, Wednesday, Friday at MCGIL 2334 by Munoz Sanchez, Alicia (A01395510)
+- **015** (Tutorial) at 3:00 pm–3:50 pm on Monday, Wednesday, Friday at PCYNH 280 by Munoz Sanchez, Alicia (A01395510)
 - **016** (Tutorial) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at MCGIL 2322 by Munoz Sanchez, Alicia (A01395510)
 - **017** (Tutorial) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at MCGIL 2330 by Munoz Sanchez, Alicia (A01395510)
 - **018** (Tutorial) at 10:00 am–10:50 am on Monday, Wednesday, Friday at MCGIL 2322 by Munoz Sanchez, Alicia (A01395510)

@@ -11,6 +11,6 @@
 - **009** (Lab) at 12:00 pm–1:50 pm on Wednesday at MAYER 2110 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
 - **010** (Lab) at 4:00 pm–5:50 pm on Wednesday at MAYER 2110 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
 - **011** (Lab) at 6:00 pm–7:50 pm on Wednesday at MAYER 2110 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
-- **012** (Lab) at 8:00 am–9:50 am on Thursday at MAYER 2110 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **012** (Lab) (time and location TBA) by staff
 
 [Enrollment numbers over time](./PHYS1CL.tsv)

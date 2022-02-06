@@ -1,7 +1,7 @@
 **SOCI 126**: Social Organization/Education (4 units)
 
-- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at CENTR 109 by Pitt, Richard Norris (A16637576)
-- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at CENTR 109 by Pitt, Richard Norris (A16637576)
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at PETER 104 by Pitt, Richard Norris (A16637576)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at PETER 104 by Pitt, Richard Norris (A16637576)
 - **A01** (Discussion) (time and location TBA) by Pitt, Richard Norris (A16637576)
 - **A02** (Discussion) (time and location TBA) by Pitt, Richard Norris (A16637576)
 

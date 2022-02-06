@@ -40,5 +40,12 @@
 - **038** (Independent Study) (time and location TBA) by Kleinfeld, David (A01876659)
 - **039** (Independent Study) (time and location TBA) by Risbrough, Victoria Blythe (A01094926)
 - **040** (Independent Study) (time and location TBA) by Lovett-Barron, Matthew Rod (A16710980)
+- **041** (Independent Study) (time and location TBA) by Wang, Jing (A06348803)
+- **042** (Independent Study) (time and location TBA) by Mattar, Marcelo G (A16688714)
+- **043** (Independent Study) (time and location TBA) by Benna, Marcus K (A16185113)
+- **044** (Independent Study) (time and location TBA) by Palmer, Abraham Amos (A01340830)
+- **045** (Independent Study) (time and location TBA) by Gilja, Vikash (A11788064)
+- **046** (Independent Study) (time and location TBA) by Jernigan, Terry Lynne (A01211284)
+- **047** (Independent Study) (time and location TBA) by Coufal, Nicole Gabriele (A05087039)
 
 [Enrollment numbers over time](./NEUG299.tsv)

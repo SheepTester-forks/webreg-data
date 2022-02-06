@@ -10,5 +10,6 @@
 - **H00** (Discussion) (time and location TBA) by Som, Brandon D (A14294814)
 - **I00** (Discussion) (time and location TBA) by Forbes, Camille (A05103929)
 - **J00** (Discussion) (time and location TBA) by Ruiz Blanco, Angel (A17123567)
+- **K00** (Discussion) (time and location TBA) by Fiss, Geraldine Anna (A17249593)
 
 [Enrollment numbers over time](./LTWL500.tsv)

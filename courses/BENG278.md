@@ -1,0 +1,7 @@
+**BENG 278**: Magnetic Resonance Imaging (4 units)
+
+- **A00** (Lecture) at 1:00 pm–1:50 pm on Monday at   by Wong, Eric Che (A01165560),Contijoch, Francisco (A15367100)
+- **A01** (Lab) at 2:00 pm–3:50 pm on Wednesday at   by Wong, Eric Che (A01165560),Contijoch, Francisco (A15367100)
+- **A01** (Lab) at 7:00 pm–8:50 pm on Thursday at   by Wong, Eric Che (A01165560),Contijoch, Francisco (A15367100)
+
+[Enrollment numbers over time](./BENG278.tsv)

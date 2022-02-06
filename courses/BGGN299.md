@@ -101,5 +101,6 @@
 - **099** (Independent Study) (time and location TBA) by Zuniga, Elina I (A08599249)
 - **100** (Independent Study) (time and location TBA) by Yeo, Eugene Wei-Ming (A06896636)
 - **101** (Independent Study) (time and location TBA) by Knight, Robin (A12730412)
+- **102** (Independent Study) (time and location TBA) by Zengler, Karsten B (A14277367)
 
 [Enrollment numbers over time](./BGGN299.tsv)

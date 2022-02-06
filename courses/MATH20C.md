@@ -10,7 +10,7 @@
 - **A04** (Discussion) at 8:00 pm–8:50 pm on Thursday at HSS 2321 by Zhang, Ming (A17248288)
 - **A05** (Discussion) at 5:00 pm–5:50 pm on Thursday at APM B402A by Zhang, Ming (A17248288)
 - **A06** (Discussion) at 6:00 pm–6:50 pm on Thursday at APM B402A by Zhang, Ming (A17248288)
-- **B00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at GA AUD by Salehi Golsefidy, Alireza (A10392871)
+- **B00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at JEANN AUD by Salehi Golsefidy, Alireza (A10392871)
 - **B00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at PETER 108 by Salehi Golsefidy, Alireza (A10392871)
 - **B00** (Midterm) at 7:00 pm–8:50 pm on Friday at PETER 108 by Salehi Golsefidy, Alireza (A10392871)
 - **B00** (Midterm) at 7:00 pm–8:50 pm on Friday at PETER 108 by Salehi Golsefidy, Alireza (A10392871)
@@ -28,8 +28,8 @@
 - **B12** (Discussion) at 7:00 pm–7:50 pm on Thursday at CENTR 217B by Salehi Golsefidy, Alireza (A10392871)
 - **B13** (Discussion) at 8:00 pm–8:50 pm on Thursday at CENTR 217B by Salehi Golsefidy, Alireza (A10392871)
 - **B14** (Discussion) at 1:00 pm–1:50 pm on Thursday at APM 2402 by Salehi Golsefidy, Alireza (A10392871)
-- **B15** (Discussion) at 7:00 pm–7:50 pm on Thursday at MANDE B-104 by Salehi Golsefidy, Alireza (A10392871)
-- **B16** (Discussion) at 8:00 pm–8:50 pm on Thursday at MANDE B-104 by Salehi Golsefidy, Alireza (A10392871)
+- **B15** (Discussion) (time and location TBA) by staff
+- **B16** (Discussion) (time and location TBA) by staff
 - **B17** (Discussion) at 10:00 am–10:50 am on Thursday at APM 5402 by Salehi Golsefidy, Alireza (A10392871)
 - **B18** (Discussion) at 6:00 pm–6:50 pm on Thursday at APM 2402 by Salehi Golsefidy, Alireza (A10392871)
 - **B19** (Discussion) at 9:00 am–9:50 am on Thursday at APM 5402 by Salehi Golsefidy, Alireza (A10392871)

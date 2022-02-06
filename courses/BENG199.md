@@ -26,5 +26,7 @@
 - **024** (Independent Study) (time and location TBA) by Zhong, Sheng (A11125413)
 - **025** (Independent Study) (time and location TBA) by Smarr, Benjamin (A06333744)
 - **026** (Independent Study) (time and location TBA) by Valdez-Jasso, Daniela (A15367887)
+- **027** (Independent Study) (time and location TBA) by Jung, Tzyy-Ping (A10405523)
+- **028** (Independent Study) (time and location TBA) by Ren, Bing (A05088628)
 
 [Enrollment numbers over time](./BENG199.tsv)

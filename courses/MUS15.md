@@ -10,5 +10,6 @@
 - **A06** (Discussion) at 11:00 am–11:50 am on Friday at CPMC 145 by Schulmeister, Kathryn Crandall (A53242261)
 - **A07** (Discussion) at 12:00 pm–12:50 pm on Friday at CPMC 145 by Schulmeister, Kathryn Crandall (A53242261)
 - **A08** (Discussion) at 1:00 pm–1:50 pm on Friday at CPMC 145 by Schulmeister, Kathryn Crandall (A53242261)
+- **A09** (Discussion) (time and location TBA) by staff
 
 [Enrollment numbers over time](./MUS15.tsv)
