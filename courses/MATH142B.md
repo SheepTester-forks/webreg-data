@@ -1,0 +1,16 @@
+**MATH 142B**: Introduction to Analysis II (4 units)
+
+- **A00** (Lecture) at 12:00 pm–12:50 pm on Monday, Wednesday, Friday at WLH 2111 by Copeland, Daniel Reuben (A53069238)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at WLH 2111 by Copeland, Daniel Reuben (A53069238)
+- **A01** (Discussion) at 4:00 pm–4:50 pm on Wednesday at SEQUO 148 by Copeland, Daniel Reuben (A53069238)
+- **A02** (Discussion) at 5:00 pm–5:50 pm on Wednesday at SEQUO 148 by Copeland, Daniel Reuben (A53069238)
+- **B00** (Lecture) at 3:00 pm–3:50 pm on Monday, Wednesday, Friday at WLH 2205 by Xu, Hang (A16185272)
+- **B00** (Final Exam) at 3:00 pm–5:59 pm on Wednesday at WLH 2205 by Xu, Hang (A16185272)
+- **B01** (Discussion) at 7:00 pm–7:50 pm on Thursday at APM 7321 by Xu, Hang (A16185272)
+- **B02** (Discussion) at 8:00 pm–8:50 pm on Thursday at APM 7321 by Xu, Hang (A16185272)
+- **C00** (Lecture) at 4:00 pm–4:50 pm on Monday, Wednesday, Friday at WLH 2111 by Belmont, Eva Kinoshita (A17248215)
+- **C00** (Final Exam) at 3:00 pm–5:59 pm on Friday at WLH 2111 by Belmont, Eva Kinoshita (A17248215)
+- **C01** (Discussion) at 6:00 pm–6:50 pm on Friday at APM 7321 by Belmont, Eva Kinoshita (A17248215)
+- **C02** (Discussion) at 7:00 pm–7:50 pm on Friday at APM 7321 by Belmont, Eva Kinoshita (A17248215)
+
+[Enrollment numbers over time](./MATH142B.tsv)

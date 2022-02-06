@@ -1,0 +1,16 @@
+**PHYS 1AL**: Mechanics Laboratory (2 units)
+
+- **001** (Lab) at 8:00 am–9:50 am on Tuesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **002** (Lab) at 10:00 am–11:50 am on Tuesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **003** (Lab) at 12:00 pm–1:50 pm on Tuesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **004** (Lab) at 2:00 pm–3:50 pm on Tuesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **005** (Lab) at 4:00 pm–5:50 pm on Tuesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **006** (Lab) at 6:00 pm–7:50 pm on Tuesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **007** (Lab) at 8:00 am–9:50 am on Wednesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **008** (Lab) at 11:00 am–12:50 pm on Wednesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **009** (Lab) at 1:00 pm–2:50 pm on Wednesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **010** (Lab) at 3:00 pm–4:50 pm on Wednesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **011** (Lab) at 5:00 pm–6:50 pm on Wednesday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+- **012** (Lab) at 8:00 am–9:50 am on Thursday at MAYER 2306 by Tsai, Philbert S (A00487028),Yagil, Avi (A08068564)
+
+[Enrollment numbers over time](./PHYS1AL.tsv)

@@ -1,0 +1,13 @@
+**BIEB 134**: Intro/Biological Oceanography (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at CTL 0125 by Barton, Andrew David (A14295296)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at CTL 0125 by Barton, Andrew David (A14295296)
+- **A01** (Discussion) at 8:00 am–8:50 am on Wednesday at HSS 2150 by Barton, Andrew David (A14295296)
+- **A02** (Discussion) at 10:00 am–10:50 am on Wednesday at WLH 2114 by Barton, Andrew David (A14295296)
+- **A03** (Discussion) at 10:00 am–10:50 am on Wednesday at HSS 2150 by Barton, Andrew David (A14295296)
+- **A04** (Discussion) at 5:00 pm–5:50 pm on Wednesday at WLH 2112 by Barton, Andrew David (A14295296)
+- **A05** (Discussion) at 2:00 pm–2:50 pm on Wednesday at HSS 2154 by Barton, Andrew David (A14295296)
+- **A06** (Discussion) at 8:00 pm–8:50 pm on Wednesday at WLH 2208 by Barton, Andrew David (A14295296)
+- **A07** (Discussion) at 7:00 pm–7:50 pm on Wednesday at HSS 2154 by Barton, Andrew David (A14295296)
+
+[Enrollment numbers over time](./BIEB134.tsv)

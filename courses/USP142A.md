@@ -1,0 +1,6 @@
+**USP 142A**: Urban Chal. Homelessness I (4 units)
+
+- **A00** (Lecture) at 12:30 pm–1:50 pm on Tuesday, Thursday at HSS 2152 by Bussell, Mirle Rabinowitz (A02398089)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Tuesday at HSS 2152 by Bussell, Mirle Rabinowitz (A02398089)
+
+[Enrollment numbers over time](./USP142A.tsv)

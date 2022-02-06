@@ -1,0 +1,18 @@
+**VIS 70N**: Introduction to Media (6 units)
+
+- **A00** (Lecture) at 5:00 pm–7:50 pm on Tuesday at HSS 1330 by Cross, Brian R (A11804090)
+- **A00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at CENTR 214 by Cross, Brian R (A11804090)
+- **A01** (Lab) at 9:00 am–11:50 am on Monday at MANDE B111E by Cross, Brian R (A11804090)
+- **A01** (Lab) at 9:00 am–11:50 am on Wednesday at MCC 222 by Cross, Brian R (A11804090)
+- **A02** (Lab) at 9:00 am–11:50 am on Monday at MANDE B111E by Cross, Brian R (A11804090)
+- **A02** (Lab) at 9:00 am–11:50 am on Friday at MCC 222 by Cross, Brian R (A11804090)
+- **A03** (Lab) at 12:00 pm–2:50 pm on Monday at MANDE B111E by Cross, Brian R (A11804090)
+- **A03** (Lab) at 12:00 pm–2:50 pm on Wednesday at MCC 222 by Cross, Brian R (A11804090)
+- **A04** (Lab) at 12:00 pm–2:50 pm on Monday at MANDE B111E by Cross, Brian R (A11804090)
+- **A04** (Lab) at 12:00 pm–2:50 pm on Friday at MCC 222 by Cross, Brian R (A11804090)
+- **A05** (Lab) at 9:30 am–12:20 pm on Tuesday at MANDE B111E by Cross, Brian R (A11804090)
+- **A05** (Lab) at 9:30 am–12:20 pm on Thursday at MCC 222 by Cross, Brian R (A11804090)
+- **A06** (Lab) at 9:30 am–12:20 pm on Tuesday at MANDE B111E by Cross, Brian R (A11804090)
+- **A06** (Lab) at 12:30 pm–3:20 pm on Thursday at MCC 222 by Cross, Brian R (A11804090)
+
+[Enrollment numbers over time](./VIS70N.tsv)

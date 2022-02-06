@@ -1,0 +1,8 @@
+**MUS 203D**: Advanced Prjcts in Composition (1–4 units, by 1)
+
+- **A00** (Studio) at 2:00 pm–4:50 pm on Thursday at CPMC 352 by Ung, Chinary (A01892613)
+- **B00** (Studio) at 2:00 pm–4:50 pm on Thursday at CPMC 336 by Steiger, Rand (A01009241)
+- **C00** (Studio) at 9:00 am–11:50 am on Wednesday at CPMC 336 by Liang, Lei (A08084663)
+- **D00** (Studio) at 2:00 pm–4:50 pm on Wednesday at CPMC 336 by Da Silva, Marcos Balter Ma (A16711321)
+
+[Enrollment numbers over time](./MUS203D.tsv)

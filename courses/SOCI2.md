@@ -1,0 +1,18 @@
+**SOCI 2**: The Study of Society (4 units)
+
+- **A00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at PETER 108 by Raudenbush, Danielle (A12507795)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Friday at PETER 108 by Raudenbush, Danielle (A12507795)
+- **A01** (Discussion) at 8:00 am–8:50 am on Monday at SSB 101 by Raudenbush, Danielle (A12507795)
+- **A02** (Discussion) at 9:00 am–9:50 am on Monday at SSB 101 by Raudenbush, Danielle (A12507795)
+- **A03** (Discussion) at 3:00 pm–3:50 pm on Monday at HSS 1305 by Raudenbush, Danielle (A12507795)
+- **A04** (Discussion) at 4:00 pm–4:50 pm on Monday at CENTR 205 by Raudenbush, Danielle (A12507795)
+- **A05** (Discussion) at 9:00 am–9:50 am on Tuesday at TM102 1 by Raudenbush, Danielle (A12507795)
+- **A06** (Discussion) at 10:00 am–10:50 am on Tuesday at TM102 1 by Raudenbush, Danielle (A12507795)
+- **A07** (Discussion) at 10:00 am–10:50 am on Wednesday at SSB 101 by Raudenbush, Danielle (A12507795)
+- **A08** (Discussion) at 11:00 am–11:50 am on Wednesday at SSB 101 by Raudenbush, Danielle (A12507795)
+- **A09** (Discussion) at 3:00 pm–3:50 pm on Wednesday at CENTR 217B by Raudenbush, Danielle (A12507795)
+- **A10** (Discussion) at 4:00 pm–4:50 pm on Wednesday at HSS 1305 by Raudenbush, Danielle (A12507795)
+- **A11** (Discussion) at 10:00 am–10:50 am on Friday at HSS 1305 by Raudenbush, Danielle (A12507795)
+- **A12** (Discussion) at 11:00 am–11:50 am on Friday at CENTR 220 by Raudenbush, Danielle (A12507795)
+
+[Enrollment numbers over time](./SOCI2.tsv)

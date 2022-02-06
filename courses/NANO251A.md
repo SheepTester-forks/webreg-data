@@ -1,0 +1,6 @@
+**NANO 251A**: Magnetic Materials:Princp&Appl (4 units)
+
+- **A00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at PCYNH 120 by Fullerton, Eric E (A00631939)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Thursday at PCYNH 120 by Fullerton, Eric E (A00631939)
+
+[Enrollment numbers over time](./NANO251A.tsv)

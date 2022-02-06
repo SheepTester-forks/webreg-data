@@ -1,0 +1,16 @@
+**CSE 8A**: Intro to Programming 1 (4 units)
+
+- **A00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at GH 242 by Cao, Yingjun (A13242396)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Thursday at GH 242 by Cao, Yingjun (A13242396)
+- **A01** (Discussion) at 7:00 pm–7:50 pm on Wednesday at PCYNH 106 by Cao, Yingjun (A13242396)
+- **A02** (Discussion) at 8:00 pm–8:50 pm on Wednesday at PCYNH 106 by Cao, Yingjun (A13242396)
+- **A50** (Lab) at 4:00 pm–4:50 pm on Thursday at EBU3B B230 by Cao, Yingjun (A13242396)
+- **A51** (Lab) at 5:00 pm–5:50 pm on Thursday at EBU3B B230 by Cao, Yingjun (A13242396)
+- **A52** (Lab) at 10:00 am–10:50 am on Thursday at EBU3B B230 by Cao, Yingjun (A13242396)
+- **A53** (Lab) at 11:00 am–11:50 am on Thursday at EBU3B B230 by Cao, Yingjun (A13242396)
+- **A54** (Lab) at 12:00 pm–12:50 pm on Thursday at EBU3B B230 by Cao, Yingjun (A13242396)
+- **A55** (Lab) at 1:00 pm–1:50 pm on Thursday at EBU3B B230 by Cao, Yingjun (A13242396)
+- **A56** (Lab) at 2:00 pm–2:50 pm on Thursday at EBU3B B230 by Cao, Yingjun (A13242396)
+- **A57** (Lab) at 3:00 pm–3:50 pm on Thursday at EBU3B B230 by Cao, Yingjun (A13242396)
+
+[Enrollment numbers over time](./CSE8A.tsv)

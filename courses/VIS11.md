@@ -1,0 +1,18 @@
+**VIS 11**: Introduction to Visual Culture (4 units)
+
+- **A00** (Lecture) at 7:30 pm–8:50 pm on Monday, Wednesday at RCLAS R03 by Cartwright, Lisa (A05103879)
+- **A00** (Final Exam) at 7:00 pm–9:59 pm on Friday at RCLAS R01 by Cartwright, Lisa (A05103879)
+- **A01** (Discussion) at 12:30 pm–3:20 pm on Tuesday at RCLAS R10 by Cartwright, Lisa (A05103879)
+- **A02** (Discussion) at 12:30 pm–3:20 pm on Tuesday at RCLAS R11 by Cartwright, Lisa (A05103879)
+- **A03** (Discussion) at 3:30 pm–6:20 pm on Tuesday at RCLAS R10 by Cartwright, Lisa (A05103879)
+- **A04** (Discussion) at 3:30 pm–6:20 pm on Tuesday at RCLAS R11 by Cartwright, Lisa (A05103879)
+- **A05** (Discussion) at 9:00 am–11:50 am on Wednesday at RCLAS R10 by Cartwright, Lisa (A05103879)
+- **A06** (Discussion) at 9:00 am–11:50 am on Wednesday at RCLAS R11 by Cartwright, Lisa (A05103879)
+- **A07** (Discussion) at 9:30 am–12:20 pm on Thursday at RCLAS R10 by Cartwright, Lisa (A05103879)
+- **A08** (Discussion) at 9:30 am–12:20 pm on Thursday at RCLAS R11 by Cartwright, Lisa (A05103879)
+- **A09** (Discussion) at 12:30 pm–3:20 pm on Thursday at RCLAS R10 by Cartwright, Lisa (A05103879)
+- **A10** (Discussion) at 12:30 pm–3:20 pm on Thursday at RCLAS R11 by Cartwright, Lisa (A05103879)
+- **A11** (Discussion) at 3:30 pm–6:20 pm on Thursday at RCLAS R10 by Cartwright, Lisa (A05103879)
+- **A12** (Discussion) at 3:30 pm–6:20 pm on Thursday at RCLAS R11 by Cartwright, Lisa (A05103879)
+
+[Enrollment numbers over time](./VIS11.tsv)

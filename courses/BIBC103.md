@@ -1,0 +1,15 @@
+**BIBC 103**: Biochemical Techniques (4 units)
+
+- **A00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at CENTR 212 by Coleman, Aaron B. (A07497031)
+- **A01** (Lab) at 10:00 am–1:50 pm on Wednesday, Friday at YORK 3306 by Coleman, Aaron B. (A07497031)
+- **A02** (Lab) at 10:00 am–1:50 pm on Wednesday, Friday at YORK 3406 by Coleman, Aaron B. (A07497031)
+- **A03** (Lab) at 2:30 pm–6:20 pm on Wednesday, Friday at YORK 3306 by Coleman, Aaron B. (A07497031)
+- **A04** (Lab) at 2:30 pm–6:20 pm on Wednesday, Friday at YORK 3406 by Coleman, Aaron B. (A07497031)
+- **B00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at SEQUO 147 by Soowal, Lara (A00730142)
+- **B01** (Lab) at 9:30 am–1:20 pm on Tuesday, Thursday at YORK 3306 by Soowal, Lara (A00730142)
+- **B02** (Lab) at 9:30 am–1:20 pm on Tuesday, Thursday at YORK 3406 by Soowal, Lara (A00730142)
+- **C00** (Lecture) at 12:30 pm–1:50 pm on Tuesday, Thursday at RWAC 0103 by Burg, Michael (A13380811)
+- **C01** (Lab) at 2:00 pm–5:50 pm on Tuesday, Thursday at YORK 3306 by Burg, Michael (A13380811)
+- **C02** (Lab) at 2:00 pm–5:50 pm on Tuesday, Thursday at YORK 3406 by Burg, Michael (A13380811)
+
+[Enrollment numbers over time](./BIBC103.tsv)

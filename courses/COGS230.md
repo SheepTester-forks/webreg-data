@@ -1,0 +1,6 @@
+**COGS 230**: Interaction Design Research (4 units)
+
+- **A00** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at CSB 180 by Klemmer, Scott R (A11768628)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Thursday at CSB 272 by Klemmer, Scott R (A11768628)
+
+[Enrollment numbers over time](./COGS230.tsv)

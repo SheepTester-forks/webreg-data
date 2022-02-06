@@ -1,0 +1,6 @@
+**ANAR 164**: Underwater Archaeology (4 units)
+
+- **A00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at REV SOUTH by Rivera-Collazo, Isabel C (A14294748)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Thursday at ECKRT 227 by Rivera-Collazo, Isabel C (A14294748)
+
+[Enrollment numbers over time](./ANAR164.tsv)

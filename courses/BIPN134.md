@@ -1,0 +1,18 @@
+**BIPN 134**: Human Reproduction (4 units)
+
+- **A00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at GH 242 by Cooke, James Edward (A13242428)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Thursday at GH 242 by Cooke, James Edward (A13242428)
+- **A01** (Discussion) at 5:00 pm–5:50 pm on Monday at HSS 1128A by Cooke, James Edward (A13242428)
+- **A02** (Discussion) at 6:00 pm–6:50 pm on Monday at HSS 1128A by Cooke, James Edward (A13242428)
+- **A03** (Discussion) at 7:00 pm–7:50 pm on Monday at HSS 1128A by Cooke, James Edward (A13242428)
+- **A04** (Discussion) at 8:00 pm–8:50 pm on Monday at HSS 1128A by Cooke, James Edward (A13242428)
+- **A05** (Discussion) at 2:00 pm–2:50 pm on Wednesday at HSS 1128A by Cooke, James Edward (A13242428)
+- **A06** (Discussion) at 3:00 pm–3:50 pm on Wednesday at HSS 1128A by Cooke, James Edward (A13242428)
+- **A07** (Discussion) at 4:00 pm–4:50 pm on Wednesday at HSS 1128A by Cooke, James Edward (A13242428)
+- **A08** (Discussion) at 11:00 am–11:50 am on Friday at TM102 1 by Cooke, James Edward (A13242428)
+- **A09** (Discussion) at 3:00 pm–3:50 pm on Friday at SOLIS 109 by Cooke, James Edward (A13242428)
+- **A10** (Discussion) at 4:00 pm–4:50 pm on Friday at SOLIS 109 by Cooke, James Edward (A13242428)
+- **A11** (Discussion) at 6:00 pm–6:50 pm on Friday at TM102 1 by Cooke, James Edward (A13242428)
+- **A12** (Discussion) at 7:00 pm–7:50 pm on Thursday at CENTR 218 by Cooke, James Edward (A13242428)
+
+[Enrollment numbers over time](./BIPN134.tsv)

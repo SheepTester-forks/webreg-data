@@ -1,0 +1,17 @@
+**CSE 12**: Basic Data Struct & OO Design (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at GA AUD by Cao, Yingjun (A13242396)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Saturday at GA AUD by Cao, Yingjun (A13242396)
+- **A01** (Discussion) at 5:00 pm–5:50 pm on Monday at HSS 1330 by Cao, Yingjun (A13242396)
+- **A02** (Discussion) at 6:00 pm–6:50 pm on Monday at HSS 1330 by Cao, Yingjun (A13242396)
+- **A03** (Discussion) at 7:00 pm–7:50 pm on Monday at CENTR 109 by Cao, Yingjun (A13242396)
+- **A04** (Discussion) at 8:00 pm–8:50 pm on Monday at CENTR 109 by Cao, Yingjun (A13242396)
+- **B00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday, Friday at MOS 0113 by Alvarado, Christine J. (A11066121)
+- **B00** (Final Exam) at 8:00 am–10:59 am on Saturday at CTL 0125 by Alvarado, Christine J. (A11066121)
+- **B01** (Discussion) at 2:00 pm–2:50 pm on Monday at RWAC 0115 by Alvarado, Christine J. (A11066121)
+- **B02** (Discussion) at 3:00 pm–3:50 pm on Monday at RWAC 0115 by Alvarado, Christine J. (A11066121)
+- **B03** (Discussion) at 5:00 pm–5:50 pm on Monday at WLH 2207 by Alvarado, Christine J. (A11066121)
+- **B04** (Discussion) at 6:00 pm–6:50 pm on Monday at WLH 2207 by Alvarado, Christine J. (A11066121)
+- **B05** (Discussion) at 7:00 pm–7:50 pm on Monday at WLH 2207 by Alvarado, Christine J. (A11066121)
+
+[Enrollment numbers over time](./CSE12.tsv)

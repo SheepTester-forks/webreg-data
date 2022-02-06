@@ -1,0 +1,6 @@
+**SOCI 188**: Field Research in Migrant Comm (8 units)
+
+- **A00** (Seminar) at 12:00 pm–2:50 pm on Monday at SSB 101 by Andrews, Abigail Leslie (A09746224)
+- **A01** (Fieldwork) (time and location TBA) by Andrews, Abigail Leslie (A09746224)
+
+[Enrollment numbers over time](./SOCI188.tsv)

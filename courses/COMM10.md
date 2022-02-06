@@ -1,0 +1,16 @@
+**COMM 10**: Introduction to Communication (4 units)
+
+- **A00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at CTL 0125 by Schmidt, Thomas Rainer (A16181469)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Monday at CTL 0125 by Schmidt, Thomas Rainer (A16181469)
+- **A01** (Discussion) at 12:00 pm–12:50 pm on Monday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+- **A02** (Discussion) at 2:00 pm–2:50 pm on Monday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+- **A03** (Discussion) at 6:00 pm–6:50 pm on Monday at HSS 2152 by Schmidt, Thomas Rainer (A16181469)
+- **A04** (Discussion) at 1:00 pm–1:50 pm on Tuesday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+- **A05** (Discussion) at 5:00 pm–5:50 pm on Tuesday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+- **A06** (Discussion) at 10:00 am–10:50 am on Wednesday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+- **A07** (Discussion) at 1:00 pm–1:50 pm on Thursday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+- **A08** (Discussion) at 1:00 pm–1:50 pm on Friday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+- **A09** (Discussion) at 2:00 pm–2:50 pm on Thursday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+- **A10** (Discussion) at 12:00 pm–12:50 pm on Friday at MCC 201 by Schmidt, Thomas Rainer (A16181469)
+
+[Enrollment numbers over time](./COMM10.tsv)

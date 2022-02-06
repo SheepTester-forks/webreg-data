@@ -1,0 +1,15 @@
+**COGS 210B**: Introduction to Research (4 units)
+
+- **001** (Tutorial) (time and location TBA) by Mattar, Marcelo G (A16688714)
+- **002** (Tutorial) (time and location TBA) by Kiyonaga, Anastasia (A16188599)
+- **003** (Tutorial) (time and location TBA) by De Sa, Virginia (A04511993)
+- **004** (Tutorial) (time and location TBA) by Chiba, Andrea (A02380783)
+- **005** (Tutorial) (time and location TBA) by Yu, Angela J. (A09747103)
+- **006** (Tutorial) (time and location TBA) by Bergen, Benjamin (A09684414)
+- **007** (Tutorial) (time and location TBA) by Creel, Sarah (A08082601)
+- **008** (Tutorial) (time and location TBA) by Voytek, Bradley Thomas (A12501924)
+- **009** (Tutorial) (time and location TBA) by Boroditsky, Lera (A11768568)
+- **010** (Tutorial) (time and location TBA) by Mukamel, Eran A (A12510573)
+- **011** (Tutorial) (time and location TBA) by Coulson, Seana M (A01915525)
+
+[Enrollment numbers over time](./COGS210B.tsv)

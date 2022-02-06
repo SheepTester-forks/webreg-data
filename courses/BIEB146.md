@@ -1,0 +1,15 @@
+**BIEB 146**: Genome Diversity and Dynamics (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at GH 242 by Petrie, Katherine Lynn (A14278161)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at GH 242 by Petrie, Katherine Lynn (A14278161)
+- **A01** (Discussion) at 8:00 am–8:50 am on Monday at WLH 2209 by Petrie, Katherine Lynn (A14278161)
+- **A02** (Discussion) at 9:00 am–9:50 am on Monday at WLH 2209 by Petrie, Katherine Lynn (A14278161)
+- **A03** (Discussion) at 11:00 am–11:50 am on Monday at HSS 2150 by Petrie, Katherine Lynn (A14278161)
+- **A04** (Discussion) at 12:00 pm–12:50 pm on Monday at HSS 2150 by Petrie, Katherine Lynn (A14278161)
+- **A05** (Discussion) at 3:00 pm–3:50 pm on Monday at CENTR 217B by Petrie, Katherine Lynn (A14278161)
+- **A06** (Discussion) at 4:00 pm–4:50 pm on Monday at CENTR 217B by Petrie, Katherine Lynn (A14278161)
+- **A07** (Discussion) at 5:00 pm–5:50 pm on Monday at HSS 1305 by Petrie, Katherine Lynn (A14278161)
+- **A08** (Discussion) at 7:00 pm–7:50 pm on Monday at HSS 1315 by Petrie, Katherine Lynn (A14278161)
+- **A09** (Discussion) at 8:00 pm–8:50 pm on Monday at HSS 1315 by Petrie, Katherine Lynn (A14278161)
+
+[Enrollment numbers over time](./BIEB146.tsv)

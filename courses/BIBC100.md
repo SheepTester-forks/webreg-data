@@ -1,0 +1,15 @@
+**BIBC 100**: Structural Biochemistry (4 units)
+
+- **A00** (Lecture) at 3:30 pm–4:50 pm on Tuesday, Thursday at GH 242 by Hui, Enfu (A14295010)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Tuesday at GH 242 by Hui, Enfu (A14295010)
+- **A01** (Discussion) at 8:00 am–8:50 am on Wednesday at HSS 2154 by Hui, Enfu (A14295010)
+- **A02** (Discussion) at 10:00 am–10:50 am on Wednesday at HSS 2154 by Hui, Enfu (A14295010)
+- **A03** (Discussion) at 11:00 am–11:50 am on Wednesday at HSS 2154 by Hui, Enfu (A14295010)
+- **A04** (Discussion) at 12:00 pm–12:50 pm on Wednesday at HSS 2154 by Hui, Enfu (A14295010)
+- **A05** (Discussion) at 1:00 pm–1:50 pm on Friday at HSS 2154 by Hui, Enfu (A14295010)
+- **A06** (Discussion) at 2:00 pm–2:50 pm on Friday at HSS 2154 by Hui, Enfu (A14295010)
+- **A07** (Discussion) at 3:00 pm–3:50 pm on Friday at HSS 2154 by Hui, Enfu (A14295010)
+- **A08** (Discussion) at 4:00 pm–4:50 pm on Friday at HSS 2154 by Hui, Enfu (A14295010)
+- **A09** (Discussion) at 11:00 am–11:50 am on Friday at APM 2301 by Hui, Enfu (A14295010)
+
+[Enrollment numbers over time](./BIBC100.tsv)

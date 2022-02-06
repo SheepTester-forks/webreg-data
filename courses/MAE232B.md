@@ -1,0 +1,6 @@
+**MAE 232B**: Finite Elemnt in Solid Mech II (4 units)
+
+- **A00** (Lecture) at 5:00 pm–6:20 pm on Tuesday, Thursday at WLH 2206 by Chen, Jiun-Shyan (A11833225)
+- **A00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at WLH 2206 by Chen, Jiun-Shyan (A11833225)
+
+[Enrollment numbers over time](./MAE232B.tsv)

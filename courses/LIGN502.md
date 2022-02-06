@@ -1,0 +1,14 @@
+**LIGN 502**: Apprentice Teaching/Linguistcs (1–4 units, by 1)
+
+- **001** (Practicum) (time and location TBA) by Kluender, Robert (A00359932)
+- **002** (Practicum) (time and location TBA) by Kehler, Andrew Scott (A03221050)
+- **003** (Practicum) (time and location TBA) by Styler, William Francis (A15751640)
+- **004** (Practicum) (time and location TBA) by Caballero, Gabriela Hernandez (A09681713)
+- **005** (Practicum) (time and location TBA) by staff
+- **006** (Practicum) (time and location TBA) by Munoz Sanchez, Alicia (A01395510)
+- **007** (Practicum) (time and location TBA) by Yuan, Michelle (A16168111)
+- **008** (Practicum) (time and location TBA) by Mayberry, Rachel (A06898490)
+- **009** (Practicum) (time and location TBA) by McIntosh, Justin Daniel (A15373690)
+- **010** (Practicum) (time and location TBA) by Garellek, Marc (A11781746)
+
+[Enrollment numbers over time](./LIGN502.tsv)

@@ -1,0 +1,18 @@
+**HILD 7A**: Race & Ethnicity/United States (4 units)
+
+- **A00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at PETER 108 by Widener, Daniel (A05103898)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Thursday at PETER 108 by Widener, Daniel (A05103898)
+- **A01** (Discussion) at 7:00 pm–7:50 pm on Wednesday at SOLIS 109 by Widener, Daniel (A05103898)
+- **A02** (Discussion) at 8:00 pm–8:50 pm on Wednesday at SOLIS 109 by Widener, Daniel (A05103898)
+- **A03** (Discussion) at 8:00 am–8:50 am on Wednesday at SEQUO 147 by Widener, Daniel (A05103898)
+- **A04** (Discussion) at 9:00 am–9:50 am on Wednesday at SEQUO 147 by Widener, Daniel (A05103898)
+- **A05** (Discussion) at 4:00 pm–4:50 pm on Wednesday at SEQUO 147 by Widener, Daniel (A05103898)
+- **A06** (Discussion) at 10:00 am–10:50 am on Wednesday at HSS 2321 by Widener, Daniel (A05103898)
+- **A07** (Discussion) at 12:00 pm–12:50 pm on Wednesday at SEQUO 147 by Widener, Daniel (A05103898)
+- **A08** (Discussion) at 2:00 pm–2:50 pm on Friday at HSS 1315 by Widener, Daniel (A05103898)
+- **A09** (Discussion) at 3:00 pm–3:50 pm on Friday at HSS 1315 by Widener, Daniel (A05103898)
+- **A10** (Discussion) at 4:00 pm–4:50 pm on Friday at HSS 1315 by Widener, Daniel (A05103898)
+- **A11** (Discussion) at 6:00 pm–6:50 pm on Friday at HSS 1315 by Widener, Daniel (A05103898)
+- **A12** (Discussion) at 10:00 am–10:50 am on Friday at HSS 2321 by Widener, Daniel (A05103898)
+
+[Enrollment numbers over time](./HILD7A.tsv)
