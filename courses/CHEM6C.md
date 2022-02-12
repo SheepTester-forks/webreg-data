@@ -15,8 +15,6 @@
 - **A09** (Discussion) at 5:00 pm–5:50 pm on Friday at WLH 2112 by Pomeroy, Robert S. (A00552928)
 - **B00** (Lecture) at 12:30 pm–1:50 pm on Tuesday, Thursday at YORK 2722 by Brydges, Stacey (A08616776)
 - **B00** (Final Exam) at 11:30 am–2:29 pm on Monday at YORK 2722 by Brydges, Stacey (A08616776)
-- **B00** (Midterm) at 10:00 am–11:50 am on Saturday at SOLIS 107 by Brydges, Stacey (A08616776)
-- **B00** (Midterm) at 10:00 am–11:50 am on Saturday at SOLIS 107 by Brydges, Stacey (A08616776)
 - **B01** (Discussion) at 8:00 am–8:50 am on Friday at WLH 2206 by Brydges, Stacey (A08616776)
 - **B02** (Discussion) at 9:00 am–9:50 am on Friday at WLH 2206 by Brydges, Stacey (A08616776)
 - **B03** (Discussion) at 10:00 am–10:50 am on Friday at WLH 2114 by Brydges, Stacey (A08616776)
@@ -26,19 +24,19 @@
 - **B07** (Discussion) at 5:00 pm–5:50 pm on Friday at WLH 2115 by Brydges, Stacey (A08616776)
 - **B08** (Discussion) at 5:00 pm–5:50 pm on Friday at WLH 2114 by Brydges, Stacey (A08616776)
 - **B09** (Discussion) at 6:00 pm–6:50 pm on Friday at WLH 2114 by Brydges, Stacey (A08616776)
-- **C00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at YORK 2722 by staff
-- **C00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at WLH 2001 by staff
-- **C00** (Midterm) at 9:00 am–10:50 am on Saturday at WLH 2001 by staff
-- **C00** (Midterm) at 9:00 am–10:50 am on Saturday at WLH 2001 by staff
-- **C01** (Discussion) at 12:00 pm–12:50 pm on Monday at TM102 1 by staff
-- **C02** (Discussion) at 1:00 pm–1:50 pm on Monday at TM102 1 by staff
-- **C03** (Discussion) at 2:00 pm–2:50 pm on Monday at TM102 1 by staff
-- **C04** (Discussion) at 6:00 pm–6:50 pm on Wednesday at TM102 1 by staff
-- **C05** (Discussion) at 7:00 pm–7:50 pm on Wednesday at TM102 1 by staff
-- **C06** (Discussion) at 8:00 pm–8:50 pm on Wednesday at TM102 1 by staff
-- **C07** (Discussion) at 3:00 pm–3:50 pm on Friday at SEQUO 147 by staff
-- **C08** (Discussion) at 4:00 pm–4:50 pm on Friday at SEQUO 147 by staff
-- **C09** (Discussion) at 6:00 pm–6:50 pm on Friday at WLH 2112 by staff
+- **C00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at YORK 2722 by Jazzar, Rodolphe (A17258688)
+- **C00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at WLH 2001 by Jazzar, Rodolphe (A17258688)
+- **C00** (Midterm) at 9:00 am–10:50 am on Saturday at WLH 2001 by Jazzar, Rodolphe (A17258688)
+- **C00** (Midterm) at 9:00 am–10:50 am on Saturday at WLH 2001 by Jazzar, Rodolphe (A17258688)
+- **C01** (Discussion) at 12:00 pm–12:50 pm on Monday at TM102 1 by Jazzar, Rodolphe (A17258688)
+- **C02** (Discussion) at 1:00 pm–1:50 pm on Monday at TM102 1 by Jazzar, Rodolphe (A17258688)
+- **C03** (Discussion) at 2:00 pm–2:50 pm on Monday at TM102 1 by Jazzar, Rodolphe (A17258688)
+- **C04** (Discussion) at 6:00 pm–6:50 pm on Wednesday at TM102 1 by Jazzar, Rodolphe (A17258688)
+- **C05** (Discussion) at 7:00 pm–7:50 pm on Wednesday at TM102 1 by Jazzar, Rodolphe (A17258688)
+- **C06** (Discussion) at 8:00 pm–8:50 pm on Wednesday at TM102 1 by Jazzar, Rodolphe (A17258688)
+- **C07** (Discussion) at 3:00 pm–3:50 pm on Friday at SEQUO 147 by Jazzar, Rodolphe (A17258688)
+- **C08** (Discussion) at 4:00 pm–4:50 pm on Friday at SEQUO 147 by Jazzar, Rodolphe (A17258688)
+- **C09** (Discussion) at 6:00 pm–6:50 pm on Friday at WLH 2112 by Jazzar, Rodolphe (A17258688)
 - **D00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at PETER 108 by Stallings, Dontarie M (A16188963)
 - **D00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at PETER 108 by Stallings, Dontarie M (A16188963)
 - **D00** (Midterm) at 9:00 am–10:50 am on Saturday at PETER 108 by Stallings, Dontarie M (A16188963)

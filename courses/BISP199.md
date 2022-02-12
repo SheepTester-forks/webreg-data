@@ -8,5 +8,8 @@
 - **006** (Independent Study) (time and location TBA) by Cleland, Elsa Eleanor (A08620756)
 - **007** (Independent Study) (time and location TBA) by Doherty, Taylor Alan (A00590386)
 - **008** (Independent Study) (time and location TBA) by Shurin, Jonathan (A09748012)
+- **009** (Independent Study) (time and location TBA) by Nizet, Victor F. (A02639185)
+- **010** (Independent Study) (time and location TBA) by Hangauer, Matthew John (A15758229)
+- **011** (Independent Study) (time and location TBA) by Fang, Xi (A16710602)
 
 [Enrollment numbers over time](./BISP199.tsv)

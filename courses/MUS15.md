@@ -10,5 +10,9 @@
 - **A06** (Discussion) at 12:00 pm–12:50 pm on Wednesday at WLH 2154 by staff
 - **A07** (Discussion) at 9:00 am–9:50 am on Thursday at CPMC 166 by staff
 - **A08** (Discussion) at 10:00 am–10:50 am on Thursday at CPMC 166 by staff
+- **A09** (Discussion) at 9:00 am–9:50 am on Thursday at CPMC 145 by staff
+- **A10** (Discussion) at 10:00 am–10:50 am on Tuesday at CPMC 145 by staff
+- **A11** (Discussion) at 10:00 am–10:50 am on Wednesday at CPMC 145 by staff
+- **A12** (Discussion) at 10:00 am–10:50 am on Thursday at CPMC 145 by staff
 
 [Enrollment numbers over time](./MUS15.tsv)

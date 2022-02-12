@@ -1,5 +1,5 @@
 **SOCI 183**: Geography/American Opportunity (4 units)
 
-- **A00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at   by Sutton, April Marie (A15366791)
+- **A00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at RCLAS R18 by Sutton, April Marie (A15366791)
 
 [Enrollment numbers over time](./SOCI183.tsv)

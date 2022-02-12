@@ -1,7 +1,7 @@
 **CSE 15L**: Software Tools&Techniques Lab (2 units)
 
 - **A00** (Lecture) at 5:00 pm–6:50 pm on Wednesday at RCLAS R30 by Soosai Raj, Adalbert Geral (A16181718)
-- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at RCLAS R30 by Soosai Raj, Adalbert Geral (A16181718)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at PETER 108 by Soosai Raj, Adalbert Geral (A16181718)
 - **A01** (Lab) at 8:00 am–9:50 am on Friday at EBU3B B260 by Soosai Raj, Adalbert Geral (A16181718)
 - **A02** (Lab) at 10:00 am–11:50 am on Friday at EBU3B B260 by Soosai Raj, Adalbert Geral (A16181718)
 - **A03** (Lab) at 12:00 pm–1:50 pm on Friday at EBU3B B260 by Soosai Raj, Adalbert Geral (A16181718)

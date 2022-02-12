@@ -2,6 +2,7 @@
 
 - **A00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at WLH 2205 by Moosmueller, Caroline (A16181863)
 - **A00** (Final Exam) at 8:00 am–10:59 am on Wednesday at WLH 2205 by Moosmueller, Caroline (A16181863)
+- **A00** (Midterm) at 5:00 pm–5:50 pm on Friday at WLH 2205 by Moosmueller, Caroline (A16181863)
 - **A01** (Discussion) at 5:00 pm–5:50 pm on Thursday at APM 2402 by Moosmueller, Caroline (A16181863)
 - **A02** (Discussion) at 6:00 pm–6:50 pm on Thursday at APM 2402 by Moosmueller, Caroline (A16181863)
 - **B00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday, Friday at WLH 2204 by Brust, Johannes Joachim (A95500705)

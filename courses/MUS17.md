@@ -7,7 +7,7 @@
 - **A03** (Discussion) at 9:00 am–9:50 am on Wednesday at CPMC 136 by staff
 - **A04** (Discussion) at 10:00 am–10:50 am on Wednesday at CPMC 136 by staff
 - **A05** (Discussion) at 11:00 am–11:50 am on Wednesday at CPMC 136 by staff
-- **A06** (Discussion) at 12:00 pm–12:50 pm on Wednesday at CPMC 136 by staff
+- **A06** (Discussion) at 11:00 am–11:50 am on Tuesday at CPMC 127 by staff
 - **A07** (Discussion) at 9:00 am–9:50 am on Friday at WLH 2154 by staff
 - **A08** (Discussion) at 10:00 am–10:50 am on Friday at WLH 2154 by staff
 - **A09** (Discussion) at 11:00 am–11:50 am on Friday at CPMC 264 by staff

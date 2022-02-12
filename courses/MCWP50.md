@@ -7,49 +7,49 @@
 - **005** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at HSS 1128B by Wastal, Carrie King (A01946658)
 - **006** (Seminar) at 3:30 pm–4:50 pm on Monday, Wednesday at HSS 1128B by Wastal, Carrie King (A01946658)
 - **007** (Seminar) at 5:00 pm–6:20 pm on Monday, Wednesday at HSS 2333B by Wastal, Carrie King (A01946658)
-- **008** (Seminar) at 8:00 am–9:20 am on Tuesday, Thursday at HSS 1128B by Wastal, Carrie King (A01946658)
-- **009** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at HSS 1128B by Wastal, Carrie King (A01946658)
+- **008** (Seminar) (time and location TBA) by staff
+- **009** (Seminar) (time and location TBA) by staff
 - **010** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at HSS 2333A by Wastal, Carrie King (A01946658)
-- **011** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at HSS 1128B by Wastal, Carrie King (A01946658)
-- **012** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at RCLAS R02 by Wastal, Carrie King (A01946658)
-- **013** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at RCLAS R03 by Wastal, Carrie King (A01946658)
+- **011** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at HSS 2333A by Wastal, Carrie King (A01946658)
+- **012** (Seminar) (time and location TBA) by staff
+- **013** (Seminar) (time and location TBA) by staff
 - **014** (Seminar) at 8:00 am–9:20 am on Monday, Wednesday at HSS 1128B by Wastal, Carrie King (A01946658)
 - **015** (Seminar) at 9:30 am–10:50 am on Monday, Wednesday at HSS 2333A by Wastal, Carrie King (A01946658)
 - **016** (Seminar) at 11:00 am–12:20 pm on Monday, Wednesday at HSS 2333B by Wastal, Carrie King (A01946658)
 - **017** (Seminar) at 12:30 pm–1:50 pm on Monday, Wednesday at HSS 2333B by Wastal, Carrie King (A01946658)
-- **018** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at HSS 2333B by Wastal, Carrie King (A01946658)
+- **018** (Seminar) (time and location TBA) by staff
 - **019** (Seminar) at 3:30 pm–4:50 pm on Monday, Wednesday at HSS 2333B by Wastal, Carrie King (A01946658)
-- **020** (Seminar) at 5:00 pm–6:20 pm on Monday, Wednesday at HSS 1128B by Wastal, Carrie King (A01946658)
+- **020** (Seminar) (time and location TBA) by staff
 - **021** (Seminar) at 8:00 am–9:20 am on Tuesday, Thursday at HSS 2333A by Wastal, Carrie King (A01946658)
 - **022** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at HSS 2333A by Wastal, Carrie King (A01946658)
-- **023** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at HSS 1138 by Wastal, Carrie King (A01946658)
+- **023** (Seminar) (time and location TBA) by staff
 - **024** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at HSS 2333B by Wastal, Carrie King (A01946658)
 - **025** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at HSS 2333A by Wastal, Carrie King (A01946658)
 - **026** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at HSS 2333A by Wastal, Carrie King (A01946658)
-- **027** (Seminar) at 8:00 am–9:20 am on Monday, Wednesday at HSS 2333B by Wastal, Carrie King (A01946658)
+- **027** (Seminar) (time and location TBA) by staff
 - **028** (Seminar) at 9:30 am–10:50 am on Monday, Wednesday at HSS 1128B by Wastal, Carrie King (A01946658)
 - **029** (Seminar) at 11:00 am–12:20 pm on Monday, Wednesday at HSS 1128B by Wastal, Carrie King (A01946658)
 - **030** (Seminar) at 12:30 pm–1:50 pm on Monday, Wednesday at HSS 2333A by Wastal, Carrie King (A01946658)
 - **031** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at HSS 2333A by Wastal, Carrie King (A01946658)
-- **032** (Seminar) at 3:30 pm–4:50 pm on Monday, Wednesday at HSS 2333A by Wastal, Carrie King (A01946658)
-- **033** (Seminar) at 5:00 pm–6:20 pm on Monday, Wednesday at HSS 2333A by Wastal, Carrie King (A01946658)
-- **034** (Seminar) at 8:00 am–9:20 am on Tuesday, Thursday at HSS 1138 by Wastal, Carrie King (A01946658)
+- **032** (Seminar) (time and location TBA) by staff
+- **033** (Seminar) (time and location TBA) by staff
+- **034** (Seminar) (time and location TBA) by staff
 - **035** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at HSS 1138 by Wastal, Carrie King (A01946658)
 - **036** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at HSS 2333B by Wastal, Carrie King (A01946658)
-- **037** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at CENTR 224C by Wastal, Carrie King (A01946658)
-- **038** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at HSS 1138 by Wastal, Carrie King (A01946658)
-- **039** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at HSS 1138 by Wastal, Carrie King (A01946658)
-- **040** (Seminar) at 8:00 am–9:20 am on Tuesday, Thursday at CENTR 224C by Wastal, Carrie King (A01946658)
+- **037** (Seminar) (time and location TBA) by staff
+- **038** (Seminar) (time and location TBA) by staff
+- **039** (Seminar) (time and location TBA) by staff
+- **040** (Seminar) (time and location TBA) by staff
 - **041** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at HSS 2333B by Wastal, Carrie King (A01946658)
 - **042** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at HSS 1106A by Wastal, Carrie King (A01946658)
 - **043** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at HSS 1106A by Wastal, Carrie King (A01946658)
-- **044** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at CENTR 224C by Wastal, Carrie King (A01946658)
-- **045** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at CENTR 224C by Wastal, Carrie King (A01946658)
-- **046** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at CENTR 224C by Wastal, Carrie King (A01946658)
-- **047** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at HSS 1138 by Wastal, Carrie King (A01946658)
-- **048** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at HSS 1106B by Wastal, Carrie King (A01946658)
-- **049** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at HSS 1106A by Wastal, Carrie King (A01946658)
-- **050** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at HSS 1106A by Wastal, Carrie King (A01946658)
-- **051** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at HSS 1106B by Wastal, Carrie King (A01946658)
+- **044** (Seminar) (time and location TBA) by staff
+- **045** (Seminar) (time and location TBA) by staff
+- **046** (Seminar) (time and location TBA) by staff
+- **047** (Seminar) (time and location TBA) by staff
+- **048** (Seminar) (time and location TBA) by staff
+- **049** (Seminar) (time and location TBA) by staff
+- **050** (Seminar) (time and location TBA) by staff
+- **051** (Seminar) (time and location TBA) by staff
 
 [Enrollment numbers over time](./MCWP50.tsv)
