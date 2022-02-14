@@ -299,6 +299,7 @@
 - [**CHIN 169B**: Medical Chinese II](./courses/CHIN169B.md) (4 units)
 - [**CHIN 500**: Apprentice Teaching](./courses/CHIN500.md) (2–4 units, by 2)
 - [**CLAS 120**: Classical Diversities](./courses/CLAS120.md) (4 units)
+- [**CLAS 198**: Directed Group Study](./courses/CLAS198.md) (1–4 units, by 1)
 - [**CLIN 294C**: Proseminar in Neuropsychology](./courses/CLIN294C.md) (3 units)
 - [**CLIN 296**: Independent Study](./courses/CLIN296.md) (1–12 units, by 1)
 - [**CLRE 238**: Applied Translational Research](./courses/CLRE238.md) (2 units)

@@ -11,5 +11,7 @@
 - **009** (Independent Study) (time and location TBA) by Nizet, Victor F. (A02639185)
 - **010** (Independent Study) (time and location TBA) by Hangauer, Matthew John (A15758229)
 - **011** (Independent Study) (time and location TBA) by Fang, Xi (A16710602)
+- **012** (Independent Study) (time and location TBA) by Ernst, Andreas (A16688723)
+- **013** (Independent Study) (time and location TBA) by Shtrahman, Matthew (A14312106)
 
 [Enrollment numbers over time](./BISP199.tsv)

@@ -626,9 +626,6 @@
 [**VIS 145B**](./courses/VIS145B.md): Time&Process Digital Media II
 - B00
 
-[**VIS 158C**](./courses/VIS158C.md): History of Social Documentary
-- A00
-
 [**VIS 159**](./courses/VIS159.md): History of Art and Technology
 - A01
 - A02
