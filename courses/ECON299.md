@@ -6,5 +6,6 @@
 - **004** (Independent Study) (time and location TBA) by Jacobsen, Mark (A08083623)
 - **005** (Independent Study) (time and location TBA) by Ramey, Valerie A (A01664976)
 - **006** (Independent Study) (time and location TBA) by Elliott, Graham (A00868443)
+- **007** (Independent Study) (time and location TBA) by Cullen, Julie (A06311057)
 
 [Enrollment numbers over time](./ECON299.tsv)

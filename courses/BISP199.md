@@ -13,5 +13,8 @@
 - **011** (Independent Study) (time and location TBA) by Fang, Xi (A16710602)
 - **012** (Independent Study) (time and location TBA) by Ernst, Andreas (A16688723)
 - **013** (Independent Study) (time and location TBA) by Shtrahman, Matthew (A14312106)
+- **014** (Independent Study) (time and location TBA) by Mayfield, Stephen P. (A09132427)
+- **015** (Independent Study) (time and location TBA) by Glasgow, Stacey Marie (A15761019)
+- **016** (Independent Study) (time and location TBA) by Lu, Li-Fan (A10430636)
 
 [Enrollment numbers over time](./BISP199.tsv)

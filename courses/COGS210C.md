@@ -10,5 +10,6 @@
 - **H00** (Tutorial) (time and location TBA) by Voytek, Bradley Thomas (A12501924)
 - **I00** (Tutorial) (time and location TBA) by Boroditsky, Lera (A11768568)
 - **J00** (Tutorial) (time and location TBA) by Mukamel, Eran A (A12510573)
+- **K00** (Tutorial) (time and location TBA) by Coulson, Seana M (A01915525)
 
 [Enrollment numbers over time](./COGS210C.tsv)
