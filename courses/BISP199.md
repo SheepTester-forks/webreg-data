@@ -16,5 +16,7 @@
 - **014** (Independent Study) (time and location TBA) by Mayfield, Stephen P. (A09132427)
 - **015** (Independent Study) (time and location TBA) by Glasgow, Stacey Marie (A15761019)
 - **016** (Independent Study) (time and location TBA) by Lu, Li-Fan (A10430636)
+- **017** (Independent Study) (time and location TBA) by Fisch, Kathleen Marie (A04730957)
+- **018** (Independent Study) (time and location TBA) by Jamieson, Christina Agnes (A11090189)
 
 [Enrollment numbers over time](./BISP199.tsv)

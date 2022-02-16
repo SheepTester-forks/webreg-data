@@ -585,6 +585,7 @@
 - [**ECE 276B**: Planning & Learning Robotics](./courses/ECE276B.md) (4 units)
 - [**ECE 280**: Topics/Elec Dev&Mater/App Phys](./courses/ECE280.md) (4 units)
 - [**ECE 285**: Spec Topic/Signal&Imag/Robotic](./courses/ECE285.md) (4 units)
+- [**ECE 290**: Seminar/Current ECE Research](./courses/ECE290.md) (2 units)
 - [**ECE 299**: Research](./courses/ECE299.md) (1–16 units, by 1)
 - [**ECE 501**: Teaching](./courses/ECE501.md) (1–4 units, by 1)
 - [**ECON 1**: Principles of Microeconomics](./courses/ECON1.md) (4 units)
