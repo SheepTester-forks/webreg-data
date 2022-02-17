@@ -69,5 +69,6 @@
 - **067** (Independent Study) (time and location TBA) by Jokerst, Jesse Vincent (A13242002)
 - **068** (Independent Study) (time and location TBA) by Frazier, Michael (A15369208)
 - **069** (Independent Study) (time and location TBA) by Cohen, Seth M (A04221330)
+- **070** (Independent Study) (time and location TBA) by Poulikakos, Lisa Voula (A16714266)
 
 [Enrollment numbers over time](./MATS299.tsv)

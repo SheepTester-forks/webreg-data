@@ -18,5 +18,7 @@
 - **016** (Independent Study) (time and location TBA) by Lu, Li-Fan (A10430636)
 - **017** (Independent Study) (time and location TBA) by Fisch, Kathleen Marie (A04730957)
 - **018** (Independent Study) (time and location TBA) by Jamieson, Christina Agnes (A11090189)
+- **019** (Independent Study) (time and location TBA) by Lykke-Andersen, Jens (A09140450)
+- **020** (Independent Study) (time and location TBA) by Rennison, Diana (A16187530)
 
 [Enrollment numbers over time](./BISP199.tsv)

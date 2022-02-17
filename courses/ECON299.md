@@ -8,5 +8,6 @@
 - **006** (Independent Study) (time and location TBA) by Elliott, Graham (A00868443)
 - **007** (Independent Study) (time and location TBA) by Cullen, Julie (A06311057)
 - **008** (Independent Study) (time and location TBA) by Meckel, Katherine Hunter (A15756701)
+- **009** (Independent Study) (time and location TBA) by Sobel, Joel (A00834880)
 
 [Enrollment numbers over time](./ECON299.tsv)
