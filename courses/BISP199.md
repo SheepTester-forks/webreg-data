@@ -20,5 +20,12 @@
 - **018** (Independent Study) (time and location TBA) by Jamieson, Christina Agnes (A11090189)
 - **019** (Independent Study) (time and location TBA) by Lykke-Andersen, Jens (A09140450)
 - **020** (Independent Study) (time and location TBA) by Rennison, Diana (A16187530)
+- **021** (Independent Study) (time and location TBA) by Zeidan, Fadel (A15764272)
+- **022** (Independent Study) (time and location TBA) by Gallo, Richard L. (A03223267)
+- **023** (Independent Study) (time and location TBA) by Witztum, Joseph Lee (A00847157)
+- **024** (Independent Study) (time and location TBA) by Castle, Michael James (A17258225)
+- **025** (Independent Study) (time and location TBA) by Pruneda-Paz, Jose L. (A10405614)
+- **026** (Independent Study) (time and location TBA) by Malinow, Roberto (A08603409)
+- **027** (Independent Study) (time and location TBA) by Cherqui, Stephanie (A11134684)
 
 [Enrollment numbers over time](./BISP199.tsv)
