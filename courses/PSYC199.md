@@ -8,5 +8,6 @@
 - **006** (Independent Study) (time and location TBA) by Serra Garcia, Marta (A11781207)
 - **007** (Independent Study) (time and location TBA) by Serences, John Thomas (A00809230)
 - **008** (Independent Study) (time and location TBA) by Case, Laura K (A50035235)
+- **009** (Independent Study) (time and location TBA) by Carver, Leslie J. (A04508259)
 
 [Enrollment numbers over time](./PSYC199.tsv)
