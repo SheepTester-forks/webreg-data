@@ -490,6 +490,9 @@
 [**MATS 201C**](./courses/MATS201C.md): Phase Transformations
 - A00
 
+[**MGT 71**](./courses/MGT71.md): Business & Operations Mgt
+- A00
+
 [**MGT 173**](./courses/MGT173.md): Project Mgt- Health Services
 - A00
 

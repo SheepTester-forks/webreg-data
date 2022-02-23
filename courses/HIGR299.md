@@ -39,5 +39,6 @@
 - **037** (Independent Study) (time and location TBA) by Devereux, Andrew W (A15756049)
 - **038** (Independent Study) (time and location TBA) by Muscolino, Micah S (A15746237)
 - **039** (Independent Study) (time and location TBA) by Pineda De Avila, Nydia (A16713974)
+- **040** (Independent Study) (time and location TBA) by Cowan, Benjamin A (A15365308)
 
 [Enrollment numbers over time](./HIGR299.tsv)

@@ -2,5 +2,7 @@
 
 - **001** (Independent Study) (time and location TBA) by Cloninger, Alexander (A15365429)
 - **002** (Independent Study) (time and location TBA) by Kedlaya, Kiran S. (A09557220)
+- **003** (Independent Study) (time and location TBA) by Kane, Daniel Mertz (A12510505)
+- **004** (Independent Study) (time and location TBA) by Nie, Jiawang (A08603140)
 
 [Enrollment numbers over time](./MATH199.tsv)

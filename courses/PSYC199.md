@@ -9,5 +9,6 @@
 - **007** (Independent Study) (time and location TBA) by Serences, John Thomas (A00809230)
 - **008** (Independent Study) (time and location TBA) by Case, Laura K (A50035235)
 - **009** (Independent Study) (time and location TBA) by Carver, Leslie J. (A04508259)
+- **010** (Independent Study) (time and location TBA) by Bomyea, Jessica A (A50041198)
 
 [Enrollment numbers over time](./PSYC199.tsv)

@@ -15,5 +15,8 @@
 - **B01** (Lab) at 12:00 pm–1:50 pm on Thursday at EBU3B B260 by staff
 - **B02** (Lab) at 2:00 pm–3:50 pm on Thursday at EBU3B B260 by staff
 - **B03** (Lab) at 4:00 pm–5:50 pm on Thursday at EBU3B B260 by staff
+- **C00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday at WLH 2207 by staff
+- **C00** (Final Exam) at 11:30 am–2:29 pm on Thursday at WLH 2207 by staff
+- **C01** (Lab) at 6:00 pm–7:50 pm on Thursday at EBU3B B260 by staff
 
 [Enrollment numbers over time](./CSE15L.tsv)
