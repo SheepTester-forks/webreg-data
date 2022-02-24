@@ -10,5 +10,7 @@
 - **008** (Independent Study) (time and location TBA) by Case, Laura K (A50035235)
 - **009** (Independent Study) (time and location TBA) by Carver, Leslie J. (A04508259)
 - **010** (Independent Study) (time and location TBA) by Bomyea, Jessica A (A50041198)
+- **011** (Independent Study) (time and location TBA) by Geller, Emma Harlan (A14294903)
+- **012** (Independent Study) (time and location TBA) by Brady, Timothy Francis (A13242194)
 
 [Enrollment numbers over time](./PSYC199.tsv)

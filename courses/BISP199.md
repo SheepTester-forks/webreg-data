@@ -40,5 +40,6 @@
 - **038** (Independent Study) (time and location TBA) by Shaner, Nathan C. (A04571543)
 - **039** (Independent Study) (time and location TBA) by Goren, Alon M (A14295323)
 - **040** (Independent Study) (time and location TBA) by Schroeder, Julian I (A00782062)
+- **041** (Independent Study) (time and location TBA) by Tezcan, Faik (A06890580)
 
 [Enrollment numbers over time](./BISP199.tsv)
