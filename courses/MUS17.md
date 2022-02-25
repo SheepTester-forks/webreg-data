@@ -12,5 +12,9 @@
 - **A08** (Discussion) at 10:00 am–10:50 am on Friday at WLH 2154 by staff
 - **A09** (Discussion) at 11:00 am–11:50 am on Friday at CPMC 264 by staff
 - **A10** (Discussion) at 12:00 pm–12:50 pm on Friday at CPMC 264 by staff
+- **A11** (Discussion) at 10:00 am–10:50 am on Tuesday at WLH 2154 by staff
+- **A12** (Discussion) at 11:00 am–11:50 am on Tuesday at WLH 2154 by staff
+- **A13** (Discussion) at 10:00 am–10:50 am on Thursday at WLH 2154 by staff
+- **A14** (Discussion) at 11:00 am–11:50 am on Thursday at WLH 2154 by staff
 
 [Enrollment numbers over time](./MUS17.tsv)

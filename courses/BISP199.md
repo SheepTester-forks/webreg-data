@@ -41,5 +41,7 @@
 - **039** (Independent Study) (time and location TBA) by Goren, Alon M (A14295323)
 - **040** (Independent Study) (time and location TBA) by Schroeder, Julian I (A00782062)
 - **041** (Independent Study) (time and location TBA) by Tezcan, Faik (A06890580)
+- **042** (Independent Study) (time and location TBA) by Mukku, Dhananjaya (A16717486)
+- **043** (Independent Study) (time and location TBA) by Jiang, Qingfei (A09153925)
 
 [Enrollment numbers over time](./BISP199.tsv)

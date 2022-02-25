@@ -2,5 +2,6 @@
 
 - **001** (Independent Study) (time and location TBA) by Chen, Shaochen (A09745677)
 - **002** (Independent Study) (time and location TBA) by Jokerst, Jesse Vincent (A13242002)
+- **003** (Independent Study) (time and location TBA) by Zhang, Liangfang (A08611976)
 
 [Enrollment numbers over time](./NANO199.tsv)

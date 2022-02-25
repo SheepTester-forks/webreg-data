@@ -73,5 +73,6 @@
 - **071** (Independent Study) (time and location TBA) by Wilkinson, Miles Frome (A09138796)
 - **072** (Independent Study) (time and location TBA) by Dayeh, Shadi Ahmad (A05711550)
 - **073** (Independent Study) (time and location TBA) by Sharpee, Tatyana (A08618441)
+- **074** (Independent Study) (time and location TBA) by Evans, Ronald M (A01284389)
 
 [Enrollment numbers over time](./BENG299.tsv)

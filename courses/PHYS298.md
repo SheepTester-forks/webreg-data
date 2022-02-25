@@ -98,5 +98,6 @@
 - **096** (Independent Study) (time and location TBA) by Rifkin, Scott (A09745999)
 - **097** (Independent Study) (time and location TBA) by Shtrahman, Matthew (A14312106)
 - **098** (Independent Study) (time and location TBA) by Grover, Tarun (A14280115)
+- **099** (Independent Study) (time and location TBA) by Rifkin, Scott (A09745999)
 
 [Enrollment numbers over time](./PHYS298.tsv)

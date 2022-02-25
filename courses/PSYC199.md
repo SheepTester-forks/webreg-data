@@ -12,5 +12,10 @@
 - **010** (Independent Study) (time and location TBA) by Bomyea, Jessica A (A50041198)
 - **011** (Independent Study) (time and location TBA) by Geller, Emma Harlan (A14294903)
 - **012** (Independent Study) (time and location TBA) by Brady, Timothy Francis (A13242194)
+- **013** (Independent Study) (time and location TBA) by Twamley, Elizabeth (A03215152)
+- **014** (Independent Study) (time and location TBA) by Tapert, Susan Frances (A01104294)
+- **015** (Independent Study) (time and location TBA) by Lang, Ariel (A03949171)
+- **016** (Independent Study) (time and location TBA) by Mishra, Jyoti (A05118166)
+- **017** (Independent Study) (time and location TBA) by Mishra, Jyoti (A05118166)
 
 [Enrollment numbers over time](./PSYC199.tsv)
