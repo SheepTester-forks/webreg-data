@@ -224,9 +224,6 @@
 [**ECE 180**](./courses/ECE180.md): Topics in ECE
 - A00
 
-[**ECE 226**](./courses/ECE226.md): Optimize&Accelerate/Platforms
-- A00
-
 [**ECE 250**](./courses/ECE250.md): Random Processes
 - A00
 

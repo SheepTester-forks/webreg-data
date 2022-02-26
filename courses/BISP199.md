@@ -43,5 +43,6 @@
 - **041** (Independent Study) (time and location TBA) by Tezcan, Faik (A06890580)
 - **042** (Independent Study) (time and location TBA) by Mukku, Dhananjaya (A16717486)
 - **043** (Independent Study) (time and location TBA) by Jiang, Qingfei (A09153925)
+- **044** (Independent Study) (time and location TBA) by Engle, Dannielle D (A06620550)
 
 [Enrollment numbers over time](./BISP199.tsv)
