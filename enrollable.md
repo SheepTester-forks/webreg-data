@@ -51,10 +51,8 @@
 - [**ECE 17**](./courses/ECE17.md) ([numbers](./courses/ECE17.tsv)): Object-Oriented Programming
 - [**ECE 25**](./courses/ECE25.md) ([numbers](./courses/ECE25.tsv)): Introduction to Digital Design
 - [**ECE 35**](./courses/ECE35.md) ([numbers](./courses/ECE35.tsv)): Introduction to Analog Design
-- [**ECE 45**](./courses/ECE45.md) ([numbers](./courses/ECE45.tsv)): Circuits and Systems
 - [**ECE 99H**](./courses/ECE99H.md) ([numbers](./courses/ECE99H.tsv)): Independent Study
 - [**ENG 15**](./courses/ENG15.md) ([numbers](./courses/ENG15.tsv)): Engineer Your Success
-- [**ESYS 10**](./courses/ESYS10.md) ([numbers](./courses/ESYS10.tsv)): Intro to Environmental Systems
 - [**ETHN 30**](./courses/ETHN30.md) ([numbers](./courses/ETHN30.tsv)): Intro Chicanx & Latinx Studies
 - [**GLBH 20**](./courses/GLBH20.md) ([numbers](./courses/GLBH20.tsv)): Introduction to Global Health
 - [**GSS 20**](./courses/GSS20.md) ([numbers](./courses/GSS20.tsv)): Intro to Global South Studies
@@ -108,7 +106,6 @@
 - [**LTWR 8C**](./courses/LTWR8C.md) ([numbers](./courses/LTWR8C.tsv)): Writing Non-Fiction
 - [**MAE 8**](./courses/MAE8.md) ([numbers](./courses/MAE8.tsv)): MATLAB Program for Engr Analys
 - [**MAE 30B**](./courses/MAE30B.md) ([numbers](./courses/MAE30B.tsv)): Dynamics and Vibrations
-- [**MATH 10B**](./courses/MATH10B.md) ([numbers](./courses/MATH10B.tsv)): Calculus II
 - [**MATH 10C**](./courses/MATH10C.md) ([numbers](./courses/MATH10C.tsv)): Calculus III
 - [**MATH 20C**](./courses/MATH20C.md) ([numbers](./courses/MATH20C.tsv)): Calculus&Analyt Geom/Sci&Engnr
 - [**MATH 20D**](./courses/MATH20D.md) ([numbers](./courses/MATH20D.tsv)): Intro/Differential Equations
@@ -180,7 +177,6 @@
 - [**TDPR 6**](./courses/TDPR6.md) ([numbers](./courses/TDPR6.tsv)): Theatre Practicum
 - [**TMC 15**](./courses/TMC15.md) ([numbers](./courses/TMC15.tsv)): Public Service in America
 - [**USP 4**](./courses/USP4.md) ([numbers](./courses/USP4.tsv)): Intro/Geographic Info Systems
-- [**VIS 21B**](./courses/VIS21B.md) ([numbers](./courses/VIS21B.tsv)): Introduction/Asian Art
 - [**VIS 84**](./courses/VIS84.md) ([numbers](./courses/VIS84.tsv)): Film History
 - [**WARR 87**](./courses/WARR87.md) ([numbers](./courses/WARR87.tsv)): First-year Seminar
 - [**WARR 99H**](./courses/WARR99H.md) ([numbers](./courses/WARR99H.tsv)): Independent Study
@@ -427,7 +423,7 @@
 - [**HDS 191**](./courses/HDS191.md) ([numbers](./courses/HDS191.tsv)): Field Resrch/Human Development
 - [**HIAF 113**](./courses/HIAF113.md) ([numbers](./courses/HIAF113.tsv)): SmallWars GloblOrdr/Afrca&Asia
 - [**HIAF 123**](./courses/HIAF123.md) ([numbers](./courses/HIAF123.tsv)): W Africa/Earliest Times - 1800
-- [**HIEA 124**](./courses/HIEA124.md) ([numbers](./courses/HIEA124.tsv)): Life in Ming China (1368-1644)
+- [**HIEA 144**](./courses/HIEA144.md) ([numbers](./courses/HIEA144.tsv)): Topics in East Asian History
 - [**HIEU 150**](./courses/HIEU150.md) ([numbers](./courses/HIEU150.tsv)): Modern British History
 - [**HIEU 160**](./courses/HIEU160.md) ([numbers](./courses/HIEU160.tsv)): Topics/Ancient Greek History
 - [**HINE 120**](./courses/HINE120.md) ([numbers](./courses/HINE120.tsv)): Middle East in the New Century
@@ -597,7 +593,6 @@
 - [**POLI 142D**](./courses/POLI142D.md) ([numbers](./courses/POLI142D.tsv)): Weapons of Mass Destruction
 - [**POLI 142I**](./courses/POLI142I.md) ([numbers](./courses/POLI142I.tsv)): National & Internatnl Security
 - [**POLI 142K**](./courses/POLI142K.md) ([numbers](./courses/POLI142K.tsv)): Politics and Warfare
-- [**POLI 144F**](./courses/POLI144F.md) ([numbers](./courses/POLI144F.tsv)): Politics/Int'l Trade & Finance
 - [**POLI 145**](./courses/POLI145.md) ([numbers](./courses/POLI145.tsv)): Theories/Techno & Nat Security
 - [**POLI 160AA**](./courses/POLI160AA.md) ([numbers](./courses/POLI160AA.tsv)): Introduction/Policy Analysis
 - [**POLI 194**](./courses/POLI194.md) ([numbers](./courses/POLI194.tsv)): Research Seminar/Washington DC
@@ -691,7 +686,6 @@
 - [**USP 148**](./courses/USP148.md) ([numbers](./courses/USP148.tsv)): Health & the Built Environment
 - [**USP 159B**](./courses/USP159B.md) ([numbers](./courses/USP159B.tsv)): NAIOP Challenge II
 - [**USP 160**](./courses/USP160.md) ([numbers](./courses/USP160.tsv)): Resrch Methods/Analyzing Crime
-- [**USP 164**](./courses/USP164.md) ([numbers](./courses/USP164.tsv)): Cities in Film
 - [**USP 177B**](./courses/USP177B.md) ([numbers](./courses/USP177B.tsv)): Advanced Urban Design
 - [**USP 183**](./courses/USP183.md) ([numbers](./courses/USP183.tsv)): Geography/American Opportunity
 - [**USP 184**](./courses/USP184.md) ([numbers](./courses/USP184.tsv)): Decolonizing Design
