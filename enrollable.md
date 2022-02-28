@@ -69,7 +69,6 @@
 - [**LIAB 1CX**](./courses/LIAB1CX.md) ([numbers](./courses/LIAB1CX.tsv)): Analysis of Arabic
 - [**LIAB 1F**](./courses/LIAB1F.md) ([numbers](./courses/LIAB1F.tsv)): Intermediate Arabic Conversatn
 - [**LIDS 19**](./courses/LIDS19.md) ([numbers](./courses/LIDS19.tsv)): Directed Study-Language
-- [**LIFR 1AX**](./courses/LIFR1AX.md) ([numbers](./courses/LIFR1AX.tsv)): Analysis of French
 - [**LIFR 1C**](./courses/LIFR1C.md) ([numbers](./courses/LIFR1C.tsv)): French Conversation
 - [**LIFR 1CX**](./courses/LIFR1CX.md) ([numbers](./courses/LIFR1CX.tsv)): Analysis of French
 - [**LIFR 1D**](./courses/LIFR1D.md) ([numbers](./courses/LIFR1D.tsv)): French Conversation
@@ -177,7 +176,6 @@
 - [**TDPR 6**](./courses/TDPR6.md) ([numbers](./courses/TDPR6.tsv)): Theatre Practicum
 - [**TMC 15**](./courses/TMC15.md) ([numbers](./courses/TMC15.tsv)): Public Service in America
 - [**USP 4**](./courses/USP4.md) ([numbers](./courses/USP4.tsv)): Intro/Geographic Info Systems
-- [**VIS 84**](./courses/VIS84.md) ([numbers](./courses/VIS84.tsv)): Film History
 - [**WARR 87**](./courses/WARR87.md) ([numbers](./courses/WARR87.tsv)): First-year Seminar
 - [**WARR 99H**](./courses/WARR99H.md) ([numbers](./courses/WARR99H.tsv)): Independent Study
 - [**WCWP 10B**](./courses/WCWP10B.md) ([numbers](./courses/WCWP10B.tsv)): The Writing Course B
@@ -302,6 +300,7 @@
 - [**CSE 140**](./courses/CSE140.md) ([numbers](./courses/CSE140.tsv)): Component&Desgn Tech/Digtl Sys
 - [**CSE 140L**](./courses/CSE140L.md) ([numbers](./courses/CSE140L.tsv)): Digital Systems Laboratory
 - [**CSE 143**](./courses/CSE143.md) ([numbers](./courses/CSE143.tsv)): Microelectronic System Design
+- [**CSE 145**](./courses/CSE145.md) ([numbers](./courses/CSE145.tsv)): Embedded System Design Project
 - [**CSE 148**](./courses/CSE148.md) ([numbers](./courses/CSE148.tsv)): Adv Processor Arch Design Proj
 - [**CSE 156**](./courses/CSE156.md) ([numbers](./courses/CSE156.tsv)): Statistical NLP
 - [**CSE 175**](./courses/CSE175.md) ([numbers](./courses/CSE175.tsv)): Entrepreneurship for Engineers
@@ -394,7 +393,6 @@
 - [**ETHN 100C**](./courses/ETHN100C.md) ([numbers](./courses/ETHN100C.tsv)): Social Justice Praxis
 - [**ETHN 113A**](./courses/ETHN113A.md) ([numbers](./courses/ETHN113A.tsv)): Decolonizing Geology
 - [**ETHN 120D**](./courses/ETHN120D.md) ([numbers](./courses/ETHN120D.tsv)): Race & Oral Hist. in San Diego
-- [**ETHN 123**](./courses/ETHN123.md) ([numbers](./courses/ETHN123.tsv)): Asian American Politics
 - [**ETHN 143**](./courses/ETHN143.md) ([numbers](./courses/ETHN143.tsv)): Chicana/o Film & Media Studies
 - [**ETHN 155**](./courses/ETHN155.md) ([numbers](./courses/ETHN155.tsv)): U.S. Militarism
 - [**ETHN 163E**](./courses/ETHN163E.md) ([numbers](./courses/ETHN163E.tsv)): Decolonial Theory
@@ -411,7 +409,6 @@
 - [**FMPH 196C**](./courses/FMPH196C.md) ([numbers](./courses/FMPH196C.tsv)): Honors Practicum III
 - [**FMPH 199**](./courses/FMPH199.md) ([numbers](./courses/FMPH199.tsv)): Independent Study
 - [**GLBH 102**](./courses/GLBH102.md) ([numbers](./courses/GLBH102.tsv)): Global Health Epidemiology
-- [**GLBH 107**](./courses/GLBH107.md) ([numbers](./courses/GLBH107.tsv)): Refugee Health
 - [**GLBH 114**](./courses/GLBH114.md) ([numbers](./courses/GLBH114.tsv)): Latin American Health&Healing
 - [**GLBH 147**](./courses/GLBH147.md) ([numbers](./courses/GLBH147.tsv)): Global Health and Environment
 - [**GLBH 148**](./courses/GLBH148.md) ([numbers](./courses/GLBH148.tsv)): Global Health&Cultrl Diversity
@@ -423,7 +420,6 @@
 - [**HDS 191**](./courses/HDS191.md) ([numbers](./courses/HDS191.tsv)): Field Resrch/Human Development
 - [**HIAF 113**](./courses/HIAF113.md) ([numbers](./courses/HIAF113.tsv)): SmallWars GloblOrdr/Afrca&Asia
 - [**HIAF 123**](./courses/HIAF123.md) ([numbers](./courses/HIAF123.tsv)): W Africa/Earliest Times - 1800
-- [**HIEA 144**](./courses/HIEA144.md) ([numbers](./courses/HIEA144.tsv)): Topics in East Asian History
 - [**HIEU 150**](./courses/HIEU150.md) ([numbers](./courses/HIEU150.tsv)): Modern British History
 - [**HIEU 160**](./courses/HIEU160.md) ([numbers](./courses/HIEU160.tsv)): Topics/Ancient Greek History
 - [**HINE 120**](./courses/HINE120.md) ([numbers](./courses/HINE120.tsv)): Middle East in the New Century
@@ -487,7 +483,6 @@
 - [**MAE 131A**](./courses/MAE131A.md) ([numbers](./courses/MAE131A.tsv)): Solid Mechanics I
 - [**MAE 131B**](./courses/MAE131B.md) ([numbers](./courses/MAE131B.tsv)): Solid Mechanics II
 - [**MAE 143B**](./courses/MAE143B.md) ([numbers](./courses/MAE143B.tsv)): Linear Control
-- [**MAE 148**](./courses/MAE148.md) ([numbers](./courses/MAE148.tsv)): Intro to Autonomous Vehicles
 - [**MAE 150**](./courses/MAE150.md) ([numbers](./courses/MAE150.tsv)): Computer-Aided Design
 - [**MAE 155B**](./courses/MAE155B.md) ([numbers](./courses/MAE155B.tsv)): Aerospace Engineering Desgn II
 - [**MAE 156B**](./courses/MAE156B.md) ([numbers](./courses/MAE156B.tsv)): Fund. Prin/Mechanical Desgn II
@@ -583,7 +578,6 @@
 - [**PHYS 198**](./courses/PHYS198.md) ([numbers](./courses/PHYS198.tsv)): Directed Group Study
 - [**PHYS 199**](./courses/PHYS199.md) ([numbers](./courses/PHYS199.tsv)): Research for Undergraduates
 - [**POLI 100B**](./courses/POLI100B.md) ([numbers](./courses/POLI100B.tsv)): The U. S. Congress
-- [**POLI 102C**](./courses/POLI102C.md) ([numbers](./courses/POLI102C.tsv)): American Political Development
 - [**POLI 103A**](./courses/POLI103A.md) ([numbers](./courses/POLI103A.tsv)): Calif Government & Politics
 - [**POLI 104D**](./courses/POLI104D.md) ([numbers](./courses/POLI104D.tsv)): Judicial Politics
 - [**POLI 104T**](./courses/POLI104T.md) ([numbers](./courses/POLI104T.tsv)): Evidence, Civil Proc&Crim Law
@@ -632,12 +626,10 @@
 - [**SE 184**](./courses/SE184.md) ([numbers](./courses/SE184.tsv)): Ground Improvement
 - [**SE 199**](./courses/SE199.md) ([numbers](./courses/SE199.tsv)): Independent Study/Undergrads
 - [**SIO 113**](./courses/SIO113.md) ([numbers](./courses/SIO113.tsv)): Comp & Data Analysis in Geosci
-- [**SIO 115**](./courses/SIO115.md) ([numbers](./courses/SIO115.tsv)): Ice and the Climate System
 - [**SIO 127**](./courses/SIO127.md) ([numbers](./courses/SIO127.tsv)): Marine Molecular Ecology
 - [**SIO 128**](./courses/SIO128.md) ([numbers](./courses/SIO128.tsv)): Microbial Life in Extreme Env.
 - [**SIO 152**](./courses/SIO152.md) ([numbers](./courses/SIO152.tsv)): Petrology and Petrography
 - [**SIO 160**](./courses/SIO160.md) ([numbers](./courses/SIO160.tsv)): Intro to Global Tectonics
-- [**SIO 174**](./courses/SIO174.md) ([numbers](./courses/SIO174.tsv)): Chemistry of Atmosph and Ocean
 - [**SIO 176**](./courses/SIO176.md) ([numbers](./courses/SIO176.tsv)): Observ Physical Oceanography
 - [**SIO 181**](./courses/SIO181.md) ([numbers](./courses/SIO181.tsv)): Marine Biochemistry
 - [**SIO 182**](./courses/SIO182.md) ([numbers](./courses/SIO182.tsv)): Envr & Exploration Geophysics
@@ -654,6 +646,7 @@
 - [**SOCI 180**](./courses/SOCI180.md) ([numbers](./courses/SOCI180.tsv)): Social Movemnts&Social Protest
 - [**SOCI 187**](./courses/SOCI187.md) ([numbers](./courses/SOCI187.tsv)): African Societies Through Film
 - [**SOCI 198RA**](./courses/SOCI198RA.md) ([numbers](./courses/SOCI198RA.tsv)): Research Apprenticeship
+- [**SOCI 199**](./courses/SOCI199.md) ([numbers](./courses/SOCI199.tsv)): Independent Study
 - [**SURG 199**](./courses/SURG199.md) ([numbers](./courses/SURG199.tsv)): Independent Study
 - [**TDAC 102**](./courses/TDAC102.md) ([numbers](./courses/TDAC102.tsv)): Acting II
 - [**TDAC 111**](./courses/TDAC111.md) ([numbers](./courses/TDAC111.tsv)): Freeing The Voice
@@ -712,6 +705,7 @@
 - [**VIS 184**](./courses/VIS184.md) ([numbers](./courses/VIS184.tsv)): Advanced Scripting
 - [**VIS 185**](./courses/VIS185.md) ([numbers](./courses/VIS185.tsv)): Senior Media Projects
 - [**VIS 190**](./courses/VIS190.md) ([numbers](./courses/VIS190.tsv)): Design Master Studio
+- [**VIS 199**](./courses/VIS199.md) ([numbers](./courses/VIS199.tsv)): Special Studies
 - [**WARR 101**](./courses/WARR101.md) ([numbers](./courses/WARR101.tsv)): Career Dev&Financial Lit
 
 ## 2xx courses
