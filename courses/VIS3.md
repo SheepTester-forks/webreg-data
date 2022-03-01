@@ -9,5 +9,7 @@
 - **A06** (Studio) at 1:00 pm–2:50 pm on Tuesday, Thursday at MANDE B115A by Iglesias, Janelle Ann (A53244858)
 - **A07** (Studio) at 1:00 pm–2:50 pm on Monday, Wednesday at MANDE B115B by Iglesias, Janelle Ann (A53244858)
 - **A08** (Studio) at 9:00 am–10:50 am on Tuesday, Thursday at MANDE B115B by Iglesias, Janelle Ann (A53244858)
+- **A09** (Studio) at 11:00 am–12:50 pm on Tuesday, Thursday at MANDE B115B by Iglesias, Janelle Ann (A53244858)
+- **A10** (Studio) at 1:00 pm–2:50 pm on Tuesday, Thursday at MANDE B115B by Iglesias, Janelle Ann (A53244858)
 
 [Enrollment numbers over time](./VIS3.tsv)

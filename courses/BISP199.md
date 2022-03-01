@@ -44,5 +44,12 @@
 - **042** (Independent Study) (time and location TBA) by Mukku, Dhananjaya (A16717486)
 - **043** (Independent Study) (time and location TBA) by Jiang, Qingfei (A09153925)
 - **044** (Independent Study) (time and location TBA) by Engle, Dannielle D (A06620550)
+- **045** (Independent Study) (time and location TBA) by Bottini, Nunzio (A11823233)
+- **046** (Independent Study) (time and location TBA) by Yaksh, Tony L. (A01875215)
+- **047** (Independent Study) (time and location TBA) by Dulcis, Davide (A14295464)
+- **048** (Independent Study) (time and location TBA) by Chang, John Tzu-yu (A01194019)
+- **049** (Independent Study) (time and location TBA) by Esko, Jeffrey D. (A02134723)
+- **050** (Independent Study) (time and location TBA) by Rosenzweig, Ephron Solomon (A12525097)
+- **051** (Independent Study) (time and location TBA) by Cheresh, David A. (A07470644)
 
 [Enrollment numbers over time](./BISP199.tsv)

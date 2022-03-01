@@ -16,6 +16,8 @@
 - **014** (Independent Study) (time and location TBA) by Tapert, Susan Frances (A01104294)
 - **015** (Independent Study) (time and location TBA) by Lang, Ariel (A03949171)
 - **016** (Independent Study) (time and location TBA) by Mishra, Jyoti (A05118166)
-- **017** (Independent Study) (time and location TBA) by Mishra, Jyoti (A05118166)
+- **017** (Independent Study) (time and location TBA) by Pierce, Karen Lynn (A00774996)
+- **018** (Independent Study) (time and location TBA) by Der-Avakian, Andre (A15367456)
+- **019** (Independent Study) (time and location TBA) by staff
 
 [Enrollment numbers over time](./PSYC199.tsv)

@@ -1,7 +1,7 @@
 **FMPH 194**: Public Health Capstone II (4 units)
 
-- **A00** (Lecture) at 5:00 pm–7:50 pm on Thursday at WLH 2206 by Emory, Kristen Tracee (A08033019)
-- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Emory, Kristen Tracee (A08033019)
+- **A00** (Lecture) at 5:00 pm–7:50 pm on Thursday at WLH 2206 by Emory, Kristen (A08033019)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Emory, Kristen (A08033019)
 - **B00** (Lecture) at 2:00 pm–4:50 pm on Tuesday at MET 313 by Romero, Sally Ann Dominick (A50041195)
 - **B00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Romero, Sally Ann Dominick (A50041195)
 - **C00** (Lecture) at 9:00 am–11:50 am on Friday at MET 223 by Marquez, Becky (A09742090)
