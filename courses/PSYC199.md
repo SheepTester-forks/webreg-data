@@ -18,6 +18,9 @@
 - **016** (Independent Study) (time and location TBA) by Mishra, Jyoti (A05118166)
 - **017** (Independent Study) (time and location TBA) by Pierce, Karen Lynn (A00774996)
 - **018** (Independent Study) (time and location TBA) by Der-Avakian, Andre (A15367456)
-- **019** (Independent Study) (time and location TBA) by staff
+- **019** (Independent Study) (time and location TBA) by Afari, Niloofar (A00681431)
+- **020** (Independent Study) (time and location TBA) by Eyler, Lisa T. (A06320484)
+- **021** (Independent Study) (time and location TBA) by Harrington, Deborah L. (A09125954)
+- **022** (Independent Study) (time and location TBA) by Norman, Sonya B (A09753161)
 
 [Enrollment numbers over time](./PSYC199.tsv)

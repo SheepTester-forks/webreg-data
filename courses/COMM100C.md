@@ -12,7 +12,8 @@
 - **A08** (Discussion) at 9:00 am–9:50 am on Thursday at CENTR 205 by Kidman, Shawna F (A13241991)
 - **A09** (Discussion) at 12:00 pm–12:50 pm on Wednesday at CENTR 201 by Kidman, Shawna F (A13241991)
 - **A10** (Discussion) at 11:00 am–11:50 am on Monday at HSS 2152 by Kidman, Shawna F (A13241991)
-- **A11** (Discussion) at 8:00 am–8:50 am on Friday at CENTR 203 by Kidman, Shawna F (A13241991)
+- **A11** (Discussion) (time and location TBA) by staff
 - **A12** (Discussion) at 9:00 am–9:50 am on Friday at CENTR 203 by Kidman, Shawna F (A13241991)
+- **A13** (Discussion) at 11:00 am–11:50 am on Monday at PCYNH 280 by Kidman, Shawna F (A13241991)
 
 [Enrollment numbers over time](./COMM100C.tsv)

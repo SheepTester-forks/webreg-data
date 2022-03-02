@@ -4,5 +4,6 @@
 - **002** (Independent Study) (time and location TBA) by Kedlaya, Kiran S. (A09557220)
 - **003** (Independent Study) (time and location TBA) by Kane, Daniel Mertz (A12510505)
 - **004** (Independent Study) (time and location TBA) by Nie, Jiawang (A08603140)
+- **005** (Independent Study) (time and location TBA) by Verstraete, Jacques Allan (A08083199)
 
 [Enrollment numbers over time](./MATH199.tsv)

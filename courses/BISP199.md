@@ -51,5 +51,10 @@
 - **049** (Independent Study) (time and location TBA) by Esko, Jeffrey D. (A02134723)
 - **050** (Independent Study) (time and location TBA) by Rosenzweig, Ephron Solomon (A12525097)
 - **051** (Independent Study) (time and location TBA) by Cheresh, David A. (A07470644)
+- **052** (Independent Study) (time and location TBA) by Glass, Christopher (A01916872)
+- **053** (Independent Study) (time and location TBA) by Akbari, Omar Sultan (A15371133)
+- **054** (Independent Study) (time and location TBA) by Hao, Nan (A11781228)
+- **055** (Independent Study) (time and location TBA) by Do, Jiun Lap (A06330799)
+- **056** (Independent Study) (time and location TBA) by Boss, Gerard R. (A01359807)
 
 [Enrollment numbers over time](./BISP199.tsv)

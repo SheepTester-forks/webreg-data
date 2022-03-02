@@ -276,6 +276,9 @@
 [**ETHN 291**](./courses/ETHN291.md): Comprehensive Exam Prep
 - A00
 
+[**FMPH 130**](./courses/FMPH130.md): Environment & Occuption Health
+- A00
+
 [**FMPH 224**](./courses/FMPH224.md): Clncl Trials & Experimntl Dsgn
 - A00
 

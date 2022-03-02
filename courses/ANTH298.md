@@ -10,5 +10,6 @@
 - **008** (Tutorial) (time and location TBA) by Braswell, Geoffrey E. (A05738532)
 - **009** (Tutorial) (time and location TBA) by Rivera-Collazo, Isabel C (A14294748)
 - **010** (Tutorial) (time and location TBA) by Fox, Patrick Keolu Ozer (A16182375)
+- **011** (Tutorial) (time and location TBA) by Varma, Saiba (A13242490)
 
 [Enrollment numbers over time](./ANTH298.tsv)
