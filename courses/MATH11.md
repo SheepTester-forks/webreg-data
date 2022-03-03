@@ -1,7 +1,7 @@
 **MATH 11**: Calculus-Based Prob & Stats (5 units)
 
-- **A00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at MOS 0113 by Rava, Denise (A53222503)
-- **A00** (Final Exam) at 11:30 am–2:29 pm on Friday at MOS 0113 by Rava, Denise (A53222503)
+- **A00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at YORK 2722 by Rava, Denise (A53222503)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Friday at YORK 2722 by Rava, Denise (A53222503)
 - **A01** (Discussion) at 8:00 am–8:50 am on Tuesday at APM B412 by Rava, Denise (A53222503)
 - **A02** (Discussion) at 9:00 am–9:50 am on Tuesday at APM B412 by Rava, Denise (A53222503)
 - **A03** (Discussion) at 5:00 pm–5:50 pm on Tuesday at HSS 2154 by Rava, Denise (A53222503)
@@ -10,6 +10,8 @@
 - **A06** (Discussion) at 9:00 am–9:50 am on Tuesday at WLH 2115 by Rava, Denise (A53222503)
 - **A07** (Discussion) at 8:00 pm–8:50 pm on Tuesday at APM 7321 by Rava, Denise (A53222503)
 - **A08** (Discussion) at 7:00 pm–7:50 pm on Tuesday at APM 7321 by Rava, Denise (A53222503)
+- **A09** (Discussion) at 6:00 pm–6:50 pm on Tuesday at WLH 2112 by Rava, Denise (A53222503)
+- **A10** (Discussion) at 7:00 pm–7:50 pm on Tuesday at WLH 2112 by Rava, Denise (A53222503)
 - **A50** (Lab) (time and location TBA) by Rava, Denise (A53222503)
 - **B00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at LEDDN AUD by Copeland, Daniel Reuben (A53069238)
 - **B00** (Final Exam) at 11:30 am–2:29 pm on Thursday at LEDDN AUD by Copeland, Daniel Reuben (A53069238)

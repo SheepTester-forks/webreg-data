@@ -22,5 +22,8 @@
 - **020** (Independent Study) (time and location TBA) by Eyler, Lisa T. (A06320484)
 - **021** (Independent Study) (time and location TBA) by Harrington, Deborah L. (A09125954)
 - **022** (Independent Study) (time and location TBA) by Norman, Sonya B (A09753161)
+- **023** (Independent Study) (time and location TBA) by Taylor, Charles Theodore (A11770888)
+- **024** (Independent Study) (time and location TBA) by Colvonen, Peter (A15357231)
+- **025** (Independent Study) (time and location TBA) by Herbert, Matthew (A16044438)
 
 [Enrollment numbers over time](./PSYC199.tsv)

@@ -16,5 +16,7 @@
 - **B04** (Discussion) at 6:00 pm–6:50 pm on Monday at CENTR 217B by Liu, Shuang (A16715503)
 - **B05** (Discussion) at 7:00 pm–7:50 pm on Monday at CENTR 217B by Liu, Shuang (A16715503)
 - **B06** (Discussion) at 8:00 pm–8:50 pm on Monday at CENTR 217B by Liu, Shuang (A16715503)
+- **B07** (Discussion) at 7:00 pm–7:50 pm on Monday at APM 2402 by Liu, Shuang (A16715503)
+- **B08** (Discussion) at 8:00 pm–8:50 pm on Monday at APM 2402 by Liu, Shuang (A16715503)
 
 [Enrollment numbers over time](./MATH20B.tsv)

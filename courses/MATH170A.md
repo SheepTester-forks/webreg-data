@@ -6,5 +6,7 @@
 - **A02** (Discussion) at 6:00 pm–6:50 pm on Wednesday at APM 7321 by Sterbenz, Jacob (A06914721)
 - **A03** (Discussion) at 7:00 pm–7:50 pm on Wednesday at APM 7321 by Sterbenz, Jacob (A06914721)
 - **A04** (Discussion) at 8:00 pm–8:50 pm on Wednesday at APM 7321 by Sterbenz, Jacob (A06914721)
+- **A05** (Discussion) at 5:00 pm–5:50 pm on Wednesday at HSS 1128A by Sterbenz, Jacob (A06914721)
+- **A06** (Discussion) at 6:00 pm–6:50 pm on Wednesday at HSS 1128A by Sterbenz, Jacob (A06914721)
 
 [Enrollment numbers over time](./MATH170A.tsv)

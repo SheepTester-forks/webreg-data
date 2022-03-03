@@ -5,7 +5,7 @@
 - **003** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at WSAC 132 by Gagnon, Jeffrey C (A07067328)
 - **004** (Seminar) at 3:30 pm–4:50 pm on Monday, Wednesday at WSAC 132 by Gagnon, Jeffrey C (A07067328)
 - **005** (Seminar) at 5:00 pm–6:20 pm on Monday, Wednesday at WSAC 132 by Gagnon, Jeffrey C (A07067328)
-- **006** (Seminar) at 6:30 pm–7:50 pm on Monday, Wednesday at WSAC 132 by Gagnon, Jeffrey C (A07067328)
+- **006** (Seminar) (time and location TBA) by staff
 - **007** (Seminar) at 11:00 am–12:20 pm on Monday, Wednesday at WSAC 138 by Gagnon, Jeffrey C (A07067328)
 - **008** (Seminar) at 12:30 pm–1:50 pm on Monday, Wednesday at WSAC 138 by Gagnon, Jeffrey C (A07067328)
 - **009** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at WSAC 138 by Gagnon, Jeffrey C (A07067328)
@@ -17,7 +17,7 @@
 - **015** (Seminar) at 11:00 am–12:20 pm on Monday, Wednesday at RCLAS R02 by Gagnon, Jeffrey C (A07067328)
 - **016** (Seminar) at 12:30 pm–1:50 pm on Monday, Wednesday at RCLAS R01 by Gagnon, Jeffrey C (A07067328)
 - **017** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
-- **018** (Seminar) at 3:30 pm–4:50 pm on Monday, Wednesday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
+- **018** (Seminar) (time and location TBA) by staff
 - **019** (Seminar) at 8:00 am–9:20 am on Tuesday, Thursday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
 - **020** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
 - **021** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
@@ -26,17 +26,17 @@
 - **024** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
 - **025** (Seminar) at 5:00 pm–6:20 pm on Tuesday, Thursday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
 - **026** (Seminar) at 6:30 pm–7:50 pm on Tuesday, Thursday at EBU3B 1124 by Gagnon, Jeffrey C (A07067328)
-- **027** (Seminar) at 8:00 am–9:20 am on Tuesday, Thursday at EBU3B 1113 by Gagnon, Jeffrey C (A07067328)
-- **028** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at EBU3B 1113 by Gagnon, Jeffrey C (A07067328)
-- **029** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at EBU3B 1113 by Gagnon, Jeffrey C (A07067328)
-- **030** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at EBU3B 1113 by Gagnon, Jeffrey C (A07067328)
-- **031** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at EBU3B 1113 by Gagnon, Jeffrey C (A07067328)
-- **032** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at EBU3B 1113 by Gagnon, Jeffrey C (A07067328)
+- **027** (Seminar) (time and location TBA) by staff
+- **028** (Seminar) (time and location TBA) by staff
+- **029** (Seminar) (time and location TBA) by staff
+- **030** (Seminar) (time and location TBA) by staff
+- **031** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at WSAC 132 by Gagnon, Jeffrey C (A07067328)
+- **032** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at WSAC 132 by Gagnon, Jeffrey C (A07067328)
 - **033** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at WSAC 138 by Welji, Haleema Nazir (A50050829)
 - **034** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at WSAC 138 by Gagnon, Jeffrey C (A07067328)
 - **035** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at WSAC 138 by Gagnon, Jeffrey C (A07067328)
 - **036** (Seminar) at 5:00 pm–6:20 pm on Tuesday, Thursday at WSAC 138 by Gagnon, Jeffrey C (A07067328)
-- **037** (Seminar) at 8:00 am–9:20 am on Tuesday, Thursday at CENTR 202 by Gagnon, Jeffrey C (A07067328)
+- **037** (Seminar) (time and location TBA) by staff
 - **038** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at RCLAS R02 by Gagnon, Jeffrey C (A07067328)
 - **039** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at RCLAS R03 by Gagnon, Jeffrey C (A07067328)
 - **040** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at RCLAS R05 by Gagnon, Jeffrey C (A07067328)

@@ -15,7 +15,7 @@
 - **B03** (Discussion) at 7:00 pm–7:50 pm on Thursday at U301 122 by Ganzberger, Geoffrey Michael (A08099717)
 - **B04** (Discussion) at 8:00 pm–8:50 pm on Thursday at U301 122 by Ganzberger, Geoffrey Michael (A08099717)
 - **B05** (Discussion) at 7:00 pm–7:50 pm on Thursday at APM 2301 by Ganzberger, Geoffrey Michael (A08099717)
-- **B06** (Discussion) at 8:00 pm–8:50 pm on Thursday at APM 2301 by Ganzberger, Geoffrey Michael (A08099717)
+- **B06** (Discussion) (time and location TBA) by staff
 - **C00** (Lecture) at 3:00 pm–3:50 pm on Monday, Wednesday, Friday at CENTR 115 by Jekel, David Andrew (A17249428)
 - **C00** (Final Exam) at 3:00 pm–5:59 pm on Wednesday at CENTR 115 by Jekel, David Andrew (A17249428)
 - **C01** (Discussion) at 5:00 pm–5:50 pm on Thursday at HSS 1128A by Jekel, David Andrew (A17249428)
