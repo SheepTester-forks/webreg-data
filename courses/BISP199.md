@@ -59,5 +59,6 @@
 - **057** (Independent Study) (time and location TBA) by Ghosh, Pradipta (A09125230)
 - **058** (Independent Study) (time and location TBA) by Church, Kellie Breen (A11770026)
 - **059** (Independent Study) (time and location TBA) by Hao, Nan (A11781228)
+- **060** (Independent Study) (time and location TBA) by Allen, Nicola J (A12506313)
 
 [Enrollment numbers over time](./BISP199.tsv)

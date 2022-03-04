@@ -18,7 +18,7 @@
 - **016** (Lab) at 4:00 pm–5:50 pm on Thursday at MAYER 2110 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
 - **017** (Lab) at 6:00 pm–7:50 pm on Thursday at MAYER 2110 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
 - **018** (Lab) at 8:00 am–9:50 am on Friday at MAYER 2110 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
-- **019** (Lab) at 8:00 am–9:50 am on Tuesday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
+- **019** (Lab) (time and location TBA) by staff
 - **020** (Lab) at 10:00 am–11:50 am on Tuesday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
 - **021** (Lab) at 12:00 pm–1:50 pm on Tuesday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
 - **022** (Lab) at 2:00 pm–3:50 pm on Tuesday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
@@ -29,7 +29,7 @@
 - **027** (Lab) at 4:00 pm–5:50 pm on Wednesday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
 - **028** (Lab) at 6:00 pm–7:50 pm on Wednesday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
 - **029** (Lab) at 2:00 pm–3:50 pm on Wednesday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
-- **030** (Lab) at 8:00 am–9:50 am on Thursday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
+- **030** (Lab) (time and location TBA) by staff
 - **031** (Lab) at 10:00 am–11:50 am on Thursday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
 - **032** (Lab) at 12:00 pm–1:50 pm on Thursday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)
 - **033** (Lab) at 2:00 pm–3:50 pm on Thursday at MAYER 2130 by Yagil, Avi (A08068564),Tsai, Philbert S (A00487028)

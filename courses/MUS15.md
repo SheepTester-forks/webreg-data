@@ -14,5 +14,7 @@
 - **A10** (Discussion) at 10:00 am–10:50 am on Tuesday at CPMC 145 by staff
 - **A11** (Discussion) at 10:00 am–10:50 am on Wednesday at CPMC 145 by staff
 - **A12** (Discussion) at 10:00 am–10:50 am on Thursday at CPMC 145 by staff
+- **A13** (Discussion) at 9:00 am–9:50 am on Monday at CPMC 127 by Schwenkler, Kevin Allen (A53272994)
+- **A14** (Discussion) at 9:00 am–9:50 am on Friday at CPMC 127 by Schwenkler, Kevin Allen (A53272994)
 
 [Enrollment numbers over time](./MUS15.tsv)

@@ -10,5 +10,6 @@
 - **A04** (Discussion) at 8:00 am–8:50 am on Friday at WLH 2209 by Albizati, Kim F. (A01228841)
 - **A05** (Discussion) at 9:00 am–9:50 am on Friday at WLH 2209 by Albizati, Kim F. (A01228841)
 - **A06** (Discussion) at 4:00 pm–4:50 pm on Friday at SOLIS 110 by Albizati, Kim F. (A01228841)
+- **A07** (Discussion) (time and location TBA) by Albizati, Kim F. (A01228841)
 
 [Enrollment numbers over time](./CHEM40A.tsv)

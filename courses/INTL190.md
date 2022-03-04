@@ -10,6 +10,6 @@
 - **I00** (Seminar) at 5:00 pm–6:20 pm on Tuesday, Thursday at RBC 3203 by Segui, Alan S (A16190651)
 - **J00** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at RBC 3203 by Segui, Alan S (A16190651)
 - **K00** (Seminar) at 2:00 pm–4:50 pm on Wednesday at RBC 1428 by Vos, Stacie Nicole (A53214966)
-- **L00** (Seminar) at 9:00 am–11:50 am on Monday at RBC 1328 by Gibson, Clark C (A04250519)
+- **L00** (Seminar) at 9:00 am–11:50 am on Monday at RBC 1328 by Gray, Taylor Erin (A53068318)
 
 [Enrollment numbers over time](./INTL190.tsv)

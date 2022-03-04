@@ -30,5 +30,7 @@
 - **028** (Independent Study) (time and location TBA) by Zhang, Liangfang (A08611976)
 - **029** (Independent Study) (time and location TBA) by Alexandrov, Ludmil B (A15367164)
 - **030** (Independent Study) (time and location TBA) by Ren, Bing (A05088628)
+- **031** (Independent Study) (time and location TBA) by Suresh, Preetham John (A09753680)
+- **032** (Independent Study) (time and location TBA) by Jung, Tzyy-Ping (A10405523)
 
 [Enrollment numbers over time](./BENG199.tsv)

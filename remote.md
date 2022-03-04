@@ -228,7 +228,7 @@
 - A00
 
 [**ECE 260C**](./courses/ECE260C.md): VLSI Advanced Topics
-- A00
+- B00
 
 [**ECE 272A**](./courses/ECE272A.md): Stochastic Proc/Dynamic Sys I
 - A01
