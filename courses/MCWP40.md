@@ -1,6 +1,6 @@
 **MCWP 40**: Critical Writing (4 units)
 
-- **001** (Tutorial) at 8:00 am–9:20 am on Monday, Wednesday at HSS 2346A by Wastal, Carrie King (A01946658)
+- **001** (Tutorial) at 8:00 am–9:20 am on Monday, Wednesday at HSS 2305A by Wastal, Carrie King (A01946658)
 - **002** (Tutorial) at 9:30 am–10:50 am on Monday, Wednesday at HSS 2346A by Wastal, Carrie King (A01946658)
 - **003** (Tutorial) at 11:00 am–12:20 pm on Monday, Wednesday at HSS 1138 by Wastal, Carrie King (A01946658)
 - **004** (Tutorial) at 12:30 pm–1:50 pm on Monday, Wednesday at HSS 1138 by Wastal, Carrie King (A01946658)
