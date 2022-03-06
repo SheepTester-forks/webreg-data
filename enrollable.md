@@ -5,6 +5,7 @@
 - [**ANTH 23**](./courses/ANTH23.md) ([numbers](./courses/ANTH23.tsv)): Debating Multiculturalism
 - [**AWP 3**](./courses/AWP3.md) ([numbers](./courses/AWP3.tsv)): Analytical Writing
 - [**AWP 4A**](./courses/AWP4A.md) ([numbers](./courses/AWP4A.tsv)): Analytical Writing A
+- [**AWP 10**](./courses/AWP10.md) ([numbers](./courses/AWP10.tsv)): Lang&Learning in American Acad
 - [**BENG 91**](./courses/BENG91.md) ([numbers](./courses/BENG91.tsv)): Topics in Bioeng and Medicine
 - [**BENG 99H**](./courses/BENG99H.md) ([numbers](./courses/BENG99H.tsv)): Independent Study
 - [**BILD 1**](./courses/BILD1.md) ([numbers](./courses/BILD1.tsv)): The Cell
@@ -23,7 +24,6 @@
 - [**CHEM 6CH**](./courses/CHEM6CH.md) ([numbers](./courses/CHEM6CH.tsv)): Honors General Chemistry III
 - [**CHEM 7LM**](./courses/CHEM7LM.md) ([numbers](./courses/CHEM7LM.tsv)): General Chemistry Lab - Majors
 - [**CHEM 40A**](./courses/CHEM40A.md) ([numbers](./courses/CHEM40A.tsv)): Organic Chemistry I
-- [**CHEM 40B**](./courses/CHEM40B.md) ([numbers](./courses/CHEM40B.tsv)): Organic Chemistry II
 - [**CHEM 40C**](./courses/CHEM40C.md) ([numbers](./courses/CHEM40C.tsv)): Organic Chemistry III
 - [**CHEM 40CH**](./courses/CHEM40CH.md) ([numbers](./courses/CHEM40CH.tsv)): Honors Organic Chemistry III
 - [**CHEM 43A**](./courses/CHEM43A.md) ([numbers](./courses/CHEM43A.tsv)): Organic Chemistry Laboratory
@@ -56,6 +56,7 @@
 - [**ECE 35**](./courses/ECE35.md) ([numbers](./courses/ECE35.tsv)): Introduction to Analog Design
 - [**ECE 99H**](./courses/ECE99H.md) ([numbers](./courses/ECE99H.tsv)): Independent Study
 - [**ENG 15**](./courses/ENG15.md) ([numbers](./courses/ENG15.tsv)): Engineer Your Success
+- [**ESYS 10**](./courses/ESYS10.md) ([numbers](./courses/ESYS10.tsv)): Intro to Environmental Systems
 - [**ETHN 30**](./courses/ETHN30.md) ([numbers](./courses/ETHN30.tsv)): Intro Chicanx & Latinx Studies
 - [**GLBH 20**](./courses/GLBH20.md) ([numbers](./courses/GLBH20.tsv)): Introduction to Global Health
 - [**GSS 20**](./courses/GSS20.md) ([numbers](./courses/GSS20.tsv)): Intro to Global South Studies
@@ -328,7 +329,6 @@
 - [**ECE 124**](./courses/ECE124.md) ([numbers](./courses/ECE124.tsv)): Motor Drives
 - [**ECE 125B**](./courses/ECE125B.md) ([numbers](./courses/ECE125B.tsv)): Intro to Power Electronics II
 - [**ECE 128C**](./courses/ECE128C.md) ([numbers](./courses/ECE128C.tsv)): Power Grid Resiliency
-- [**ECE 134**](./courses/ECE134.md) ([numbers](./courses/ECE134.tsv)): Electrnc Materls Sci/Integ Cir
 - [**ECE 136L**](./courses/ECE136L.md) ([numbers](./courses/ECE136L.tsv)): Microelectronics Laboratory
 - [**ECE 139**](./courses/ECE139.md) ([numbers](./courses/ECE139.tsv)): SemicndctorDeviceModelng/Desgn
 - [**ECE 140B**](./courses/ECE140B.md) ([numbers](./courses/ECE140B.tsv)): The Art of Product Eng II
@@ -360,6 +360,7 @@
 - [**ECON 172B**](./courses/ECON172B.md) ([numbers](./courses/ECON172B.tsv)): Operations Research B
 - [**ECON 191A**](./courses/ECON191A.md) ([numbers](./courses/ECON191A.tsv)): Senior Essay Seminar A
 - [**ECON 195**](./courses/ECON195.md) ([numbers](./courses/ECON195.tsv)): Intro/Teaching Economics
+- [**EDS 113**](./courses/EDS113.md) ([numbers](./courses/EDS113.tsv)): Chicanas/os & Latinos in Edu
 - [**EDS 114**](./courses/EDS114.md) ([numbers](./courses/EDS114.tsv)): Cogn Develp&Intractv Compt Env
 - [**EDS 116**](./courses/EDS116.md) ([numbers](./courses/EDS116.tsv)): Equity Minded Education
 - [**EDS 121B**](./courses/EDS121B.md) ([numbers](./courses/EDS121B.tsv)): Found of Teachg/Learng Math II
@@ -412,7 +413,6 @@
 - [**HDS 191**](./courses/HDS191.md) ([numbers](./courses/HDS191.tsv)): Field Resrch/Human Development
 - [**HDS 193**](./courses/HDS193.md) ([numbers](./courses/HDS193.tsv)): Adv Resrch/Human Development
 - [**HIAF 123**](./courses/HIAF123.md) ([numbers](./courses/HIAF123.tsv)): W Africa/Earliest Times - 1800
-- [**HIEA 114**](./courses/HIEA114.md) ([numbers](./courses/HIEA114.tsv)): Postwar Japan
 - [**HIEA 115**](./courses/HIEA115.md) ([numbers](./courses/HIEA115.tsv)): Social&Cultural/20th C Japan
 - [**HIEU 150**](./courses/HIEU150.md) ([numbers](./courses/HIEU150.tsv)): Modern British History
 - [**HINE 186**](./courses/HINE186.md) ([numbers](./courses/HINE186.tsv)): Topics/Middle Eastern History
@@ -492,6 +492,7 @@
 - [**MATH 140C**](./courses/MATH140C.md) ([numbers](./courses/MATH140C.tsv)): Foundations/Real Analysis III
 - [**MATH 142B**](./courses/MATH142B.md) ([numbers](./courses/MATH142B.tsv)): Introduction to Analysis II
 - [**MATH 148**](./courses/MATH148.md) ([numbers](./courses/MATH148.tsv)): Analysis of Partial Diff Eqs
+- [**MATH 170B**](./courses/MATH170B.md) ([numbers](./courses/MATH170B.tsv)): Intro/Numerical Analy/Approxim
 - [**MATH 171B**](./courses/MATH171B.md) ([numbers](./courses/MATH171B.tsv)): Intro Num Optimiz/Nonlinear
 - [**MATH 173B**](./courses/MATH173B.md) ([numbers](./courses/MATH173B.tsv)): Optimization/Data Science II
 - [**MATH 180B**](./courses/MATH180B.md) ([numbers](./courses/MATH180B.tsv)): Intro/Stochastic Processes I
@@ -611,7 +612,6 @@
 - [**SE 151B**](./courses/SE151B.md) ([numbers](./courses/SE151B.tsv)): Design of Prestressed Concrete
 - [**SE 160B**](./courses/SE160B.md) ([numbers](./courses/SE160B.tsv)): Aerospace Structural Mechs II
 - [**SE 163**](./courses/SE163.md) ([numbers](./courses/SE163.tsv)): Nondestructive Evaluation
-- [**SE 165**](./courses/SE165.md) ([numbers](./courses/SE165.tsv)): Structural Health Monitoring
 - [**SE 168**](./courses/SE168.md) ([numbers](./courses/SE168.tsv)): Structural Sys Test/Model Corr
 - [**SE 184**](./courses/SE184.md) ([numbers](./courses/SE184.tsv)): Ground Improvement
 - [**SE 199**](./courses/SE199.md) ([numbers](./courses/SE199.tsv)): Independent Study/Undergrads
@@ -638,7 +638,6 @@
 - [**SOCI 198RA**](./courses/SOCI198RA.md) ([numbers](./courses/SOCI198RA.tsv)): Research Apprenticeship
 - [**SOCI 199**](./courses/SOCI199.md) ([numbers](./courses/SOCI199.tsv)): Independent Study
 - [**SURG 199**](./courses/SURG199.md) ([numbers](./courses/SURG199.tsv)): Independent Study
-- [**TDAC 102**](./courses/TDAC102.md) ([numbers](./courses/TDAC102.tsv)): Acting II
 - [**TDAC 111**](./courses/TDAC111.md) ([numbers](./courses/TDAC111.tsv)): Freeing The Voice
 - [**TDAC 122**](./courses/TDAC122.md) ([numbers](./courses/TDAC122.tsv)): Ensemble: Undergrad Production
 - [**TDDE 112**](./courses/TDDE112.md) ([numbers](./courses/TDDE112.tsv)): Advanced Costume Design
@@ -776,7 +775,6 @@
 - [**CHEM 214**](./courses/CHEM214.md) ([numbers](./courses/CHEM214.tsv)): Molecular & Cellular Biochem
 - [**CHEM 217**](./courses/CHEM217.md) ([numbers](./courses/CHEM217.tsv)): RNA Structure, Function & Biol
 - [**CHEM 221**](./courses/CHEM221.md) ([numbers](./courses/CHEM221.tsv)): Signal Transduction
-- [**CHEM 226**](./courses/CHEM226.md) ([numbers](./courses/CHEM226.tsv)): Transition Metal Chemistry
 - [**CHEM 227**](./courses/CHEM227.md) ([numbers](./courses/CHEM227.tsv)): Seminar/Inorganic Chemistry
 - [**CHEM 239**](./courses/CHEM239.md) ([numbers](./courses/CHEM239.tsv)): Special Topics/Chem Physics
 - [**CHEM 251**](./courses/CHEM251.md) ([numbers](./courses/CHEM251.tsv)): Research Conference
@@ -984,7 +982,6 @@
 - [**MATH 268**](./courses/MATH268.md) ([numbers](./courses/MATH268.tsv)): Seminar in Logic
 - [**MATH 269**](./courses/MATH269.md) ([numbers](./courses/MATH269.tsv)): Seminar in Combinatorics
 - [**MATH 270C**](./courses/MATH270C.md) ([numbers](./courses/MATH270C.tsv)): Numerical Ordinary Diff Eqs
-- [**MATH 271C**](./courses/MATH271C.md) ([numbers](./courses/MATH271C.tsv)): Numerical Optimization
 - [**MATH 273C**](./courses/MATH273C.md) ([numbers](./courses/MATH273C.tsv)): AdvTech/Computational Math III
 - [**MATH 277A**](./courses/MATH277A.md) ([numbers](./courses/MATH277A.tsv)): Topics in Comp&Applied Math
 - [**MATH 278B**](./courses/MATH278B.md) ([numbers](./courses/MATH278B.tsv)): Seminar/Math Info/Data/Signals
