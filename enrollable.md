@@ -56,7 +56,6 @@
 - [**ECE 35**](./courses/ECE35.md) ([numbers](./courses/ECE35.tsv)): Introduction to Analog Design
 - [**ECE 99H**](./courses/ECE99H.md) ([numbers](./courses/ECE99H.tsv)): Independent Study
 - [**ENG 15**](./courses/ENG15.md) ([numbers](./courses/ENG15.tsv)): Engineer Your Success
-- [**ESYS 10**](./courses/ESYS10.md) ([numbers](./courses/ESYS10.tsv)): Intro to Environmental Systems
 - [**ETHN 30**](./courses/ETHN30.md) ([numbers](./courses/ETHN30.tsv)): Intro Chicanx & Latinx Studies
 - [**GLBH 20**](./courses/GLBH20.md) ([numbers](./courses/GLBH20.tsv)): Introduction to Global Health
 - [**GSS 20**](./courses/GSS20.md) ([numbers](./courses/GSS20.tsv)): Intro to Global South Studies
@@ -187,6 +186,7 @@
 
 - [**AIP 197**](./courses/AIP197.md) ([numbers](./courses/AIP197.tsv)): Academic Internship Program
 - [**AIP 197DC**](./courses/AIP197DC.md) ([numbers](./courses/AIP197DC.tsv)): Washington, DC Internship
+- [**ANAR 115**](./courses/ANAR115.md) ([numbers](./courses/ANAR115.tsv)): Coastal Geomorphology/Environ
 - [**ANBI 121**](./courses/ANBI121.md) ([numbers](./courses/ANBI121.tsv)): Polynesian Navigation
 - [**ANES 199**](./courses/ANES199.md) ([numbers](./courses/ANES199.tsv)): Independent Study
 - [**ANTH 103**](./courses/ANTH103.md) ([numbers](./courses/ANTH103.tsv)): Sociocultural Anthropology
@@ -336,7 +336,6 @@
 - [**ECE 153**](./courses/ECE153.md) ([numbers](./courses/ECE153.tsv)): Probability&Random Process/Eng
 - [**ECE 157B**](./courses/ECE157B.md) ([numbers](./courses/ECE157B.tsv)): Communications Systems Lab II
 - [**ECE 158B**](./courses/ECE158B.md) ([numbers](./courses/ECE158B.tsv)): Data Networks II
-- [**ECE 161C**](./courses/ECE161C.md) ([numbers](./courses/ECE161C.tsv)): Apps of Digital Signal Process
 - [**ECE 163**](./courses/ECE163.md) ([numbers](./courses/ECE163.tsv)): Electronic Circuits & Systems
 - [**ECE 165**](./courses/ECE165.md) ([numbers](./courses/ECE165.tsv)): Digtl Integrated Circuit Desgn
 - [**ECE 171A**](./courses/ECE171A.md) ([numbers](./courses/ECE171A.tsv)): Linear Control System Theory
@@ -358,6 +357,7 @@
 - [**ECON 137**](./courses/ECON137.md) ([numbers](./courses/ECON137.tsv)): Corruption
 - [**ECON 171**](./courses/ECON171.md) ([numbers](./courses/ECON171.tsv)): Decisions Under Uncertainty
 - [**ECON 172B**](./courses/ECON172B.md) ([numbers](./courses/ECON172B.tsv)): Operations Research B
+- [**ECON 174**](./courses/ECON174.md) ([numbers](./courses/ECON174.tsv)): Financial Risk Management
 - [**ECON 191A**](./courses/ECON191A.md) ([numbers](./courses/ECON191A.tsv)): Senior Essay Seminar A
 - [**ECON 195**](./courses/ECON195.md) ([numbers](./courses/ECON195.tsv)): Intro/Teaching Economics
 - [**EDS 113**](./courses/EDS113.md) ([numbers](./courses/EDS113.tsv)): Chicanas/os & Latinos in Edu
@@ -461,6 +461,7 @@
 - [**LTFR 104**](./courses/LTFR104.md) ([numbers](./courses/LTFR104.tsv)): Adv French Reading and Writing
 - [**LTKO 140**](./courses/LTKO140.md) ([numbers](./courses/LTKO140.tsv)): Readings in Korean Literature
 - [**LTRU 104A**](./courses/LTRU104A.md) ([numbers](./courses/LTRU104A.tsv)): Advanced Practicum in Russian
+- [**LTSP 100A**](./courses/LTSP100A.md) ([numbers](./courses/LTSP100A.tsv)): Adv Spanish Reading & Writing
 - [**LTSP 100B**](./courses/LTSP100B.md) ([numbers](./courses/LTSP100B.tsv)): Adv Read&Writing: Heritage Spk
 - [**LTSP 116**](./courses/LTSP116.md) ([numbers](./courses/LTSP116.tsv)): Representatns/Span Colonialism
 - [**LTSP 171**](./courses/LTSP171.md) ([numbers](./courses/LTSP171.tsv)): Peninsular&orLatAmer Lit & Soc
@@ -526,7 +527,6 @@
 - [**MUS 103C**](./courses/MUS103C.md) ([numbers](./courses/MUS103C.tsv)): Seminar in Composition III
 - [**MUS 107**](./courses/MUS107.md) ([numbers](./courses/MUS107.tsv)): Critical Studies Seminar
 - [**MUS 111**](./courses/MUS111.md) ([numbers](./courses/MUS111.tsv)): Topics/World Music Traditions
-- [**MUS 120C**](./courses/MUS120C.md) ([numbers](./courses/MUS120C.tsv)): Hist Mus in Westrn Culture III
 - [**MUS 130**](./courses/MUS130.md) ([numbers](./courses/MUS130.tsv)): Chamber Music Performance
 - [**MUS 132**](./courses/MUS132.md) ([numbers](./courses/MUS132.tsv)): Pro-Seminar/Instrmntl Instruct
 - [**MUS 132R**](./courses/MUS132R.md) ([numbers](./courses/MUS132R.tsv)): Recital Preparation
@@ -552,6 +552,7 @@
 - [**PEDS 199**](./courses/PEDS199.md) ([numbers](./courses/PEDS199.tsv)): Independent Study
 - [**PHIL 112**](./courses/PHIL112.md) ([numbers](./courses/PHIL112.tsv)): History of Phil: Late Modern
 - [**PHIL 115**](./courses/PHIL115.md) ([numbers](./courses/PHIL115.tsv)): Philosophical Methods Seminar
+- [**PHIL 140**](./courses/PHIL140.md) ([numbers](./courses/PHIL140.tsv)): Free Will
 - [**PHIL 174**](./courses/PHIL174.md) ([numbers](./courses/PHIL174.tsv)): Data Ethics
 - [**PHIL 199**](./courses/PHIL199.md) ([numbers](./courses/PHIL199.tsv)): Directed Individual Study
 - [**PHYS 100C**](./courses/PHYS100C.md) ([numbers](./courses/PHYS100C.tsv)): Electromagnetism III
@@ -631,7 +632,6 @@
 - [**SOCI 109M**](./courses/SOCI109M.md) ([numbers](./courses/SOCI109M.tsv)): Research Reporting
 - [**SOCI 120**](./courses/SOCI120.md) ([numbers](./courses/SOCI120.tsv)): Sociology Through Literature
 - [**SOCI 120T**](./courses/SOCI120T.md) ([numbers](./courses/SOCI120T.tsv)): Spec Top/Cult,Lang&Soc Interac
-- [**SOCI 156**](./courses/SOCI156.md) ([numbers](./courses/SOCI156.tsv)): Sociology of Religion
 - [**SOCI 159**](./courses/SOCI159.md) ([numbers](./courses/SOCI159.tsv)): Spec Top/Soc/Organztns&Institn
 - [**SOCI 180**](./courses/SOCI180.md) ([numbers](./courses/SOCI180.tsv)): Social Movemnts&Social Protest
 - [**SOCI 187**](./courses/SOCI187.md) ([numbers](./courses/SOCI187.tsv)): African Societies Through Film
@@ -659,7 +659,6 @@
 - [**TDTR 104**](./courses/TDTR104.md) ([numbers](./courses/TDTR104.tsv)): Dance Theory & Pedagogy
 - [**TMC 120**](./courses/TMC120.md) ([numbers](./courses/TMC120.tsv)): Partnership Schools Program
 - [**UROL 199**](./courses/UROL199.md) ([numbers](./courses/UROL199.tsv)): Independent Study
-- [**USP 101**](./courses/USP101.md) ([numbers](./courses/USP101.tsv)): Introduction/Policy Analysis
 - [**USP 128B**](./courses/USP128B.md) ([numbers](./courses/USP128B.tsv)): CAS: Capstone Project
 - [**USP 142B**](./courses/USP142B.md) ([numbers](./courses/USP142B.tsv)): Urban Chal. Homelessness II
 - [**USP 148**](./courses/USP148.md) ([numbers](./courses/USP148.tsv)): Health & the Built Environment
@@ -697,6 +696,7 @@
 - [**ANES 229**](./courses/ANES229.md) ([numbers](./courses/ANES229.tsv)): Prac Pharm&Phys/Anes&Crit Care
 - [**ANES 296**](./courses/ANES296.md) ([numbers](./courses/ANES296.tsv)): Independent Study
 - [**ANES 299**](./courses/ANES299.md) ([numbers](./courses/ANES299.tsv)): Anes/Independent Study Project
+- [**ANTH 200**](./courses/ANTH200.md) ([numbers](./courses/ANTH200.tsv)): Special Topics in Anthropology
 - [**ANTH 230**](./courses/ANTH230.md) ([numbers](./courses/ANTH230.tsv)): Department Colloquium
 - [**ANTH 263**](./courses/ANTH263.md) ([numbers](./courses/ANTH263.tsv)): Beyond the Genome
 - [**ANTH 272**](./courses/ANTH272.md) ([numbers](./courses/ANTH272.tsv)): Seminar in Science Studies
@@ -1035,7 +1035,6 @@
 - [**MUS 201D**](./courses/MUS201D.md) ([numbers](./courses/MUS201D.tsv)): Projects in New Music Prfrmnce
 - [**MUS 203C**](./courses/MUS203C.md) ([numbers](./courses/MUS203C.tsv)): Advanced Prjct/Composition III
 - [**MUS 203D**](./courses/MUS203D.md) ([numbers](./courses/MUS203D.tsv)): Advanced Prjcts in Composition
-- [**MUS 204**](./courses/MUS204.md) ([numbers](./courses/MUS204.tsv)): Focus on Composition
 - [**MUS 205**](./courses/MUS205.md) ([numbers](./courses/MUS205.tsv)): Focus on Integrative Studies
 - [**MUS 206**](./courses/MUS206.md) ([numbers](./courses/MUS206.tsv)): Experimental Studies Seminar
 - [**MUS 210**](./courses/MUS210.md) ([numbers](./courses/MUS210.tsv)): Musical Analysis
@@ -1199,7 +1198,6 @@
 - [**SIOC 208**](./courses/SIOC208.md) ([numbers](./courses/SIOC208.tsv)): Seminar/Applied Ocean Sciences
 - [**SIOC 209**](./courses/SIOC209.md) ([numbers](./courses/SIOC209.tsv)): Special Topics
 - [**SIOC 212B**](./courses/SIOC212B.md) ([numbers](./courses/SIOC212B.tsv)): Geophysical Fluid Dynamics II
-- [**SIOC 216B**](./courses/SIOC216B.md) ([numbers](./courses/SIOC216B.tsv)): Applied Complexity
 - [**SIOC 217C**](./courses/SIOC217C.md) ([numbers](./courses/SIOC217C.tsv)): Atmospheric & Climate Sci III
 - [**SIOC 218A**](./courses/SIOC218A.md) ([numbers](./courses/SIOC218A.tsv)): Obs Techniques in Oceanography
 - [**SIOC 219**](./courses/SIOC219.md) ([numbers](./courses/SIOC219.tsv)): Spec Topics/Physical Oceanogra
