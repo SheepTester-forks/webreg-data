@@ -95,6 +95,14 @@
 - A01
 - B01
 
+[**CAT 3**](./courses/CAT3.md): Culture, Art & Technology III
+- B01
+- B02
+- B09
+- B10
+- D09
+- D10
+
 [**CAT 125R**](./courses/CAT125R.md): Pblc Rhetoric Prct Comm Online
 - A01
 - A02
@@ -291,10 +299,16 @@
 [**GPCO 406**](./courses/GPCO406.md): Public Finance and Taxation
 - A00
 
+[**GPGN 490**](./courses/GPGN490.md): Special Topics Course
+- B00
+
 [**GPLA 410C**](./courses/GPLA410C.md): Low Intermediate Japanese
 - A00
 
 [**GPLA 441C**](./courses/GPLA441C.md): Intermediate Spanish
+- A00
+
+[**GPPS 416**](./courses/GPPS416.md): Postwar Politics in Japan
 - A00
 
 [**GPPS 479**](./courses/GPPS479.md): Politics&Institutions/LatnAmer

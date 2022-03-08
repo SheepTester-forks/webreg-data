@@ -10,5 +10,7 @@
 - **008** (Independent Study) (time and location TBA) by Meckel, Katherine Hunter (A15756701)
 - **009** (Independent Study) (time and location TBA) by Sobel, Joel (A00834880)
 - **010** (Independent Study) (time and location TBA) by Hamilton, James D. (A00365092)
+- **011** (Independent Study) (time and location TBA) by Betts, Julian (A01232843)
+- **012** (Independent Study) (time and location TBA) by Watson, Joel Christopher (A00789150)
 
 [Enrollment numbers over time](./ECON299.tsv)

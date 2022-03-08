@@ -7,5 +7,6 @@
 - **005** (Independent Study) (time and location TBA) by Rahimi, Babak (A00498065)
 - **006** (Independent Study) (time and location TBA) by Wesling, Megan E. (A06337740)
 - **007** (Independent Study) (time and location TBA) by Johnson, Sara E. (A05726873)
+- **008** (Independent Study) (time and location TBA) by Zhiri, Oumelbanine (A00473620)
 
 [Enrollment numbers over time](./LTEN299.tsv)

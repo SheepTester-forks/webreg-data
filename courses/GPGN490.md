@@ -1,7 +1,7 @@
 **GPGN 490**: Special Topics Course (4 units)
 
 - **A00** (Lecture) at 9:30 am–10:50 am on Monday, Wednesday at RBC 3201 by McCord, Gordon Carlos (A10405563)
-- **B00** (Lecture) at 2:00 pm–4:50 pm on Wednesday at RBC 3202 by McCord, Gordon Carlos (A10405563)
+- **B00** (Lecture) at 2:00 pm–4:50 pm on Wednesday at RCLAS R10 by McCord, Gordon Carlos (A10405563)
 - **C00** (Lecture) at 11:00 am–12:20 pm on Monday, Wednesday at RBC 3202 by Kshatriya, Krista C (A15357198)
 - **D00** (Lecture) at 11:00 am–12:20 pm on Monday, Wednesday at RBC 3201 by McCord, Gordon Carlos (A10405563)
 - **E00** (Lecture) at 5:00 pm–7:50 pm on Tuesday at RBC GARDN by Schaede, Ulrike (A00745426)

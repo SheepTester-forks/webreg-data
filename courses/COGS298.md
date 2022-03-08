@@ -4,5 +4,6 @@
 - **002** (Independent Study) (time and location TBA) by Voytek, Bradley Thomas (A12501924)
 - **003** (Independent Study) (time and location TBA) by Chiba, Andrea (A02380783)
 - **004** (Independent Study) (time and location TBA) by Rangel, Lara M (A04827163)
+- **005** (Independent Study) (time and location TBA) by Bergen, Benjamin (A09684414)
 
 [Enrollment numbers over time](./COGS298.tsv)
