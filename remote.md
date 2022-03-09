@@ -504,6 +504,10 @@
 [**MATS 201C**](./courses/MATS201C.md): Phase Transformations
 - A00
 
+[**MCWP 40**](./courses/MCWP40.md): Critical Writing
+- 018
+- 019
+
 [**MGT 71**](./courses/MGT71.md): Business & Operations Mgt
 - A00
 

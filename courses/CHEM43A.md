@@ -8,7 +8,7 @@
 - **A02** (Lab) at 10:00 am–12:50 pm on Monday, Wednesday at YORK 3108 by Klosterman, Jeremy K (A03660995)
 - **A03** (Lab) at 10:00 am–12:50 pm on Monday, Wednesday at YORK 3208 by Klosterman, Jeremy K (A03660995)
 - **A04** (Lab) at 10:00 am–12:50 pm on Monday, Wednesday at YORK 3224 by Klosterman, Jeremy K (A03660995)
-- **A05** (Lab) at 10:00 am–12:50 pm on Monday, Wednesday at YORK 4208 by Klosterman, Jeremy K (A03660995)
+- **A05** (Lab) (time and location TBA) by staff
 - **A06** (Lab) at 1:10 pm–4:00 pm on Monday, Wednesday at YORK 1246 by Klosterman, Jeremy K (A03660995)
 - **A07** (Lab) at 1:10 pm–4:00 pm on Monday, Wednesday at YORK 3108 by Klosterman, Jeremy K (A03660995)
 - **A08** (Lab) at 1:10 pm–4:00 pm on Monday, Wednesday at YORK 3208 by Klosterman, Jeremy K (A03660995)
@@ -31,7 +31,7 @@
 - **B08** (Lab) at 2:20 pm–5:10 pm on Tuesday, Thursday at YORK 3208 by Klosterman, Jeremy K (A03660995)
 - **B09** (Lab) at 2:20 pm–5:10 pm on Tuesday, Thursday at YORK 3224 by Klosterman, Jeremy K (A03660995)
 - **B10** (Lab) at 2:20 pm–5:10 pm on Tuesday, Thursday at YORK 4208 by Klosterman, Jeremy K (A03660995)
-- **B11** (Lab) at 2:20 pm–5:10 pm on Tuesday, Thursday at YORK 3108 by Klosterman, Jeremy K (A03660995)
+- **B11** (Lab) (time and location TBA) by staff
 - **B12** (Lab) at 2:20 pm–5:10 pm on Tuesday, Thursday at YORK 1246 by Klosterman, Jeremy K (A03660995)
 
 [Enrollment numbers over time](./CHEM43A.tsv)

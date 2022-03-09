@@ -39,6 +39,6 @@
 - **E03** (Discussion) at 2:00 pm–2:50 pm on Wednesday at WLH 2115 by Alfonso, Stephanie Isabel (A07280779)
 - **E04** (Discussion) at 3:00 pm–3:50 pm on Wednesday at WLH 2115 by Alfonso, Stephanie Isabel (A07280779)
 - **E05** (Discussion) at 8:00 am–8:50 am on Friday at WLH 2114 by Alfonso, Stephanie Isabel (A07280779)
-- **E06** (Discussion) at 2:00 pm–2:50 pm on Monday at WLH 2115 by Alfonso, Stephanie Isabel (A07280779)
+- **E06** (Discussion) (time and location TBA) by staff
 
 [Enrollment numbers over time](./BILD1.tsv)

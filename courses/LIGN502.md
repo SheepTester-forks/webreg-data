@@ -9,5 +9,6 @@
 - **007** (Practicum) (time and location TBA) by Rose, Sharon (A01321943)
 - **008** (Practicum) (time and location TBA) by Ackerman, Farrell (A01400756)
 - **009** (Practicum) (time and location TBA) by McIntosh, Justin Daniel (A15373690)
+- **010** (Practicum) (time and location TBA) by Bergen, Leon (A15366725)
 
 [Enrollment numbers over time](./LIGN502.tsv)

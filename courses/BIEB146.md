@@ -11,5 +11,7 @@
 - **A07** (Discussion) at 5:00 pm–5:50 pm on Monday at HSS 1305 by Petrie, Katherine Lynn (A14278161)
 - **A08** (Discussion) at 7:00 pm–7:50 pm on Monday at HSS 1315 by Petrie, Katherine Lynn (A14278161)
 - **A09** (Discussion) at 8:00 pm–8:50 pm on Monday at HSS 1315 by Petrie, Katherine Lynn (A14278161)
+- **A10** (Discussion) at 10:00 am–10:50 am on Monday at HSS 2150 by Petrie, Katherine Lynn (A14278161)
+- **A11** (Discussion) at 6:00 pm–6:50 pm on Monday at HSS 1128A by Petrie, Katherine Lynn (A14278161)
 
 [Enrollment numbers over time](./BIEB146.tsv)

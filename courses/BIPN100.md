@@ -8,7 +8,7 @@
 - **A02** (Discussion) at 12:00 pm–12:50 pm on Monday at HSS 1315 by Reyes Gonzalez, Catalina (A13238291)
 - **A03** (Discussion) at 6:00 pm–6:50 pm on Monday at HSS 1305 by Reyes Gonzalez, Catalina (A13238291)
 - **A04** (Discussion) at 7:00 pm–7:50 pm on Monday at HSS 1305 by Reyes Gonzalez, Catalina (A13238291)
-- **A05** (Discussion) at 8:00 pm–8:50 pm on Monday at HSS 1305 by Reyes Gonzalez, Catalina (A13238291)
+- **A05** (Discussion) (time and location TBA) by staff
 - **A06** (Discussion) at 8:00 am–8:50 am on Wednesday at CENTR 217A by Reyes Gonzalez, Catalina (A13238291)
 - **A07** (Discussion) at 2:00 pm–2:50 pm on Wednesday at HSS 1305 by Reyes Gonzalez, Catalina (A13238291)
 - **A08** (Discussion) at 4:00 pm–4:50 pm on Friday at CENTR 220 by Reyes Gonzalez, Catalina (A13238291)

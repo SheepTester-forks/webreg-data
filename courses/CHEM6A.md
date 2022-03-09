@@ -7,6 +7,7 @@
 - **A03** (Discussion) at 1:00 pm–1:50 pm on Monday at HSS 1128A by staff
 - **A04** (Discussion) at 2:00 pm–2:50 pm on Monday at HSS 1128A by staff
 - **A05** (Discussion) at 1:00 pm–1:50 pm on Wednesday at SOLIS 109 by staff
-- **A06** (Discussion) at 7:00 pm–7:50 pm on Wednesday at SOLIS 111 by staff
+- **A06** (Discussion) at 7:00 pm–7:50 pm on Wednesday at SOLIS 110 by staff
+- **A07** (Discussion) at 6:00 pm–6:50 pm on Wednesday at SOLIS 110 by staff
 
 [Enrollment numbers over time](./CHEM6A.tsv)

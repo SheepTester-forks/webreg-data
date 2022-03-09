@@ -7,6 +7,7 @@
 - **A03** (Discussion) at 1:00 pm–1:50 pm on Friday at HSS 1315 by Owens, Melinda Tsao-Ying (A15761020)
 - **A04** (Discussion) at 2:00 pm–2:50 pm on Friday at HSS 1315 by Owens, Melinda Tsao-Ying (A15761020)
 - **A05** (Discussion) at 3:00 pm–3:50 pm on Friday at HSS 1315 by Owens, Melinda Tsao-Ying (A15761020)
+- **A06** (Discussion) at 9:00 am–9:50 am on Friday at HSS 1315 by Owens, Melinda Tsao-Ying (A15761020)
 - **B00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at YORK 2622 by Park, Ji Young (A11766677)
 - **B00** (Final Exam) at 8:00 am–10:59 am on Friday at YORK 2622 by Park, Ji Young (A11766677)
 - **B01** (Discussion) at 4:00 pm–4:50 pm on Monday at WLH 2112 by Park, Ji Young (A11766677)

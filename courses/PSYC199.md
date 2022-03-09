@@ -25,5 +25,6 @@
 - **023** (Independent Study) (time and location TBA) by Taylor, Charles Theodore (A11770888)
 - **024** (Independent Study) (time and location TBA) by Colvonen, Peter (A15357231)
 - **025** (Independent Study) (time and location TBA) by Herbert, Matthew (A16044438)
+- **026** (Independent Study) (time and location TBA) by Panizzon, Matthew S. (A12560195)
 
 [Enrollment numbers over time](./PSYC199.tsv)

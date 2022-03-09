@@ -1,12 +1,12 @@
 **SYN 1**: Perspectives/Changing Planet (4 units)
 
-- **001** (Seminar) at 9:30 am–10:50 am on Monday, Wednesday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
+- **001** (Seminar) at 6:30 pm–7:50 pm on Monday, Wednesday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
 - **002** (Seminar) at 11:00 am–12:20 pm on Monday, Wednesday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
 - **003** (Seminar) at 12:30 pm–1:50 pm on Monday, Wednesday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
 - **004** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
 - **005** (Seminar) at 3:30 pm–4:50 pm on Monday, Wednesday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
 - **006** (Seminar) at 5:00 pm–6:20 pm on Monday, Wednesday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
-- **007** (Seminar) at 9:30 am–10:50 am on Monday, Wednesday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
+- **007** (Seminar) (time and location TBA) by staff
 - **008** (Seminar) at 11:00 am–12:20 pm on Monday, Wednesday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
 - **009** (Seminar) at 12:30 pm–1:50 pm on Monday, Wednesday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
 - **010** (Seminar) at 2:00 pm–3:20 pm on Monday, Wednesday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
@@ -15,13 +15,13 @@
 - **013** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
 - **014** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
 - **015** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
-- **016** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
+- **016** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
 - **017** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
 - **018** (Seminar) at 5:00 pm–6:20 pm on Tuesday, Thursday at SEVE3 3-102 by Gladstein, Jill M (A16713446)
 - **019** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
 - **020** (Seminar) at 11:00 am–12:20 pm on Tuesday, Thursday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
 - **021** (Seminar) at 12:30 pm–1:50 pm on Tuesday, Thursday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
-- **022** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
+- **022** (Seminar) (time and location TBA) by staff
 - **023** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
 - **024** (Seminar) at 5:00 pm–6:20 pm on Tuesday, Thursday at SEVE3 3-103 by Gladstein, Jill M (A16713446)
 - **025** (Seminar) at 9:30 am–10:50 am on Tuesday, Thursday at SSB 106 by Gladstein, Jill M (A16713446)
@@ -36,6 +36,6 @@
 - **034** (Seminar) at 2:00 pm–3:20 pm on Tuesday, Thursday at MCGIL 2315 by Gladstein, Jill M (A16713446)
 - **035** (Seminar) at 3:30 pm–4:50 pm on Tuesday, Thursday at MCGIL 2315 by Gladstein, Jill M (A16713446)
 - **036** (Seminar) at 5:00 pm–6:20 pm on Tuesday, Thursday at SSB 106 by Gladstein, Jill M (A16713446)
-- **037** (Seminar) at 8:00 am–9:20 am on Tuesday, Thursday at   by Gladstein, Jill M (A16713446)
+- **037** (Seminar) (time and location TBA) by staff
 
 [Enrollment numbers over time](./SYN1.tsv)
