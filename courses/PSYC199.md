@@ -26,5 +26,8 @@
 - **024** (Independent Study) (time and location TBA) by Colvonen, Peter (A15357231)
 - **025** (Independent Study) (time and location TBA) by Herbert, Matthew (A16044438)
 - **026** (Independent Study) (time and location TBA) by Panizzon, Matthew S. (A12560195)
+- **027** (Independent Study) (time and location TBA) by Walker, Caren Michelle (A13242212)
+- **028** (Independent Study) (time and location TBA) by Morland, Leslie Ann (A13241789)
+- **029** (Independent Study) (time and location TBA) by Fan, Judith Ellen (A16044200)
 
 [Enrollment numbers over time](./PSYC199.tsv)

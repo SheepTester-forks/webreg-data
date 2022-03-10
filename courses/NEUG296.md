@@ -6,5 +6,6 @@
 - **004** (Independent Study) (time and location TBA) by Mukku, Dhananjaya (A16717486)
 - **005** (Independent Study) (time and location TBA) by Lovett-Barron, Matthew Rod (A16710980)
 - **006** (Independent Study) (time and location TBA) by Gilja, Vikash (A11788064)
+- **007** (Independent Study) (time and location TBA) by Voytek, Bradley Thomas (A12501924)
 
 [Enrollment numbers over time](./NEUG296.tsv)

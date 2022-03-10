@@ -1,7 +1,7 @@
 **BIEB 152**: Evol of Infectious Diseases (4 units)
 
-- **A00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at WLH 2001 by Meyer, Justin Raymond (A12510453)
-- **A00** (Final Exam) at 11:30 am–2:29 pm on Tuesday at WLH 2001 by Meyer, Justin Raymond (A12510453)
+- **A00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at GH 242 by Meyer, Justin Raymond (A12510453)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Tuesday at GH 242 by Meyer, Justin Raymond (A12510453)
 - **A01** (Discussion) at 8:00 am–8:50 am on Monday at HSS 1315 by Meyer, Justin Raymond (A12510453)
 - **A02** (Discussion) at 10:00 am–10:50 am on Monday at HSS 2154 by Meyer, Justin Raymond (A12510453)
 - **A03** (Discussion) at 11:00 am–11:50 am on Monday at HSS 2154 by Meyer, Justin Raymond (A12510453)
@@ -14,5 +14,6 @@
 - **A10** (Discussion) at 4:00 pm–4:50 pm on Friday at HSS 2150 by Meyer, Justin Raymond (A12510453)
 - **A11** (Discussion) at 5:00 pm–5:50 pm on Friday at HSS 2150 by Meyer, Justin Raymond (A12510453)
 - **A12** (Discussion) at 6:00 pm–6:50 pm on Friday at HSS 2150 by Meyer, Justin Raymond (A12510453)
+- **A13** (Discussion) at 2:00 pm–2:50 pm on Wednesday at HSS 1128A by Meyer, Justin Raymond (A12510453)
 
 [Enrollment numbers over time](./BIEB152.tsv)
