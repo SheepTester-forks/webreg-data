@@ -16,5 +16,6 @@
 - **014** (Independent Study) (time and location TBA) by Ravanilla, Nico (A14295435)
 - **015** (Independent Study) (time and location TBA) by Schaede, Ulrike (A00745426)
 - **016** (Independent Study) (time and location TBA) by Victor, David Gardiner (A09683297)
+- **017** (Independent Study) (time and location TBA) by Samphantharak, Krislert (A05762594)
 
 [Enrollment numbers over time](./GPGN499.tsv)

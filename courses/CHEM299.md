@@ -85,5 +85,6 @@
 - **083** (Independent Study) (time and location TBA) by Chen, Yuan (A16189034)
 - **084** (Independent Study) (time and location TBA) by Pomeroy, Robert S. (A00552928)
 - **085** (Independent Study) (time and location TBA) by Wang, Dong (A09754058)
+- **086** (Independent Study) (time and location TBA) by Cleveland, Don W. (A00836983)
 
 [Enrollment numbers over time](./CHEM299.tsv)

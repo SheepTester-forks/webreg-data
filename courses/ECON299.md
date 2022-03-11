@@ -14,5 +14,6 @@
 - **012** (Independent Study) (time and location TBA) by Watson, Joel Christopher (A00789150)
 - **013** (Independent Study) (time and location TBA) by Toda, Alexis Akira (A11779718)
 - **014** (Independent Study) (time and location TBA) by Toda, Alexis Akira (A11779718)
+- **015** (Independent Study) (time and location TBA) by Carson, Richard T (A01218848)
 
 [Enrollment numbers over time](./ECON299.tsv)

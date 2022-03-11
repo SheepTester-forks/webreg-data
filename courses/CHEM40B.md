@@ -23,5 +23,6 @@
 - **B06** (Discussion) at 5:00 pm–5:50 pm on Friday at WLH 2208 by Siegel, Dionicio R. (A12506937)
 - **B07** (Discussion) at 10:00 am–10:50 am on Monday at SOLIS 110 by Siegel, Dionicio R. (A12506937)
 - **B08** (Discussion) at 1:00 pm–1:50 pm on Monday at CSB 005 by Siegel, Dionicio R. (A12506937)
+- **B09** (Discussion) at 3:00 pm–3:50 pm on Friday at WLH 2208 by Siegel, Dionicio R. (A12506937)
 
 [Enrollment numbers over time](./CHEM40B.tsv)
