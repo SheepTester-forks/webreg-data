@@ -29,5 +29,7 @@
 - **027** (Independent Study) (time and location TBA) by Walker, Caren Michelle (A13242212)
 - **028** (Independent Study) (time and location TBA) by Morland, Leslie Ann (A13241789)
 - **029** (Independent Study) (time and location TBA) by Fan, Judith Ellen (A16044200)
+- **030** (Independent Study) (time and location TBA) by Gremel, Christina M (A13230790)
+- **031** (Independent Study) (time and location TBA) by Dickenson, Janna Alene (A16711307)
 
 [Enrollment numbers over time](./PSYC199.tsv)

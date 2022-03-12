@@ -1122,6 +1122,7 @@
 - [**LTWR 195**: Apprentice Teaching](./courses/LTWR195.md) (4 units)
 - [**LTWR 215**: Cross-Genre Workshop](./courses/LTWR215.md) (4 units)
 - [**LTWR 295**: MFA Thesis](./courses/LTWR295.md) (1–12 units, by 1)
+- [**LTWR 298**: Special Projects: Writing Crse](./courses/LTWR298.md) (1–12 units, by 1)
 - [**MAE 3**: Intro/Engineering Graphcs&Desn](./courses/MAE3.md) (4 units)
 - [**MAE 8**: MATLAB Program for Engr Analys](./courses/MAE8.md) (4 units)
 - [**MAE 30B**: Dynamics and Vibrations](./courses/MAE30B.md) (4 units)

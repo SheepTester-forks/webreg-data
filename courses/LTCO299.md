@@ -5,5 +5,6 @@
 - **003** (Independent Study) (time and location TBA) by Wesling, Megan E. (A06337740)
 - **004** (Independent Study) (time and location TBA) by Nguyen, Hoang Tan (A14294806)
 - **005** (Independent Study) (time and location TBA) by Hoang, Lily Kim (A15367299)
+- **006** (Independent Study) (time and location TBA) by Zhiri, Oumelbanine (A00473620)
 
 [Enrollment numbers over time](./LTCO299.tsv)
