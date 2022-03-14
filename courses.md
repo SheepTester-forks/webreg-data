@@ -860,6 +860,7 @@
 - [**GPGN 490**: Special Topics Course](./courses/GPGN490.md) (4 units)
 - [**GPGN 495**: Adv Projects Energy Analytics](./courses/GPGN495.md) (2 units)
 - [**GPGN 497**: Internship](./courses/GPGN497.md) (2 units)
+- [**GPGN 498**: Directed Group Study](./courses/GPGN498.md) (2 units)
 - [**GPGN 499**: Independent Research](./courses/GPGN499.md) (2–12 units, by 2)
 - [**GPIM 431**: CompetitionPolicyIndustrialPol](./courses/GPIM431.md) (4 units)
 - [**GPIM 452**: Big Data Analytics](./courses/GPIM452.md) (4 units)

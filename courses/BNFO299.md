@@ -44,5 +44,6 @@
 - **042** (Independent Study) (time and location TBA) by Majithia, Amit Rajendra (A15758654)
 - **043** (Independent Study) (time and location TBA) by McVicker, Graham P (A15733103)
 - **044** (Independent Study) (time and location TBA) by Mesirov, Jill P. (A13240457)
+- **045** (Independent Study) (time and location TBA) by Vijayanand, Pandurangan (A15369456)
 
 [Enrollment numbers over time](./BNFO299.tsv)

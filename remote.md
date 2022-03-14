@@ -35,6 +35,9 @@
 [**BENG 294C**](./courses/BENG294C.md): Clinical Exp in Bioengineering
 - A00
 
+[**BGGN 285**](./courses/BGGN285.md): Adv Topics in Modern Biology
+- B00
+
 [**BICD 100**](./courses/BICD100.md): Genetics
 - A01
 - A02
@@ -94,6 +97,9 @@
 [**BIMM 143**](./courses/BIMM143.md): Bioinformatics Laboratory
 - A01
 - B01
+
+[**BISP 194**](./courses/BISP194.md): Adv Topics in Modern Biology
+- B00
 
 [**CAT 3**](./courses/CAT3.md): Culture, Art & Technology III
 - B01
