@@ -21,5 +21,6 @@
 - **A18** (Lab) (time and location TBA) by Walker, Caren Michelle (A13242212),Heyman, Gail D. (A02770467)
 - **A19** (Lab) (time and location TBA) by Willis, Jarryd Thomas (A13252861),Heyman, Gail D. (A02770467)
 - **A20** (Lab) (time and location TBA) by Wixted, John T (A01550366),Heyman, Gail D. (A02770467)
+- **A21** (Lab) (time and location TBA) by Bomyea, Jessica A (A50041198),Heyman, Gail D. (A02770467)
 
 [Enrollment numbers over time](./PSYC194C.tsv)

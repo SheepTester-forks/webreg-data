@@ -77,5 +77,6 @@
 - **075** (Independent Study) (time and location TBA) by Zhang, Jin (A13265991)
 - **076** (Independent Study) (time and location TBA) by Hedrick, Stephen M (A00735845)
 - **077** (Independent Study) (time and location TBA) by Mischel, Paul S (A11122935)
+- **078** (Independent Study) (time and location TBA) by Zage, Peter (A14282787)
 
 [Enrollment numbers over time](./BIOM299.tsv)

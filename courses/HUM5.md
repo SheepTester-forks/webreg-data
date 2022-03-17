@@ -2,6 +2,7 @@
 
 - **A00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday, Friday at PETER 108 by Caldwell, Michael Alan (A11103731)
 - **A00** (Final Exam) at 3:00 pm–5:59 pm on Friday at PETER 108 by Caldwell, Michael Alan (A11103731)
+- **A00** (Other Sessions) at 6:00 pm–7:00 pm on Thursday at   by Caldwell, Michael Alan (A11103731)
 - **A01** (Discussion) at 2:00 pm–2:50 pm on Tuesday at U301 122 by Caldwell, Michael Alan (A11103731)
 - **A02** (Discussion) at 3:00 pm–3:50 pm on Tuesday at U301 122 by Caldwell, Michael Alan (A11103731)
 - **A03** (Discussion) at 10:00 am–10:50 am on Wednesday at RCLAS R01 by Caldwell, Michael Alan (A11103731)
@@ -16,6 +17,7 @@
 - **A12** (Discussion) at 12:00 pm–12:50 pm on Monday at HSS 1128A by Caldwell, Michael Alan (A11103731)
 - **B00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday, Friday at WLH 2001 by Lyon, Antony J. (A05020724)
 - **B00** (Final Exam) at 8:00 am–10:59 am on Monday at WLH 2001 by Lyon, Antony J. (A05020724)
+- **B00** (Other Sessions) at 6:00 pm–7:00 pm on Thursday at PRICE THTRE by Lyon, Antony J. (A05020724)
 - **B01** (Discussion) at 9:00 am–9:50 am on Tuesday at U301 122 by Lyon, Antony J. (A05020724)
 - **B02** (Discussion) at 10:00 am–10:50 am on Tuesday at U301 122 by Lyon, Antony J. (A05020724)
 - **B03** (Discussion) at 11:00 am–11:50 am on Tuesday at U301 122 by Lyon, Antony J. (A05020724)

@@ -155,5 +155,11 @@
 - **153** (Independent Study) (time and location TBA) by Croft, Michael (A01070115)
 - **154** (Independent Study) (time and location TBA) by Traver, David (A06887064)
 - **155** (Independent Study) (time and location TBA) by Bui, Jack D (A00824591)
+- **156** (Independent Study) (time and location TBA) by Wahlin, Karl Jonas (A13311609)
+- **157** (Independent Study) (time and location TBA) by Bloodgood, Brenda Laurie (A02379111)
+- **158** (Independent Study) (time and location TBA) by Gleeson, Joseph Gerard (A01884427)
+- **159** (Independent Study) (time and location TBA) by Cook-Andersen, Heidi Leigh (A09750664)
+- **160** (Independent Study) (time and location TBA) by Kiger, Amy (A06892447)
+- **161** (Independent Study) (time and location TBA) by Gordts, Philip (A09747320)
 
 [Enrollment numbers over time](./BISP199.tsv)

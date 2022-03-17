@@ -7,5 +7,6 @@
 - **A03** (Discussion) at 7:00 pm–7:50 pm on Tuesday at APM 6402 by Kolesnik, Brett T (A17248269)
 - **A04** (Discussion) at 6:00 pm–6:50 pm on Tuesday at SOLIS 109 by Kolesnik, Brett T (A17248269)
 - **A05** (Discussion) at 7:00 pm–7:50 pm on Tuesday at SOLIS 109 by Kolesnik, Brett T (A17248269)
+- **A06** (Discussion) at 8:00 pm–8:50 pm on Tuesday at SOLIS 109 by Kolesnik, Brett T (A17248269)
 
 [Enrollment numbers over time](./MATH180A.tsv)

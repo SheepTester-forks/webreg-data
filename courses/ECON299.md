@@ -15,5 +15,7 @@
 - **013** (Independent Study) (time and location TBA) by Toda, Alexis Akira (A11779718)
 - **014** (Independent Study) (time and location TBA) by Toda, Alexis Akira (A11779718)
 - **015** (Independent Study) (time and location TBA) by Carson, Richard T (A01218848)
+- **016** (Independent Study) (time and location TBA) by Muendler, Marc (A05112551)
+- **017** (Independent Study) (time and location TBA) by Vogl, Tom Saul (A16181588)
 
 [Enrollment numbers over time](./ECON299.tsv)

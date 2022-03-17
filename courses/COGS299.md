@@ -11,5 +11,6 @@
 - **009** (Independent Study) (time and location TBA) by Townsend, Phyllis Jeanne (A00470240)
 - **010** (Independent Study) (time and location TBA) by Jernigan, Terry Lynne (A01211284)
 - **011** (Independent Study) (time and location TBA) by Dow, Steven P (A14270159)
+- **012** (Independent Study) (time and location TBA) by Rangel, Lara M (A04827163)
 
 [Enrollment numbers over time](./COGS299.tsv)

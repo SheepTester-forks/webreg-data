@@ -22,5 +22,7 @@
 - **020** (Independent Study) (time and location TBA) by Rickard, Timothy C. (A02015113)
 - **021** (Independent Study) (time and location TBA) by Lacefield, Katharine I (A15356862)
 - **022** (Independent Study) (time and location TBA) by Steiner, Eric Tomas (A15354864)
+- **023** (Independent Study) (time and location TBA) by Mukku, Dhananjaya (A16717486)
+- **024** (Independent Study) (time and location TBA) by Geller, Emma Harlan (A14294903)
 
 [Enrollment numbers over time](./PSYC500.tsv)

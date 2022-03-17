@@ -8,5 +8,6 @@
 - **A04** (Discussion) at 8:00 pm–8:50 pm on Monday at APM 2301 by Rava, Denise (A53222503)
 - **A05** (Discussion) at 5:00 pm–5:50 pm on Monday at WLH 2115 by Rava, Denise (A53222503)
 - **A06** (Discussion) at 6:00 pm–6:50 pm on Monday at WLH 2115 by Rava, Denise (A53222503)
+- **A07** (Discussion) at 7:00 pm–7:50 pm on Monday at WLH 2115 by Rava, Denise (A53222503)
 
 [Enrollment numbers over time](./MATH183.tsv)
