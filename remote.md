@@ -29,6 +29,9 @@
 [**AWP 10**](./courses/AWP10.md): Lang&Learning in American Acad
 - A00
 
+[**BENG 112B**](./courses/BENG112B.md): Fluid and Cell Biomechanics
+- A01
+
 [**BENG 193**](./courses/BENG193.md): Clinical Exp in Bioengineering
 - A00
 
@@ -554,9 +557,6 @@
 [**MUS 271B**](./courses/MUS271B.md): Survey/Elec Music Techn II
 - A00
 
-[**NANO 141B**](./courses/NANO141B.md): Eng Mech II:Analysis of Motion
-- A00
-
 [**NANO 156**](./courses/NANO156.md): Modern Concepts/Nanotechnology
 - A00
 
@@ -621,6 +621,9 @@
 - A00
 
 [**SOCI 110**](./courses/SOCI110.md): Qualitative Res/Educ Settings
+- A00
+
+[**SOCI 120**](./courses/SOCI120.md): Sociology Through Literature
 - A00
 
 [**SOCI 159**](./courses/SOCI159.md): Spec Top/Soc/Organztns&Institn

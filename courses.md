@@ -312,6 +312,7 @@
 - [**CHEM 291**: Molecular Biophysics Seminar](./courses/CHEM291.md) (2 units)
 - [**CHEM 294**: Organic Chemistry Seminar](./courses/CHEM294.md) (2 units)
 - [**CHEM 297**: Experimental Methods/Chemistry](./courses/CHEM297.md) (4 units)
+- [**CHEM 298**: Special Study in Chemistry](./courses/CHEM298.md) (1–12 units, by 1)
 - [**CHEM 299**: Research in Chemistry](./courses/CHEM299.md) (1–12 units, by 1)
 - [**CHEM 500**: Apprentice Teaching](./courses/CHEM500.md) (4 units)
 - [**CHIN 10CD**: First Yr Chinese/Dialect III](./courses/CHIN10CD.md) (5 units)

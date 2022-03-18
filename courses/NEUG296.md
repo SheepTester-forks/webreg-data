@@ -8,5 +8,6 @@
 - **006** (Independent Study) (time and location TBA) by Gilja, Vikash (A11788064)
 - **007** (Independent Study) (time and location TBA) by Voytek, Bradley Thomas (A12501924)
 - **008** (Independent Study) (time and location TBA) by Pekkurnaz Banghart, Gulcin (A14295034)
+- **009** (Independent Study) (time and location TBA) by Gentner, Tim (A06795799)
 
 [Enrollment numbers over time](./NEUG296.tsv)

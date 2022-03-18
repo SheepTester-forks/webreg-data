@@ -8,7 +8,7 @@
 - **B00** (Lecture) at 12:00 pm–12:50 pm on Monday, Wednesday, Friday at CENTR 214 by Zhang, Zhuosong (A17258085)
 - **B00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at CENTR 214 by Zhang, Zhuosong (A17258085)
 - **B01** (Discussion) at 8:00 am–8:50 am on Thursday at CENTR 217A by Zhang, Zhuosong (A17258085)
-- **B02** (Discussion) at 9:00 am–9:50 am on Thursday at CENTR 217A by Zhang, Zhuosong (A17258085)
+- **B02** (Discussion) (time and location TBA) by staff
 - **B03** (Discussion) at 10:00 am–10:50 am on Thursday at CENTR 217A by Zhang, Zhuosong (A17258085)
 
 [Enrollment numbers over time](./MATH181B.tsv)

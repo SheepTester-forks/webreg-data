@@ -1,9 +1,9 @@
 **SOCI 117**: Language, Culture & Education (4 units)
 
-- **A00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at MANDE B-210 by Dean, Dallawrence Edward (A15756454)
-- **A01** (Discussion) (time and location TBA) by Dean, Dallawrence Edward (A15756454)
-- **A02** (Discussion) (time and location TBA) by Dean, Dallawrence Edward (A15756454)
-- **B00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at PCYNH 109 by Jones, Makeba (A01456774)
+- **A00** (Lecture) (time and location TBA) by staff
+- **A01** (Discussion) (time and location TBA) by staff
+- **A02** (Discussion) (time and location TBA) by staff
+- **B00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at CTL 0125 by Jones, Makeba (A01456774)
 - **B01** (Discussion) (time and location TBA) by Jones, Makeba (A01456774)
 - **B02** (Discussion) (time and location TBA) by Jones, Makeba (A01456774)
 
