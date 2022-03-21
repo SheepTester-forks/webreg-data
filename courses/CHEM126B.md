@@ -6,5 +6,6 @@
 - **A00** (Midterm) at 6:00 pm–7:50 pm on Thursday at PCYNH 122 by Tauber, Michael (A07482469)
 - **A01** (Discussion) at 4:00 pm–4:50 pm on Monday at TM102 1 by Tauber, Michael (A07482469)
 - **A02** (Discussion) at 8:00 am–8:50 am on Wednesday at TM102 1 by Tauber, Michael (A07482469)
+- **A03** (Discussion) at 9:00 am–9:50 am on Wednesday at TM102 1 by Tauber, Michael (A07482469)
 
 [Enrollment numbers over time](./CHEM126B.tsv)

@@ -4,5 +4,13 @@
 - **002** (Independent Study) (time and location TBA) by Pardo Guerra, Juan Pablo (A13272392)
 - **003** (Independent Study) (time and location TBA) by Sutton, April Marie (A15366791)
 - **004** (Independent Study) (time and location TBA) by Goldman, Harvey Stern (A01804042)
+- **005** (Independent Study) (time and location TBA) by Raudenbush, Danielle (A12507795)
+- **006** (Independent Study) (time and location TBA) by Pitt, Richard Norris (A16637576)
+- **007** (Independent Study) (time and location TBA) by Calderon-Zaks, Michael Aar (A15373733)
+- **008** (Independent Study) (time and location TBA) by Estefan, Michel (A16637568)
+- **009** (Independent Study) (time and location TBA) by Summers, Valerie R. (A08016084)
+- **010** (Independent Study) (time and location TBA) by Payne, Christine Anna (A50061496)
+- **011** (Independent Study) (time and location TBA) by Fitzgerald, David S (A02415189)
+- **012** (Independent Study) (time and location TBA) by Rona-Tas, Akos (A00356996)
 
 [Enrollment numbers over time](./SOCG500.tsv)

@@ -15,5 +15,10 @@
 - **013** (Independent Study) (time and location TBA) by Dickinson, Alexandra Jazz (A16710280)
 - **014** (Independent Study) (time and location TBA) by Ferguson, Cole John (A16713628)
 - **015** (Independent Study) (time and location TBA) by Bottini, Nunzio (A11823233)
+- **016** (Independent Study) (time and location TBA) by Karin, Michael (A01312778)
+- **017** (Independent Study) (time and location TBA) by Cheresh, David A. (A07470644)
+- **018** (Independent Study) (time and location TBA) by Akbari, Omar Sultan (A15371133)
+- **019** (Independent Study) (time and location TBA) by Church, Kellie Breen (A11770026)
+- **020** (Independent Study) (time and location TBA) by Zarrinpar, Amir (A01030323)
 
 [Enrollment numbers over time](./BISP196.tsv)

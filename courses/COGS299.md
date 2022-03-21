@@ -12,5 +12,8 @@
 - **010** (Independent Study) (time and location TBA) by Jernigan, Terry Lynne (A01211284)
 - **011** (Independent Study) (time and location TBA) by Dow, Steven P (A14270159)
 - **012** (Independent Study) (time and location TBA) by Rangel, Lara M (A04827163)
+- **013** (Independent Study) (time and location TBA) by Creel, Sarah (A08082601)
+- **014** (Independent Study) (time and location TBA) by Nitz, Douglas A. (A08872464)
+- **015** (Independent Study) (time and location TBA) by Kirsh, David Joel (A01436691)
 
 [Enrollment numbers over time](./COGS299.tsv)

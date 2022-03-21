@@ -6,5 +6,8 @@
 - **004** (Independent Study) (time and location TBA) by Cullen, Julie (A06311057)
 - **005** (Independent Study) (time and location TBA) by Fadlon, Yizhak (A14295205)
 - **006** (Independent Study) (time and location TBA) by Vespa, Emanuel Ignacio (A16710839)
+- **007** (Independent Study) (time and location TBA) by Andreoni, James (A07470657)
+- **008** (Independent Study) (time and location TBA) by Dahl, Gordon B. (A08069359)
+- **009** (Independent Study) (time and location TBA) by Wuthrich, Kaspar (A14301481)
 
 [Enrollment numbers over time](./ECON297.tsv)

@@ -5,5 +5,6 @@
 - **A01** (Lab) at 12:00 pm–12:50 pm on Wednesday at PETER 102 by Fleischer, Jason G (A14295669)
 - **A02** (Lab) at 9:00 am–9:50 am on Friday at PETER 103 by Fleischer, Jason G (A14295669)
 - **A03** (Lab) at 5:00 pm–5:50 pm on Friday at PCYNH 121 by Fleischer, Jason G (A14295669)
+- **A04** (Lab) at 10:00 am–10:50 am on Friday at PETER 103 by Fleischer, Jason G (A14295669)
 
 [Enrollment numbers over time](./COGS118A.tsv)

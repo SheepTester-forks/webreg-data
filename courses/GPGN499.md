@@ -17,5 +17,6 @@
 - **015** (Independent Study) (time and location TBA) by Schaede, Ulrike (A00745426)
 - **016** (Independent Study) (time and location TBA) by Victor, David Gardiner (A09683297)
 - **017** (Independent Study) (time and location TBA) by Samphantharak, Krislert (A05762594)
+- **018** (Independent Study) (time and location TBA) by Cheung, TaiMing (A06885108)
 
 [Enrollment numbers over time](./GPGN499.tsv)

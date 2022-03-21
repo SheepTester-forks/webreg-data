@@ -74,5 +74,9 @@
 - **072** (Independent Study) (time and location TBA) by Dayeh, Shadi Ahmad (A05711550)
 - **073** (Independent Study) (time and location TBA) by Sharpee, Tatyana (A08618441)
 - **074** (Independent Study) (time and location TBA) by Evans, Ronald M (A01284389)
+- **075** (Independent Study) (time and location TBA) by Bui, Jack D (A00824591)
+- **076** (Independent Study) (time and location TBA) by Chen, Yuan (A16189034)
+- **077** (Independent Study) (time and location TBA) by Smarr, Benjamin (A06333744)
+- **078** (Independent Study) (time and location TBA) by Mishra, Jyoti (A05118166)
 
 [Enrollment numbers over time](./BENG299.tsv)

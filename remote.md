@@ -131,7 +131,8 @@
 - A16
 
 [**CENG 101B**](./courses/CENG101B.md): Heat Transfer
-- A00
+- B00
+- B00
 
 [**CGS 112**](./courses/CGS112.md): Sexuality & Nation
 - A00
@@ -271,6 +272,19 @@
 
 [**ENG 100D**](./courses/ENG100D.md): Design for Development
 - A00
+
+[**ETHN 3**](./courses/ETHN3.md): Intro:Making Culture
+- A04
+- A08
+- A09
+- A10
+- A12
+- A13
+- A14
+
+[**ETHN 101TV**](./courses/ETHN101TV.md): Ethnic Images on TV
+- A01
+- A02
 
 [**ETHN 102**](./courses/ETHN102.md): Sci and Techn:Race/Gendr/Class
 - A00
@@ -616,6 +630,9 @@
 [**SOCI 10R**](./courses/SOCI10R.md): AmSociety:SocialStruct&Culture
 - A01
 - A02
+
+[**SOCI 103M**](./courses/SOCI103M.md): Computer Appl/Data Management
+- A00
 
 [**SOCI 104Q**](./courses/SOCI104Q.md): Qualitative Interviewing
 - A00

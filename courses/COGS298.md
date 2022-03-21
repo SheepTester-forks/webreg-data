@@ -7,5 +7,6 @@
 - **005** (Independent Study) (time and location TBA) by Bergen, Benjamin (A09684414)
 - **006** (Independent Study) (time and location TBA) by Coulson, Seana M (A01915525)
 - **007** (Independent Study) (time and location TBA) by Kiyonaga, Anastasia (A16188599)
+- **008** (Independent Study) (time and location TBA) by Kirsh, David Joel (A01436691)
 
 [Enrollment numbers over time](./COGS298.tsv)
