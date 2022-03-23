@@ -8,5 +8,8 @@
 - **006** (Independent Study) (time and location TBA) by Coulson, Seana M (A01915525)
 - **007** (Independent Study) (time and location TBA) by Kiyonaga, Anastasia (A16188599)
 - **008** (Independent Study) (time and location TBA) by Kirsh, David Joel (A01436691)
+- **009** (Independent Study) (time and location TBA) by De Sa, Virginia (A04511993)
+- **010** (Independent Study) (time and location TBA) by Deak, Gedeon O. (A03223123)
+- **011** (Independent Study) (time and location TBA) by Nunez, Rafael E (A05090443)
 
 [Enrollment numbers over time](./COGS298.tsv)

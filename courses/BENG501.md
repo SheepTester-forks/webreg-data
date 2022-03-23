@@ -1,0 +1,20 @@
+**BENG 501**: Teaching Experience (2–4 units, by 2)
+
+- **001** (Lecture) (time and location TBA) by Aguado, Brian Alberto (A17248335)
+- **002** (Lecture) (time and location TBA) by Alexandrov, Ludmil B (A15367164)
+- **003** (Lecture) (time and location TBA) by staff
+- **004** (Lecture) (time and location TBA) by Fraley, Stephanie I. (A12525331)
+- **005** (Lecture) (time and location TBA) by Shi, Lingyan (A16154361)
+- **006** (Lecture) (time and location TBA) by Wheeler, Bruce Christopher (A13236281)
+- **007** (Lecture) (time and location TBA) by Mali, Prashant Gulab Ram (A12525347)
+- **008** (Lecture) (time and location TBA) by Cabrales, Pedro (A09739235)
+- **009** (Lecture) (time and location TBA) by Zhang, Kun (A08086231)
+- **010** (Lecture) (time and location TBA) by Omens, Jeffrey Howard (A00929091)
+- **011** (Lecture) (time and location TBA) by Kwon, Ester Jihae (A15367630)
+- **012** (Lecture) (time and location TBA) by Contijoch, Francisco (A15367100)
+- **013** (Lecture) (time and location TBA) by Silva, Gabriel (A06275605)
+- **014** (Lecture) (time and location TBA) by King, Kevin R (A15367339)
+- **015** (Lecture) (time and location TBA) by Sah, Robert Lie-Yuan (A01889190)
+- **016** (Lecture) (time and location TBA) by Shah, Sameer B (A02344654)
+
+[Enrollment numbers over time](./BENG501.tsv)

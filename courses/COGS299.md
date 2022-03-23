@@ -15,5 +15,6 @@
 - **013** (Independent Study) (time and location TBA) by Creel, Sarah (A08082601)
 - **014** (Independent Study) (time and location TBA) by Nitz, Douglas A. (A08872464)
 - **015** (Independent Study) (time and location TBA) by Kirsh, David Joel (A01436691)
+- **016** (Independent Study) (time and location TBA) by De Sa, Virginia (A04511993)
 
 [Enrollment numbers over time](./COGS299.tsv)

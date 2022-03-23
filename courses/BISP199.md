@@ -163,5 +163,6 @@
 - **161** (Independent Study) (time and location TBA) by Gordts, Philip (A09747320)
 - **162** (Independent Study) (time and location TBA) by Neal, Sonya E (A05180715)
 - **163** (Independent Study) (time and location TBA) by Head, Brian P (A03637375)
+- **164** (Independent Study) (time and location TBA) by Ross, Robert Scott (A00536537)
 
 [Enrollment numbers over time](./BISP199.tsv)

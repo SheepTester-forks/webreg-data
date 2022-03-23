@@ -1,15 +1,14 @@
 **COGS 18**: Introduction to Python (4 units)
 
-- **A00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday, Friday at RCLAS R10 by staff
-- **A00** (Final Exam) at 8:00 am–10:59 am on Monday at RCLAS R10 by staff
-- **A01** (Lab) at 11:00 am–11:50 am on Wednesday at CSB 115 by staff
-- **A02** (Lab) at 12:00 pm–12:50 pm on Wednesday at CSB 115 by staff
-- **A03** (Lab) at 1:00 pm–1:50 pm on Monday at CSB 115 by staff
-- **A04** (Lab) at 2:00 pm–2:50 pm on Wednesday at CSB 115 by staff
-- **A05** (Lab) at 3:00 pm–3:50 pm on Wednesday at CSB 115 by staff
-- **A06** (Lab) at 4:00 pm–4:50 pm on Wednesday at CSB 115 by staff
-- **A07** (Lab) at 5:00 pm–5:50 pm on Wednesday at CSB 115 by staff
-- **A08** (Lab) at 6:00 pm–6:50 pm on Wednesday at CSB 115 by staff
+- **A00** (Lecture) (time and location TBA) by staff
+- **A01** (Lab) (time and location TBA) by staff
+- **A02** (Lab) (time and location TBA) by staff
+- **A03** (Lab) (time and location TBA) by staff
+- **A04** (Lab) (time and location TBA) by staff
+- **A05** (Lab) (time and location TBA) by staff
+- **A06** (Lab) (time and location TBA) by staff
+- **A07** (Lab) (time and location TBA) by staff
+- **A08** (Lab) (time and location TBA) by staff
 - **B00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at MYR-A 4623 by Green, Daniel Richard (A15366771)
 - **B00** (Final Exam) at 8:00 am–10:59 am on Tuesday at MYR-A 4623 by Green, Daniel Richard (A15366771)
 - **B01** (Lab) at 11:00 am–11:50 am on Tuesday at MYR-A 4623 by Green, Daniel Richard (A15366771)

@@ -1,6 +1,6 @@
 **SIOC 205**: Estuarine & Coastal Processes (4 units)
 
-- **A00** (Lecture) at 9:00 am–10:20 am on Tuesday, Thursday at SPIES 330 by Giddings, Sarah Nicole (A11833212)
-- **A01** (Discussion) at 8:00 am–8:50 am on Tuesday at SPIES 330 by Giddings, Sarah Nicole (A11833212)
+- **A00** (Lecture) (time and location TBA) by staff
+- **A01** (Discussion) (time and location TBA) by staff
 
 [Enrollment numbers over time](./SIOC205.tsv)
