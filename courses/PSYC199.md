@@ -31,5 +31,9 @@
 - **029** (Independent Study) (time and location TBA) by Fan, Judith Ellen (A16044200)
 - **030** (Independent Study) (time and location TBA) by Gremel, Christina M (A13230790)
 - **031** (Independent Study) (time and location TBA) by Dickenson, Janna Alene (A16711307)
+- **032** (Independent Study) (time and location TBA) by Mukku, Dhananjaya (A16717486)
+- **033** (Independent Study) (time and location TBA) by Depp, Colin A (A07489870)
+- **034** (Independent Study) (time and location TBA) by Pittman, James Ollie Eugen (A15370098)
+- **035** (Independent Study) (time and location TBA) by Powell, Lindsey Jane (A16183397)
 
 [Enrollment numbers over time](./PSYC199.tsv)

@@ -11,5 +11,7 @@
 - **009** (Tutorial) (time and location TBA) by Rivera-Collazo, Isabel C (A14294748)
 - **010** (Tutorial) (time and location TBA) by Fox, Patrick Keolu Ozer (A16182375)
 - **011** (Tutorial) (time and location TBA) by Varma, Saiba (A13242490)
+- **012** (Tutorial) (time and location TBA) by Marchetto, Maria Carolina (A15757992)
+- **013** (Tutorial) (time and location TBA) by Semendeferi, Ekaterini (A02346892)
 
 [Enrollment numbers over time](./ANTH298.tsv)

@@ -176,9 +176,6 @@
 
 [**COGS 107B**](./courses/COGS107B.md): Systems Neuroscience
 - A01
-- A02
-- A03
-- A04
 - A05
 
 [**COGS 170**](./courses/COGS170.md): Brain Waves Across Scales
@@ -635,6 +632,9 @@
 - A00
 
 [**SOCI 104Q**](./courses/SOCI104Q.md): Qualitative Interviewing
+- A00
+
+[**SOCI 109**](./courses/SOCI109.md): Analysis of Sociological Data
 - A00
 
 [**SOCI 110**](./courses/SOCI110.md): Qualitative Res/Educ Settings

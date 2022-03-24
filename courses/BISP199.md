@@ -164,5 +164,6 @@
 - **162** (Independent Study) (time and location TBA) by Neal, Sonya E (A05180715)
 - **163** (Independent Study) (time and location TBA) by Head, Brian P (A03637375)
 - **164** (Independent Study) (time and location TBA) by Ross, Robert Scott (A00536537)
+- **165** (Independent Study) (time and location TBA) by Dhar, Debanjan (A15757467)
 
 [Enrollment numbers over time](./BISP199.tsv)

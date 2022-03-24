@@ -15,7 +15,7 @@
 - **013** (Independent Study) (time and location TBA) by Geiger, Richard Stuart (A16710872)
 - **014** (Independent Study) (time and location TBA) by Goldfarb, Brian (A05103857)
 - **015** (Independent Study) (time and location TBA) by Hallin, Daniel C (A00894868)
-- **016** (Independent Study) (time and location TBA) by Hartouni, Valerie A (A00656303)
+- **016** (Independent Study) (time and location TBA) by staff
 - **017** (Independent Study) (time and location TBA) by Hill, Erin Truesdell (A16168254)
 - **018** (Independent Study) (time and location TBA) by Horwitz, Robert B (A00699788)
 - **019** (Independent Study) (time and location TBA) by Irani, Lilly C (A11781324)

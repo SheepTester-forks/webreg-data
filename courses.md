@@ -817,6 +817,7 @@
 - [**FMPH 431**: Public Health Informatics](./courses/FMPH431.md) (4 units)
 - [**FMPH 441**: Org&Financing/US HealthcareSys](./courses/FMPH441.md) (4 units)
 - [**FMPH 491**: Special Topics/Public Health](./courses/FMPH491.md) (1–4 units, by 1)
+- [**FMPH 495**: Capstone/Thesis Indep Study](./courses/FMPH495.md) (2 units)
 - [**FMPH 499**: Public Health Capstone/Thesis](./courses/FMPH499.md) (1–12 units, by 1)
 - [**FPM 244**: Clin & Pub Hlth Elec, Baja CA](./courses/FPM244.md) (2 units)
 - [**FPM 258C**: Public Health Doctoral Lec III](./courses/FPM258C.md) (2 units)

@@ -20,5 +20,13 @@
 - **018** (Independent Study) (time and location TBA) by Akbari, Omar Sultan (A15371133)
 - **019** (Independent Study) (time and location TBA) by Church, Kellie Breen (A11770026)
 - **020** (Independent Study) (time and location TBA) by Zarrinpar, Amir (A01030323)
+- **021** (Independent Study) (time and location TBA) by Gleeson, Joseph Gerard (A01884427)
+- **022** (Independent Study) (time and location TBA) by Sailor, Michael Joseph (A00437408)
+- **023** (Independent Study) (time and location TBA) by Handel, Tracy (A06887101)
+- **024** (Independent Study) (time and location TBA) by Daugherty, Matthew Dorton (A13389695)
+- **025** (Independent Study) (time and location TBA) by Yeang, Calvin (A17245577)
+- **026** (Independent Study) (time and location TBA) by Gilbert, Jack Anthony (A15761770)
+- **027** (Independent Study) (time and location TBA) by Welsbie, Derek (A14287730)
+- **028** (Independent Study) (time and location TBA) by Komiyama, Takaki (A09748470)
 
 [Enrollment numbers over time](./BISP196.tsv)

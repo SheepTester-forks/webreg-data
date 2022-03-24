@@ -6,5 +6,6 @@
 - **004** (Independent Study) (time and location TBA) by Nie, Jiawang (A08603140)
 - **005** (Independent Study) (time and location TBA) by Verstraete, Jacques Allan (A08083199)
 - **006** (Independent Study) (time and location TBA) by Alberts, Brandon (A16713260)
+- **007** (Independent Study) (time and location TBA) by Bejenaru, Ioan (A11078835)
 
 [Enrollment numbers over time](./MATH199.tsv)
