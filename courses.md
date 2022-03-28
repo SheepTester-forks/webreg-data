@@ -1273,6 +1273,7 @@
 - [**MATH 295**: Special Topics in Mathematics](./courses/MATH295.md) (1 units)
 - [**MATH 297**: Math Grad Research Internship](./courses/MATH297.md) (2–4 units, by 2)
 - [**MATH 299**: Reading and Research](./courses/MATH299.md) (1–12 units, by 1)
+- [**MATH 500**: Teaching Assistant Training](./courses/MATH500.md) (2–4 units, by 2)
 - [**MATS 200**: Graduate Seminar](./courses/MATS200.md) (0 units)
 - [**MATS 201C**: Phase Transformations](./courses/MATS201C.md) (4 units)
 - [**MATS 252**: Biomaterials & Medical Devices](./courses/MATS252.md) (4 units)

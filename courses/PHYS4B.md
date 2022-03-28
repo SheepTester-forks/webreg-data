@@ -6,6 +6,6 @@
 - **A01** (Discussion) at 12:00 pm–12:50 pm on Wednesday at CENTR 222 by Chivukula, Raja S (A15731992)
 - **A02** (Discussion) at 2:00 pm–2:50 pm on Wednesday at CSB 004 by Chivukula, Raja S (A15731992)
 - **A03** (Discussion) at 4:00 pm–4:50 pm on Wednesday at CSB 005 by Chivukula, Raja S (A15731992)
-- **A04** (Discussion) at 6:00 pm–6:50 pm on Wednesday at CSB 005 by Chivukula, Raja S (A15731992)
+- **A04** (Discussion) (time and location TBA) by staff
 
 [Enrollment numbers over time](./PHYS4B.tsv)

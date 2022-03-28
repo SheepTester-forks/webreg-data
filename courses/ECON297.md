@@ -9,5 +9,6 @@
 - **007** (Independent Study) (time and location TBA) by Andreoni, James (A07470657)
 - **008** (Independent Study) (time and location TBA) by Dahl, Gordon B. (A08069359)
 - **009** (Independent Study) (time and location TBA) by Wuthrich, Kaspar (A14301481)
+- **010** (Independent Study) (time and location TBA) by Sobel, Joel (A00834880)
 
 [Enrollment numbers over time](./ECON297.tsv)
