@@ -1763,6 +1763,7 @@
 - [**PSYC 71**: Lab/Psych Research Methods](./courses/PSYC71.md) (4 units)
 - [**PSYC 87**: First-year Seminar](./courses/PSYC87.md) (1 units)
 - [**PSYC 88**: Learning Sustainable Wellbeing](./courses/PSYC88.md) (1 units)
+- [**PSYC 99**: Independent Study](./courses/PSYC99.md) (2–4 units, by 2)
 - [**PSYC 99H**: Independent Study](./courses/PSYC99H.md) (1 units)
 - [**PSYC 100**: Clinical Psychology](./courses/PSYC100.md) (4 units)
 - [**PSYC 101**: Developmental Psychology](./courses/PSYC101.md) (4 units)

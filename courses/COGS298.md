@@ -11,5 +11,7 @@
 - **009** (Independent Study) (time and location TBA) by De Sa, Virginia (A04511993)
 - **010** (Independent Study) (time and location TBA) by Deak, Gedeon O. (A03223123)
 - **011** (Independent Study) (time and location TBA) by Nunez, Rafael E (A05090443)
+- **012** (Independent Study) (time and location TBA) by Tu, Zhuowen (A11797290)
+- **013** (Independent Study) (time and location TBA) by Greene, Deanna Jacquelyn (A02842528)
 
 [Enrollment numbers over time](./COGS298.tsv)

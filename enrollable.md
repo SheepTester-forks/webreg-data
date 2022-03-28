@@ -17,7 +17,6 @@
 - [**BILD 99**](./courses/BILD99.md) ([numbers](./courses/BILD99.tsv)): Independent Research
 - [**BILD 99H**](./courses/BILD99H.md) ([numbers](./courses/BILD99H.tsv)): Independent Study
 - [**CAT 3**](./courses/CAT3.md) ([numbers](./courses/CAT3.tsv)): Culture, Art & Technology III
-- [**CHEM 6B**](./courses/CHEM6B.md) ([numbers](./courses/CHEM6B.tsv)): General Chemistry II
 - [**CHEM 6C**](./courses/CHEM6C.md) ([numbers](./courses/CHEM6C.tsv)): General Chemistry  III
 - [**CHEM 6CH**](./courses/CHEM6CH.md) ([numbers](./courses/CHEM6CH.tsv)): Honors General Chemistry III
 - [**CHEM 40B**](./courses/CHEM40B.md) ([numbers](./courses/CHEM40B.tsv)): Organic Chemistry II
@@ -30,11 +29,9 @@
 - [**CHIN 10CN**](./courses/CHIN10CN.md) ([numbers](./courses/CHIN10CN.tsv)): First Yr Chinese/Non-NativeIII
 - [**CHIN 20CD**](./courses/CHIN20CD.md) ([numbers](./courses/CHIN20CD.tsv)): Second Yr Chinese-Dialect III
 - [**CHIN 20CN**](./courses/CHIN20CN.md) ([numbers](./courses/CHIN20CN.tsv)): Second Yr Chinese/NonNativeIII
-- [**COGS 10**](./courses/COGS10.md) ([numbers](./courses/COGS10.tsv)): Cognitv Consequence/Technology
 - [**COGS 99**](./courses/COGS99.md) ([numbers](./courses/COGS99.tsv)): Independent Study
 - [**CSE 6R**](./courses/CSE6R.md) ([numbers](./courses/CSE6R.tsv)): Intr/CompSci&Obj-Ori:Python
 - [**CSE 8B**](./courses/CSE8B.md) ([numbers](./courses/CSE8B.tsv)): Intro to Programming 2
-- [**CSE 15L**](./courses/CSE15L.md) ([numbers](./courses/CSE15L.tsv)): Software Tools&Techniques Lab
 - [**CSE 20**](./courses/CSE20.md) ([numbers](./courses/CSE20.tsv)): Discrete Mathematics
 - [**CSE 21**](./courses/CSE21.md) ([numbers](./courses/CSE21.tsv)): Math/Algorithm&Systems Analys
 - [**CSE 30**](./courses/CSE30.md) ([numbers](./courses/CSE30.tsv)): Computer Organiz&Systms Progrm
@@ -42,8 +39,6 @@
 - [**CSE 95**](./courses/CSE95.md) ([numbers](./courses/CSE95.tsv)): Tutor Apprentice
 - [**CSE 99H**](./courses/CSE99H.md) ([numbers](./courses/CSE99H.tsv)): Independent Study
 - [**CSS 2**](./courses/CSS2.md) ([numbers](./courses/CSS2.tsv)): Data/Model Programming: CSS
-- [**DOC 3**](./courses/DOC3.md) ([numbers](./courses/DOC3.tsv)): Imagination
-- [**DSC 30**](./courses/DSC30.md) ([numbers](./courses/DSC30.tsv)): DataStrc/Algrthms for Data Sci
 - [**DSC 40A**](./courses/DSC40A.md) ([numbers](./courses/DSC40A.tsv)): Theor Fndtns of Data Sci I
 - [**DSC 40B**](./courses/DSC40B.md) ([numbers](./courses/DSC40B.tsv)): Theor Fndtns of Data Sci II
 - [**DSC 80**](./courses/DSC80.md) ([numbers](./courses/DSC80.tsv)): Practice of Data Science
@@ -59,19 +54,17 @@
 - [**ETHN 30**](./courses/ETHN30.md) ([numbers](./courses/ETHN30.tsv)): Intro Chicanx & Latinx Studies
 - [**GLBH 20**](./courses/GLBH20.md) ([numbers](./courses/GLBH20.tsv)): Introduction to Global Health
 - [**HDS 1**](./courses/HDS1.md) ([numbers](./courses/HDS1.tsv)): Intro/HumanDevelopmentScience
-- [**HILD 7C**](./courses/HILD7C.md) ([numbers](./courses/HILD7C.tsv)): Race & Ethnicity/United States
 - [**HILD 43**](./courses/HILD43.md) ([numbers](./courses/HILD43.tsv)): Anthropocene 4: Acceleration
 - [**HITO 87**](./courses/HITO87.md) ([numbers](./courses/HITO87.tsv)): First-year Seminar
 - [**JAPN 10C**](./courses/JAPN10C.md) ([numbers](./courses/JAPN10C.tsv)): First Year Japanese III
 - [**JAPN 20C**](./courses/JAPN20C.md) ([numbers](./courses/JAPN20C.tsv)): Second Year Japanese III
 - [**JWSP 3**](./courses/JWSP3.md) ([numbers](./courses/JWSP3.tsv)): Intermediate Hebrew Continued
-- [**LATI 50**](./courses/LATI50.md) ([numbers](./courses/LATI50.tsv)): Introduction to Latin America
 - [**LIAB 1C**](./courses/LIAB1C.md) ([numbers](./courses/LIAB1C.tsv)): Arabic Conversation
 - [**LIAB 1CX**](./courses/LIAB1CX.md) ([numbers](./courses/LIAB1CX.tsv)): Analysis of Arabic
 - [**LIAB 1F**](./courses/LIAB1F.md) ([numbers](./courses/LIAB1F.tsv)): Intermediate Arabic Conversatn
 - [**LIDS 19**](./courses/LIDS19.md) ([numbers](./courses/LIDS19.tsv)): Directed Study-Language
-- [**LIFR 1AX**](./courses/LIFR1AX.md) ([numbers](./courses/LIFR1AX.tsv)): Analysis of French
 - [**LIFR 1C**](./courses/LIFR1C.md) ([numbers](./courses/LIFR1C.tsv)): French Conversation
+- [**LIFR 1CX**](./courses/LIFR1CX.md) ([numbers](./courses/LIFR1CX.tsv)): Analysis of French
 - [**LIFR 1D**](./courses/LIFR1D.md) ([numbers](./courses/LIFR1D.tsv)): French Conversation
 - [**LIFR 11**](./courses/LIFR11.md) ([numbers](./courses/LIFR11.tsv)): Elementary French Reading
 - [**LIGM 1C**](./courses/LIGM1C.md) ([numbers](./courses/LIGM1C.tsv)): German Conversation
@@ -84,6 +77,7 @@
 - [**LISL 1C**](./courses/LISL1C.md) ([numbers](./courses/LISL1C.tsv)): American Sign Lang Conversatn
 - [**LISL 1CX**](./courses/LISL1CX.md) ([numbers](./courses/LISL1CX.tsv)): Analysis of American Sign Lang
 - [**LISP 1D**](./courses/LISP1D.md) ([numbers](./courses/LISP1D.tsv)): Spanish Conversation
+- [**LISP 1DX**](./courses/LISP1DX.md) ([numbers](./courses/LISP1DX.tsv)): Analysis of Spanish
 - [**LISP 17**](./courses/LISP17.md) ([numbers](./courses/LISP17.tsv)): Intermediate Spanish/Soc Sci
 - [**LISP 18**](./courses/LISP18.md) ([numbers](./courses/LISP18.tsv)): Intermed Spanish/Health Sci
 - [**LTEN 23**](./courses/LTEN23.md) ([numbers](./courses/LTEN23.tsv)): Lit/British Isles:1832-Present
@@ -100,6 +94,7 @@
 - [**LTLA 3**](./courses/LTLA3.md) ([numbers](./courses/LTLA3.tsv)): Intermediate Latin II
 - [**LTRU 1C**](./courses/LTRU1C.md) ([numbers](./courses/LTRU1C.tsv)): First Year Russian
 - [**LTSP 2A**](./courses/LTSP2A.md) ([numbers](./courses/LTSP2A.tsv)): Intermed Spanish I:Foundations
+- [**LTWR 8A**](./courses/LTWR8A.md) ([numbers](./courses/LTWR8A.tsv)): Writing Fiction
 - [**LTWR 8C**](./courses/LTWR8C.md) ([numbers](./courses/LTWR8C.tsv)): Writing Non-Fiction
 - [**MAE 8**](./courses/MAE8.md) ([numbers](./courses/MAE8.tsv)): MATLAB Program for Engr Analys
 - [**MAE 30B**](./courses/MAE30B.md) ([numbers](./courses/MAE30B.tsv)): Dynamics and Vibrations
@@ -107,14 +102,12 @@
 - [**MATH 3C**](./courses/MATH3C.md) ([numbers](./courses/MATH3C.tsv)): Precalculus
 - [**MATH 10B**](./courses/MATH10B.md) ([numbers](./courses/MATH10B.tsv)): Calculus II
 - [**MATH 10C**](./courses/MATH10C.md) ([numbers](./courses/MATH10C.tsv)): Calculus III
-- [**MATH 11**](./courses/MATH11.md) ([numbers](./courses/MATH11.tsv)): Calculus-Based Prob & Stats
 - [**MATH 18**](./courses/MATH18.md) ([numbers](./courses/MATH18.tsv)): Linear Algebra
 - [**MATH 20B**](./courses/MATH20B.md) ([numbers](./courses/MATH20B.tsv)): Calculus/Science & Engineering
 - [**MATH 20C**](./courses/MATH20C.md) ([numbers](./courses/MATH20C.tsv)): Calculus&Analyt Geom/Sci&Engnr
 - [**MATH 20D**](./courses/MATH20D.md) ([numbers](./courses/MATH20D.tsv)): Intro/Differential Equations
 - [**MATH 20E**](./courses/MATH20E.md) ([numbers](./courses/MATH20E.tsv)): Vector Calculus
 - [**MATH 31CH**](./courses/MATH31CH.md) ([numbers](./courses/MATH31CH.tsv)): Honors Vector Calculus
-- [**MATH 95**](./courses/MATH95.md) ([numbers](./courses/MATH95.tsv)): Introduction to Teaching Math
 - [**MGT 3**](./courses/MGT3.md) ([numbers](./courses/MGT3.tsv)): Quant Methods in Business
 - [**MGT 18**](./courses/MGT18.md) ([numbers](./courses/MGT18.tsv)): Managing Diverse Teams
 - [**MMW 13**](./courses/MMW13.md) ([numbers](./courses/MMW13.tsv)): New Ideas & Cultural Encountrs
@@ -135,8 +128,6 @@
 - [**MUS 95JC**](./courses/MUS95JC.md) ([numbers](./courses/MUS95JC.tsv)): Jazz Chamber Ensembles
 - [**MUS 95K**](./courses/MUS95K.md) ([numbers](./courses/MUS95K.tsv)): Chamber Singers
 - [**MUS 95L**](./courses/MUS95L.md) ([numbers](./courses/MUS95L.tsv)): Wind Ensemble
-- [**MUS 95W**](./courses/MUS95W.md) ([numbers](./courses/MUS95W.tsv)): World Music Ensembles
-- [**PHIL 13**](./courses/PHIL13.md) ([numbers](./courses/PHIL13.tsv)): Intro to Philosophy:  Ethics
 - [**PHIL 15**](./courses/PHIL15.md) ([numbers](./courses/PHIL15.tsv)): Intro/Phil:Knowlege&Its Limits
 - [**PHIL 27**](./courses/PHIL27.md) ([numbers](./courses/PHIL27.tsv)): Ethics And Society
 - [**PHIL 28**](./courses/PHIL28.md) ([numbers](./courses/PHIL28.tsv)): Ethics And Society II
@@ -144,7 +135,6 @@
 - [**PHYS 1BL**](./courses/PHYS1BL.md) ([numbers](./courses/PHYS1BL.tsv)): Electricity & Magnetism Lab
 - [**PHYS 1C**](./courses/PHYS1C.md) ([numbers](./courses/PHYS1C.tsv)): Waves, Optics & Modern Physics
 - [**PHYS 1CL**](./courses/PHYS1CL.md) ([numbers](./courses/PHYS1CL.tsv)): Waves,Optics&Modrn Phys Lab
-- [**PHYS 2A**](./courses/PHYS2A.md) ([numbers](./courses/PHYS2A.tsv)): Physics-Mechanics
 - [**PHYS 2C**](./courses/PHYS2C.md) ([numbers](./courses/PHYS2C.tsv)): Physics-Flu,Wav,Thrmdyn,Optics
 - [**PHYS 2CL**](./courses/PHYS2CL.md) ([numbers](./courses/PHYS2CL.tsv)): Phys Lab-Elec&Magnetism
 - [**PHYS 2D**](./courses/PHYS2D.md) ([numbers](./courses/PHYS2D.tsv)): Phys-Relativity&Quantm Physics
@@ -158,6 +148,7 @@
 - [**PSYC 6**](./courses/PSYC6.md) ([numbers](./courses/PSYC6.tsv)): General Psychology: Social
 - [**PSYC 7**](./courses/PSYC7.md) ([numbers](./courses/PSYC7.tsv)): Gen Psych:Developmental Fndtns
 - [**PSYC 60**](./courses/PSYC60.md) ([numbers](./courses/PSYC60.tsv)): Introduction to Statistics
+- [**PSYC 99**](./courses/PSYC99.md) ([numbers](./courses/PSYC99.tsv)): Independent Study
 - [**PSYC 99H**](./courses/PSYC99H.md) ([numbers](./courses/PSYC99H.tsv)): Independent Study
 - [**REV 20**](./courses/REV20.md) ([numbers](./courses/REV20.tsv)): Revelle Honors Seminar
 - [**SE 3**](./courses/SE3.md) ([numbers](./courses/SE3.tsv)): Graphical Comm for Eng Design
@@ -170,7 +161,6 @@
 - [**TDPR 6**](./courses/TDPR6.md) ([numbers](./courses/TDPR6.tsv)): Theatre Practicum
 - [**TMC 15**](./courses/TMC15.md) ([numbers](./courses/TMC15.tsv)): Public Service in America
 - [**TMC 90**](./courses/TMC90.md) ([numbers](./courses/TMC90.tsv)): Experiential Learning Seminar
-- [**USP 4**](./courses/USP4.md) ([numbers](./courses/USP4.tsv)): Intro/Geographic Info Systems
 - [**WARR 87**](./courses/WARR87.md) ([numbers](./courses/WARR87.tsv)): First-year Seminar
 - [**WARR 99H**](./courses/WARR99H.md) ([numbers](./courses/WARR99H.tsv)): Independent Study
 - [**WCWP 10A**](./courses/WCWP10A.md) ([numbers](./courses/WCWP10A.tsv)): The Writing Course A
@@ -184,17 +174,13 @@
 - [**AIP 197T**](./courses/AIP197T.md) ([numbers](./courses/AIP197T.tsv)): AIP: Special Programs
 - [**ANAR 155**](./courses/ANAR155.md) ([numbers](./courses/ANAR155.tsv)): Stdy Abrd: Ancient Mesoamerica
 - [**ANES 199**](./courses/ANES199.md) ([numbers](./courses/ANES199.tsv)): Independent Study
-- [**ANSC 140**](./courses/ANSC140.md) ([numbers](./courses/ANSC140.tsv)): Human Rights II: Contemp Issue
-- [**ANTH 103**](./courses/ANTH103.md) ([numbers](./courses/ANTH103.tsv)): Sociocultural Anthropology
 - [**ANTH 112**](./courses/ANTH112.md) ([numbers](./courses/ANTH112.tsv)): Regenerative Science/Ecology
 - [**ANTH 128B**](./courses/ANTH128B.md) ([numbers](./courses/ANTH128B.tsv)): CAS: Capstone Project
 - [**ANTH 196C**](./courses/ANTH196C.md) ([numbers](./courses/ANTH196C.tsv)): Honors Studies in Anthropology
-- [**BENG 100**](./courses/BENG100.md) ([numbers](./courses/BENG100.tsv)): Intro to Prob & Stats for BENG
 - [**BENG 102**](./courses/BENG102.md) ([numbers](./courses/BENG102.tsv)): Moleculr Components Living Sys
 - [**BENG 103B**](./courses/BENG103B.md) ([numbers](./courses/BENG103B.tsv)): Bioengineering Mass Transfer
 - [**BENG 112B**](./courses/BENG112B.md) ([numbers](./courses/BENG112B.tsv)): Fluid and Cell Biomechanics
 - [**BENG 125**](./courses/BENG125.md) ([numbers](./courses/BENG125.tsv)): Modeling & Computatio/Bioengr
-- [**BENG 133**](./courses/BENG133.md) ([numbers](./courses/BENG133.tsv)): Numerical Analys-Computatn Eng
 - [**BENG 160**](./courses/BENG160.md) ([numbers](./courses/BENG160.tsv)): Chem & Molecular BENG Techniqs
 - [**BENG 182**](./courses/BENG182.md) ([numbers](./courses/BENG182.tsv)): Biological Databases
 - [**BENG 186A**](./courses/BENG186A.md) ([numbers](./courses/BENG186A.tsv)): Principles/Biomaterials Design
@@ -213,9 +199,7 @@
 - [**BIMM 100**](./courses/BIMM100.md) ([numbers](./courses/BIMM100.tsv)): Molecular Biology
 - [**BIMM 110**](./courses/BIMM110.md) ([numbers](./courses/BIMM110.tsv)): Molecular Basis/Human Disease
 - [**BIMM 124**](./courses/BIMM124.md) ([numbers](./courses/BIMM124.tsv)): Medical Microbiology
-- [**BIMM 170**](./courses/BIMM170.md) ([numbers](./courses/BIMM170.tsv)): Genomics Research Init Lab II
 - [**BIMM 182**](./courses/BIMM182.md) ([numbers](./courses/BIMM182.tsv)): Biological Databases
-- [**BIMM 194**](./courses/BIMM194.md) ([numbers](./courses/BIMM194.tsv)): Adv Topics-Molecular Bio
 - [**BIPN 100**](./courses/BIPN100.md) ([numbers](./courses/BIPN100.tsv)): Human Physiology I
 - [**BIPN 144**](./courses/BIPN144.md) ([numbers](./courses/BIPN144.tsv)): Developmental Neurobiology
 - [**BIPN 152**](./courses/BIPN152.md) ([numbers](./courses/BIPN152.tsv)): Healthy and Diseased Brain
@@ -275,7 +259,6 @@
 - [**COMM 100C**](./courses/COMM100C.md) ([numbers](./courses/COMM100C.tsv)): Comm, Institutions & Power
 - [**COMM 104G**](./courses/COMM104G.md) ([numbers](./courses/COMM104G.tsv)): CMS: Latin America & Caribbean
 - [**COMM 107**](./courses/COMM107.md) ([numbers](./courses/COMM107.tsv)): Visual Culture
-- [**COMM 111B**](./courses/COMM111B.md) ([numbers](./courses/COMM111B.tsv)): Global Borders: Communication
 - [**COMM 114E**](./courses/COMM114E.md) ([numbers](./courses/COMM114E.tsv)): CSI:Gender,Labor-Global Econmy
 - [**COMM 124B**](./courses/COMM124B.md) ([numbers](./courses/COMM124B.tsv)): Critical Design/Topic Studio
 - [**COMM 146**](./courses/COMM146.md) ([numbers](./courses/COMM146.tsv)): Adv Studies-Cultural Prductn
@@ -289,7 +272,6 @@
 - [**CSE 130**](./courses/CSE130.md) ([numbers](./courses/CSE130.tsv)): Progrmng Lang:Princpl&Paradigm
 - [**CSE 132B**](./courses/CSE132B.md) ([numbers](./courses/CSE132B.tsv)): Database System Applications
 - [**CSE 132C**](./courses/CSE132C.md) ([numbers](./courses/CSE132C.tsv)): Database System Implementation
-- [**CSE 135**](./courses/CSE135.md) ([numbers](./courses/CSE135.tsv)): Online Database Analytics Appl
 - [**CSE 140**](./courses/CSE140.md) ([numbers](./courses/CSE140.tsv)): Component&Desgn Tech/Digtl Sys
 - [**CSE 140L**](./courses/CSE140L.md) ([numbers](./courses/CSE140L.tsv)): Digital Systems Laboratory
 - [**CSE 143**](./courses/CSE143.md) ([numbers](./courses/CSE143.tsv)): Microelectronic System Design
@@ -315,7 +297,6 @@
 - [**ECE 103**](./courses/ECE103.md) ([numbers](./courses/ECE103.tsv)): Fundamntls/Devices & Materials
 - [**ECE 107**](./courses/ECE107.md) ([numbers](./courses/ECE107.tsv)): Electromagnetism
 - [**ECE 111**](./courses/ECE111.md) ([numbers](./courses/ECE111.tsv)): Advanced Digital Design Proj
-- [**ECE 115**](./courses/ECE115.md) ([numbers](./courses/ECE115.tsv)): Fast Prototyping
 - [**ECE 124**](./courses/ECE124.md) ([numbers](./courses/ECE124.tsv)): Motor Drives
 - [**ECE 125B**](./courses/ECE125B.md) ([numbers](./courses/ECE125B.tsv)): Intro to Power Electronics II
 - [**ECE 134**](./courses/ECE134.md) ([numbers](./courses/ECE134.tsv)): Electrnc Materls Sci/Integ Cir
@@ -336,14 +317,12 @@
 - [**ECE 197**](./courses/ECE197.md) ([numbers](./courses/ECE197.tsv)): ECE Internship
 - [**ECE 198**](./courses/ECE198.md) ([numbers](./courses/ECE198.tsv)): Direct Group Study
 - [**ECE 199**](./courses/ECE199.md) ([numbers](./courses/ECE199.tsv)): Independent Study/Undergrads
-- [**ECON 100A**](./courses/ECON100A.md) ([numbers](./courses/ECON100A.tsv)): Microeconomics A
 - [**ECON 100B**](./courses/ECON100B.md) ([numbers](./courses/ECON100B.tsv)): Microeconomics B
 - [**ECON 100C**](./courses/ECON100C.md) ([numbers](./courses/ECON100C.tsv)): Microeconomics C
 - [**ECON 100CH**](./courses/ECON100CH.md) ([numbers](./courses/ECON100CH.tsv)): Honors Microeconomics C
 - [**ECON 103**](./courses/ECON103.md) ([numbers](./courses/ECON103.tsv)): International Monetary Relatns
 - [**ECON 109**](./courses/ECON109.md) ([numbers](./courses/ECON109.tsv)): Game Theory
 - [**ECON 110A**](./courses/ECON110A.md) ([numbers](./courses/ECON110A.tsv)): Long Run Macroeconomics
-- [**ECON 120A**](./courses/ECON120A.md) ([numbers](./courses/ECON120A.tsv)): Econometrics A
 - [**ECON 120C**](./courses/ECON120C.md) ([numbers](./courses/ECON120C.tsv)): Econometrics C
 - [**ECON 125**](./courses/ECON125.md) ([numbers](./courses/ECON125.tsv)): Demographic Analys&Forecasting
 - [**ECON 136**](./courses/ECON136.md) ([numbers](./courses/ECON136.tsv)): Human Resources
@@ -354,7 +333,6 @@
 - [**ECON 191A**](./courses/ECON191A.md) ([numbers](./courses/ECON191A.tsv)): Senior Essay Seminar A
 - [**ECON 195**](./courses/ECON195.md) ([numbers](./courses/ECON195.tsv)): Intro/Teaching Economics
 - [**ECON 199**](./courses/ECON199.md) ([numbers](./courses/ECON199.tsv)): Independent Study
-- [**EDS 116**](./courses/EDS116.md) ([numbers](./courses/EDS116.tsv)): Equity Minded Education
 - [**EDS 121B**](./courses/EDS121B.md) ([numbers](./courses/EDS121B.tsv)): Found of Teachg/Learng Math II
 - [**EDS 123**](./courses/EDS123.md) ([numbers](./courses/EDS123.tsv)): Capstone Sem in Science Eductn
 - [**EDS 124BR**](./courses/EDS124BR.md) ([numbers](./courses/EDS124BR.tsv)): Teach Computational Thinking
@@ -394,8 +372,6 @@
 - [**FMPH 198**](./courses/FMPH198.md) ([numbers](./courses/FMPH198.tsv)): Directed Group Study
 - [**FMPH 199**](./courses/FMPH199.md) ([numbers](./courses/FMPH199.tsv)): Independent Study
 - [**GLBH 102**](./courses/GLBH102.md) ([numbers](./courses/GLBH102.tsv)): Global Health Epidemiology
-- [**GLBH 112**](./courses/GLBH112.md) ([numbers](./courses/GLBH112.tsv)): Medicine, GH, Bioethics
-- [**GLBH 114**](./courses/GLBH114.md) ([numbers](./courses/GLBH114.tsv)): Latin American Health&Healing
 - [**GLBH 148**](./courses/GLBH148.md) ([numbers](./courses/GLBH148.tsv)): Global Health&Cultrl Diversity
 - [**GLBH 195**](./courses/GLBH195.md) ([numbers](./courses/GLBH195.tsv)): Instructional Apprenticeship
 - [**GLBH 199**](./courses/GLBH199.md) ([numbers](./courses/GLBH199.tsv)): Independent Study
@@ -419,7 +395,6 @@
 - [**JAPN 130C**](./courses/JAPN130C.md) ([numbers](./courses/JAPN130C.tsv)): Third Year Japanese III
 - [**JAPN 135C**](./courses/JAPN135C.md) ([numbers](./courses/JAPN135C.tsv)): Japanese/Prof Purposes III
 - [**JAPN 140C**](./courses/JAPN140C.md) ([numbers](./courses/JAPN140C.tsv)): Fourth Year Japanese III
-- [**JAPN 190**](./courses/JAPN190.md) ([numbers](./courses/JAPN190.tsv)): Sel Topcs/Contmp Japn Studies
 - [**JAPN 199**](./courses/JAPN199.md) ([numbers](./courses/JAPN199.tsv)): Independent Study
 - [**JWSP 199**](./courses/JWSP199.md) ([numbers](./courses/JWSP199.tsv)): Independent Study
 - [**LATI 180**](./courses/LATI180.md) ([numbers](./courses/LATI180.tsv)): Special Topic/Lat Amer Studies
@@ -429,29 +404,24 @@
 - [**LIGN 130**](./courses/LIGN130.md) ([numbers](./courses/LIGN130.tsv)): Semantics
 - [**LIGN 139**](./courses/LIGN139.md) ([numbers](./courses/LIGN139.tsv)): Field Methods
 - [**LIGN 148**](./courses/LIGN148.md) ([numbers](./courses/LIGN148.tsv)): Psycholinguist/Gesture&SignLan
-- [**LIGN 176**](./courses/LIGN176.md) ([numbers](./courses/LIGN176.tsv)): Language/Politics&Advertising
-- [**LIGN 181**](./courses/LIGN181.md) ([numbers](./courses/LIGN181.tsv)): Lang Processing in the Brain
 - [**LIGN 195**](./courses/LIGN195.md) ([numbers](./courses/LIGN195.tsv)): Apprentice Teaching
 - [**LIGN 199**](./courses/LIGN199.md) ([numbers](./courses/LIGN199.tsv)): Independent Study/Linguistics
 - [**LIGN 199H**](./courses/LIGN199H.md) ([numbers](./courses/LIGN199H.tsv)): Honors Independent Study/Ling
 - [**LIHL 112P**](./courses/LIHL112P.md) ([numbers](./courses/LIHL112P.tsv)): Filipino for Filipino Speakers
 - [**LIHL 114P**](./courses/LIHL114P.md) ([numbers](./courses/LIHL114P.tsv)): Beginning Vietnamese for Vietn
 - [**LIHL 115P**](./courses/LIHL115P.md) ([numbers](./courses/LIHL115P.tsv)): Korean for Korean Speakers
-- [**LIHL 117P**](./courses/LIHL117P.md) ([numbers](./courses/LIHL117P.tsv)): Persian for Persian Speakers
 - [**LIHL 119P**](./courses/LIHL119P.md) ([numbers](./courses/LIHL119P.tsv)): Hindi for Hindi Speakers
 - [**LIHL 124P**](./courses/LIHL124P.md) ([numbers](./courses/LIHL124P.tsv)): Int Vietnamese/Vietnamese Spkr
 - [**LIHL 132P**](./courses/LIHL132P.md) ([numbers](./courses/LIHL132P.tsv)): Adv Filipino/Filipino Spkrs
 - [**LIHL 134P**](./courses/LIHL134P.md) ([numbers](./courses/LIHL134P.tsv)): Adv Vietnamese/Vietnamese Spkr
 - [**LTEN 142**](./courses/LTEN142.md) ([numbers](./courses/LTEN142.tsv)): British Novel: 1830-1890
 - [**LTEN 144**](./courses/LTEN144.md) ([numbers](./courses/LTEN144.tsv)): British Novel: 1890-present
-- [**LTEN 149**](./courses/LTEN149.md) ([numbers](./courses/LTEN149.tsv)): Topics: English-Language Lit
 - [**LTEN 199**](./courses/LTEN199.md) ([numbers](./courses/LTEN199.tsv)): Special Studies
 - [**LTFR 104**](./courses/LTFR104.md) ([numbers](./courses/LTFR104.tsv)): Adv French Reading and Writing
 - [**LTGK 198**](./courses/LTGK198.md) ([numbers](./courses/LTGK198.tsv)): Directed Group Study
 - [**LTRU 104A**](./courses/LTRU104A.md) ([numbers](./courses/LTRU104A.tsv)): Advanced Practicum in Russian
 - [**LTSP 116**](./courses/LTSP116.md) ([numbers](./courses/LTSP116.tsv)): Representatns/Span Colonialism
 - [**LTSP 171**](./courses/LTSP171.md) ([numbers](./courses/LTSP171.tsv)): Peninsular&orLatAmer Lit & Soc
-- [**LTWL 100**](./courses/LTWL100.md) ([numbers](./courses/LTWL100.tsv)): Mythology
 - [**LTWL 194A**](./courses/LTWL194A.md) ([numbers](./courses/LTWL194A.tsv)): Honors Practicum
 - [**LTWR 195**](./courses/LTWR195.md) ([numbers](./courses/LTWR195.tsv)): Apprentice Teaching
 - [**MAE 101B**](./courses/MAE101B.md) ([numbers](./courses/MAE101B.tsv)): Advanced Fluid Mechanics
@@ -467,11 +437,9 @@
 - [**MAE 155B**](./courses/MAE155B.md) ([numbers](./courses/MAE155B.tsv)): Aerospace Engineering Desgn II
 - [**MAE 156B**](./courses/MAE156B.md) ([numbers](./courses/MAE156B.tsv)): Fund. Prin/Mechanical Desgn II
 - [**MAE 166**](./courses/MAE166.md) ([numbers](./courses/MAE166.tsv)): Modern Concepts/Nanotechnology
-- [**MAE 170**](./courses/MAE170.md) ([numbers](./courses/MAE170.tsv)): Experimental Techniques
 - [**MAE 190**](./courses/MAE190.md) ([numbers](./courses/MAE190.tsv)): Topics in Mech and Aero Eng
 - [**MAE 199**](./courses/MAE199.md) ([numbers](./courses/MAE199.tsv)): Independent Study/Undergrads
 - [**MATH 100C**](./courses/MATH100C.md) ([numbers](./courses/MATH100C.tsv)): Abstract Algebra III
-- [**MATH 102**](./courses/MATH102.md) ([numbers](./courses/MATH102.tsv)): Applied Linear Algebra
 - [**MATH 103B**](./courses/MATH103B.md) ([numbers](./courses/MATH103B.tsv)): Modern Algebra II
 - [**MATH 104B**](./courses/MATH104B.md) ([numbers](./courses/MATH104B.tsv)): Number Theory II
 - [**MATH 109**](./courses/MATH109.md) ([numbers](./courses/MATH109.tsv)): Mathematical Reasoning
@@ -480,15 +448,12 @@
 - [**MATH 140B**](./courses/MATH140B.md) ([numbers](./courses/MATH140B.tsv)): Foundations/Real Analysis II
 - [**MATH 140C**](./courses/MATH140C.md) ([numbers](./courses/MATH140C.tsv)): Foundations/Real Analysis III
 - [**MATH 142B**](./courses/MATH142B.md) ([numbers](./courses/MATH142B.tsv)): Introduction to Analysis II
-- [**MATH 170A**](./courses/MATH170A.md) ([numbers](./courses/MATH170A.tsv)): Intro Numerical Analys/Linear
 - [**MATH 170B**](./courses/MATH170B.md) ([numbers](./courses/MATH170B.tsv)): Intro/Numerical Analy/Approxim
 - [**MATH 171B**](./courses/MATH171B.md) ([numbers](./courses/MATH171B.tsv)): Intro Num Optimiz/Nonlinear
 - [**MATH 173B**](./courses/MATH173B.md) ([numbers](./courses/MATH173B.tsv)): Optimization/Data Science II
-- [**MATH 180A**](./courses/MATH180A.md) ([numbers](./courses/MATH180A.tsv)): Introduction to Probability
 - [**MATH 180B**](./courses/MATH180B.md) ([numbers](./courses/MATH180B.tsv)): Intro/Stochastic Processes I
 - [**MATH 180C**](./courses/MATH180C.md) ([numbers](./courses/MATH180C.tsv)): Intro/Stochastic Processes II
 - [**MATH 181B**](./courses/MATH181B.md) ([numbers](./courses/MATH181B.tsv)): Intro/Math Statistics II
-- [**MATH 183**](./courses/MATH183.md) ([numbers](./courses/MATH183.tsv)): Statistical Methods
 - [**MATH 184**](./courses/MATH184.md) ([numbers](./courses/MATH184.tsv)): Enumerative Combinatorics
 - [**MATH 185**](./courses/MATH185.md) ([numbers](./courses/MATH185.tsv)): Intro to Computational Stats
 - [**MATH 197**](./courses/MATH197.md) ([numbers](./courses/MATH197.tsv)): Industry Practicum
@@ -497,7 +462,6 @@
 - [**MED 199**](./courses/MED199.md) ([numbers](./courses/MED199.tsv)): Independent Study
 - [**MGT 100**](./courses/MGT100.md) ([numbers](./courses/MGT100.tsv)): Customer Analytics
 - [**MGT 103**](./courses/MGT103.md) ([numbers](./courses/MGT103.tsv)): Product Marketing & Management
-- [**MGT 106**](./courses/MGT106.md) ([numbers](./courses/MGT106.tsv)): Sales and Sales Management
 - [**MGT 112**](./courses/MGT112.md) ([numbers](./courses/MGT112.tsv)): Global Business Strategy
 - [**MGT 119**](./courses/MGT119.md) ([numbers](./courses/MGT119.tsv)): Topics in Business
 - [**MGT 121B**](./courses/MGT121B.md) ([numbers](./courses/MGT121B.tsv)): Innovation to Market B
@@ -515,7 +479,6 @@
 - [**MUS 101C**](./courses/MUS101C.md) ([numbers](./courses/MUS101C.tsv)): Music Theory and Practice III
 - [**MUS 103C**](./courses/MUS103C.md) ([numbers](./courses/MUS103C.tsv)): Seminar in Composition III
 - [**MUS 107**](./courses/MUS107.md) ([numbers](./courses/MUS107.tsv)): Critical Studies Seminar
-- [**MUS 111**](./courses/MUS111.md) ([numbers](./courses/MUS111.tsv)): Topics/World Music Traditions
 - [**MUS 130**](./courses/MUS130.md) ([numbers](./courses/MUS130.tsv)): Chamber Music Performance
 - [**MUS 132**](./courses/MUS132.md) ([numbers](./courses/MUS132.tsv)): Pro-Seminar/Instrmntl Instruct
 - [**MUS 132R**](./courses/MUS132R.md) ([numbers](./courses/MUS132R.tsv)): Recital Preparation
@@ -538,8 +501,6 @@
 - [**PEDS 199**](./courses/PEDS199.md) ([numbers](./courses/PEDS199.tsv)): Independent Study
 - [**PHIL 112**](./courses/PHIL112.md) ([numbers](./courses/PHIL112.tsv)): History of Phil: Late Modern
 - [**PHIL 115**](./courses/PHIL115.md) ([numbers](./courses/PHIL115.tsv)): Philosophical Methods Seminar
-- [**PHIL 125**](./courses/PHIL125.md) ([numbers](./courses/PHIL125.tsv)): Probability and Decision Theor
-- [**PHIL 174**](./courses/PHIL174.md) ([numbers](./courses/PHIL174.tsv)): Data Ethics
 - [**PHIL 199**](./courses/PHIL199.md) ([numbers](./courses/PHIL199.tsv)): Directed Individual Study
 - [**PHYS 100C**](./courses/PHYS100C.md) ([numbers](./courses/PHYS100C.tsv)): Electromagnetism III
 - [**PHYS 105B**](./courses/PHYS105B.md) ([numbers](./courses/PHYS105B.tsv)): Mathematical&Computatnl Phy II
@@ -558,10 +519,8 @@
 - [**POLI 104D**](./courses/POLI104D.md) ([numbers](./courses/POLI104D.tsv)): Judicial Politics
 - [**POLI 104P**](./courses/POLI104P.md) ([numbers](./courses/POLI104P.tsv)): Science, Technology & the Law
 - [**POLI 104T**](./courses/POLI104T.md) ([numbers](./courses/POLI104T.tsv)): Evidence, Civil Proc&Crim Law
-- [**POLI 120D**](./courses/POLI120D.md) ([numbers](./courses/POLI120D.tsv)): Germany:  Division
 - [**POLI 138D**](./courses/POLI138D.md) ([numbers](./courses/POLI138D.tsv)): Spec Topic/Comparatve Politics
 - [**POLI 142D**](./courses/POLI142D.md) ([numbers](./courses/POLI142D.tsv)): Weapons of Mass Destruction
-- [**POLI 142I**](./courses/POLI142I.md) ([numbers](./courses/POLI142I.tsv)): National & Internatnl Security
 - [**POLI 142K**](./courses/POLI142K.md) ([numbers](./courses/POLI142K.tsv)): Politics and Warfare
 - [**POLI 144F**](./courses/POLI144F.md) ([numbers](./courses/POLI144F.tsv)): Politics/Int'l Trade & Finance
 - [**POLI 145**](./courses/POLI145.md) ([numbers](./courses/POLI145.tsv)): Theories/Techno & Nat Security
@@ -571,7 +530,6 @@
 - [**POLI 198RA**](./courses/POLI198RA.md) ([numbers](./courses/POLI198RA.tsv)): Research Apprenticeship
 - [**POLI 199**](./courses/POLI199.md) ([numbers](./courses/POLI199.tsv)): Independent Study
 - [**PSY 199**](./courses/PSY199.md) ([numbers](./courses/PSY199.tsv)): Independent Study
-- [**PSYC 106**](./courses/PSYC106.md) ([numbers](./courses/PSYC106.tsv)): Behavioral Neuroscience
 - [**PSYC 111B**](./courses/PSYC111B.md) ([numbers](./courses/PSYC111B.tsv)): Research Methods II
 - [**PSYC 115B**](./courses/PSYC115B.md) ([numbers](./courses/PSYC115B.tsv)): Lab/Cognitive Psychology II
 - [**PSYC 116C**](./courses/PSYC116C.md) ([numbers](./courses/PSYC116C.tsv)): Lab/Clinical Psyc Research III
@@ -613,7 +571,6 @@
 - [**SOCI 109M**](./courses/SOCI109M.md) ([numbers](./courses/SOCI109M.tsv)): Research Reporting
 - [**SOCI 120**](./courses/SOCI120.md) ([numbers](./courses/SOCI120.tsv)): Sociology Through Literature
 - [**SOCI 120T**](./courses/SOCI120T.md) ([numbers](./courses/SOCI120T.tsv)): Spec Top/Cult,Lang&Soc Interac
-- [**SOCI 146**](./courses/SOCI146.md) ([numbers](./courses/SOCI146.tsv)): Criminal Punishment
 - [**SOCI 180**](./courses/SOCI180.md) ([numbers](./courses/SOCI180.tsv)): Social Movemnts&Social Protest
 - [**SOCI 187**](./courses/SOCI187.md) ([numbers](./courses/SOCI187.tsv)): African Societies Through Film
 - [**SOCI 198RA**](./courses/SOCI198RA.md) ([numbers](./courses/SOCI198RA.tsv)): Research Apprenticeship
@@ -627,7 +584,6 @@
 - [**TDDR 190**](./courses/TDDR190.md) ([numbers](./courses/TDDR190.tsv)): Major Project in Directing
 - [**TDGE 196B**](./courses/TDGE196B.md) ([numbers](./courses/TDGE196B.tsv)): Honors in Theatre and Dance
 - [**TDGE 199**](./courses/TDGE199.md) ([numbers](./courses/TDGE199.tsv)): Special Projects
-- [**TDMV 110**](./courses/TDMV110.md) ([numbers](./courses/TDMV110.tsv)): Intermediate Ballet
 - [**TDMV 120**](./courses/TDMV120.md) ([numbers](./courses/TDMV120.tsv)): Intermediate Contemp Dance
 - [**TDMV 122**](./courses/TDMV122.md) ([numbers](./courses/TDMV122.tsv)): Advanced Contemporary Dance
 - [**TDMV 130**](./courses/TDMV130.md) ([numbers](./courses/TDMV130.tsv)): Intermediate Jazz
@@ -693,7 +649,6 @@
 - [**BENG 207**](./courses/BENG207.md) ([numbers](./courses/BENG207.tsv)): Topics in Bioengineering
 - [**BENG 213**](./courses/BENG213.md) ([numbers](./courses/BENG213.tsv)): Sys Bio Bioeng 3: Build Silico
 - [**BENG 227**](./courses/BENG227.md) ([numbers](./courses/BENG227.tsv)): Transport Phenom/Living Systms
-- [**BENG 230C**](./courses/BENG230C.md) ([numbers](./courses/BENG230C.tsv)): Cardiovascular Physiology
 - [**BENG 230D**](./courses/BENG230D.md) ([numbers](./courses/BENG230D.tsv)): Respiratory & Renal Physiology
 - [**BENG 233**](./courses/BENG233.md) ([numbers](./courses/BENG233.tsv)): Neuromusc Physiology/Biomechcs
 - [**BENG 235**](./courses/BENG235.md) ([numbers](./courses/BENG235.tsv)): Mol Im & Quant in Living Cells
@@ -943,6 +898,7 @@
 - [**MATH 208**](./courses/MATH208.md) ([numbers](./courses/MATH208.tsv)): Seminar in Algebraic Geometry
 - [**MATH 211A**](./courses/MATH211A.md) ([numbers](./courses/MATH211A.tsv)): Seminar in Algebra
 - [**MATH 211B**](./courses/MATH211B.md) ([numbers](./courses/MATH211B.tsv)): Seminar in Group Actions
+- [**MATH 217**](./courses/MATH217.md) ([numbers](./courses/MATH217.tsv)): Topics in Applied Mathematics
 - [**MATH 218**](./courses/MATH218.md) ([numbers](./courses/MATH218.tsv)): Seminar/Math of Bio Systems
 - [**MATH 220C**](./courses/MATH220C.md) ([numbers](./courses/MATH220C.tsv)): Complex Analysis
 - [**MATH 221A**](./courses/MATH221A.md) ([numbers](./courses/MATH221A.tsv)): Topics in Sev Complx Variables
@@ -962,10 +918,10 @@
 - [**MATH 273C**](./courses/MATH273C.md) ([numbers](./courses/MATH273C.tsv)): AdvTech/Computational Math III
 - [**MATH 277A**](./courses/MATH277A.md) ([numbers](./courses/MATH277A.tsv)): Topics in Comp&Applied Math
 - [**MATH 278B**](./courses/MATH278B.md) ([numbers](./courses/MATH278B.tsv)): Seminar/Math Info/Data/Signals
-- [**MATH 278C**](./courses/MATH278C.md) ([numbers](./courses/MATH278C.tsv)): Seminar/Optimization
 - [**MATH 280C**](./courses/MATH280C.md) ([numbers](./courses/MATH280C.tsv)): Probability Theory III
 - [**MATH 284**](./courses/MATH284.md) ([numbers](./courses/MATH284.tsv)): Lifetime Data Analysis
 - [**MATH 288**](./courses/MATH288.md) ([numbers](./courses/MATH288.tsv)): Seminar/Probability&Statistics
+- [**MATH 290C**](./courses/MATH290C.md) ([numbers](./courses/MATH290C.tsv)): Topology
 - [**MATH 295**](./courses/MATH295.md) ([numbers](./courses/MATH295.tsv)): Special Topics in Mathematics
 - [**MATH 297**](./courses/MATH297.md) ([numbers](./courses/MATH297.tsv)): Math Grad Research Internship
 - [**MATH 299**](./courses/MATH299.md) ([numbers](./courses/MATH299.tsv)): Reading and Research
@@ -1194,7 +1150,6 @@
 - [**SOCG 229**](./courses/SOCG229.md) ([numbers](./courses/SOCG229.tsv)): Sociology/Family & Households
 - [**SOCG 230**](./courses/SOCG230.md) ([numbers](./courses/SOCG230.tsv)): Advanced Approaches Soc Theory
 - [**SOCG 232**](./courses/SOCG232.md) ([numbers](./courses/SOCG232.tsv)): Sociology of Knowledge
-- [**SOCG 255C**](./courses/SOCG255C.md) ([numbers](./courses/SOCG255C.tsv)): Colloquium in Science Studies
 - [**SOCG 267**](./courses/SOCG267.md) ([numbers](./courses/SOCG267.tsv)): Sociology of Gender
 - [**SOCG 298**](./courses/SOCG298.md) ([numbers](./courses/SOCG298.tsv)): Independent Study
 - [**SOCG 299**](./courses/SOCG299.md) ([numbers](./courses/SOCG299.tsv)): Thesis Research
@@ -1263,7 +1218,6 @@
 - [**TDGR 279**](./courses/TDGR279.md) ([numbers](./courses/TDGR279.tsv)): Design Practicum
 - [**TDGR 286**](./courses/TDGR286.md) ([numbers](./courses/TDGR286.tsv)): Spec Topics/Stage Management
 - [**TDGR 288**](./courses/TDGR288.md) ([numbers](./courses/TDGR288.tsv)): Stage Management Seminar
-- [**TDGR 291**](./courses/TDGR291.md) ([numbers](./courses/TDGR291.tsv)): Dramatic/Lit&Thtre Hist, 1900-
 - [**TDGR 292**](./courses/TDGR292.md) ([numbers](./courses/TDGR292.tsv)): Cultural & Critical Theory
 - [**TDGR 293**](./courses/TDGR293.md) ([numbers](./courses/TDGR293.tsv)): Directed Studies
 - [**TDGR 295**](./courses/TDGR295.md) ([numbers](./courses/TDGR295.tsv)): Acting Practicum
@@ -1273,6 +1227,7 @@
 - [**UROL 296**](./courses/UROL296.md) ([numbers](./courses/UROL296.tsv)): Independent Study
 - [**UROL 299**](./courses/UROL299.md) ([numbers](./courses/UROL299.tsv)): Independent Study Project
 - [**USP 224**](./courses/USP224.md) ([numbers](./courses/USP224.tsv)): Land Use Planning
+- [**VIS 203**](./courses/VIS203.md) ([numbers](./courses/VIS203.tsv)): Working Critique
 - [**VIS 206**](./courses/VIS206.md) ([numbers](./courses/VIS206.tsv)): Seminar/Art Practice Research
 - [**VIS 208**](./courses/VIS208.md) ([numbers](./courses/VIS208.tsv)): Thesis Exhibition
 - [**VIS 234N**](./courses/VIS234N.md) ([numbers](./courses/VIS234N.tsv)): Frames of View

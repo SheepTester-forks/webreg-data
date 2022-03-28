@@ -35,5 +35,6 @@
 - **033** (Independent Study) (time and location TBA) by Depp, Colin A (A07489870)
 - **034** (Independent Study) (time and location TBA) by Pittman, James Ollie Eugen (A15370098)
 - **035** (Independent Study) (time and location TBA) by Powell, Lindsey Jane (A16183397)
+- **036** (Independent Study) (time and location TBA) by Anagnostaras, Stephan (A05749877)
 
 [Enrollment numbers over time](./PSYC199.tsv)

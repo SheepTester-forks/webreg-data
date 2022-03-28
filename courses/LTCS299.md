@@ -3,5 +3,6 @@
 - **001** (Independent Study) (time and location TBA) by Wesling, Megan E. (A06337740)
 - **002** (Independent Study) (time and location TBA) by Miyao, Daisuke (A12507458)
 - **003** (Independent Study) (time and location TBA) by Streeby, Shelley (A00703777)
+- **004** (Independent Study) (time and location TBA) by Nicolazzo, Sarah E. (A12506980)
 
 [Enrollment numbers over time](./LTCS299.tsv)
