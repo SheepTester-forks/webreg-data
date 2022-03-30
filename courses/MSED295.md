@@ -4,5 +4,6 @@
 - **B00** (Practicum) (time and location TBA) by Lo, Stanley M. (A12509807)
 - **C00** (Practicum) (time and location TBA) by Quarfoot, David James (A53039494)
 - **D00** (Practicum) (time and location TBA) by Brydges, Stacey (A08616776)
+- **E00** (Practicum) (time and location TBA) by Juavinett, Ashley Lauren (A53009745)
 
 [Enrollment numbers over time](./MSED295.tsv)

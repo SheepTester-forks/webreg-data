@@ -28,7 +28,7 @@
 - **B06** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at CENTR 223 by Rahimi, Babak (A00498065)
 - **B07** (Discussion) at 4:00 pm–4:50 pm on Tuesday, Thursday at CENTR 224A by Rahimi, Babak (A00498065)
 - **B08** (Discussion) at 5:00 pm–5:50 pm on Tuesday, Thursday at CENTR 208 by Rahimi, Babak (A00498065)
-- **B09** (Discussion) at 8:00 am–8:50 am on Tuesday, Thursday at RCLAS R21 by Rahimi, Babak (A00498065)
+- **B09** (Discussion) (time and location TBA) by staff
 - **B10** (Discussion) at 9:00 am–9:50 am on Tuesday, Thursday at RCLAS R22 by Rahimi, Babak (A00498065)
 - **B11** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at CENTR 208 by Rahimi, Babak (A00498065)
 - **B12** (Discussion) at 1:00 pm–1:50 pm on Tuesday, Thursday at CENTR 223 by Rahimi, Babak (A00498065)

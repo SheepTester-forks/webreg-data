@@ -8,5 +8,7 @@
 - **006** (Independent Study) (time and location TBA) by Nodora, Jesse (A10647657)
 - **007** (Independent Study) (time and location TBA) by Garfein, Richard (A06899496)
 - **008** (Independent Study) (time and location TBA) by Anderson, Cheryl (A11088374)
+- **009** (Independent Study) (time and location TBA) by Marquez, Becky (A09742090)
+- **010** (Independent Study) (time and location TBA) by Sannidhi, Deepa (A15367962)
 
 [Enrollment numbers over time](./FMPH499.tsv)

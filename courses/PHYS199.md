@@ -7,5 +7,7 @@
 - **005** (Independent Study) (time and location TBA) by Pittman, James Ollie Eugen (A15370098)
 - **006** (Independent Study) (time and location TBA) by Keating, Brian (A06312107)
 - **007** (Independent Study) (time and location TBA) by Abarbanel, Henry Don Isaac (A00885599)
+- **008** (Independent Study) (time and location TBA) by Popmintchev, Tenio (A14314788)
+- **009** (Independent Study) (time and location TBA) by Duarte, Javier Mauricio (A16182001)
 
 [Enrollment numbers over time](./PHYS199.tsv)

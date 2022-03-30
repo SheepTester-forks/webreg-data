@@ -18,5 +18,6 @@
 - **016** (Independent Study) (time and location TBA) by Muendler, Marc (A05112551)
 - **017** (Independent Study) (time and location TBA) by Vogl, Tom Saul (A16181588)
 - **018** (Independent Study) (time and location TBA) by Andreoni, James (A07470657)
+- **019** (Independent Study) (time and location TBA) by Bowen, T. Renee (A15366604)
 
 [Enrollment numbers over time](./ECON299.tsv)

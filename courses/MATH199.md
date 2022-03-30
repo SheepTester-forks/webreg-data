@@ -7,5 +7,6 @@
 - **005** (Independent Study) (time and location TBA) by Verstraete, Jacques Allan (A08083199)
 - **006** (Independent Study) (time and location TBA) by Alberts, Brandon (A16713260)
 - **007** (Independent Study) (time and location TBA) by Bejenaru, Ioan (A11078835)
+- **008** (Independent Study) (time and location TBA) by Brust, Johannes Joachim (A95500705)
 
 [Enrollment numbers over time](./MATH199.tsv)

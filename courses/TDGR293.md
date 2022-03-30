@@ -5,5 +5,6 @@
 - **003** (Independent Study) (time and location TBA) by Chang, Jennifer M. (A05675893)
 - **004** (Independent Study) (time and location TBA) by Dolan, Judith A. (A01532335)
 - **005** (Independent Study) (time and location TBA) by Yapp, Hentyle T (A17258044)
+- **006** (Independent Study) (time and location TBA) by Salovey, Todd (A00646057)
 
 [Enrollment numbers over time](./TDGR293.tsv)

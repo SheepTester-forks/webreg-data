@@ -8,5 +8,6 @@
 - **006** (Independent Study) (time and location TBA) by Groessl, Erik Joseph (A00965950)
 - **007** (Independent Study) (time and location TBA) by Marquez, Becky (A09742090)
 - **008** (Independent Study) (time and location TBA) by Larsen, Britta Ann (A06756233)
+- **009** (Independent Study) (time and location TBA) by Guma, Monica (A11781487)
 
 [Enrollment numbers over time](./FMPH199.tsv)

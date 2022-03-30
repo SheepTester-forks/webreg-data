@@ -107,7 +107,6 @@
 [**CAT 3**](./courses/CAT3.md): Culture, Art & Technology III
 - B01
 - B02
-- B09
 - B10
 - D09
 - D10
@@ -278,6 +277,9 @@
 - A12
 - A13
 - A14
+
+[**ETHN 30**](./courses/ETHN30.md): Intro Chicanx & Latinx Studies
+- A03
 
 [**ETHN 101TV**](./courses/ETHN101TV.md): Ethnic Images on TV
 - A01

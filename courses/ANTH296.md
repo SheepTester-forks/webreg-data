@@ -13,5 +13,6 @@
 - **012** (Tutorial) (time and location TBA) by Haviland, John B. (A06909408)
 - **013** (Tutorial) (time and location TBA) by Pedersen, David (A06893538)
 - **014** (Tutorial) (time and location TBA) by Goldstein, Paul S (A04458694)
+- **015** (Tutorial) (time and location TBA) by Yeh, Rihan Wen Xin (A16181841)
 
 [Enrollment numbers over time](./ANTH296.tsv)

@@ -9,5 +9,6 @@
 - **007** (Tutorial) (time and location TBA) by D'Alpoim Guedes, Jade A (A14330195)
 - **008** (Tutorial) (time and location TBA) by Yeh, Rihan Wen Xin (A16181841)
 - **009** (Tutorial) (time and location TBA) by Fox, Patrick Keolu Ozer (A16182375)
+- **010** (Tutorial) (time and location TBA) by Pedersen, David (A06893538)
 
 [Enrollment numbers over time](./ANTH295.tsv)
