@@ -3,5 +3,6 @@
 - **A00** (Practicum) (time and location TBA) by Vaida, Florin (A09683050)
 - **B00** (Practicum) (time and location TBA) by Natarajan, Loki (A06349434)
 - **C00** (Practicum) (time and location TBA) by Jain, Sonia (A09748897)
+- **D00** (Practicum) (time and location TBA) by Thompson, Wesley Kurt (A09753272)
 
 [Enrollment numbers over time](./FMPH241.tsv)

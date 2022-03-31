@@ -8,5 +8,6 @@
 - **006** (Independent Study) (time and location TBA) by Alberts, Brandon (A16713260)
 - **007** (Independent Study) (time and location TBA) by Bejenaru, Ioan (A11078835)
 - **008** (Independent Study) (time and location TBA) by Brust, Johannes Joachim (A95500705)
+- **009** (Independent Study) (time and location TBA) by Dumitriu, Ioana (A16182389)
 
 [Enrollment numbers over time](./MATH199.tsv)

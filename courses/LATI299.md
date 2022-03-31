@@ -4,5 +4,6 @@
 - **002** (Independent Study) (time and location TBA) by Yeh, Rihan Wen Xin (A16181841)
 - **003** (Independent Study) (time and location TBA) by Arcos Herrera, Carol (A16188187)
 - **004** (Independent Study) (time and location TBA) by Fuste, Jose Ignacio (A05708365)
+- **005** (Independent Study) (time and location TBA) by Hunefeldt, Christine (A01966122)
 
 [Enrollment numbers over time](./LATI299.tsv)

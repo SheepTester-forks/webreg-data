@@ -9,5 +9,6 @@
 - **007** (Independent Study) (time and location TBA) by Streeby, Shelley (A00703777)
 - **008** (Independent Study) (time and location TBA) by Taylor-Garcia, Daphne (A09746364)
 - **009** (Independent Study) (time and location TBA) by Yang, K. Wayne (A07493124)
+- **010** (Independent Study) (time and location TBA) by Middleton, Kianna (A16709937)
 
 [Enrollment numbers over time](./ETHN298.tsv)

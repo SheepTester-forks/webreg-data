@@ -36,5 +36,10 @@
 - **034** (Independent Study) (time and location TBA) by Pittman, James Ollie Eugen (A15370098)
 - **035** (Independent Study) (time and location TBA) by Powell, Lindsey Jane (A16183397)
 - **036** (Independent Study) (time and location TBA) by Anagnostaras, Stephan (A05749877)
+- **037** (Independent Study) (time and location TBA) by Hartman, Sheri R (A10428289)
+- **038** (Independent Study) (time and location TBA) by Oveis, Christopher S (A10405576)
+- **039** (Independent Study) (time and location TBA) by Smith, Pamela Karen (A09683270)
+- **040** (Independent Study) (time and location TBA) by Winkielman, Piotr (A05739552)
+- **041** (Independent Study) (time and location TBA) by Frank, Guido Klaus (A16182042)
 
 [Enrollment numbers over time](./PSYC199.tsv)

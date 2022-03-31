@@ -18,5 +18,6 @@
 - **016** (Independent Study) (time and location TBA) by Victor, David Gardiner (A09683297)
 - **017** (Independent Study) (time and location TBA) by Samphantharak, Krislert (A05762594)
 - **018** (Independent Study) (time and location TBA) by Cheung, TaiMing (A06885108)
+- **019** (Independent Study) (time and location TBA) by Appel, Benjamin Jay (A17248066)
 
 [Enrollment numbers over time](./GPGN499.tsv)

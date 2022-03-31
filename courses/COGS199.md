@@ -4,5 +4,6 @@
 - **002** (Independent Study) (time and location TBA) by Mattar, Marcelo G (A16688714)
 - **003** (Independent Study) (time and location TBA) by Voytek, Bradley Thomas (A12501924)
 - **004** (Independent Study) (time and location TBA) by Xia, Haijun (A16185409)
+- **005** (Independent Study) (time and location TBA) by Tu, Zhuowen (A11797290)
 
 [Enrollment numbers over time](./COGS199.tsv)

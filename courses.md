@@ -2109,7 +2109,7 @@
 - [**SPPS 464**: Transitions of Care APPE](./courses/SPPS464.md) (1–7 units, by 1)
 - [**SPPS 496**: Clinical Independent Study](./courses/SPPS496.md) (1–7 units, by 1)
 - [**SPPS 500**: Pharma Chemistry Teaching](./courses/SPPS500.md) (1–3 units, by 1)
-- [**SPPS 501**: Human Anatomy Teaching](./courses/SPPS501.md) (1 units)
+- [**SPPS 501**: Human Anatomy Teaching](./courses/SPPS501.md) (1–4 units, by 1)
 - [**SPPS 503**: SSPPS Electives Teaching](./courses/SPPS503.md) (1–2 units, by 1)
 - [**SPPS 504**: Compounding Lab Teaching](./courses/SPPS504.md) (1 units)
 - [**SURG 199**: Independent Study](./courses/SURG199.md) (2–4 units, by 2)

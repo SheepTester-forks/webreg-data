@@ -10,5 +10,6 @@
 - **008** (Independent Study) (time and location TBA) by Pekkurnaz Banghart, Gulcin (A14295034)
 - **009** (Independent Study) (time and location TBA) by Gentner, Tim (A06795799)
 - **010** (Independent Study) (time and location TBA) by Kaech, Susan Michelle (A15761355)
+- **011** (Independent Study) (time and location TBA) by Tye, Kay M (A16183016)
 
 [Enrollment numbers over time](./NEUG296.tsv)
