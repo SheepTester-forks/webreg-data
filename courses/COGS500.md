@@ -16,9 +16,10 @@
 - **014** (Independent Study) (time and location TBA) by Boyle, Mary E. T. (A00664405)
 - **015** (Independent Study) (time and location TBA) by Alfonso, Stephanie Isabel (A07280779)
 - **016** (Independent Study) (time and location TBA) by Chiba, Andrea (A02380783)
-- **017** (Independent Study) (time and location TBA) by staff
+- **017** (Independent Study) (time and location TBA) by Trott, Sean Thomas (A53207237)
 - **018** (Independent Study) (time and location TBA) by Jernigan, Terry Lynne (A01211284)
 - **019** (Independent Study) (time and location TBA) by Dow, Steven P (A14270159)
 - **020** (Independent Study) (time and location TBA) by Klemmer, Scott R (A11768628)
+- **021** (Independent Study) (time and location TBA) by Drosos, Ian Zachariah (A53240304)
 
 [Enrollment numbers over time](./COGS500.tsv)

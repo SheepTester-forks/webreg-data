@@ -41,5 +41,10 @@
 - **039** (Independent Study) (time and location TBA) by Smith, Pamela Karen (A09683270)
 - **040** (Independent Study) (time and location TBA) by Winkielman, Piotr (A05739552)
 - **041** (Independent Study) (time and location TBA) by Frank, Guido Klaus (A16182042)
+- **042** (Independent Study) (time and location TBA) by Brady, Adena Schachner (A14278498)
+- **043** (Independent Study) (time and location TBA) by Malaktaris, Anne Louise (A17248580)
+- **044** (Independent Study) (time and location TBA) by McCullough, Michael E (A16182522)
+- **045** (Independent Study) (time and location TBA) by Gollan, Tamar (A05089588)
+- **046** (Independent Study) (time and location TBA) by Courtney, Kelly Elizabeth (A16188674)
 
 [Enrollment numbers over time](./PSYC199.tsv)

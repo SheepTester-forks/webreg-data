@@ -13,9 +13,10 @@
 - **011** (Lecture) (time and location TBA) by Fleischer, Jason G (A14295669)
 - **012** (Lecture) (time and location TBA) by Alfonso, Stephanie Isabel (A07280779)
 - **013** (Lecture) (time and location TBA) by Chiba, Andrea (A02380783)
-- **014** (Lecture) (time and location TBA) by Bardolph, Megan Dalene (A53004001)
+- **014** (Lecture) (time and location TBA) by Trott, Sean Thomas (A53207237)
 - **015** (Lecture) (time and location TBA) by Dow, Steven P (A14270159)
 - **016** (Lecture) (time and location TBA) by Rangel, Lara M (A04827163)
 - **017** (Lecture) (time and location TBA) by Jernigan, Terry Lynne (A01211284)
+- **018** (Lecture) (time and location TBA) by Drosos, Ian Zachariah (A53240304)
 
 [Enrollment numbers over time](./COGS195.tsv)

@@ -283,5 +283,6 @@
 - **281** (Seminar) (time and location TBA) by Yuan, Jason Xiao-Jian (A03690882)
 - **282** (Seminar) (time and location TBA) by Zanetti, Maurizio (A01205259)
 - **283** (Seminar) (time and location TBA) by Zeidan, Fadel (A15764272)
+- **284** (Seminar) (time and location TBA) by Desai, Arshad (A05104313)
 
 [Enrollment numbers over time](./BGRD200.tsv)

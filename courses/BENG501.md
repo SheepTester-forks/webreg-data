@@ -17,5 +17,7 @@
 - **015** (Lecture) (time and location TBA) by Sah, Robert Lie-Yuan (A01889190)
 - **016** (Lecture) (time and location TBA) by Shah, Sameer B (A02344654)
 - **017** (Lecture) (time and location TBA) by Huang, Xiaohua (A05107631)
+- **018** (Lecture) (time and location TBA) by Palsson, Bernhard O. (A01506593)
+- **019** (Lecture) (time and location TBA) by Wang, Yingxiao (A00379914)
 
 [Enrollment numbers over time](./BENG501.tsv)

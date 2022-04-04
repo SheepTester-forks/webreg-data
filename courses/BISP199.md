@@ -166,5 +166,6 @@
 - **164** (Independent Study) (time and location TBA) by Ross, Robert Scott (A00536537)
 - **165** (Independent Study) (time and location TBA) by Dhar, Debanjan (A15757467)
 - **166** (Independent Study) (time and location TBA) by Taylor, Susan S. (A01108329)
+- **167** (Independent Study) (time and location TBA) by Zuniga, Elina I (A08599249)
 
 [Enrollment numbers over time](./BISP199.tsv)

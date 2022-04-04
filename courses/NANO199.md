@@ -6,5 +6,6 @@
 - **004** (Independent Study) (time and location TBA) by Xu, Sheng (A13240393)
 - **005** (Independent Study) (time and location TBA) by Fullerton, Eric E (A00631939)
 - **006** (Independent Study) (time and location TBA) by Grassian, Vicki Helene (A13311595)
+- **007** (Independent Study) (time and location TBA) by Lipomi, Darren John (A11077780)
 
 [Enrollment numbers over time](./NANO199.tsv)

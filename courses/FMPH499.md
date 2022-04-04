@@ -10,5 +10,7 @@
 - **008** (Independent Study) (time and location TBA) by Anderson, Cheryl (A11088374)
 - **009** (Independent Study) (time and location TBA) by Marquez, Becky (A09742090)
 - **010** (Independent Study) (time and location TBA) by Sannidhi, Deepa (A15367962)
+- **011** (Independent Study) (time and location TBA) by Pratt, Michael (A14286092)
+- **012** (Independent Study) (time and location TBA) by Larsen, Britta Ann (A06756233)
 
 [Enrollment numbers over time](./FMPH499.tsv)

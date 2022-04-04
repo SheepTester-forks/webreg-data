@@ -10,5 +10,6 @@
 - **008** (Independent Study) (time and location TBA) by Zhiri, Oumelbanine (A00473620)
 - **009** (Independent Study) (time and location TBA) by Childs, Dennis R. (A08093721)
 - **010** (Independent Study) (time and location TBA) by Carroll, Amy Sara (A16523002)
+- **011** (Independent Study) (time and location TBA) by Loose, Margaret (A07573909)
 
 [Enrollment numbers over time](./LTEN299.tsv)

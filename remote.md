@@ -409,6 +409,9 @@
 [**LIHL 112P**](./courses/LIHL112P.md): Filipino for Filipino Speakers
 - A00
 
+[**LIHL 115P**](./courses/LIHL115P.md): Korean for Korean Speakers
+- A00
+
 [**LIHL 132P**](./courses/LIHL132P.md): Adv Filipino/Filipino Spkrs
 - A00
 

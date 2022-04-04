@@ -8,8 +8,8 @@
 - **A04** (Lab) at 5:00 pm–5:50 pm on Friday at CSB 005 by Arnold, David Hall (A16710246)
 - **A05** (Lab) at 11:00 am–11:50 am on Friday at CSB 004 by Arnold, David Hall (A16710246)
 - **A06** (Lab) at 4:00 pm–4:50 pm on Friday at CSB 005 by Arnold, David Hall (A16710246)
-- **B00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday at CENTR 205 by staff
-- **B00** (Final Exam) at 8:00 am–10:59 am on Monday at CENTR 205 by staff
-- **B01** (Lab) at 10:00 am–10:50 am on Friday at MANDE B-152 by staff
+- **B00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday at CENTR 205 by Hoffman, Geoffrey Joseph (A53215028)
+- **B00** (Final Exam) at 8:00 am–10:59 am on Monday at CENTR 205 by Hoffman, Geoffrey Joseph (A53215028)
+- **B01** (Lab) at 10:00 am–10:50 am on Friday at MANDE B-152 by Hoffman, Geoffrey Joseph (A53215028)
 
 [Enrollment numbers over time](./POLI5D.tsv)

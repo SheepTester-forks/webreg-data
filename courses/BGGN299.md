@@ -98,5 +98,6 @@
 - **096** (Independent Study) (time and location TBA) by Zheng, Binhai (A06889853)
 - **097** (Independent Study) (time and location TBA) by Zheng, Ye (A11066368)
 - **098** (Independent Study) (time and location TBA) by Zuniga, Elina I (A08599249)
+- **099** (Independent Study) (time and location TBA) by Desai, Arshad (A05104313)
 
 [Enrollment numbers over time](./BGGN299.tsv)

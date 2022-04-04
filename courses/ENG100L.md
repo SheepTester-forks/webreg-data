@@ -5,8 +5,9 @@
 - **C00** (Lab) at 6:00 pm–7:50 pm on Monday at U301 137 by Nguyen, Truong Quang (A04509119)
 - **D00** (Lab) (time and location TBA) by staff
 - **E00** (Lab) at 4:00 pm–5:50 pm on Wednesday at PFBH 020 by de Oliveira, Mauricio (A06337957)
-- **F00** (Lab) at 10:00 am–11:50 am on Wednesday at PFBH 003 by Bratton, Maryann (A08090380)
+- **F00** (Lab) (time and location TBA) by staff
 - **G00** (Lab) at 1:00 pm–2:50 pm on Wednesday at PFBH 003 by Bratton, Maryann (A08090380)
 - **H00** (Lab) at 2:00 pm–3:50 pm on Thursday at PFBH 020 by Gerardo, Hortense Flotilde (A17123683)
+- **I00** (Lab) at 9:00 am–10:50 am on Wednesday at PFBH 003 by Bratton, Maryann (A08090380)
 
 [Enrollment numbers over time](./ENG100L.tsv)

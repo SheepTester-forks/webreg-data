@@ -5,5 +5,8 @@
 - **003** (Independent Study) (time and location TBA) by Voytek, Bradley Thomas (A12501924)
 - **004** (Independent Study) (time and location TBA) by Xia, Haijun (A16185409)
 - **005** (Independent Study) (time and location TBA) by Tu, Zhuowen (A11797290)
+- **006** (Independent Study) (time and location TBA) by Scott, Taylor Jackson (A09049179)
+- **007** (Independent Study) (time and location TBA) by Nitz, Douglas A. (A08872464)
+- **008** (Independent Study) (time and location TBA) by Dow, Steven P (A14270159)
 
 [Enrollment numbers over time](./COGS199.tsv)

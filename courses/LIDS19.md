@@ -15,5 +15,6 @@
 - **013** (Independent Study) (time and location TBA) by Goodall, Grant Todd (A01546486)
 - **014** (Independent Study) (time and location TBA) by Goodall, Grant Todd (A01546486)
 - **015** (Independent Study) (time and location TBA) by Goodall, Grant Todd (A01546486)
+- **016** (Independent Study) (time and location TBA) by Goodall, Grant Todd (A01546486)
 
 [Enrollment numbers over time](./LIDS19.tsv)
