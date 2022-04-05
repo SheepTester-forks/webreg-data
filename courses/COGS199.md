@@ -8,5 +8,7 @@
 - **006** (Independent Study) (time and location TBA) by Scott, Taylor Jackson (A09049179)
 - **007** (Independent Study) (time and location TBA) by Nitz, Douglas A. (A08872464)
 - **008** (Independent Study) (time and location TBA) by Dow, Steven P (A14270159)
+- **009** (Independent Study) (time and location TBA) by Rangel, Lara M (A04827163)
+- **010** (Independent Study) (time and location TBA) by Rossano, Federico (A14273503)
 
 [Enrollment numbers over time](./COGS199.tsv)

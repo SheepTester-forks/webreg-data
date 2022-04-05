@@ -78,5 +78,7 @@
 - **076** (Independent Study) (time and location TBA) by Chen, Yuan (A16189034)
 - **077** (Independent Study) (time and location TBA) by Smarr, Benjamin (A06333744)
 - **078** (Independent Study) (time and location TBA) by Mishra, Jyoti (A05118166)
+- **079** (Independent Study) (time and location TBA) by Aguado, Brian Alberto (A17248335)
+- **080** (Independent Study) (time and location TBA) by Haddad, Gabriel (A07474189)
 
 [Enrollment numbers over time](./BENG299.tsv)

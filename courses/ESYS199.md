@@ -2,5 +2,6 @@
 
 - **001** (Independent Study) (time and location TBA) by Teranes, Jane (A04215849)
 - **002** (Independent Study) (time and location TBA) by Taylor, Jennifer Rebecca (A11770590)
+- **003** (Independent Study) (time and location TBA) by Reuther, Keefe (A09140511)
 
 [Enrollment numbers over time](./ESYS199.tsv)

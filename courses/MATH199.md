@@ -10,5 +10,6 @@
 - **008** (Independent Study) (time and location TBA) by Brust, Johannes Joachim (A95500705)
 - **009** (Independent Study) (time and location TBA) by Dumitriu, Ioana (A16182389)
 - **010** (Independent Study) (time and location TBA) by Mohammadi, Amir (A14294844)
+- **011** (Independent Study) (time and location TBA) by Jekel, David Andrew (A17249428)
 
 [Enrollment numbers over time](./MATH199.tsv)

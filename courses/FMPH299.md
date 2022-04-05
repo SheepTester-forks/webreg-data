@@ -6,5 +6,6 @@
 - **004** (Independent Study) (time and location TBA) by Schwartzman, Armin (A14277637)
 - **005** (Independent Study) (time and location TBA) by Tu, Xin (A14705068)
 - **006** (Independent Study) (time and location TBA) by Liu, Lin (A06439858)
+- **007** (Independent Study) (time and location TBA) by Lacroix, Andrea Zauderer (A11823224)
 
 [Enrollment numbers over time](./FMPH299.tsv)

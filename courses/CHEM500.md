@@ -27,6 +27,6 @@
 - **025** (Independent Study) (time and location TBA) by Young, Mark (A14281642)
 - **026** (Independent Study) (time and location TBA) by Burkart, Michael D (A01289158)
 - **027** (Independent Study) (time and location TBA) by Jazzar, Rodolphe (A17258688)
-- **028** (Independent Study) (time and location TBA) by staff
+- **028** (Independent Study) (time and location TBA) by Buyanin, Alex (A07500525)
 
 [Enrollment numbers over time](./CHEM500.tsv)

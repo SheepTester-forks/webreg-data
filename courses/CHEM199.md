@@ -7,5 +7,6 @@
 - **005** (Independent Study) (time and location TBA) by Zhou, Huilin (A05106836)
 - **006** (Independent Study) (time and location TBA) by Podust, Larissa M (A12876152)
 - **007** (Independent Study) (time and location TBA) by Weizman, Haim (A03200705)
+- **008** (Independent Study) (time and location TBA) by Romero, Erik Anthony (A53071520)
 
 [Enrollment numbers over time](./CHEM199.tsv)
