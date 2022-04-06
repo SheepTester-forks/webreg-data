@@ -12,5 +12,6 @@
 - **010** (Independent Study) (time and location TBA) by Sobel, Joel (A00834880)
 - **011** (Independent Study) (time and location TBA) by Engelberg, Joseph Edward (A02704903)
 - **012** (Independent Study) (time and location TBA) by Khanna, Gaurav (A15366611)
+- **013** (Independent Study) (time and location TBA) by Galperti, Simone (A11779613)
 
 [Enrollment numbers over time](./ECON297.tsv)

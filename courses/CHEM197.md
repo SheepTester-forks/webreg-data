@@ -3,5 +3,6 @@
 - **001** (Internship) (time and location TBA) by Donoghue, Daniel J. (A00646193)
 - **002** (Internship) (time and location TBA) by Komives, Elizabeth A (A01024305)
 - **003** (Internship) (time and location TBA) by Godula, Kamil (A11781264)
+- **004** (Internship) (time and location TBA) by Theodorakis, Emmanuel (A00747717)
 
 [Enrollment numbers over time](./CHEM197.tsv)

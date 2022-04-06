@@ -72,5 +72,6 @@
 - **070** (Independent Study) (time and location TBA) by Poulikakos, Lisa Voula (A16714266)
 - **071** (Independent Study) (time and location TBA) by Li, Shaowei (A16714291)
 - **072** (Independent Study) (time and location TBA) by Talke, Frank E (A00902340)
+- **073** (Independent Study) (time and location TBA) by Yeo, Eugene Wei-Ming (A06896636)
 
 [Enrollment numbers over time](./MATS299.tsv)

@@ -46,5 +46,7 @@
 - **044** (Independent Study) (time and location TBA) by McCullough, Michael E (A16182522)
 - **045** (Independent Study) (time and location TBA) by Gollan, Tamar (A05089588)
 - **046** (Independent Study) (time and location TBA) by Courtney, Kelly Elizabeth (A16188674)
+- **047** (Independent Study) (time and location TBA) by Shih, Pei An (A10489803)
+- **048** (Independent Study) (time and location TBA) by Gorman, Michael R. (A02752636)
 
 [Enrollment numbers over time](./PSYC199.tsv)

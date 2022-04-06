@@ -5,5 +5,6 @@
 - **003** (Independent Study) (time and location TBA) by Arcos Herrera, Carol (A16188187)
 - **004** (Independent Study) (time and location TBA) by Fuste, Jose Ignacio (A05708365)
 - **005** (Independent Study) (time and location TBA) by Hunefeldt, Christine (A01966122)
+- **006** (Independent Study) (time and location TBA) by Fitzgerald, David S (A02415189)
 
 [Enrollment numbers over time](./LATI299.tsv)
