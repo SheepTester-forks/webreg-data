@@ -6,5 +6,6 @@
 - **004** (Independent Study) (time and location TBA) by Fuste, Jose Ignacio (A05708365)
 - **005** (Independent Study) (time and location TBA) by Hunefeldt, Christine (A01966122)
 - **006** (Independent Study) (time and location TBA) by Fitzgerald, David S (A02415189)
+- **007** (Independent Study) (time and location TBA) by Ruiz, Ariana (A16689018)
 
 [Enrollment numbers over time](./LATI299.tsv)

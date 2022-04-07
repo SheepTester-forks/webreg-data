@@ -20,5 +20,10 @@
 - **018** (Independent Study) (time and location TBA) by Rinehart, Jeffrey Dennis (A12501575)
 - **019** (Independent Study) (time and location TBA) by Deshmukh, Lalit (A15370987)
 - **020** (Independent Study) (time and location TBA) by Li, Shaowei (A16714291)
+- **021** (Independent Study) (time and location TBA) by Boss, Gerard R. (A01359807)
+- **022** (Independent Study) (time and location TBA) by Li, Willis Xiaowei (A10390283)
+- **023** (Independent Study) (time and location TBA) by Jiang, Qingfei (A09153925)
+- **024** (Independent Study) (time and location TBA) by Sinha, Amitabha (A01234642)
+- **025** (Independent Study) (time and location TBA) by Kubiak, Clifford Paul (A02773016)
 
 [Enrollment numbers over time](./CHEM199.tsv)

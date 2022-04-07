@@ -10,13 +10,13 @@
 - **A06** (Lab) at 6:00 pm–7:50 pm on Friday at EBU3B B260 by Soosai Raj, Adalbert Geral (A16181718)
 - **A07** (Lab) at 8:00 am–9:50 am on Thursday at EBU3B B260 by Soosai Raj, Adalbert Geral (A16181718)
 - **A08** (Lab) at 10:00 am–11:50 am on Thursday at EBU3B B260 by Soosai Raj, Adalbert Geral (A16181718)
-- **B00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday at CENTR 113 by staff
-- **B00** (Final Exam) at 11:30 am–2:29 pm on Saturday at PETER 110 by staff
-- **B01** (Lab) at 12:00 pm–1:50 pm on Thursday at EBU3B B260 by staff
-- **B02** (Lab) at 2:00 pm–3:50 pm on Thursday at EBU3B B260 by staff
-- **B03** (Lab) at 4:00 pm–5:50 pm on Thursday at EBU3B B260 by staff
-- **C00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday at WLH 2207 by staff
-- **C00** (Final Exam) at 11:30 am–2:29 pm on Thursday at WLH 2207 by staff
-- **C01** (Lab) at 6:00 pm–7:50 pm on Thursday at EBU3B B260 by staff
+- **B00** (Lecture) at 2:00 pm–2:50 pm on Monday, Wednesday at CENTR 113 by Gungor, Onat (A53328013)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Saturday at PETER 110 by Gungor, Onat (A53328013)
+- **B01** (Lab) at 12:00 pm–1:50 pm on Thursday at EBU3B B260 by Gungor, Onat (A53328013)
+- **B02** (Lab) at 2:00 pm–3:50 pm on Thursday at EBU3B B260 by Gungor, Onat (A53328013)
+- **B03** (Lab) at 4:00 pm–5:50 pm on Thursday at EBU3B B260 by Gungor, Onat (A53328013)
+- **C00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday at WLH 2207 by Gungor, Onat (A53328013)
+- **C00** (Final Exam) at 11:30 am–2:29 pm on Thursday at WLH 2207 by Gungor, Onat (A53328013)
+- **C01** (Lab) at 6:00 pm–7:50 pm on Thursday at EBU3B B260 by Gungor, Onat (A53328013)
 
 [Enrollment numbers over time](./CSE15L.tsv)

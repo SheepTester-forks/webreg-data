@@ -1,7 +1,7 @@
 **VIS 70N**: Introduction to Media (6 units)
 
-- **A00** (Lecture) at 5:00 pm–7:50 pm on Tuesday at HSS 1330 by Cho, Erica (A13241650)
-- **A00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at CENTR 214 by Cho, Erica (A13241650)
+- **A00** (Lecture) at 5:00 pm–7:50 pm on Tuesday at RCLAS R07 by Cho, Erica (A13241650)
+- **A00** (Final Exam) at 7:00 pm–9:59 pm on Thursday at RCLAS R07 by Cho, Erica (A13241650)
 - **A01** (Lab) at 9:00 am–11:50 am on Monday at MANDE B111E by Cho, Erica (A13241650)
 - **A01** (Lab) at 9:00 am–11:50 am on Wednesday at MCC 222 by Cho, Erica (A13241650)
 - **A02** (Lab) at 9:00 am–11:50 am on Monday at MANDE B111E by Cho, Erica (A13241650)

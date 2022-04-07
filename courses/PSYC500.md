@@ -24,5 +24,7 @@
 - **022** (Independent Study) (time and location TBA) by Steiner, Eric Tomas (A15354864)
 - **023** (Independent Study) (time and location TBA) by Mukku, Dhananjaya (A16717486)
 - **024** (Independent Study) (time and location TBA) by Geller, Emma Harlan (A14294903)
+- **025** (Independent Study) (time and location TBA) by Pesowski, Madison Leigh (A17548487)
+- **026** (Independent Study) (time and location TBA) by Gorman, Michael R. (A02752636)
 
 [Enrollment numbers over time](./PSYC500.tsv)
