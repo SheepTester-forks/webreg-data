@@ -2,5 +2,6 @@
 
 - **001** (Tutorial) (time and location TBA) by Yeh, Rihan Wen Xin (A16181841)
 - **002** (Tutorial) (time and location TBA) by Perreira, Christopher Michael (A04457715)
+- **003** (Tutorial) (time and location TBA) by Huezo, Alexander D (A16181403)
 
 [Enrollment numbers over time](./LATI298.tsv)

@@ -167,5 +167,6 @@
 - **165** (Independent Study) (time and location TBA) by Dhar, Debanjan (A15757467)
 - **166** (Independent Study) (time and location TBA) by Taylor, Susan S. (A01108329)
 - **167** (Independent Study) (time and location TBA) by Zuniga, Elina I (A08599249)
+- **168** (Independent Study) (time and location TBA) by Cherqui, Stephanie (A11134684)
 
 [Enrollment numbers over time](./BISP199.tsv)

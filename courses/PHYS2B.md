@@ -19,7 +19,7 @@
 - **C00** (Lecture) at 7:00 pm–7:50 pm on Thursday at PETER 108 by Shotwell, Brian (A50056749)
 - **C00** (Final Exam) at 11:30 am–2:29 pm on Thursday at GH 242 by Shotwell, Brian (A50056749)
 - **C01** (Discussion) at 2:00 pm–2:50 pm on Monday at CENTR 201 by Shotwell, Brian (A50056749)
-- **C02** (Discussion) at 2:00 pm–2:50 pm on Monday at SEQUO 148 by Shotwell, Brian (A50056749)
+- **C02** (Discussion) at 2:00 pm–2:50 pm on Monday at MYR-A 2623 by Shotwell, Brian (A50056749)
 - **C03** (Discussion) at 3:00 pm–3:50 pm on Monday at CENTR 201 by Shotwell, Brian (A50056749)
 - **C04** (Discussion) at 4:00 pm–4:50 pm on Monday at CENTR 201 by Shotwell, Brian (A50056749)
 - **C05** (Discussion) at 4:00 pm–4:50 pm on Monday at CENTR 207 by Shotwell, Brian (A50056749)

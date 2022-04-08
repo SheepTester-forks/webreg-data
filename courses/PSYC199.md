@@ -49,5 +49,6 @@
 - **047** (Independent Study) (time and location TBA) by Shih, Pei An (A10489803)
 - **048** (Independent Study) (time and location TBA) by Gorman, Michael R. (A02752636)
 - **049** (Independent Study) (time and location TBA) by Pilegard, Celeste Cristine (A16185185)
+- **050** (Independent Study) (time and location TBA) by Smith, Christine Nicole (A01761004)
 
 [Enrollment numbers over time](./PSYC199.tsv)

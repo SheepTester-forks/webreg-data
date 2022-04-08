@@ -11,5 +11,6 @@
 - **009** (Independent Study) (time and location TBA) by Dumitriu, Ioana (A16182389)
 - **010** (Independent Study) (time and location TBA) by Mohammadi, Amir (A14294844)
 - **011** (Independent Study) (time and location TBA) by Jekel, David Andrew (A17249428)
+- **012** (Independent Study) (time and location TBA) by Popescu, Cristian D. (A05740262)
 
 [Enrollment numbers over time](./MATH199.tsv)
