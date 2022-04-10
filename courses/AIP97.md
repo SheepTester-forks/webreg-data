@@ -3,5 +3,6 @@
 - **001** (Internship) (time and location TBA) by Rao, Ramesh R (A01348111)
 - **002** (Internship) (time and location TBA) by Komiyama, Takaki (A09748470)
 - **003** (Internship) (time and location TBA) by Viirre, Erik (A02775925)
+- **004** (Internship) (time and location TBA) by Nicolazzo, Sarah E. (A12506980)
 
 [Enrollment numbers over time](./AIP97.tsv)
