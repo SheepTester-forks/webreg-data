@@ -36,5 +36,7 @@
 - **034** (Independent Study) (time and location TBA) by Galperin, Michael (A08611063)
 - **035** (Independent Study) (time and location TBA) by Cohen, Seth M (A04221330)
 - **036** (Independent Study) (time and location TBA) by Xiong, Wei (A12510472)
+- **037** (Independent Study) (time and location TBA) by Thiemens, Mark H (A01140503)
+- **038** (Independent Study) (time and location TBA) by Schmidt, Valerie A (A14294787)
 
 [Enrollment numbers over time](./CHEM199.tsv)

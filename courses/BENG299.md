@@ -80,5 +80,11 @@
 - **078** (Independent Study) (time and location TBA) by Mishra, Jyoti (A05118166)
 - **079** (Independent Study) (time and location TBA) by Aguado, Brian Alberto (A17248335)
 - **080** (Independent Study) (time and location TBA) by Haddad, Gabriel (A07474189)
+- **081** (Independent Study) (time and location TBA) by Muotri, Alysson (A09141982)
+- **082** (Independent Study) (time and location TBA) by Delson, Nathan Joseph (A01305024)
+- **083** (Independent Study) (time and location TBA) by Rangamani, Padmini (A12510654)
+- **084** (Independent Study) (time and location TBA) by Hao, Nan (A11781228)
+- **085** (Independent Study) (time and location TBA) by Carter, Hannah Kathryn (A12509361)
+- **086** (Independent Study) (time and location TBA) by Seibert, Tyler Michael (A07476738)
 
 [Enrollment numbers over time](./BENG299.tsv)

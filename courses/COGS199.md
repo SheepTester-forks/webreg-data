@@ -10,5 +10,6 @@
 - **008** (Independent Study) (time and location TBA) by Dow, Steven P (A14270159)
 - **009** (Independent Study) (time and location TBA) by Rangel, Lara M (A04827163)
 - **010** (Independent Study) (time and location TBA) by Rossano, Federico (A14273503)
+- **011** (Independent Study) (time and location TBA) by Coulson, Seana M (A01915525)
 
 [Enrollment numbers over time](./COGS199.tsv)

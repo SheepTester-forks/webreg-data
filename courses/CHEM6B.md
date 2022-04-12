@@ -19,6 +19,6 @@
 - **B03** (Discussion) at 7:00 pm–7:50 pm on Wednesday at WLH 2206 by Lam, Tin Yiu (A14286017)
 - **B04** (Discussion) at 1:00 pm–1:50 pm on Wednesday at WLH 2114 by Lam, Tin Yiu (A14286017)
 - **B05** (Discussion) at 3:00 pm–3:50 pm on Wednesday at MANDE B-104 by Lam, Tin Yiu (A14286017)
-- **B06** (Discussion) at 12:00 pm–12:50 pm on Wednesday at SEQUO 148 by Lam, Tin Yiu (A14286017)
+- **B06** (Discussion) at 12:00 pm–12:50 pm on Wednesday at CSB 004 by Lam, Tin Yiu (A14286017)
 
 [Enrollment numbers over time](./CHEM6B.tsv)

@@ -32,6 +32,10 @@
 [**BENG 112B**](./courses/BENG112B.md): Fluid and Cell Biomechanics
 - A01
 
+[**BENG 189**](./courses/BENG189.md): Physiological Systems Eng
+- A00
+- A00
+
 [**BENG 193**](./courses/BENG193.md): Clinical Exp in Bioengineering
 - A00
 

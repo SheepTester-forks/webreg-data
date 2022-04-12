@@ -7,7 +7,7 @@
 - **E00** (Lab) at 4:00 pm–5:50 pm on Wednesday at PFBH 020 by de Oliveira, Mauricio (A06337957)
 - **F00** (Lab) (time and location TBA) by staff
 - **G00** (Lab) at 1:00 pm–2:50 pm on Wednesday at PFBH 003 by Bratton, Maryann (A08090380)
-- **H00** (Lab) at 2:00 pm–3:50 pm on Thursday at PFBH 020 by Gerardo, Hortense Flotilde (A17123683)
+- **H00** (Lab) (time and location TBA) by staff
 - **I00** (Lab) at 9:00 am–10:50 am on Wednesday at PFBH 003 by Bratton, Maryann (A08090380)
 
 [Enrollment numbers over time](./ENG100L.tsv)
