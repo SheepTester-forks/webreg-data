@@ -1,0 +1,16 @@
+**PHYS 199**: Research for Undergraduates (2–4 units, by 1)
+
+- **001** (Independent Study) (time and location TBA) by Barreiro Guerrero, Julio (A12506616)
+- **002** (Independent Study) (time and location TBA) by Ni, Kaixuan (A13242406)
+- **003** (Independent Study) (time and location TBA) by You, Yizhuang (A15674684)
+- **004** (Independent Study) (time and location TBA) by Jun, Suckjoon (A11131221)
+- **005** (Independent Study) (time and location TBA) by Pittman, James Ollie Eugen (A15370098)
+- **006** (Independent Study) (time and location TBA) by Keating, Brian (A06312107)
+- **007** (Independent Study) (time and location TBA) by Abarbanel, Henry Don Isaac (A00885599)
+- **008** (Independent Study) (time and location TBA) by Popmintchev, Tenio (A14314788)
+- **009** (Independent Study) (time and location TBA) by Duarte, Javier Mauricio (A16182001)
+- **010** (Independent Study) (time and location TBA) by Grinstein, Benjamin (A01949902)
+- **011** (Independent Study) (time and location TBA) by Yang, Liang (A16183435)
+- **012** (Independent Study) (time and location TBA) by Burgasser, Adam Jonathan (A01873969)
+
+[Enrollment numbers over time](./PHYS199.tsv)

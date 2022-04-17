@@ -1,0 +1,16 @@
+**MAE 3**: Intro/Engineering Graphcs&Desn (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at CENTR 109 by Qi, Huihui (A16179669)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at GYM MAIN by Qi, Huihui (A16179669)
+- **A01** (Lab) at 11:00 am–1:50 pm on Tuesday at EBU2 313 by Qi, Huihui (A16179669)
+- **A03** (Lab) at 9:00 am–11:50 am on Wednesday at EBU2 313 by Qi, Huihui (A16179669)
+- **A05** (Lab) at 11:00 am–1:50 pm on Thursday at EBU2 313 by Qi, Huihui (A16179669)
+- **A07** (Lab) at 9:00 am–11:50 am on Friday at EBU2 313 by Qi, Huihui (A16179669)
+- **B00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at CENTR 105 by Lubarda, Marko (A03701368)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at   by Lubarda, Marko (A03701368)
+- **B02** (Lab) at 2:30 pm–5:20 pm on Tuesday at   by Lubarda, Marko (A03701368)
+- **B04** (Lab) at 2:00 pm–4:50 pm on Wednesday at   by Lubarda, Marko (A03701368)
+- **B06** (Lab) at 2:30 pm–5:20 pm on Thursday at   by Lubarda, Marko (A03701368)
+- **B08** (Lab) at 2:00 pm–4:50 pm on Friday at   by Lubarda, Marko (A03701368)
+
+[Enrollment numbers over time](./MAE3.tsv)
