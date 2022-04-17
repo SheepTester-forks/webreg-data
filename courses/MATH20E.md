@@ -1,0 +1,10 @@
+**MATH 20E**: Vector Calculus (4 units)
+
+- **A00** (Lecture) at 10:00 am–11:50 am on Monday, Wednesday, Friday at   by staff
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by staff
+- **A01** (Discussion) at 9:00 am–9:50 am on Tuesday, Thursday at APM 7321 by staff
+- **A02** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at APM 7321 by staff
+- **A03** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at APM 7321 by staff
+- **A04** (Discussion) at 12:00 pm–12:50 pm on Tuesday, Thursday at APM 7321 by staff
+
+[Enrollment numbers over time](./MATH20E.tsv)

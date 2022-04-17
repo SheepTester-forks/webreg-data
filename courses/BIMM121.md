@@ -1,0 +1,15 @@
+**BIMM 121**: Microbiology Laboratory (4 units)
+
+- **A00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at TATA 2501 by Pirino, Giorgia (A14304946)
+- **A01** (Lab) at 10:00 am–12:50 pm on Tuesday, Thursday at TATA 2101 by Pirino, Giorgia (A14304946)
+- **A02** (Lab) at 10:00 am–12:50 pm on Tuesday, Thursday at TATA 2102 by Pirino, Giorgia (A14304946)
+- **B00** (Lecture) at 12:30 pm–1:50 pm on Tuesday, Thursday at TATA 2501 by Pickett, Brooke Elizabeth (A16715440)
+- **B01** (Lab) at 2:00 pm–4:50 pm on Tuesday, Thursday at TATA 2101 by Pickett, Brooke Elizabeth (A16715440)
+- **B02** (Lab) at 2:00 pm–4:50 pm on Tuesday, Thursday at TATA 2102 by Pickett, Brooke Elizabeth (A16715440)
+- **C00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday, Friday at CSB 001 by Minich, Jeremiah Jeffrey (A53030598)
+- **C01** (Lab) at 10:00 am–12:50 pm on Wednesday, Friday at TATA 2101 by Minich, Jeremiah Jeffrey (A53030598)
+- **C02** (Lab) at 10:00 am–12:50 pm on Wednesday, Friday at TATA 2102 by Minich, Jeremiah Jeffrey (A53030598)
+- **C03** (Lab) at 2:00 pm–4:50 pm on Wednesday, Friday at TATA 2101 by Minich, Jeremiah Jeffrey (A53030598)
+- **C04** (Lab) at 2:00 pm–4:50 pm on Wednesday, Friday at TATA 2102 by Minich, Jeremiah Jeffrey (A53030598)
+
+[Enrollment numbers over time](./BIMM121.tsv)

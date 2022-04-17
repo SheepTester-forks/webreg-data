@@ -1,0 +1,16 @@
+**FMPH 194**: Public Health Capstone II (4 units)
+
+- **A00** (Lecture) at 5:00 pm–7:50 pm on Thursday at WLH 2206 by Emory, Kristen (A08033019)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Emory, Kristen (A08033019)
+- **B00** (Lecture) at 2:00 pm–4:50 pm on Tuesday at MET 313 by Romero, Sally Ann Dominick (A50041195)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Romero, Sally Ann Dominick (A50041195)
+- **C00** (Lecture) at 9:00 am–11:50 am on Friday at MET 223 by Marquez, Becky (A09742090)
+- **C00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Marquez, Becky (A09742090)
+- **D00** (Lecture) at 5:00 pm–7:50 pm on Wednesday at CENTR 207 by Nguyen-Grozavu, France T. (A01560161)
+- **D00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Nguyen-Grozavu, France T. (A01560161)
+- **E00** (Lecture) at 1:00 pm–3:50 pm on Thursday at MET 215 by Servin, Argentina Elisa No (A14485240)
+- **E00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Servin, Argentina Elisa No (A14485240)
+- **F00** (Lecture) at 9:00 am–11:50 am on Monday at CMME 2047 by Servin, Argentina Elisa No (A14485240)
+- **F00** (Final Exam) at 11:30 am–2:29 pm on Saturday at   by Servin, Argentina Elisa No (A14485240)
+
+[Enrollment numbers over time](./FMPH194.tsv)

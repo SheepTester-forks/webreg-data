@@ -1,0 +1,7 @@
+**ECE 141B**: Software Foundations II (4 units)
+
+- **A00** (Lecture) at 3:30 pm–4:50 pm on Tuesday, Thursday at CENTR 222 by Gessner, Richard K. (A14429566)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Monday at CENTR 222 by Gessner, Richard K. (A14429566)
+- **A01** (Lab) at 3:00 pm–3:50 pm on Friday at WLH 2111 by Gessner, Richard K. (A14429566)
+
+[Enrollment numbers over time](./ECE141B.tsv)
