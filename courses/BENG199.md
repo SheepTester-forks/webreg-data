@@ -32,5 +32,6 @@
 - **030** (Independent Study) (time and location TBA) by Ren, Bing (A05088628)
 - **031** (Independent Study) (time and location TBA) by Suresh, Preetham John (A09753680)
 - **032** (Independent Study) (time and location TBA) by Jung, Tzyy-Ping (A10405523)
+- **033** (Independent Study) (time and location TBA) by Califano, Joseph A (A14278696)
 
 [Enrollment numbers over time](./BENG199.tsv)

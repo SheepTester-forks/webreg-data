@@ -6,7 +6,7 @@
 - **004** (Independent Study) (time and location TBA) by Fan, Judith Ellen (A16044200)
 - **005** (Independent Study) (time and location TBA) by Rose, Fred E. (A05740939)
 - **006** (Independent Study) (time and location TBA) by Chapman, Eddie Nathaniel (A16713112)
-- **007** (Independent Study) (time and location TBA) by staff
+- **007** (Independent Study) (time and location TBA) by Kim, Min Ju (A53207582)
 - **008** (Independent Study) (time and location TBA) by Belding, Jennifer (A13282805)
 - **009** (Independent Study) (time and location TBA) by Lowe, Angela Beth (A11077604)
 - **010** (Independent Study) (time and location TBA) by Gremel, Christina M (A13230790)

@@ -19,5 +19,6 @@
 - **017** (Lecture) (time and location TBA) by Huang, Xiaohua (A05107631)
 - **018** (Lecture) (time and location TBA) by Palsson, Bernhard O. (A01506593)
 - **019** (Lecture) (time and location TBA) by Wang, Yingxiao (A00379914)
+- **020** (Lecture) (time and location TBA) by McVeigh, Elliot R. (A13253249)
 
 [Enrollment numbers over time](./BENG501.tsv)

@@ -1,6 +1,6 @@
 **CGS 196B**: Honors Thesis (4 units)
 
-- **A00** (Tutorial) (time and location TBA) by staff
+- **A00** (Tutorial) (time and location TBA) by Hankins, Sarah E. (A14294865)
 - **B00** (Tutorial) (time and location TBA) by Patel, Shaista (A15755379)
 - **C00** (Tutorial) (time and location TBA) by staff
 - **D00** (Tutorial) (time and location TBA) by Kang, Byung Chu (A14294735)

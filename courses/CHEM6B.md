@@ -14,6 +14,8 @@
 - **B00** (Final Exam) at 8:00 am–10:59 am on Wednesday at CENTR 101 by Lam, Tin Yiu (A14286017)
 - **B00** (Midterm) at 9:00 am–10:50 am on Saturday at GH 242 by Lam, Tin Yiu (A14286017)
 - **B00** (Midterm) at 9:00 am–10:50 am on Saturday at GH 242 by Lam, Tin Yiu (A14286017)
+- **B00** (Review Sessions) at 6:00 pm–7:50 pm on Thursday at SOLIS 107 by Lam, Tin Yiu (A14286017)
+- **B00** (Review Sessions) at 6:00 pm–7:50 pm on Thursday at SOLIS 107 by Lam, Tin Yiu (A14286017)
 - **B01** (Discussion) at 5:00 pm–5:50 pm on Wednesday at WLH 2206 by Lam, Tin Yiu (A14286017)
 - **B02** (Discussion) at 6:00 pm–6:50 pm on Wednesday at WLH 2206 by Lam, Tin Yiu (A14286017)
 - **B03** (Discussion) at 7:00 pm–7:50 pm on Wednesday at WLH 2206 by Lam, Tin Yiu (A14286017)

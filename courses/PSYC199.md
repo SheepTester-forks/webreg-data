@@ -50,5 +50,7 @@
 - **048** (Independent Study) (time and location TBA) by Gorman, Michael R. (A02752636)
 - **049** (Independent Study) (time and location TBA) by Pilegard, Celeste Cristine (A16185185)
 - **050** (Independent Study) (time and location TBA) by Smith, Christine Nicole (A01761004)
+- **051** (Independent Study) (time and location TBA) by Young, Jared W. (A10408351)
+- **052** (Independent Study) (time and location TBA) by De Guglielmo, Giordano (A16042268)
 
 [Enrollment numbers over time](./PSYC199.tsv)

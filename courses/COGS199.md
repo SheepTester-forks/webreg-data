@@ -11,5 +11,6 @@
 - **009** (Independent Study) (time and location TBA) by Rangel, Lara M (A04827163)
 - **010** (Independent Study) (time and location TBA) by Rossano, Federico (A14273503)
 - **011** (Independent Study) (time and location TBA) by Coulson, Seana M (A01915525)
+- **012** (Independent Study) (time and location TBA) by Creel, Sarah (A08082601)
 
 [Enrollment numbers over time](./COGS199.tsv)

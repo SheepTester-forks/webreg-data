@@ -284,5 +284,6 @@
 - **282** (Seminar) (time and location TBA) by Zanetti, Maurizio (A01205259)
 - **283** (Seminar) (time and location TBA) by Zeidan, Fadel (A15764272)
 - **284** (Seminar) (time and location TBA) by Desai, Arshad (A05104313)
+- **285** (Seminar) (time and location TBA) by Mali, Prashant Gulab Ram (A12525347)
 
 [Enrollment numbers over time](./BGRD200.tsv)

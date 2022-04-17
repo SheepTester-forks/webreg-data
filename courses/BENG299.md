@@ -86,5 +86,6 @@
 - **084** (Independent Study) (time and location TBA) by Hao, Nan (A11781228)
 - **085** (Independent Study) (time and location TBA) by Carter, Hannah Kathryn (A12509361)
 - **086** (Independent Study) (time and location TBA) by Seibert, Tyler Michael (A07476738)
+- **087** (Independent Study) (time and location TBA) by Willert, Karl Heinrich (A01436663)
 
 [Enrollment numbers over time](./BENG299.tsv)

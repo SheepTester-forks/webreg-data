@@ -38,5 +38,7 @@
 - **036** (Independent Study) (time and location TBA) by Xiong, Wei (A12510472)
 - **037** (Independent Study) (time and location TBA) by Thiemens, Mark H (A01140503)
 - **038** (Independent Study) (time and location TBA) by Schmidt, Valerie A (A14294787)
+- **039** (Independent Study) (time and location TBA) by Slade, Jonathan (A15739535)
+- **040** (Independent Study) (time and location TBA) by Donoghue, Daniel J. (A00646193)
 
 [Enrollment numbers over time](./CHEM199.tsv)

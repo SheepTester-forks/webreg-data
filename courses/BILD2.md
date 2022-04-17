@@ -24,6 +24,7 @@
 - **C05** (Discussion) at 8:00 am–8:50 am on Friday at HSS 1315 by Park, Ji Young (A11766677)
 - **D00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at MOS 0113 by Park, Ji Young (A11766677)
 - **D00** (Final Exam) at 8:00 am–10:59 am on Thursday at MOS 0113 by Park, Ji Young (A11766677)
+- **D00** (Review Sessions) at 6:00 pm–7:50 pm on Friday at PETER 104 by Park, Ji Young (A11766677)
 - **D01** (Discussion) at 5:00 pm–5:50 pm on Monday at WLH 2206 by Park, Ji Young (A11766677)
 - **D02** (Discussion) at 6:00 pm–6:50 pm on Monday at WLH 2206 by Park, Ji Young (A11766677)
 - **D03** (Discussion) at 6:00 pm–6:50 pm on Tuesday at WLH 2115 by Park, Ji Young (A11766677)
