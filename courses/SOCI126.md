@@ -1,0 +1,7 @@
+**SOCI 126**: Social Organization/Education (4 units)
+
+- **A00** (Lecture) at 11:00 am–1:50 pm on Tuesday, Thursday at PETER 103 by staff
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at PETER 103 by staff
+- **A01** (Discussion) (time and location TBA) by staff
+
+[Enrollment numbers over time](./SOCI126.tsv)

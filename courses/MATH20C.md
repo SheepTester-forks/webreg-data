@@ -1,0 +1,16 @@
+**MATH 20C**: Calculus&Analyt Geom/Sci&Engnr (4 units)
+
+- **A00** (Lecture) at 8:00 am–9:50 am on Monday, Wednesday, Friday at RCLAS R02 by Hammock, Frances H (A15758938)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Saturday at RCLAS R02 by Hammock, Frances H (A15758938)
+- **A01** (Discussion) at 8:00 am–8:50 am on Tuesday, Thursday at RCLAS R02 by Hammock, Frances H (A15758938)
+- **A02** (Discussion) at 9:00 am–9:50 am on Tuesday, Thursday at RCLAS R02 by Hammock, Frances H (A15758938)
+- **A03** (Discussion) at 8:00 am–8:50 am on Tuesday, Thursday at RCLAS R07 by Hammock, Frances H (A15758938)
+- **A04** (Discussion) at 9:00 am–9:50 am on Tuesday, Thursday at RCLAS R07 by Hammock, Frances H (A15758938)
+- **B00** (Lecture) at 11:00 am–12:50 pm on Monday, Wednesday, Friday at RCLAS R25 by Hammock, Frances H (A15758938)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Saturday at RCLAS R05 by Hammock, Frances H (A15758938)
+- **B01** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at RCLAS R19 by Hammock, Frances H (A15758938)
+- **B02** (Discussion) at 12:00 pm–12:50 pm on Tuesday, Thursday at RCLAS R16 by Hammock, Frances H (A15758938)
+- **B03** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at RCLAS R18 by Hammock, Frances H (A15758938)
+- **B04** (Discussion) at 12:00 pm–12:50 pm on Tuesday, Thursday at RCLAS R17 by Hammock, Frances H (A15758938)
+
+[Enrollment numbers over time](./MATH20C.tsv)

@@ -1,0 +1,18 @@
+**ANTH 298**: Independent Study (1–4 units, by 1)
+
+- **001** (Tutorial) (time and location TBA) by Kaiser, Bronwyn Nicole (A15755892)
+- **002** (Tutorial) (time and location TBA) by Goldstein, Paul S (A04458694)
+- **003** (Tutorial) (time and location TBA) by Non, Amy L (A13242183)
+- **004** (Tutorial) (time and location TBA) by Levy, Thomas E (A00811165)
+- **005** (Tutorial) (time and location TBA) by Hankins, Joseph D. (A09146606)
+- **006** (Tutorial) (time and location TBA) by Pedersen, David (A06893538)
+- **007** (Tutorial) (time and location TBA) by Postero, Nancy Grey (A04458681)
+- **008** (Tutorial) (time and location TBA) by Braswell, Geoffrey E. (A05738532)
+- **009** (Tutorial) (time and location TBA) by Rivera-Collazo, Isabel C (A14294748)
+- **010** (Tutorial) (time and location TBA) by Fox, Patrick Keolu Ozer (A16182375)
+- **011** (Tutorial) (time and location TBA) by Varma, Saiba (A13242490)
+- **012** (Tutorial) (time and location TBA) by Marchetto, Maria Carolina (A15757992)
+- **013** (Tutorial) (time and location TBA) by Semendeferi, Ekaterini (A02346892)
+- **014** (Tutorial) (time and location TBA) by Yeh, Rihan Wen Xin (A16181841)
+
+[Enrollment numbers over time](./ANTH298.tsv)

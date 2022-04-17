@@ -1,0 +1,41 @@
+**AWP 10**: Lang&Learning in American Acad (4 units)
+
+- **001** (Seminar) at 3:00 pm–5:50 pm on Tuesday, Thursday at RWAC 0540 by staff
+- **002** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R26 by staff
+- **003** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R12 by staff
+- **004** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R13 by staff
+- **005** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R14 by staff
+- **006** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R15 by staff
+- **007** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at CENTR 204 by staff
+- **008** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at CENTR 206 by staff
+- **009** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at MANDE B-152 by staff
+- **010** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at MANDE B-153 by staff
+- **011** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R22 by staff
+- **012** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R23 by staff
+- **013** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R12 by staff
+- **014** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R20 by staff
+- **015** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at CENTR 204 by staff
+- **016** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at CENTR 206 by staff
+- **017** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at MANDE B-152 by staff
+- **018** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at MANDE B-153 by staff
+- **019** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R12 by staff
+- **020** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R13 by staff
+- **021** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R14 by staff
+- **022** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R15 by staff
+- **023** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R16 by staff
+- **024** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R17 by staff
+- **025** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at CENTR 204 by staff
+- **026** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at CENTR 206 by staff
+- **027** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at MANDE B-152 by staff
+- **028** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R27 by staff
+- **029** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R28 by staff
+- **030** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R29 by staff
+- **031** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R30 by staff
+- **032** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R31 by staff
+- **033** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R32 by staff
+- **034** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at CENTR 204 by staff
+- **035** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at CENTR 206 by staff
+- **A00** (Seminar) (time and location TBA) by staff
+- **B00** (Seminar) (time and location TBA) by staff
+
+[Enrollment numbers over time](./AWP10.tsv)
