@@ -1,14 +1,19 @@
 **MATH 3C**: Precalculus (4 units)
 
-- **A00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at RCLAS R04 by Carter, Anne Toulson (A13282451)
-- **A00** (Final Exam) at 8:00 am–10:59 am on Friday at MOS 0204 by Carter, Anne Toulson (A13282451)
-- **A01** (Discussion) at 2:00 pm–2:50 pm on Tuesday at CENTR 217A by Carter, Anne Toulson (A13282451)
-- **A02** (Discussion) at 3:00 pm–3:50 pm on Tuesday at CENTR 217A by Carter, Anne Toulson (A13282451)
-- **A03** (Discussion) at 4:00 pm–4:50 pm on Tuesday at SOLIS 110 by Carter, Anne Toulson (A13282451)
-- **A04** (Discussion) at 5:00 pm–5:50 pm on Tuesday at SOLIS 110 by Carter, Anne Toulson (A13282451)
-- **A50** (Tutorial) at 2:00 pm–2:50 pm on Thursday at APM 5829 by Carter, Anne Toulson (A13282451)
-- **A51** (Tutorial) at 3:00 pm–3:50 pm on Thursday at APM 5829 by Carter, Anne Toulson (A13282451)
-- **A52** (Tutorial) at 4:00 pm–4:50 pm on Thursday at APM 5829 by Carter, Anne Toulson (A13282451)
-- **A53** (Tutorial) at 5:00 pm–5:50 pm on Thursday at APM 5829 by Carter, Anne Toulson (A13282451)
+- **A00** (Lecture) at 9:00 am–10:40 am on Monday, Tuesday, Wednesday at   by staff
+- **A00** (Final Exam) at 8:00 am–10:59 am on Friday at   by staff
+- **A01** (Discussion) at 9:00 am–10:40 am on Thursday at APM B402A by staff
+- **A02** (Discussion) at 9:00 am–10:40 am on Thursday at APM 2402 by staff
+- **A50** (Tutorial) (time and location TBA) by staff
+- **B00** (Lecture) at 9:00 am–10:40 am on Monday, Tuesday, Wednesday at RCLAS R112 by staff
+- **B00** (Final Exam) at 8:00 am–10:59 am on Friday at RCLAS R113 by staff
+- **B01** (Discussion) at 9:00 am–10:40 am on Thursday at RCLAS R109 by staff
+- **B02** (Discussion) at 9:00 am–10:40 am on Thursday at RCLAS R112 by staff
+- **B50** (Tutorial) (time and location TBA) by staff
+- **C00** (Lecture) at 2:00 pm–3:40 pm on Monday, Tuesday, Wednesday at RCLAS R115 by staff
+- **C00** (Final Exam) at 11:30 am–2:29 pm on Friday at RCLAS R116 by staff
+- **C01** (Discussion) at 2:00 pm–3:40 pm on Thursday at RCLAS R115 by staff
+- **C02** (Discussion) at 2:00 pm–3:40 pm on Thursday at RCLAS R116 by staff
+- **C50** (Tutorial) (time and location TBA) by staff
 
 [Enrollment numbers over time](./MATH3C.tsv)

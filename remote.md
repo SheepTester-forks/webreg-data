@@ -6,9 +6,6 @@
 [**CLRE 236**](./courses/CLRE236.md): TranslationalResrchFundamntals
 - A00
 
-[**CLRE 239**](./courses/CLRE239.md): Applied Translational ResrchII
-- A00
-
 [**CLRE 251**](./courses/CLRE251.md): Epidemiology I
 - A00
 
@@ -17,6 +14,9 @@
 - B00
 
 [**EDS 115**](./courses/EDS115.md): Cog Development & Education
+- A00
+
+[**EDS 125**](./courses/EDS125.md): Hist,Polic&Theory/Bilingual Ed
 - A00
 
 [**EDS 206**](./courses/EDS206.md): Teaching Perf Assessment Portf
@@ -32,12 +32,30 @@
 [**LISP 5C**](./courses/LISP5C.md): Fundamentals of Spanish
 - A00
 
+[**MATH 2**](./courses/MATH2.md): Intro to College Mathematics
+- B01
+
+[**MATH 3C**](./courses/MATH3C.md): Precalculus
+- B01
+- B02
+- C01
+- C02
+
+[**MCWP 40R**](./courses/MCWP40R.md): Critical Writing
+- A00
+- B00
+
 [**MCWP 50R**](./courses/MCWP50R.md): Critical Writing
 - A00
 - B00
 - C00
 - D00
 - E00
+- F00
+- G00
+
+[**MCWP 125R**](./courses/MCWP125R.md): Argument and Analysis
+- A00
 
 [**MGT 451**](./courses/MGT451.md): Technology-Innovation Strategy
 - A00
