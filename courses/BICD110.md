@@ -5,5 +5,7 @@
 - **A01** (Discussion) at 8:00 am–8:50 am on Tuesday, Thursday at RCLAS R08 by staff
 - **A02** (Discussion) at 9:00 am–9:50 am on Tuesday, Thursday at RCLAS R09 by staff
 - **A03** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at RCLAS R03 by staff
+- **A04** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at RCLAS R113 by staff
+- **A05** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at RCLAS R102 by staff
 
 [Enrollment numbers over time](./BICD110.tsv)

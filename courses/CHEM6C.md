@@ -5,5 +5,6 @@
 - **A00** (Midterm) at 2:30 pm–4:20 pm on Friday at RCLAS R01 by Hamaoka, Brent Y (A11071877)
 - **A00** (Midterm) at 2:30 pm–4:20 pm on Friday at RCLAS R01 by Hamaoka, Brent Y (A11071877)
 - **A01** (Discussion) at 12:30 pm–2:20 pm on Friday at RCLAS R01 by Hamaoka, Brent Y (A11071877)
+- **A02** (Discussion) at 12:30 pm–2:20 pm on Friday at RCLAS R15 by Hamaoka, Brent Y (A11071877)
 
 [Enrollment numbers over time](./CHEM6C.tsv)

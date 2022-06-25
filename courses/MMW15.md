@@ -10,10 +10,10 @@
 - **B02** (Discussion) (time and location TBA) by Chang, Edmond Yi-Teh (A01578017)
 - **B03** (Discussion) (time and location TBA) by Chang, Edmond Yi-Teh (A01578017)
 - **B04** (Discussion) (time and location TBA) by Chang, Edmond Yi-Teh (A01578017)
-- **C00** (Lecture) (time and location TBA) by staff
-- **C01** (Discussion) (time and location TBA) by staff
-- **C02** (Discussion) (time and location TBA) by staff
-- **C03** (Discussion) (time and location TBA) by staff
-- **C04** (Discussion) (time and location TBA) by staff
+- **C00** (Lecture) (time and location TBA) by Gray, Taylor Erin (A53068318)
+- **C01** (Discussion) (time and location TBA) by Gray, Taylor Erin (A53068318)
+- **C02** (Discussion) (time and location TBA) by Gray, Taylor Erin (A53068318)
+- **C03** (Discussion) (time and location TBA) by Gray, Taylor Erin (A53068318)
+- **C04** (Discussion) (time and location TBA) by Gray, Taylor Erin (A53068318)
 
 [Enrollment numbers over time](./MMW15.tsv)

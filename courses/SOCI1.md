@@ -7,5 +7,6 @@
 - **A03** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at RCLAS R100 by Thorpe, Charles Robert (A01775164)
 - **A04** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at RCLAS R03 by Thorpe, Charles Robert (A01775164)
 - **A05** (Discussion) at 4:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R03 by Thorpe, Charles Robert (A01775164)
+- **A06** (Discussion) at 8:00 am–8:50 am on Tuesday, Thursday at RCLAS R09 by Thorpe, Charles Robert (A01775164)
 
 [Enrollment numbers over time](./SOCI1.tsv)

@@ -1,40 +1,40 @@
 **AWP 10**: Lang&Learning in American Acad (4 units)
 
-- **001** (Seminar) at 3:00 pm–5:50 pm on Tuesday, Thursday at RWAC 0540 by staff
-- **002** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R26 by staff
-- **003** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R12 by staff
-- **004** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R13 by staff
-- **005** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R14 by staff
-- **006** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R15 by staff
-- **007** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at CENTR 204 by staff
-- **008** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at CENTR 206 by staff
-- **009** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at MANDE B-152 by staff
-- **010** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at MANDE B-153 by staff
-- **011** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R22 by staff
-- **012** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R23 by staff
-- **013** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R12 by staff
-- **014** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R20 by staff
-- **015** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at CENTR 204 by staff
-- **016** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at CENTR 206 by staff
-- **017** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at MANDE B-152 by staff
-- **018** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at MANDE B-153 by staff
-- **019** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R12 by staff
-- **020** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R13 by staff
-- **021** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R14 by staff
-- **022** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R15 by staff
-- **023** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R16 by staff
-- **024** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R17 by staff
-- **025** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at CENTR 204 by staff
-- **026** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at CENTR 206 by staff
-- **027** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at MANDE B-152 by staff
-- **028** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R27 by staff
-- **029** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R28 by staff
-- **030** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R29 by staff
-- **031** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R30 by staff
-- **032** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R31 by staff
-- **033** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R32 by staff
-- **034** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at CENTR 204 by staff
-- **035** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at CENTR 206 by staff
+- **001** (Seminar) at 3:00 pm–5:50 pm on Tuesday, Thursday at RWAC 0540 by Jones, William Jadie (A53089100)
+- **002** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R26 by Jones, William Jadie (A53089100)
+- **003** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R12 by Haugh, Megan Nicole (A53076200)
+- **004** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R13 by Falcon, Jennifer A (A15746629)
+- **005** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at RCLAS R14 by Bolin, Jillian (A53054252)
+- **006** (Seminar) (time and location TBA) by staff
+- **007** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at CENTR 204 by Setoda, Kayleigh Kumiko (A53043671)
+- **008** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at CENTR 206 by Chandler, Bailee Daniele (A50055144)
+- **009** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at MANDE B-152 by Kilfoil, Carrie Byars (A16713539)
+- **010** (Seminar) at 8:00 am–10:50 am on Monday, Wednesday at MANDE B-153 by Khoury, Celine Joana (A09779613)
+- **011** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R22 by Haugh, Megan Nicole (A53076200)
+- **012** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R23 by Falcon, Jennifer A (A15746629)
+- **013** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R12 by Bolin, Jillian (A53054252)
+- **014** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at RCLAS R20 by Gonzales, Paulina Margarita (A50054650)
+- **015** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at CENTR 204 by Setoda, Kayleigh Kumiko (A53043671)
+- **016** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at CENTR 206 by Chandler, Bailee Daniele (A50055144)
+- **017** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at MANDE B-152 by Kilfoil, Carrie Byars (A16713539)
+- **018** (Seminar) at 2:00 pm–4:50 pm on Monday, Wednesday at MANDE B-153 by Christie, Veronica Ann (A14330007)
+- **019** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R12 by Wilson, Natalie Ann (A53045049)
+- **020** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R13 by Kolodezh, Samuel (A11781678)
+- **021** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R14 by Eastin, Schuyler E. (A15755803)
+- **022** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R15 by Gocsik, Karen Marie (A11779729)
+- **023** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R16 by Tiernan, Christa Michelle (A02924516)
+- **024** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R17 by Bell, Katrina Marie (A17248087)
+- **025** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at CENTR 204 by Given, William Allan (A01515982)
+- **026** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at RCLAS R115 by staff
+- **027** (Seminar) at 8:00 am–10:50 am on Tuesday, Thursday at MANDE B-152 by Heiser, Jerrod A (A16184711)
+- **028** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R27 by Wilson, Natalie Ann (A53045049)
+- **029** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R28 by Kolodezh, Samuel (A11781678)
+- **030** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R29 by Eastin, Schuyler E. (A15755803)
+- **031** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R30 by Gonzales, Paulina Margarita (A50054650)
+- **032** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R31 by West, Geoffrey Scott (A53026654)
+- **033** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R32 by Vaughn, Kelsey Sara (A15756427)
+- **034** (Seminar) at 2:00 pm–4:50 pm on Tuesday, Thursday at CENTR 204 by Given, William Allan (A01515982)
+- **035** (Seminar) (time and location TBA) by staff
 - **A00** (Seminar) (time and location TBA) by staff
 - **B00** (Seminar) (time and location TBA) by staff
 

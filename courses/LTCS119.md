@@ -1,5 +1,5 @@
 **LTCS 119**: Asian American Film and Media (4 units)
 
-- **A00** (Lecture) at 2:00 pm–4:50 pm on Monday, Wednesday at SOLIS 109 by staff
+- **A00** (Lecture) at 2:00 pm–4:50 pm on Monday, Wednesday at SOLIS 109 by Beardsley, Steven Thomas (A53262223)
 
 [Enrollment numbers over time](./LTCS119.tsv)
