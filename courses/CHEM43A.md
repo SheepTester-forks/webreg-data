@@ -5,6 +5,6 @@
 - **A01** (Lab) at 8:00 am–10:50 am on Monday, Tuesday, Wednesday, Thursday at YORK 3108 by Weizman, Haim (A03200705)
 - **A02** (Lab) at 8:00 am–10:50 am on Monday, Tuesday, Wednesday, Thursday at YORK 3208 by Weizman, Haim (A03200705)
 - **A03** (Lab) at 8:00 am–10:50 am on Monday, Tuesday, Wednesday, Thursday at YORK 3224 by Weizman, Haim (A03200705)
-- **A04** (Lab) at 8:00 am–10:50 am on Monday, Tuesday, Wednesday, Thursday at YORK 4108 by Weizman, Haim (A03200705)
+- **A04** (Lab) at 8:00 am–10:50 am on Monday, Tuesday, Wednesday, Thursday at YORK 4208 by Weizman, Haim (A03200705)
 
 [Enrollment numbers over time](./CHEM43A.tsv)

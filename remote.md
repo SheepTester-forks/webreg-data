@@ -1,5 +1,8 @@
 ## Remote sections
 
+[**ANAR 144**](./courses/ANAR144.md): Pharaohs,Mummies,Pyramds:Egypt
+- A00
+
 [**ANBI 134**](./courses/ANBI134.md): Human Evolutionary Genetics
 - A00
 
@@ -40,6 +43,7 @@
 - A03
 - A04
 - A05
+- A06
 
 [**BILD 2**](./courses/BILD2.md): Multicellular Life
 - A01
@@ -63,6 +67,8 @@
 - A01
 - A02
 - A03
+- A04
+- A05
 
 [**BIMM 120**](./courses/BIMM120.md): Microbiology
 - A01
@@ -106,6 +112,9 @@
 [**CGS 2A**](./courses/CGS2A.md): Intro/CGS: Key Terms, Concepts
 - A01
 
+[**CGS 113**](./courses/CGS113.md): Gender & Sexuality in the Arts
+- A00
+
 [**CGS 114**](./courses/CGS114.md): Gender,Race,Ethnicity & Class
 - A00
 
@@ -128,6 +137,12 @@
 - A01
 
 [**COGS 17**](./courses/COGS17.md): Neurobiology of Cognition
+- A01
+
+[**COGS 100**](./courses/COGS100.md): Cyborgs Now and in the Future
+- A01
+
+[**COGS 101B**](./courses/COGS101B.md): Learning, Memory and Attention
 - A01
 
 [**COGS 118A**](./courses/COGS118A.md): Supvr/Mach Learning Algorithms
@@ -160,6 +175,9 @@
 [**CSS 1**](./courses/CSS1.md): Prog Computational Social Sci
 - A01
 
+[**DSGN 100**](./courses/DSGN100.md): Prototyping
+- A01
+
 [**ECE 45**](./courses/ECE45.md): Circuits and Systems
 - A01
 
@@ -172,8 +190,10 @@
 
 [**ECON 110B**](./courses/ECON110B.md): Short Run Macroeconomics
 - A01
+- A02
 
 [**ECON 120A**](./courses/ECON120A.md): Econometrics A
+- A01
 - B01
 
 [**ECON 120C**](./courses/ECON120C.md): Econometrics C
@@ -181,6 +201,7 @@
 
 [**ECON 171**](./courses/ECON171.md): Decisions Under Uncertainty
 - A01
+- A02
 
 [**ECON 178**](./courses/ECON178.md): Economic&Business Forecasting
 - A01
@@ -224,6 +245,9 @@
 [**HIEU 148**](./courses/HIEU148.md): Europe and the World II
 - A00
 
+[**HIGL 127**](./courses/HIGL127.md): Sport in the Modern World
+- A00
+
 [**HILD 2C**](./courses/HILD2C.md): United States History
 - A01
 
@@ -248,6 +272,7 @@
 [**LATI 50**](./courses/LATI50.md): Introduction to Latin America
 - A01
 - A02
+- A03
 
 [**LIFR 1A**](./courses/LIFR1A.md): French Conversation
 - A00
@@ -256,10 +281,10 @@
 - A00
 
 [**LIFR 1B**](./courses/LIFR1B.md): French Conversation
-- A00
+- B00
 
 [**LIFR 1BX**](./courses/LIFR1BX.md): Analysis of French
-- A00
+- B00
 
 [**LISP 1D**](./courses/LISP1D.md): Spanish Conversation
 - B00
@@ -288,45 +313,67 @@
 [**LTFR 141**](./courses/LTFR141.md): Topics/Literatures in French
 - A00
 
+[**LTWR 106**](./courses/LTWR106.md): Sci Fiction,Fantasy,Irrealism
+- A00
+
 [**LTWR 126**](./courses/LTWR126.md): Creative Nonfiction Workshop
+- A00
+
+[**MAE 20**](./courses/MAE20.md): Elements of Materials Science
+- A00
+- A00
+
+[**MAE 104**](./courses/MAE104.md): Aerodynamics
+- A00
 - A00
 
 [**MATH 10B**](./courses/MATH10B.md): Calculus II
 - A01
 - A02
+- A03
 
 [**MATH 18**](./courses/MATH18.md): Linear Algebra
 - B01
 - B02
 - B03
 - B04
+- B05
+- B06
 
 [**MATH 20B**](./courses/MATH20B.md): Calculus/Science & Engineering
 - A01
 - A02
+- A03
 
 [**MATH 20C**](./courses/MATH20C.md): Calculus&Analyt Geom/Sci&Engnr
 - A01
 - A02
+- A03
 
 [**MATH 105**](./courses/MATH105.md): Basic Number Theory
 - A01
+- A02
 
 [**MATH 109**](./courses/MATH109.md): Mathematical Reasoning
 - A01
 - A02
+- A03
 - B01
 - B02
+- B03
 
 [**MATH 142A**](./courses/MATH142A.md): Introduction to Analysis I
 - A01
 - A02
-- B01
-- B02
+- A03
+- B03
+- B04
+- B05
 
 [**MATH 193A**](./courses/MATH193A.md): Actuarial Mathematics I
 - A01
 - A02
+- A05
 
 [**MGT 103**](./courses/MGT103.md): Product Marketing & Management
 - A00
@@ -337,7 +384,13 @@
 [**MGT 135**](./courses/MGT135.md): Federal Taxation-Companies
 - A00
 
+[**MGT 153**](./courses/MGT153.md): Business Analytics
+- A00
+
 [**MGT 172**](./courses/MGT172.md): Business Project Management
+- A00
+
+[**MGT 181**](./courses/MGT181.md): Enterprise Finance
 - A00
 
 [**MUS 1A**](./courses/MUS1A.md): Fundamentals of Music A
@@ -358,6 +411,9 @@
 [**MUS 15**](./courses/MUS15.md): Popular Music
 - B01
 
+[**MUS 80**](./courses/MUS80.md): Special Topics in Music
+- A00
+
 [**PHIL 1**](./courses/PHIL1.md): Introduction to Philosophy
 - A00
 
@@ -372,9 +428,6 @@
 [**PHIL 32**](./courses/PHIL32.md): Philosphy & Rise of Modern Sci
 - A01
 - A02
-
-[**PHIL 132**](./courses/PHIL132.md): Epistemology
-- A00
 
 [**PHIL 137**](./courses/PHIL137.md): Moral Psychology
 - A00
@@ -401,6 +454,9 @@
 - A00
 
 [**POLI 117R**](./courses/POLI117R.md): Bending/Curve: Climate Change
+- A00
+
+[**POLI 125B**](./courses/POLI125B.md): Politics of Food/Global Econ.
 - A00
 
 [**POLI 125E**](./courses/POLI125E.md): Pol/Conservation/DevCountries
@@ -439,6 +495,10 @@
 [**RELI 149**](./courses/RELI149.md): Islam in America
 - A00
 
+[**SE 110A**](./courses/SE110A.md): Solid Mechanics I
+- A00
+- A00
+
 [**SIO 109R**](./courses/SIO109R.md): Bending/Curve: Climate Change
 - A00
 
@@ -471,6 +531,9 @@
 - A00
 
 [**SOCI 132**](./courses/SOCI132.md): Gender and Work
+- A00
+
+[**SOCI 135**](./courses/SOCI135.md): Medical Sociology
 - A00
 
 [**SOCI 151**](./courses/SOCI151.md): Social Movements
@@ -511,10 +574,16 @@
 [**TDHT 114**](./courses/TDHT114.md): American Musical Theatre
 - A00
 
+[**USP 1**](./courses/USP1.md): History/US Urban Communities
+- A01
+
 [**USP 168**](./courses/USP168.md): History of Los Angeles
 - A00
 
 [**USP 173**](./courses/USP173.md): History/Urban Planning&Design
+- A00
+
+[**VIS 149**](./courses/VIS149.md): Contemporary Computer Topics
 - A00
 
 [**WCWP 100**](./courses/WCWP100.md): Academic Writing

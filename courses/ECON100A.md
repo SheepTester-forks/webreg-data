@@ -4,5 +4,6 @@
 - **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at CENTR 216 by Famulari, Melissa (A06336433)
 - **A01** (Discussion) at 9:00 am–10:50 am on Friday at MANDE B-104 by Famulari, Melissa (A06336433)
 - **A02** (Discussion) at 11:00 am–12:50 pm on Friday at MANDE B-104 by Famulari, Melissa (A06336433)
+- **A03** (Discussion) at 1:00 pm–2:50 pm on Friday at MANDE B-104 by Famulari, Melissa (A06336433)
 
 [Enrollment numbers over time](./ECON100A.tsv)

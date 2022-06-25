@@ -1,18 +1,20 @@
 **MATH 18**: Linear Algebra (4 units)
 
-- **A00** (Lecture) at 8:00 am–9:20 am on Monday, Tuesday, Wednesday, Thursday at CENTR 214 by staff
-- **A00** (Final Exam) at 8:00 am–10:59 am on Friday at CENTR 214 by staff
-- **A01** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at APM 2301 by staff
-- **A02** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at APM 2301 by staff
-- **A03** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at SEQUO 148 by staff
-- **A04** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at SEQUO 148 by staff
-- **A50** (Lab) (time and location TBA) by staff
-- **B00** (Lecture) at 12:30 pm–1:50 pm on Monday, Tuesday, Wednesday, Thursday at RCLAS R100 by staff
-- **B00** (Final Exam) at 11:30 am–2:29 pm on Friday at RCLAS R03 by staff
-- **B01** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at RCLAS R05 by staff
-- **B02** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at RCLAS R05 by staff
-- **B03** (Discussion) at 4:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R05 by staff
-- **B04** (Discussion) at 5:00 pm–5:50 pm on Tuesday, Thursday at RCLAS R100 by staff
-- **B50** (Lab) (time and location TBA) by staff
+- **A00** (Lecture) at 8:00 am–9:20 am on Monday, Tuesday, Wednesday, Thursday at CENTR 214 by Cinel, Cameron Alexander (A53311675)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Friday at CENTR 214 by Cinel, Cameron Alexander (A53311675)
+- **A01** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at APM 2301 by Cinel, Cameron Alexander (A53311675)
+- **A02** (Discussion) at 11:00 am–11:50 am on Tuesday, Thursday at APM 2301 by Cinel, Cameron Alexander (A53311675)
+- **A03** (Discussion) at 10:00 am–10:50 am on Tuesday, Thursday at SEQUO 148 by Cinel, Cameron Alexander (A53311675)
+- **A04** (Discussion) (time and location TBA) by staff
+- **A50** (Lab) (time and location TBA) by Cinel, Cameron Alexander (A53311675)
+- **B00** (Lecture) at 12:30 pm–1:50 pm on Monday, Tuesday, Wednesday, Thursday at RCLAS R100 by Rideout, David Porter (A10017914)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Friday at RCLAS R03 by Rideout, David Porter (A10017914)
+- **B01** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at RCLAS R05 by Rideout, David Porter (A10017914)
+- **B02** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at RCLAS R05 by Rideout, David Porter (A10017914)
+- **B03** (Discussion) at 4:00 pm–4:50 pm on Tuesday, Thursday at RCLAS R05 by Rideout, David Porter (A10017914)
+- **B04** (Discussion) at 5:00 pm–5:50 pm on Tuesday, Thursday at RCLAS R100 by Rideout, David Porter (A10017914)
+- **B05** (Discussion) at 2:00 pm–2:50 pm on Tuesday, Thursday at RCLAS R151 by Rideout, David Porter (A10017914)
+- **B06** (Discussion) at 3:00 pm–3:50 pm on Tuesday, Thursday at RCLAS R150 by Rideout, David Porter (A10017914)
+- **B50** (Lab) (time and location TBA) by Rideout, David Porter (A10017914)
 
 [Enrollment numbers over time](./MATH18.tsv)

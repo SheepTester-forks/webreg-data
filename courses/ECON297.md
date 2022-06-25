@@ -1,17 +1,5 @@
 **ECON 297**: Independent Study (1–5 units, by 1)
 
-- **001** (Independent Study) (time and location TBA) by Boomhower, Judson P (A15367057)
-- **002** (Independent Study) (time and location TBA) by Vogl, Tom Saul (A16181588)
-- **003** (Independent Study) (time and location TBA) by Vogl, Tom Saul (A16181588)
-- **004** (Independent Study) (time and location TBA) by Cullen, Julie (A06311057)
-- **005** (Independent Study) (time and location TBA) by Fadlon, Yizhak (A14295205)
-- **006** (Independent Study) (time and location TBA) by Vespa, Emanuel Ignacio (A16710839)
-- **007** (Independent Study) (time and location TBA) by Andreoni, James (A07470657)
-- **008** (Independent Study) (time and location TBA) by Dahl, Gordon B. (A08069359)
-- **009** (Independent Study) (time and location TBA) by Wuthrich, Kaspar (A14301481)
-- **010** (Independent Study) (time and location TBA) by Sobel, Joel (A00834880)
-- **011** (Independent Study) (time and location TBA) by Engelberg, Joseph Edward (A02704903)
-- **012** (Independent Study) (time and location TBA) by Khanna, Gaurav (A15366611)
-- **013** (Independent Study) (time and location TBA) by Galperti, Simone (A11779613)
+- **001** (Independent Study) (time and location TBA) by Ramey, Valerie A (A01664976)
 
 [Enrollment numbers over time](./ECON297.tsv)

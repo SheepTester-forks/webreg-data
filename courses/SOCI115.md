@@ -1,6 +1,6 @@
 **SOCI 115**: Social Problems (4 units)
 
-- **A00** (Lecture) at 2:00 pm–4:50 pm on Tuesday, Thursday at CENTR 217A by staff
-- **A00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at CENTR 217A by staff
+- **A00** (Lecture) at 2:00 pm–4:50 pm on Tuesday, Thursday at CENTR 217A by Harper, Heather Marie (A53066728)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at CENTR 217A by Harper, Heather Marie (A53066728)
 
 [Enrollment numbers over time](./SOCI115.tsv)
