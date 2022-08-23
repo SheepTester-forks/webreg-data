@@ -1,0 +1,16 @@
+**MAE 2**: Intro to Aerospace Engineering (4 units)
+
+- **A00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at PCYNH 106 by Anderson, Mark Ronald (A09154268)
+- **A00** (Lecture) at 5:00 pm–5:50 pm on Monday at PCYNH 106 by Anderson, Mark Ronald (A09154268)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Monday at PCYNH 106 by Anderson, Mark Ronald (A09154268)
+- **A01** (Lab) at 9:00 am–10:50 am on Monday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+- **A02** (Lab) at 9:30 am–11:20 am on Tuesday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+- **A03** (Lab) at 12:30 pm–2:20 pm on Tuesday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+- **A04** (Lab) at 3:30 pm–5:20 pm on Tuesday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+- **A05** (Lab) at 9:00 am–10:50 am on Wednesday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+- **A06** (Lab) at 9:30 am–11:20 am on Thursday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+- **A07** (Lab) at 12:30 pm–2:20 pm on Thursday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+- **A08** (Lab) at 3:30 pm–5:20 pm on Thursday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+- **A09** (Lab) at 9:00 am–10:50 am on Friday at EBU2 333 by Anderson, Mark Ronald (A09154268)
+
+[Enrollment numbers over time](./MAE2.tsv)

@@ -1,0 +1,15 @@
+**ANTH 295**: Master's Thesis Preparation (4 units)
+
+- **001** (Tutorial) (time and location TBA) by Yeh, Rihan Wen Xin (A16181841)
+- **002** (Tutorial) (time and location TBA) by Rivera-Collazo, Isabel C (A14294748)
+- **003** (Tutorial) (time and location TBA) by Kaiser, Bronwyn Nicole (A15755892)
+- **004** (Tutorial) (time and location TBA) by Fox, Patrick Keolu Ozer (A16182375)
+- **005** (Tutorial) (time and location TBA) by Non, Amy L (A13242183)
+- **006** (Tutorial) (time and location TBA) by Brenner, Suzanne A (A01272929)
+- **007** (Tutorial) (time and location TBA) by D'Alpoim Guedes, Jade A (A14330195)
+- **008** (Tutorial) (time and location TBA) by Varma, Saiba (A13242490)
+- **009** (Tutorial) (time and location TBA) by Levy, Thomas E (A00811165)
+- **010** (Tutorial) (time and location TBA) by Csordas, Thomas J. (A06336061)
+- **011** (Tutorial) (time and location TBA) by Hankins, Joseph D. (A09146606)
+
+[Enrollment numbers over time](./ANTH295.tsv)

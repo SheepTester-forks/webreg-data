@@ -1,0 +1,18 @@
+**LISP 1DX**: Analysis of Spanish (2.5 units)
+
+- **A00** (Discussion) at 8:00 am–9:20 am on Tuesday, Thursday at APM 3402 by Munoz Sanchez, Alicia (A01395510)
+- **A00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at CENTR 101 by Munoz Sanchez, Alicia (A01395510)
+- **B00** (Discussion) at 9:30 am–10:50 am on Tuesday, Thursday at APM 3402 by Munoz Sanchez, Alicia (A01395510)
+- **B00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at   by Munoz Sanchez, Alicia (A01395510)
+- **C00** (Discussion) at 11:00 am–12:20 pm on Tuesday, Thursday at APM 3402 by Munoz Sanchez, Alicia (A01395510)
+- **C00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at   by Munoz Sanchez, Alicia (A01395510)
+- **D00** (Discussion) at 12:30 pm–1:50 pm on Tuesday, Thursday at APM 3402 by Munoz Sanchez, Alicia (A01395510)
+- **D00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at   by Munoz Sanchez, Alicia (A01395510)
+- **E00** (Discussion) at 2:00 pm–3:20 pm on Tuesday, Thursday at APM 3402 by Munoz Sanchez, Alicia (A01395510)
+- **E00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at   by Munoz Sanchez, Alicia (A01395510)
+- **F00** (Discussion) at 3:30 pm–4:50 pm on Tuesday, Thursday at APM 3402 by Munoz Sanchez, Alicia (A01395510)
+- **F00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at   by Munoz Sanchez, Alicia (A01395510)
+- **G00** (Discussion) at 5:00 pm–6:20 pm on Tuesday, Thursday at APM 3402 by Munoz Sanchez, Alicia (A01395510)
+- **G00** (Final Exam) at 7:00 pm–9:59 pm on Saturday at   by Munoz Sanchez, Alicia (A01395510)
+
+[Enrollment numbers over time](./LISP1DX.tsv)

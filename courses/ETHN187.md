@@ -1,0 +1,5 @@
+**ETHN 187**: Latinx Sexualities (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at WLH 2115 by staff
+
+[Enrollment numbers over time](./ETHN187.tsv)

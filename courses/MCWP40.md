@@ -1,0 +1,55 @@
+**MCWP 40**: Critical Writing (4 units)
+
+- **001** (Tutorial) (time and location TBA) by staff
+- **002** (Tutorial) (time and location TBA) by staff
+- **003** (Tutorial) (time and location TBA) by staff
+- **004** (Tutorial) at 12:30 pm–1:50 pm on Monday, Wednesday at HSS 2346A by Wastal, Carrie King (A01946658)
+- **005** (Tutorial) at 2:00 pm–3:20 pm on Monday, Wednesday at HSS 2346A by Wastal, Carrie King (A01946658)
+- **006** (Tutorial) at 3:30 pm–4:50 pm on Monday, Wednesday at HSS 2346A by Wastal, Carrie King (A01946658)
+- **007** (Tutorial) at 5:00 pm–6:20 pm on Monday, Wednesday at HSS 2346A by Wastal, Carrie King (A01946658)
+- **008** (Tutorial) at 8:00 am–9:20 am on Tuesday, Thursday at ASANT 123D by Wastal, Carrie King (A01946658)
+- **009** (Tutorial) at 11:00 am–12:20 pm on Tuesday, Thursday at HSS 2346A by Wastal, Carrie King (A01946658)
+- **010** (Tutorial) (time and location TBA) by staff
+- **011** (Tutorial) (time and location TBA) by staff
+- **012** (Tutorial) (time and location TBA) by staff
+- **013** (Tutorial) at 9:30 am–10:50 am on Monday, Wednesday at ASANT 123D by Wastal, Carrie King (A01946658)
+- **014** (Tutorial) at 11:00 am–12:20 pm on Monday, Wednesday at ASANT 123D by Wastal, Carrie King (A01946658)
+- **015** (Tutorial) at 12:30 pm–1:50 pm on Monday, Wednesday at ASANT 123D by Wastal, Carrie King (A01946658)
+- **016** (Tutorial) at 2:00 pm–3:20 pm on Monday, Wednesday at HSS 2305A by Wastal, Carrie King (A01946658)
+- **017** (Tutorial) at 3:30 pm–4:50 pm on Monday, Wednesday at HSS 2305A by Wastal, Carrie King (A01946658)
+- **018** (Tutorial) at 9:30 am–10:50 am on Tuesday, Thursday at HSS 2346A by Wastal, Carrie King (A01946658)
+- **019** (Tutorial) (time and location TBA) by staff
+- **020** (Tutorial) at 8:00 am–9:20 am on Tuesday, Thursday at HSS 2346A by Wastal, Carrie King (A01946658)
+- **021** (Tutorial) at 11:00 am–12:20 pm on Tuesday, Thursday at HSS 2333B by Wastal, Carrie King (A01946658)
+- **022** (Tutorial) at 12:30 pm–1:50 pm on Tuesday, Thursday at HSS 2333B by Wastal, Carrie King (A01946658)
+- **023** (Tutorial) at 2:00 pm–3:20 pm on Tuesday, Thursday at HSS 2333B by Wastal, Carrie King (A01946658)
+- **024** (Tutorial) at 3:30 pm–4:50 pm on Tuesday, Thursday at HSS 2333B by Wastal, Carrie King (A01946658)
+- **025** (Tutorial) (time and location TBA) by staff
+- **026** (Tutorial) at 6:30 pm–7:50 pm on Monday, Wednesday at HSS 2333B by Wastal, Carrie King (A01946658)
+- **027** (Tutorial) at 8:00 pm–9:20 pm on Monday, Wednesday at HSS 2333B by Wastal, Carrie King (A01946658)
+- **028** (Tutorial) at 2:00 pm–3:20 pm on Monday, Wednesday at YORK 3050A by Wastal, Carrie King (A01946658)
+- **029** (Tutorial) at 3:30 pm–4:50 pm on Monday, Wednesday at YORK 3050A by Wastal, Carrie King (A01946658)
+- **030** (Tutorial) at 5:00 pm–6:20 pm on Monday, Wednesday at YORK 3050A by Wastal, Carrie King (A01946658)
+- **031** (Tutorial) (time and location TBA) by staff
+- **032** (Tutorial) at 9:30 am–10:50 am on Tuesday, Thursday at ASANT 123D by Wastal, Carrie King (A01946658)
+- **033** (Tutorial) at 11:00 am–12:20 pm on Tuesday, Thursday at ASANT 123D by Wastal, Carrie King (A01946658)
+- **034** (Tutorial) at 12:30 pm–1:50 pm on Tuesday, Thursday at MANDE B-146 by Wastal, Carrie King (A01946658)
+- **035** (Tutorial) at 2:00 pm–3:20 pm on Tuesday, Thursday at HSS 2333A by Wastal, Carrie King (A01946658)
+- **036** (Tutorial) (time and location TBA) by staff
+- **037** (Tutorial) (time and location TBA) by staff
+- **038** (Tutorial) at 9:30 am–10:50 am on Tuesday, Thursday at YORK 3050A by Wastal, Carrie King (A01946658)
+- **039** (Tutorial) at 11:00 am–12:20 pm on Tuesday, Thursday at MCGIL 2315 by Wastal, Carrie King (A01946658)
+- **040** (Tutorial) (time and location TBA) by staff
+- **041** (Tutorial) at 2:00 pm–3:20 pm on Tuesday, Thursday at YORK 4060A by Wastal, Carrie King (A01946658)
+- **042** (Tutorial) at 3:30 pm–4:50 pm on Tuesday, Thursday at YORK 4060A by Wastal, Carrie King (A01946658)
+- **043** (Tutorial) at 12:30 pm–1:50 pm on Tuesday, Thursday at ASANT 123D by Wastal, Carrie King (A01946658)
+- **044** (Tutorial) (time and location TBA) by staff
+- **045** (Tutorial) (time and location TBA) by staff
+- **046** (Tutorial) (time and location TBA) by staff
+- **047** (Tutorial) (time and location TBA) by staff
+- **048** (Tutorial) (time and location TBA) by staff
+- **049** (Tutorial) at 2:00 pm–3:20 pm on Monday, Wednesday at HSS 2305B by Wastal, Carrie King (A01946658)
+- **050** (Tutorial) at 3:30 pm–4:50 pm on Monday, Wednesday at HSS 2305B by Wastal, Carrie King (A01946658)
+- **051** (Tutorial) at 5:00 pm–6:20 pm on Monday, Wednesday at HSS 2305B by Wastal, Carrie King (A01946658)
+
+[Enrollment numbers over time](./MCWP40.tsv)

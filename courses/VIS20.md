@@ -1,0 +1,18 @@
+**VIS 20**: Intro to Art in Europe/America (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at PETER 108 by Woods, Ann (A05141426)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Thursday at PETER 108 by Woods, Ann (A05141426)
+- **A01** (Discussion) at 8:00 am–8:50 am on Monday at MANDE B111E by Woods, Ann (A05141426)
+- **A02** (Discussion) at 9:00 am–9:50 am on Monday at MANDE B111E by Woods, Ann (A05141426)
+- **A03** (Discussion) at 10:00 am–10:50 am on Monday at MANDE B111E by Woods, Ann (A05141426)
+- **A04** (Discussion) at 11:00 am–11:50 am on Monday at MANDE B111E by Woods, Ann (A05141426)
+- **A05** (Discussion) at 8:00 am–8:50 am on Wednesday at MANDE B111E by Woods, Ann (A05141426)
+- **A06** (Discussion) at 9:00 am–9:50 am on Wednesday at MANDE B111E by Woods, Ann (A05141426)
+- **A07** (Discussion) at 10:00 am–10:50 am on Wednesday at MANDE B111E by Woods, Ann (A05141426)
+- **A08** (Discussion) at 11:00 am–11:50 am on Wednesday at MANDE B111E by Woods, Ann (A05141426)
+- **A09** (Discussion) at 3:30 pm–4:20 pm on Tuesday at MANDE B111E by Woods, Ann (A05141426)
+- **A10** (Discussion) at 4:30 pm–5:20 pm on Tuesday at MANDE B111E by Woods, Ann (A05141426)
+- **A11** (Discussion) at 3:30 pm–4:20 pm on Thursday at MANDE B111E by Woods, Ann (A05141426)
+- **A12** (Discussion) at 4:30 pm–5:20 pm on Thursday at MANDE B111E by Woods, Ann (A05141426)
+
+[Enrollment numbers over time](./VIS20.tsv)

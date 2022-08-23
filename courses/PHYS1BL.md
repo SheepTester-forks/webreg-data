@@ -1,0 +1,16 @@
+**PHYS 1BL**: Electricity & Magnetism Lab (2 units)
+
+- **001** (Lab) at 8:00 am–9:50 am on Tuesday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **002** (Lab) at 10:00 am–11:50 am on Tuesday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **003** (Lab) at 12:00 pm–1:50 pm on Tuesday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **004** (Lab) at 8:00 am–9:50 am on Wednesday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **005** (Lab) at 10:00 am–11:50 am on Wednesday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **006** (Lab) at 12:00 pm–1:50 pm on Wednesday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **007** (Lab) at 8:00 am–9:50 am on Thursday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **008** (Lab) at 10:00 am–11:50 am on Thursday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **009** (Lab) at 12:00 pm–1:50 pm on Thursday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **010** (Lab) at 8:00 am–9:50 am on Friday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **011** (Lab) at 10:00 am–11:50 am on Friday at MAYER 2130 by Tsai, Philbert S (A00487028)
+- **012** (Lab) at 12:00 pm–1:50 pm on Friday at MAYER 2130 by Tsai, Philbert S (A00487028)
+
+[Enrollment numbers over time](./PHYS1BL.tsv)

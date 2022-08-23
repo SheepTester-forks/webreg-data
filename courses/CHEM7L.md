@@ -1,0 +1,53 @@
+**CHEM 7L**: General Chemistry Laboratory (4 units)
+
+- **A00** (Lecture) at 9:00 am–9:50 am on Monday, Wednesday at MOS 0114 by Leigh, Brian (A10440810)
+- **A00** (Midterm) at 8:00 pm–9:50 pm on Wednesday at PETER 108 by Leigh, Brian (A10440810)
+- **A00** (Midterm) at 8:00 pm–9:50 pm on Wednesday at PETER 108 by Leigh, Brian (A10440810)
+- **A01** (Lab) at 11:00 am–1:50 pm on Monday, Wednesday at YORK 2108 by Leigh, Brian (A10440810)
+- **A02** (Lab) at 11:00 am–1:50 pm on Monday, Wednesday at YORK 2124 by Leigh, Brian (A10440810)
+- **A03** (Lab) at 11:00 am–1:50 pm on Monday, Wednesday at YORK 2142 by Leigh, Brian (A10440810)
+- **A04** (Lab) at 11:00 am–1:50 pm on Monday, Wednesday at YORK 2208 by Leigh, Brian (A10440810)
+- **A05** (Lab) at 11:00 am–1:50 pm on Monday, Wednesday at YORK 2224 by Leigh, Brian (A10440810)
+- **A06** (Lab) at 11:00 am–1:50 pm on Monday, Wednesday at YORK 4224 by Leigh, Brian (A10440810)
+- **A07** (Lab) at 11:00 am–1:50 pm on Monday, Wednesday at YORK 4248 by Leigh, Brian (A10440810)
+- **A08** (Lab) at 2:00 pm–4:50 pm on Monday, Wednesday at YORK 2108 by Leigh, Brian (A10440810)
+- **A09** (Lab) at 2:00 pm–4:50 pm on Monday, Wednesday at YORK 2124 by Leigh, Brian (A10440810)
+- **A10** (Lab) at 2:00 pm–4:50 pm on Monday, Wednesday at YORK 2142 by Leigh, Brian (A10440810)
+- **B00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday at PETER 110 by Leigh, Brian (A10440810)
+- **B00** (Midterm) at 8:00 pm–9:50 pm on Wednesday at PETER 110 by Leigh, Brian (A10440810)
+- **B00** (Midterm) at 8:00 pm–9:50 pm on Wednesday at PETER 110 by Leigh, Brian (A10440810)
+- **B01** (Lab) at 2:00 pm–4:50 pm on Monday, Wednesday at YORK 2208 by Leigh, Brian (A10440810)
+- **B02** (Lab) at 2:00 pm–4:50 pm on Monday, Wednesday at YORK 2224 by Leigh, Brian (A10440810)
+- **B03** (Lab) at 2:00 pm–4:50 pm on Monday, Wednesday at YORK 4224 by Leigh, Brian (A10440810)
+- **B04** (Lab) at 2:00 pm–4:50 pm on Monday, Wednesday at YORK 4248 by Leigh, Brian (A10440810)
+- **B05** (Lab) at 2:00 pm–4:50 pm on Tuesday, Thursday at YORK 2124 by Leigh, Brian (A10440810)
+- **B06** (Lab) at 2:00 pm–4:50 pm on Tuesday, Thursday at YORK 2108 by Leigh, Brian (A10440810)
+- **B07** (Lab) at 2:00 pm–4:50 pm on Tuesday, Thursday at YORK 2208 by Leigh, Brian (A10440810)
+- **B08** (Lab) at 2:00 pm–4:50 pm on Tuesday, Thursday at YORK 2224 by Leigh, Brian (A10440810)
+- **B09** (Lab) at 2:00 pm–4:50 pm on Tuesday, Thursday at YORK 4224 by Leigh, Brian (A10440810)
+- **B10** (Lab) at 2:00 pm–4:50 pm on Tuesday, Thursday at YORK 4248 by Leigh, Brian (A10440810)
+- **C00** (Lecture) (time and location TBA) by staff
+- **C01** (Lab) (time and location TBA) by staff
+- **C02** (Lab) (time and location TBA) by staff
+- **C03** (Lab) (time and location TBA) by staff
+- **C04** (Lab) (time and location TBA) by staff
+- **C05** (Lab) (time and location TBA) by staff
+- **C06** (Lab) (time and location TBA) by staff
+- **C07** (Lab) (time and location TBA) by staff
+- **C08** (Lab) (time and location TBA) by staff
+- **C09** (Lab) (time and location TBA) by staff
+- **C10** (Lab) (time and location TBA) by staff
+- **D00** (Lecture) at 4:00 pm–4:50 pm on Monday, Wednesday at MOS 0113 by Leigh, Brian (A10440810)
+- **D00** (Midterm) at 8:00 pm–9:50 pm on Wednesday at SOLIS 107 by Leigh, Brian (A10440810)
+- **D00** (Midterm) at 8:00 pm–9:50 pm on Wednesday at SOLIS 107 by Leigh, Brian (A10440810)
+- **D01** (Lab) at 8:00 am–10:50 am on Tuesday, Thursday at YORK 2108 by Leigh, Brian (A10440810)
+- **D02** (Lab) at 8:00 am–10:50 am on Tuesday, Thursday at YORK 2124 by Leigh, Brian (A10440810)
+- **D03** (Lab) at 8:00 am–10:50 am on Tuesday, Thursday at YORK 2208 by Leigh, Brian (A10440810)
+- **D04** (Lab) at 8:00 am–10:50 am on Tuesday, Thursday at YORK 2224 by Leigh, Brian (A10440810)
+- **D05** (Lab) at 11:00 am–1:50 pm on Tuesday, Thursday at YORK 2124 by Leigh, Brian (A10440810)
+- **D06** (Lab) at 11:00 am–1:50 pm on Tuesday, Thursday at YORK 2108 by Leigh, Brian (A10440810)
+- **D07** (Lab) at 11:00 am–1:50 pm on Tuesday, Thursday at YORK 2208 by Leigh, Brian (A10440810)
+- **D08** (Lab) at 11:00 am–1:50 pm on Tuesday, Thursday at YORK 2224 by Leigh, Brian (A10440810)
+- **D09** (Lab) at 11:00 am–1:50 pm on Tuesday, Thursday at YORK 4224 by Leigh, Brian (A10440810)
+
+[Enrollment numbers over time](./CHEM7L.tsv)

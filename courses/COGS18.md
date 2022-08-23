@@ -1,0 +1,15 @@
+**COGS 18**: Introduction to Python (4 units)
+
+- **A00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at PETER 110 by Fleischer, Jason G (A14295669)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Monday at PETER 110 by Fleischer, Jason G (A14295669)
+- **A01** (Lab) at 9:00 am–9:50 am on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+- **A02** (Lab) at 10:00 am–10:50 am on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+- **A03** (Lab) at 11:00 am–11:50 am on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+- **A04** (Lab) at 12:00 pm–12:50 pm on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+- **A05** (Lab) at 1:00 pm–1:50 pm on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+- **A06** (Lab) at 2:00 pm–2:50 pm on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+- **A07** (Lab) at 3:00 pm–3:50 pm on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+- **A08** (Lab) at 4:00 pm–4:50 pm on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+- **A09** (Lab) at 5:00 pm–5:50 pm on Wednesday at CSB 115 by Fleischer, Jason G (A14295669)
+
+[Enrollment numbers over time](./COGS18.tsv)

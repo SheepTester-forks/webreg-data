@@ -1,0 +1,16 @@
+**BIPN 140**: Cellular Neurobiology (4 units)
+
+- **A00** (Lecture) at 3:30 pm–4:50 pm on Tuesday, Thursday at SOLIS 104 by Spitzer, Nicholas (A01248941),Su, Chih-Ying (A11781259)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Monday at SOLIS 104 by Spitzer, Nicholas (A01248941),Su, Chih-Ying (A11781259)
+- **A01** (Discussion) at 5:00 pm–5:50 pm on Tuesday at CENTR 217B by Spitzer, Nicholas (A01248941),Su, Chih-Ying (A11781259)
+- **A02** (Discussion) at 9:00 am–9:50 am on Wednesday at SOLIS 110 by Spitzer, Nicholas (A01248941),Su, Chih-Ying (A11781259)
+- **A03** (Discussion) at 2:00 pm–2:50 pm on Wednesday at SEQUO 148 by Spitzer, Nicholas (A01248941),Su, Chih-Ying (A11781259)
+- **A04** (Discussion) at 5:00 pm–5:50 pm on Thursday at SEQUO 147 by Spitzer, Nicholas (A01248941),Su, Chih-Ying (A11781259)
+- **B00** (Lecture) at 12:30 pm–1:50 pm on Tuesday, Thursday at TATA 3201 by Banghart, Matthew Ryan (A14295025)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Friday at TATA 3201 by Banghart, Matthew Ryan (A14295025)
+- **B01** (Discussion) at 2:00 pm–2:50 pm on Wednesday at HSS 1128A by Banghart, Matthew Ryan (A14295025)
+- **B02** (Discussion) at 5:00 pm–5:50 pm on Wednesday at SEQUO 148 by Banghart, Matthew Ryan (A14295025)
+- **B03** (Discussion) at 8:00 am–8:50 am on Friday at WLH 2115 by Banghart, Matthew Ryan (A14295025)
+- **B04** (Discussion) at 4:00 pm–4:50 pm on Friday at WLH 2115 by Banghart, Matthew Ryan (A14295025)
+
+[Enrollment numbers over time](./BIPN140.tsv)

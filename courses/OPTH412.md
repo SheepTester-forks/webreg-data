@@ -1,0 +1,5 @@
+**OPTH 412**: Intro to Ophthalmic Pathology (3 units)
+
+- **A00** (Clinical Clerkship) (time and location TBA) by Lin, Jonathan (A08609520)
+
+[Enrollment numbers over time](./OPTH412.tsv)

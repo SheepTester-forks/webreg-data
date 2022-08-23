@@ -1,0 +1,18 @@
+**MUS 32**: Instrumental Instruction (2 units)
+
+- **001** (Studio) (time and location TBA) by staff
+- **002** (Studio) (time and location TBA) by Kenyatta, Kamau (A03225448)
+- **003** (Studio) (time and location TBA) by Curtis, Charles Rector (A03703346)
+- **004** (Studio) (time and location TBA) by staff
+- **005** (Studio) (time and location TBA) by Terrazas Perez, Wilfrido D (A15370367)
+- **006** (Studio) (time and location TBA) by Ohnishi, Takae (A08602947)
+- **007** (Studio) (time and location TBA) by Burr, Anthony I (A01851157)
+- **008** (Studio) (time and location TBA) by Carlson, Erik Norman (A13253174)
+- **009** (Studio) (time and location TBA) by Dresser, Mark Stuart (A01305958)
+- **010** (Studio) (time and location TBA) by staff
+- **011** (Studio) (time and location TBA) by Richards, Stephanie F (A12510538)
+- **012** (Studio) (time and location TBA) by Borgo, David Garcia (A05103948)
+- **013** (Studio) (time and location TBA) by Paganos Koukakis, Dimitrios (A53206888)
+- **014** (Studio) (time and location TBA) by Jones, Michael David (A53231222)
+
+[Enrollment numbers over time](./MUS32.tsv)

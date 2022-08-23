@@ -1,0 +1,16 @@
+**PHYS 1CL**: Waves,Optics&Modrn Phys Lab (2 units)
+
+- **001** (Lab) at 8:00 am–9:50 am on Tuesday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **002** (Lab) at 10:00 am–11:50 am on Tuesday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **003** (Lab) at 1:00 pm–2:50 pm on Tuesday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **004** (Lab) at 8:00 am–9:50 am on Wednesday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **005** (Lab) at 10:00 am–11:50 am on Wednesday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **006** (Lab) at 1:00 pm–2:50 pm on Wednesday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **007** (Lab) at 8:00 am–9:50 am on Thursday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **008** (Lab) at 10:00 am–11:50 am on Thursday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **009** (Lab) at 1:00 pm–2:50 pm on Thursday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **010** (Lab) at 8:00 am–9:50 am on Friday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **011** (Lab) at 10:00 am–11:50 am on Friday at MAYER 2110 by Tsai, Philbert S (A00487028)
+- **012** (Lab) at 1:00 pm–2:50 pm on Friday at MAYER 2110 by Tsai, Philbert S (A00487028)
+
+[Enrollment numbers over time](./PHYS1CL.tsv)

@@ -1,0 +1,7 @@
+**TDGR 278**: Spec Topics in Theatre Design (1–6 units, by 1)
+
+- **A00** (Studio) at 11:00 am–1:50 pm on Thursday at GH 111 by Petrovich, Victoria A. (A01287169)
+- **B00** (Studio) at 1:00 pm–3:50 pm on Monday at GH 18B by Humphres, Justin M (A53084609)
+- **C00** (Studio) at 9:00 am–11:50 am on Monday at GH 18A by staff
+
+[Enrollment numbers over time](./TDGR278.tsv)

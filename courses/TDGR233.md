@@ -1,0 +1,5 @@
+**TDGR 233**: Acting for the Camera (1 units)
+
+- **A00** (Studio) (time and location TBA) by staff
+
+[Enrollment numbers over time](./TDGR233.tsv)

@@ -1,0 +1,16 @@
+**MAE 3**: Intro/Engineering Graphcs&Desn (4 units)
+
+- **A00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at CENTR 109 by Delson, Nathan Joseph (A01305024)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Tuesday at CENTR 109 by Delson, Nathan Joseph (A01305024)
+- **A01** (Lab) at 2:30 pm–5:20 pm on Tuesday at EBU2 239 by Delson, Nathan Joseph (A01305024)
+- **A02** (Lab) at 9:00 am–11:50 am on Wednesday at EBU2 239 by Delson, Nathan Joseph (A01305024)
+- **A03** (Lab) at 2:30 pm–5:20 pm on Thursday at EBU2 239 by Delson, Nathan Joseph (A01305024)
+- **A04** (Lab) at 9:00 am–11:50 am on Friday at EBU2 239 by Delson, Nathan Joseph (A01305024)
+- **B00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at CENTR 113 by Qi, Huihui (A16179669)
+- **B00** (Final Exam) at 8:00 am–10:59 am on Tuesday at CENTR 113 by Qi, Huihui (A16179669)
+- **B01** (Lab) at 11:00 am–1:50 pm on Tuesday at EBU2 239 by Qi, Huihui (A16179669)
+- **B02** (Lab) at 2:00 pm–5:00 pm on Wednesday at EBU2 239 by Qi, Huihui (A16179669)
+- **B03** (Lab) at 11:00 am–1:50 pm on Thursday at EBU2 239 by Qi, Huihui (A16179669)
+- **B04** (Lab) at 2:00 pm–5:00 pm on Friday at EBU2 239 by Qi, Huihui (A16179669)
+
+[Enrollment numbers over time](./MAE3.tsv)

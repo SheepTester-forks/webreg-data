@@ -1,0 +1,8 @@
+**PEDS 296**: Pediatrics Independent Resrch (1–12 units, by 1)
+
+- **001** (Independent Study) (time and location TBA) by Joshi, Weena Erin (A03199516)
+- **002** (Independent Study) (time and location TBA) by staff
+- **003** (Independent Study) (time and location TBA) by staff
+- **004** (Independent Study) (time and location TBA) by staff
+
+[Enrollment numbers over time](./PEDS296.tsv)

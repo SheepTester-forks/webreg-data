@@ -1,0 +1,5 @@
+**ANTH 208**: Gender Variance (4 units)
+
+- **A00** (Seminar) at 9:00 am–11:50 am on Monday at SSB 102 by Kang, Byung Chu (A14294735)
+
+[Enrollment numbers over time](./ANTH208.tsv)

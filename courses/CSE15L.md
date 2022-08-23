@@ -1,0 +1,18 @@
+**CSE 15L**: Software Tools&Techniques Lab (2 units)
+
+- **A00** (Lecture) at 12:00 pm–12:50 pm on Monday, Wednesday at MOS 0113 by Politz, Joseph Gibbs (A14334503)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at MOS 0113 by Politz, Joseph Gibbs (A14334503)
+- **A01** (Lab) at 2:00 pm–3:50 pm on Wednesday at EBU3B B260 by Politz, Joseph Gibbs (A14334503)
+- **A02** (Lab) at 4:00 pm–5:50 pm on Wednesday at EBU3B B260 by Politz, Joseph Gibbs (A14334503)
+- **A03** (Lab) at 8:00 am–9:50 am on Thursday at EBU3B B260 by Politz, Joseph Gibbs (A14334503)
+- **A04** (Lab) at 10:00 am–11:50 am on Thursday at EBU3B B260 by Politz, Joseph Gibbs (A14334503)
+- **A05** (Lab) at 12:00 pm–1:50 pm on Thursday at EBU3B B260 by Politz, Joseph Gibbs (A14334503)
+- **B00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday at MOS 0113 by Politz, Joseph Gibbs (A14334503)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Saturday at MOS 0114 by Politz, Joseph Gibbs (A14334503)
+- **B01** (Lab) at 2:00 pm–3:50 pm on Wednesday at EBU3B B270 by Politz, Joseph Gibbs (A14334503)
+- **B02** (Lab) at 10:00 am–11:50 am on Thursday at EBU3B B270 by Politz, Joseph Gibbs (A14334503)
+- **B03** (Lab) at 12:00 pm–1:50 pm on Thursday at EBU3B B270 by Politz, Joseph Gibbs (A14334503)
+- **B04** (Lab) at 2:00 pm–3:50 pm on Thursday at EBU3B B270 by Politz, Joseph Gibbs (A14334503)
+- **B05** (Lab) at 4:00 pm–5:50 pm on Thursday at EBU3B B270 by Politz, Joseph Gibbs (A14334503)
+
+[Enrollment numbers over time](./CSE15L.tsv)

@@ -1,0 +1,16 @@
+**BGSE 205**: Graduate Research Seminar (1 units)
+
+- **001** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **002** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **003** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **004** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **005** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **006** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **007** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **008** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **009** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **010** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **011** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+- **012** (Seminar) (time and location TBA) by Sun, Xin (A15337213)
+
+[Enrollment numbers over time](./BGSE205.tsv)

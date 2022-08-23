@@ -1,0 +1,16 @@
+**MATH 170A**: Intro Numerical Analys/Linear (4 units)
+
+- **A00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at HSS 1330 by Liu, Shuang (A16715503)
+- **A00** (Final Exam) at 8:00 am–10:59 am on Monday at HSS 1330 by Liu, Shuang (A16715503)
+- **A01** (Discussion) at 4:00 pm–4:50 pm on Tuesday at APM 5402 by Liu, Shuang (A16715503)
+- **A02** (Discussion) at 5:00 pm–5:50 pm on Tuesday at APM 5402 by Liu, Shuang (A16715503)
+- **A03** (Discussion) at 10:00 am–10:50 am on Tuesday at APM 2301 by Liu, Shuang (A16715503)
+- **A04** (Discussion) at 11:00 am–11:50 am on Tuesday at APM 2301 by Liu, Shuang (A16715503)
+- **B00** (Lecture) at 3:00 pm–3:50 pm on Monday, Wednesday, Friday at HSS 1330 by Dumitriu, Ioana (A16182389)
+- **B00** (Final Exam) at 3:00 pm–5:59 pm on Friday at HSS 1330 by Dumitriu, Ioana (A16182389)
+- **B01** (Discussion) at 5:00 pm–5:50 pm on Wednesday at APM B412 by Dumitriu, Ioana (A16182389)
+- **B02** (Discussion) at 6:00 pm–6:50 pm on Wednesday at APM B412 by Dumitriu, Ioana (A16182389)
+- **B03** (Discussion) at 7:00 pm–7:50 pm on Wednesday at APM B412 by Dumitriu, Ioana (A16182389)
+- **B04** (Discussion) at 8:00 pm–8:50 pm on Wednesday at APM B412 by Dumitriu, Ioana (A16182389)
+
+[Enrollment numbers over time](./MATH170A.tsv)

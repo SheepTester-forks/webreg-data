@@ -1,0 +1,41 @@
+**MATH 20A**: Calculus/Science & Engineering (4 units)
+
+- **A00** (Lecture) at 8:00 am–8:50 am on Monday, Wednesday, Friday at WLH 2005 by staff
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at CENTR 101 by staff
+- **A00** (Midterm) at 6:00 pm–6:50 pm on Friday at PETER 110 by staff
+- **A00** (Midterm) at 6:00 pm–6:50 pm on Friday at PETER 110 by staff
+- **A01** (Discussion) at 4:00 pm–4:50 pm on Thursday at WLH 2113 by staff
+- **A02** (Discussion) at 5:00 pm–5:50 pm on Thursday at WLH 2208 by staff
+- **A03** (Discussion) at 6:00 pm–6:50 pm on Thursday at WLH 2208 by staff
+- **A04** (Discussion) at 7:00 pm–7:50 pm on Thursday at SOLIS 109 by staff
+- **A05** (Discussion) at 8:00 pm–8:50 pm on Thursday at SOLIS 109 by staff
+- **B00** (Lecture) at 12:00 pm–12:50 pm on Monday, Wednesday, Friday at JEANN AUD by Suk, Andrew Hoon (A15363677)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Saturday at JEANN AUD by Suk, Andrew Hoon (A15363677)
+- **B00** (Midterm) at 6:00 pm–6:50 pm on Friday at PETER 108 by Suk, Andrew Hoon (A15363677)
+- **B00** (Midterm) at 6:00 pm–6:50 pm on Friday at PETER 108 by Suk, Andrew Hoon (A15363677)
+- **B01** (Discussion) at 8:00 am–8:50 am on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B02** (Discussion) at 9:00 am–9:50 am on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B03** (Discussion) at 10:00 am–10:50 am on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B04** (Discussion) at 11:00 am–11:50 am on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B05** (Discussion) at 12:00 pm–12:50 pm on Thursday at YORK 3000A by Suk, Andrew Hoon (A15363677)
+- **B06** (Discussion) at 1:00 pm–1:50 pm on Thursday at YORK 3000A by Suk, Andrew Hoon (A15363677)
+- **B07** (Discussion) at 2:00 pm–2:50 pm on Thursday at YORK 3000A by Suk, Andrew Hoon (A15363677)
+- **B08** (Discussion) at 3:00 pm–3:50 pm on Thursday at YORK 3000A by Suk, Andrew Hoon (A15363677)
+- **B09** (Discussion) at 5:00 pm–5:50 pm on Thursday at RCLAS R04 by Suk, Andrew Hoon (A15363677)
+- **B10** (Discussion) at 6:00 pm–6:50 pm on Thursday at RCLAS R01 by Suk, Andrew Hoon (A15363677)
+- **B11** (Discussion) at 12:00 pm–12:50 pm on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B12** (Discussion) at 1:00 pm–1:50 pm on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B13** (Discussion) at 2:00 pm–2:50 pm on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B14** (Discussion) at 3:00 pm–3:50 pm on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B15** (Discussion) at 4:00 pm–4:50 pm on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B16** (Discussion) at 5:00 pm–5:50 pm on Thursday at APM 5218 by Suk, Andrew Hoon (A15363677)
+- **B17** (Discussion) at 10:00 am–10:50 am on Thursday at CENTR 217A by Suk, Andrew Hoon (A15363677)
+- **B18** (Discussion) at 4:00 pm–4:50 pm on Thursday at   by Suk, Andrew Hoon (A15363677)
+- **B19** (Discussion) (time and location TBA) by staff
+- **B20** (Discussion) (time and location TBA) by staff
+- **B21** (Discussion) at 1:00 pm–1:50 pm on Thursday at RCLAS R04 by Suk, Andrew Hoon (A15363677)
+- **B22** (Discussion) at 2:00 pm–2:50 pm on Thursday at RCLAS R04 by Suk, Andrew Hoon (A15363677)
+- **B23** (Discussion) at 3:00 pm–3:50 pm on Thursday at RCLAS R02 by Suk, Andrew Hoon (A15363677)
+- **B24** (Discussion) at 4:00 pm–4:50 pm on Thursday at RCLAS R04 by Suk, Andrew Hoon (A15363677)
+
+[Enrollment numbers over time](./MATH20A.tsv)

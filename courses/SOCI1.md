@@ -1,0 +1,17 @@
+**SOCI 1**: Introduction to Sociology (4 units)
+
+- **A00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at PETER 108 by Skrentny, John David (A03175491)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Thursday at PETER 108 by Skrentny, John David (A03175491)
+- **A01** (Discussion) at 8:00 am–8:50 am on Monday at SSB 101 by Skrentny, John David (A03175491)
+- **A02** (Discussion) at 9:00 am–9:50 am on Monday at SSB 101 by Skrentny, John David (A03175491)
+- **A03** (Discussion) at 10:00 am–10:50 am on Monday at SSB 101 by Skrentny, John David (A03175491)
+- **A04** (Discussion) at 11:00 am–11:50 am on Monday at SSB 101 by Skrentny, John David (A03175491)
+- **A05** (Discussion) at 3:00 pm–3:50 pm on Wednesday at SSB 101 by Skrentny, John David (A03175491)
+- **A06** (Discussion) at 4:00 pm–4:50 pm on Wednesday at SSB 101 by Skrentny, John David (A03175491)
+- **A07** (Discussion) at 5:00 pm–5:50 pm on Wednesday at SSB 101 by Skrentny, John David (A03175491)
+- **A08** (Discussion) at 6:00 pm–6:50 pm on Wednesday at SSB 101 by Skrentny, John David (A03175491)
+- **A09** (Discussion) at 8:00 am–8:50 am on Friday at SSB 101 by Skrentny, John David (A03175491)
+- **A10** (Discussion) at 9:00 am–9:50 am on Friday at SSB 101 by Skrentny, John David (A03175491)
+- **A11** (Discussion) at 10:00 am–10:50 am on Friday at SSB 101 by Skrentny, John David (A03175491)
+
+[Enrollment numbers over time](./SOCI1.tsv)

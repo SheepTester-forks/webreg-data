@@ -1,0 +1,16 @@
+**BIBC 100**: Structural Biochemistry (4 units)
+
+- **A00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at CTL 0125 by Huffaker, Alisa (A12509749)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Thursday at CTL 0125 by Huffaker, Alisa (A12509749)
+- **A01** (Discussion) at 4:00 pm–4:50 pm on Tuesday at CENTR 207 by Huffaker, Alisa (A12509749)
+- **A02** (Discussion) at 7:00 pm–7:50 pm on Tuesday at HSS 2321 by Huffaker, Alisa (A12509749)
+- **A03** (Discussion) at 8:00 pm–8:50 pm on Tuesday at HSS 2321 by Huffaker, Alisa (A12509749)
+- **A04** (Discussion) at 9:00 pm–9:50 pm on Tuesday at HSS 2321 by Huffaker, Alisa (A12509749)
+- **A05** (Discussion) at 8:00 am–8:50 am on Wednesday at WLH 2115 by Huffaker, Alisa (A12509749)
+- **A06** (Discussion) at 5:00 pm–5:50 pm on Wednesday at HSS 2321 by Huffaker, Alisa (A12509749)
+- **A07** (Discussion) at 10:00 am–10:50 am on Wednesday at WLH 2115 by Huffaker, Alisa (A12509749)
+- **A08** (Discussion) at 3:00 pm–3:50 pm on Wednesday at APM 2301 by Huffaker, Alisa (A12509749)
+- **A09** (Discussion) at 8:00 pm–8:50 pm on Wednesday at WLH 2115 by Huffaker, Alisa (A12509749)
+- **A10** (Discussion) at 4:00 pm–4:50 pm on Thursday at CENTR 207 by Huffaker, Alisa (A12509749)
+
+[Enrollment numbers over time](./BIBC100.tsv)

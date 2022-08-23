@@ -1,0 +1,26 @@
+**EDS 124AR**: Teach Computation/DigitalWorld (4 units)
+
+- **A00** (Lecture) (time and location TBA) by Simon, Elizabeth A (A01193881)
+- **A01** (Discussion) at 4:00 pm–4:50 pm on Tuesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **A02** (Discussion) at 5:00 pm–5:50 pm on Tuesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **A03** (Discussion) at 6:00 pm–6:50 pm on Tuesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **A04** (Discussion) at 11:00 am–11:50 am on Tuesday at RCLAS R07 by Simon, Elizabeth A (A01193881)
+- **B00** (Lecture) (time and location TBA) by Simon, Elizabeth A (A01193881)
+- **B01** (Discussion) at 4:00 pm–4:50 pm on Wednesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **B02** (Discussion) (time and location TBA) by staff
+- **B03** (Discussion) at 5:00 pm–5:50 pm on Wednesday at RCLAS R07 by Simon, Elizabeth A (A01193881)
+- **B04** (Discussion) at 11:00 am–11:50 am on Friday at RCLAS R07 by Simon, Elizabeth A (A01193881)
+- **B05** (Discussion) at 6:00 pm–6:50 pm on Wednesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **C00** (Lecture) (time and location TBA) by Simon, Elizabeth A (A01193881)
+- **C01** (Discussion) at 4:00 pm–4:50 pm on Tuesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **C02** (Discussion) at 5:00 pm–5:50 pm on Tuesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **C03** (Discussion) at 6:00 pm–6:50 pm on Tuesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **C04** (Discussion) at 11:00 am–11:50 am on Tuesday at RCLAS R07 by Simon, Elizabeth A (A01193881)
+- **D00** (Lecture) (time and location TBA) by Simon, Elizabeth A (A01193881)
+- **D01** (Discussion) at 4:00 pm–4:50 pm on Wednesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+- **D02** (Discussion) (time and location TBA) by staff
+- **D03** (Discussion) at 5:00 pm–5:50 pm on Wednesday at RCLAS R07 by Simon, Elizabeth A (A01193881)
+- **D04** (Discussion) at 11:00 am–11:50 am on Friday at RCLAS R07 by Simon, Elizabeth A (A01193881)
+- **D05** (Discussion) at 6:00 pm–6:50 pm on Wednesday at RCLAS R06 by Simon, Elizabeth A (A01193881)
+
+[Enrollment numbers over time](./EDS124AR.tsv)

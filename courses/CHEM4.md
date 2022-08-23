@@ -1,0 +1,16 @@
+**CHEM 4**: Chemical Thinking (4 units)
+
+- **A00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at GH 242 by Bussey, Thomas J (A12509240)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Wednesday at GH 242 by Bussey, Thomas J (A12509240)
+- **A01** (Discussion) at 8:00 am–8:50 am on Monday, Wednesday at TM102 1 by Bussey, Thomas J (A12509240)
+- **A02** (Discussion) at 9:00 am–9:50 am on Monday, Wednesday at TM102 1 by Bussey, Thomas J (A12509240)
+- **A03** (Discussion) at 10:00 am–10:50 am on Monday, Wednesday at TM102 1 by Bussey, Thomas J (A12509240)
+- **A04** (Discussion) at 3:00 pm–3:50 pm on Monday, Wednesday at TM102 1 by Bussey, Thomas J (A12509240)
+- **A05** (Discussion) at 4:00 pm–4:50 pm on Monday, Wednesday at TM102 1 by Bussey, Thomas J (A12509240)
+- **A06** (Discussion) at 5:00 pm–5:50 pm on Monday, Wednesday at TM102 1 by Bussey, Thomas J (A12509240)
+- **A07** (Discussion) at 6:00 pm–6:50 pm on Monday, Wednesday at TM102 1 by Bussey, Thomas J (A12509240)
+- **A08** (Discussion) at 7:00 pm–7:50 pm on Monday, Wednesday at TM102 1 by Bussey, Thomas J (A12509240)
+- **A09** (Discussion) at 6:00 pm–6:50 pm on Monday, Wednesday at SEQUO 147 by Bussey, Thomas J (A12509240)
+- **A10** (Discussion) at 7:00 pm–7:50 pm on Monday, Wednesday at SEQUO 147 by Bussey, Thomas J (A12509240)
+
+[Enrollment numbers over time](./CHEM4.tsv)

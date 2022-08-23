@@ -1,0 +1,15 @@
+**ECON 100B**: Microeconomics B (4 units)
+
+- **A00** (Lecture) at 8:00 am–9:20 am on Tuesday, Thursday at LEDDN AUD by Galperti, Simone (A11779613)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at CENTR 101 by Galperti, Simone (A11779613)
+- **A00** (Midterm) at 6:00 pm–7:50 pm on Friday at CENTR 101 by Galperti, Simone (A11779613)
+- **A01** (Discussion) at 7:00 pm–7:50 pm on Monday at WLH 2207 by Galperti, Simone (A11779613)
+- **A02** (Discussion) at 5:00 pm–5:50 pm on Monday at CSB 004 by Galperti, Simone (A11779613)
+- **A03** (Discussion) at 2:00 pm–2:50 pm on Wednesday at WLH 2207 by Galperti, Simone (A11779613)
+- **A04** (Discussion) at 5:00 pm–5:50 pm on Wednesday at CSB 004 by Galperti, Simone (A11779613)
+- **B00** (Lecture) at 11:00 am–12:20 pm on Tuesday, Thursday at WLH 2113 by Galperti, Simone (A11779613)
+- **B00** (Final Exam) at 3:00 pm–5:59 pm on Saturday at   by Galperti, Simone (A11779613)
+- **B00** (Midterm) at 6:00 pm–7:50 pm on Friday at   by Galperti, Simone (A11779613)
+- **B01** (Discussion) at 5:00 pm–5:50 pm on Monday at YORK 4080A by Galperti, Simone (A11779613)
+
+[Enrollment numbers over time](./ECON100B.tsv)

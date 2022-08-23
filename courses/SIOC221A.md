@@ -1,0 +1,16 @@
+**SIOC 221A**: Anlys/Physicl Oceanograph Data (4 units)
+
+- **A00** (Lecture) at 2:00 pm–3:20 pm on Monday, Wednesday at SPIES 330 by Alford, Matthew Hudson (A01793319)
+- **A00** (Final Exam) at 3:00 pm–5:59 pm on Wednesday at SPIES 330 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+- **A00** (Problem Sessions) at 2:00 pm–2:50 pm on Thursday at NIERN 101 by Alford, Matthew Hudson (A01793319)
+
+[Enrollment numbers over time](./SIOC221A.tsv)

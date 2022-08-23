@@ -1,0 +1,16 @@
+**DSC 10**: Principles of Data Science (4 units)
+
+- **A00** (Lecture) at 10:00 am–10:50 am on Monday, Wednesday, Friday at CSB 001 by Tiefenbruck, Janine LoBue (A50047594)
+- **A00** (Final Exam) at 11:30 am–2:29 pm on Saturday at CENTR 212 by Tiefenbruck, Janine LoBue (A50047594)
+- **A01** (Discussion) at 5:00 pm–5:50 pm on Monday at CSB 001 by Tiefenbruck, Janine LoBue (A50047594)
+- **A50** (Lab) at 5:00 pm–5:50 pm on Wednesday at CSB 001 by Tiefenbruck, Janine LoBue (A50047594)
+- **B00** (Lecture) at 11:00 am–11:50 am on Monday, Wednesday, Friday at CSB 001 by Tiefenbruck, Janine LoBue (A50047594)
+- **B00** (Final Exam) at 11:30 am–2:29 pm on Saturday at CENTR 214 by Tiefenbruck, Janine LoBue (A50047594)
+- **B01** (Discussion) at 6:00 pm–6:50 pm on Monday at CSB 001 by Tiefenbruck, Janine LoBue (A50047594)
+- **B50** (Lab) at 6:00 pm–6:50 pm on Wednesday at CSB 001 by Tiefenbruck, Janine LoBue (A50047594)
+- **C00** (Lecture) at 1:00 pm–1:50 pm on Monday, Wednesday, Friday at PCYNH 122 by Rampure, Suraj (A17248679)
+- **C00** (Final Exam) at 11:30 am–2:29 pm on Saturday at CENTR 216 by Rampure, Suraj (A17248679)
+- **C01** (Discussion) at 7:00 pm–7:50 pm on Monday at CSB 001 by Rampure, Suraj (A17248679)
+- **C50** (Lab) at 7:00 pm–7:50 pm on Wednesday at CSB 001 by Rampure, Suraj (A17248679)
+
+[Enrollment numbers over time](./DSC10.tsv)

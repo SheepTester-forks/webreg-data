@@ -1,0 +1,15 @@
+**BIMM 121**: Microbiology Laboratory (4 units)
+
+- **A00** (Lecture) at 9:30 am–10:50 am on Tuesday, Thursday at SEQUO 148 by Petrie, Katherine Lynn (A14278161)
+- **A01** (Lab) at 11:00 am–1:50 pm on Tuesday, Thursday at TATA 2101 by Petrie, Katherine Lynn (A14278161)
+- **A02** (Lab) at 11:00 am–1:50 pm on Tuesday, Thursday at TATA 2102 by Petrie, Katherine Lynn (A14278161)
+- **B00** (Lecture) at 2:00 pm–3:20 pm on Tuesday, Thursday at SEQUO 148 by Pickett, Brooke Elizabeth (A16715440)
+- **B01** (Lab) at 3:30 pm–6:20 pm on Tuesday, Thursday at TATA 2101 by Pickett, Brooke Elizabeth (A16715440)
+- **B02** (Lab) at 3:30 pm–6:20 pm on Tuesday, Thursday at TATA 2102 by Pickett, Brooke Elizabeth (A16715440)
+- **C00** (Lecture) at 5:00 pm–6:20 pm on Monday, Wednesday at CENTR 105 by Pirino, Giorgia (A14304946)
+- **C01** (Lab) at 9:00 am–11:50 am on Wednesday, Friday at TATA 2101 by Pirino, Giorgia (A14304946)
+- **C02** (Lab) at 9:00 am–11:50 am on Wednesday, Friday at TATA 2102 by Pirino, Giorgia (A14304946)
+- **C03** (Lab) at 1:00 pm–3:50 pm on Wednesday, Friday at TATA 2101 by Pirino, Giorgia (A14304946)
+- **C04** (Lab) at 1:00 pm–3:50 pm on Wednesday, Friday at TATA 2102 by Pirino, Giorgia (A14304946)
+
+[Enrollment numbers over time](./BIMM121.tsv)
